@@ -1,0 +1,90 @@
+firstName✅
+lastName✅
+employeeId✅
+email✅
+phone ✅
+doj ✅
+designation✅
+nationality ✅
+dob ✅
+gender :Joi.string(),
+matStatus:Joi.string(),
+persEmail:Joi.string(),
+uaeAddress:Joi.string(),
+passportNo:Joi.string(),
+passportValidity:Joi.string(),
+EIdNo:Joi.string(),
+EIdValidity:Joi.string(),
+drLicenceValidity:Joi.string(),
+bankName:Joi.string(),
+bankAccNo:Joi.string(),
+ibanNo:Joi.string(),
+contactNameUae:Joi.string(),
+relationShipUae:Joi.string(),
+contactUaeNo:Joi.string(),
+contactUaeAddress:Joi.string(),
+contactNameHome:Joi.string(),
+relationShipHome:Joi.string(),
+contactHomeNo:Joi.string(),
+contactHomeAddress:Joi.string(),
+
+//NOT ADDED ONES 
+sr :Joi.string(),
+status :Joi.string(),
+
+// FOR ADMIN ⬇️⬇️
+
+typeOfContract :Joi.string(),
+molCardNo:Joi.string(),
+molCardValidity :Joi.string(),
+visaStatus :Joi.string(),
+visaValidity :Joi.string(),
+insCardNo :Joi.string(),
+insValidity:Joi.string(),
+basic:Joi.string(),
+hra :Joi.string(),
+transA :Joi.string(),
+tellA :Joi.string(),
+TravA :Joi.string(),
+gross:Joi.string(),
+
+company ✅
+
+
+"_id": "62b411aa023865637c3deb8f",
+        "firstName": "vysakh",
+        "lastName": "a v",
+        "employeeId": "empl12",
+        "email": "rnvysakh@gmail.com",
+        "phone": "0524589514",
+        "role": "employee",
+        "status": true,
+        "createdAt": "2022-06-23T07:09:30.300Z",
+        "updatedAt": "2022-06-24T06:41:31.549Z",
+        "EIdNo": "123123",
+        "EIdValidity": "2024-04-12T00:00:00.000Z",
+        "bankAccNo": "123123",
+        "bankName": "Emirates NBD LIV",
+        "contactHomeAddress": "arakkal house P.O Puthenchira South",
+        "contactHomeNo": "919447994224",
+        "contactNameHome": "Vidhyadharan A P",
+        "contactNameUae": "Vishnu",
+        "contactUaeAddress": "Dubai, UAE",
+        "contactUaeNo": "524589514",
+        "designation": "Software Engineer",
+        "dob": "1998-05-29T00:00:00.000Z",
+        "doj": "2021-12-05T00:00:00.000Z",
+        "ibanNo": "123123",
+        "matStatus": "Unmarried",
+        "passportNo": "v253251",
+        "passportValidity": "2027-11-02T00:00:00.000Z",
+        "persEmail": "vysakh.4v@gmail.com",
+        "relationShipHome": "Father",
+        "relationShipUae": "Brother"
+
+
+        nationality
+        gender
+        maritialStatus 
+        uaeAdd 
+        All date
