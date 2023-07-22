@@ -1,0 +1,287 @@
+[
+  {
+    "_id": {
+      "$oid": "61cbf3e01d0a94073982628d"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "brandName": "Kodak Alaris",
+    "status": true,
+    "createdAt": {
+      "$date": "2021-12-29T05:36:32.295Z"
+    },
+    "updatedAt": {
+      "$date": "2021-12-29T05:36:32.295Z"
+    },
+    "__v": 0,
+    "slug": "kodak-alaris",
+    "brandDesc": "Kodak Alaris products"
+  },
+  {
+    "_id": {
+      "$oid": "61cbf4c51d0a940739826292"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "brandName": "Fujitsu",
+    "status": true,
+    "createdAt": {
+      "$date": "2021-12-29T05:40:21.368Z"
+    },
+    "updatedAt": {
+      "$date": "2021-12-29T05:40:21.368Z"
+    },
+    "__v": 0,
+    "slug": "fujitsu",
+    "brandDesc": "Fujitsu products"
+  },
+  {
+    "_id": {
+      "$oid": "61cbf4ce1d0a940739826295"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "brandName": "Brother",
+    "status": true,
+    "createdAt": {
+      "$date": "2021-12-29T05:40:30.799Z"
+    },
+    "updatedAt": {
+      "$date": "2021-12-29T05:40:30.799Z"
+    },
+    "__v": 0,
+    "slug": "brother",
+    "brandDesc": "Brother products"
+  },
+  {
+    "_id": {
+      "$oid": "61cbf4d51d0a940739826298"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "brandName": "Canon",
+    "status": true,
+    "createdAt": {
+      "$date": "2021-12-29T05:40:37.910Z"
+    },
+    "updatedAt": {
+      "$date": "2021-12-29T05:40:37.910Z"
+    },
+    "__v": 0,
+    "slug": "canon",
+    "brandDesc": "Canon products"
+  },
+  {
+    "_id": {
+      "$oid": "61cbf4dd1d0a94073982629b"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "brandName": "Epson",
+    "status": true,
+    "createdAt": {
+      "$date": "2021-12-29T05:40:45.127Z"
+    },
+    "updatedAt": {
+      "$date": "2021-12-29T05:40:45.127Z"
+    },
+    "__v": 0,
+    "slug": "epson",
+    "brandDesc": "Epson products"
+  },
+  {
+    "_id": {
+      "$oid": "61cbf4e81d0a94073982629e"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "brandName": "Elarscan",
+    "status": true,
+    "createdAt": {
+      "$date": "2021-12-29T05:40:56.162Z"
+    },
+    "updatedAt": {
+      "$date": "2021-12-29T05:40:56.162Z"
+    },
+    "__v": 0,
+    "slug": "elarscan",
+    "brandDesc": "Elarscan products"
+  },
+  {
+    "_id": {
+      "$oid": "61cbf4f11d0a9407398262a1"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "brandName": "Czur",
+    "status": true,
+    "createdAt": {
+      "$date": "2021-12-29T05:41:05.703Z"
+    },
+    "updatedAt": {
+      "$date": "2021-12-29T05:41:05.703Z"
+    },
+    "__v": 0,
+    "slug": "czur",
+    "brandDesc": "Czur products"
+  },
+  {
+    "_id": {
+      "$oid": "61cbf4fd1d0a9407398262a4"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "brandName": "Colortrac",
+    "status": true,
+    "createdAt": {
+      "$date": "2021-12-29T05:41:17.301Z"
+    },
+    "updatedAt": {
+      "$date": "2021-12-29T05:41:17.301Z"
+    },
+    "__v": 0,
+    "slug": "colortrac",
+    "brandDesc": "Colortrac products"
+  },
+  {
+    "_id": {
+      "$oid": "61cbf5051d0a9407398262a7"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "brandName": "Rowe",
+    "status": true,
+    "createdAt": {
+      "$date": "2021-12-29T05:41:25.954Z"
+    },
+    "updatedAt": {
+      "$date": "2021-12-29T05:41:25.954Z"
+    },
+    "__v": 0,
+    "slug": "rowe",
+    "brandDesc": "Rowe products"
+  },
+  {
+    "_id": {
+      "$oid": "61cbf50e1d0a9407398262aa"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "brandName": "Silex",
+    "status": true,
+    "createdAt": {
+      "$date": "2021-12-29T05:41:34.032Z"
+    },
+    "updatedAt": {
+      "$date": "2021-12-29T05:41:34.032Z"
+    },
+    "__v": 0,
+    "slug": "silex",
+    "brandDesc": "Silex products"
+  },
+  {
+    "_id": {
+      "$oid": "61cbf5631d0a9407398262ad"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "brandName": "ViewSonic",
+    "status": true,
+    "createdAt": {
+      "$date": "2021-12-29T05:42:59.003Z"
+    },
+    "updatedAt": {
+      "$date": "2021-12-29T05:42:59.003Z"
+    },
+    "__v": 0,
+    "slug": "viewsonic",
+    "brandDesc": "ViewSonic products"
+  },
+  {
+    "_id": {
+      "$oid": "61cbf56d1d0a9407398262b0"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "brandName": "Dicota",
+    "status": true,
+    "createdAt": {
+      "$date": "2021-12-29T05:43:09.984Z"
+    },
+    "updatedAt": {
+      "$date": "2021-12-29T05:43:09.984Z"
+    },
+    "__v": 0,
+    "slug": "dicota",
+    "brandDesc": "Dicota products"
+  },
+  {
+    "_id": {
+      "$oid": "6217549009f21dbd7da492aa"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "brandName": "OKI",
+    "status": true,
+    "createdAt": {
+      "$date": "2022-02-24T09:49:04.387Z"
+    },
+    "updatedAt": {
+      "$date": "2022-02-24T09:49:04.387Z"
+    },
+    "__v": 0,
+    "slug": "oki",
+    "brandDesc": "OKI products"
+  },
+  {
+    "_id": {
+      "$oid": "624193efd7ba724b098c232e"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "brandName": "Nexvoo",
+    "status": true,
+    "createdAt": {
+      "$date": "2022-03-28T10:54:39.774Z"
+    },
+    "updatedAt": {
+      "$date": "2022-03-28T10:54:39.774Z"
+    },
+    "__v": 0,
+    "slug": "nexvoo",
+    "brandDesc": "Nexvoo products"
+  },
+  {
+    "_id": {
+      "$oid": "642a7eeb61665fa4f22e9f5f"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "brandName": "ASUSTOR",
+    "status": true,
+    "createdAt": {
+      "$date": "2023-04-03T07:23:23.720Z"
+    },
+    "updatedAt": {
+      "$date": "2023-04-03T07:23:23.720Z"
+    },
+    "__v": 0,
+    "slug": "asustor",
+    "brandDesc": "ASUSTOR products"
+  }
+]

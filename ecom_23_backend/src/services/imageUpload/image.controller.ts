@@ -68,7 +68,7 @@ export const imageController = async (req: Request, res: Response) => {
       .webp({ quality: imgQ });
 
     s3Params = {
-      Bucket: "rn-ecommerce",
+      Bucket: "rookie-ninja-2023",
       Body: imgStreamSm,
       Key: folder + "sm_300p_" + webpFileName,
       ContentType: "image/webp",
@@ -97,7 +97,7 @@ export const imageController = async (req: Request, res: Response) => {
       })
       .webp({ quality: imgQ });
     s3Params = {
-      Bucket: "rn-ecommerce",
+      Bucket: "rookie-ninja-2023",
       Body: imgStreamMd,
       Key: folder + "md_640p_" + webpFileName,
       ContentType: "image/webp",
@@ -127,7 +127,7 @@ export const imageController = async (req: Request, res: Response) => {
       .webp({ quality: imgQ });
 
     s3Params = {
-      Bucket: "rn-ecommerce",
+      Bucket: "rookie-ninja-2023",
       Body: imgStreamLg,
       Key: folder + "lg_1000p_" + webpFileName,
       ContentType: "image/webp",
@@ -158,7 +158,7 @@ export const imageController = async (req: Request, res: Response) => {
       .webp({ quality: imgQ });
 
     s3Params = {
-      Bucket: "rn-ecommerce",
+      Bucket: "rookie-ninja-2023",
       Body: imgStreamHq,
       Key: folder + "hq_1080p_" + webpFileName,
       ContentType: "image/webp",
@@ -184,7 +184,7 @@ export const imageController = async (req: Request, res: Response) => {
     });
 
     s3Params = {
-      Bucket: "rn-ecommerce",
+      Bucket: "rookie-ninja-2023",
       Body: imgStreamOq,
       Key: folder + webpFileName,
       ContentType: "image/webp",

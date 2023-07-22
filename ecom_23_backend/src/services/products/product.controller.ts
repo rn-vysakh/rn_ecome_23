@@ -208,7 +208,11 @@ export const getAllProducts = async (req: Request, res: Response) => {
         },
         {
           path: "brandId",
-          select: "brandName",
+          select: "brandName logo",
+          populate: {
+            path: "logo",
+            select: "smUrl mdUrl -_id",
+          },
         },
       ])
       .limit(limit)

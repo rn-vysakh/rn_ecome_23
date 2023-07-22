@@ -65,13 +65,17 @@ async function getTags(categories) {
 }
 
 export default async function SideBar({ searchParams }) {
-  // console.log("searchParams from side bar -->", searchParams);
+  console.log("searchParams from side bar -->", searchParams);
+
+  const brandParams = searchParams.brand;
+  const categoryParams = searchParams.catId;
+  const tagParams = searchParams.tag;
+
   const { data } = await getBrands();
-  const { data: categories } = await getCategories(searchParams.brand);
+  const { data: categories } = await getCategories(brandParams);
+  const { data: tags } = await getTags(categoryParams);
 
-  const { data: tags } = await getTags(searchParams.catId);
-
-  // console.log("tags-->", tags);
+  console.log("tags-->", tagParams, categoryParams);
 
   return (
     <>
