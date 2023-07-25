@@ -45,10 +45,10 @@ export default async function SingleProduct({ params }) {
               ></p>
             </div>
           </div>
-          {/* <ProductDescription
+          <ProductDescription
             description={data.description}
             spec={data.specifications}
-          /> */}
+          />
         </div>
       </div>
     </>
