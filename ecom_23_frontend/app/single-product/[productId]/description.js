@@ -60,6 +60,7 @@ export default function ProductDescription({ description, spec, downloads }) {
         </div>
         <div className="mt-8">
           <AccordionSec />
+          {/* ss */}
         </div>
       </div>
     </>
