@@ -38,17 +38,17 @@ export default async function SingleProduct({ params }) {
             </div>
             <div className="  w-full md:w-3/5 pt-5 md:pt-32">
               <h2 className="text-2xl font-bold">{data?.title}</h2>
-              <div
+              <p
                 dangerouslySetInnerHTML={{
                   __html: data?.description.slice(0, 700),
                 }}
-              ></div>
+              ></p>
             </div>
           </div>
-          <ProductDescription
+          {/* <ProductDescription
             description={data.description}
             spec={data.specifications}
-          />
+          /> */}
         </div>
       </div>
     </>

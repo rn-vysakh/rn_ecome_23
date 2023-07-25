@@ -1,11 +1,12 @@
 import React from "react";
 import ProductGridSec from "@/app/products/productGridSec";
 import SideBar from "@/app/products/sideBar";
+import Pagination from "@/app/components/products/pagination";
 import LandingSec from "@/app/components/landing";
 import CONST from "@/utils/apis";
 
-async function getData({ brandFilter, catFilter, tagFilter }) {
-  let url = `${CONST.BASE_URL}/api/product?`;
+async function getData({ brandFilter, catFilter, tagFilter, page }) {
+  let url = `${CONST.BASE_URL}/api/product?limit=16&page=${page || 1}`;
 
   if (brandFilter) {
     url += `&${brandFilter}`;
@@ -42,6 +43,7 @@ export default async function Products({ searchParams }) {
   let brandFilter = searchParams.brand;
   let catFilter = searchParams.catId;
   let tagFilter = searchParams.tag;
+  let page = searchParams.page;
 
   if (brandFilter) {
     // brandFilter = brandFilter.split(",");
@@ -56,7 +58,14 @@ export default async function Products({ searchParams }) {
     tagFilter = `tag=${tagFilter.split(",")}`;
   }
 
-  const { data } = await getData({ brandFilter, catFilter, tagFilter });
+  const { data, pagination } = await getData({
+    brandFilter,
+    catFilter,
+    tagFilter,
+    page,
+  });
+
+  console.log(pagination);
 
   return (
     <main>
@@ -70,9 +79,16 @@ export default async function Products({ searchParams }) {
           <SideBar searchParams={searchParams} />
         </div>
         <div className="w-full lg:w-5/6 bg-white">
+          <div className="p-2 mx-4 mt-4">
+            <h2 className="text-sm text-gray-600">
+              Showing {pagination.limit * (pagination.page - 1) + 1} -{" "}
+              {pagination.limit * pagination.page} of {pagination.totalCount}{" "}
+              results
+            </h2>
+          </div>
           <div className="p-5">
-            <h1>Products</h1>
             <ProductGridSec products={data} />
+            <Pagination pagination={pagination} />
           </div>
         </div>
       </div>
