@@ -5,7 +5,7 @@ import Link from "next/link";
 import Slugify from "@/utils/slugify";
 
 export default function SingleGridCard({ product }) {
-  // console.log(product);
+  console.log(product);
 
   const BrandSec = ({ img, name }) => {
     if (img && false) {
@@ -44,18 +44,11 @@ export default function SingleGridCard({ product }) {
         <h1 className=" text-center  font-bold px-4  -mt-8 bg-white w-full py-2">
           {product?.title?.slice(0, 60)}
         </h1>
-        <div className=" w-full text-[12px] grid grid-cols-2  bg-gray-100 text-center">
-          <div className="p-1 border border-gray-200/50 ">
-            {" "}
-            Document Size A4
-          </div>
-          <div className="p-1 border border-gray-200/50 ">Speed 40 PPm</div>
-          <div className="p-1 border border-gray-200/50 ">ADF 50 Sheets </div>
-          <div className="p-1 border border-gray-200/50 ">
-            {" "}
-            6,000 sheets / Day
-          </div>
-        </div>
+        <ul className=" w-full text-sm  bg-gray-100/20 list-disc list-inside ">
+          {product?.shortPoints.map((item) => (
+            <li className="p-1 border border-gray-200/50 ">{item}</li>
+          ))}
+        </ul>
       </div>
     </Link>
   );

@@ -273,8 +273,20 @@ export const getSingleProducts = async (req: Request, res: Response) => {
       _id: productId,
     })
       .select("-__v ")
-      .populate("categoryId", "_id categoryName")
-      .populate("brandId", "_id brandName")
+      .populate([
+        {
+          path: "categoryId",
+          select: "categoryName parentName -_id",
+        },
+        {
+          path: "brandId",
+          select: "brandName logo",
+          populate: {
+            path: "logo",
+            select: "smUrl mdUrl -_id",
+          },
+        },
+      ])
       .populate("image", " -__v -createdAt -updatedAt")
       // .populate("file", " -__v -createdAt -updatedAt")
       .lean();

@@ -1,6 +1,7 @@
 import fs from "fs";
 import path from "path";
 import _ from "lodash";
+import sanitizeHtml from "sanitize-html";
 
 const __dirname = path.resolve();
 
@@ -69,7 +70,7 @@ const SpecSection = (specifications) => {
         <div className="row">
           <div className="col-md-12 col-sm-12">
             <table className="table table-bordered">
-              ${specText}
+              ${specText.join("")}
             </table>
           </div>
         </div>
@@ -85,13 +86,13 @@ const SpecSection = (specifications) => {
       </div>
     `;
 
-  // console.log(tableText);
+  console.log(tableText);
 
-  return tableText;
+  return sanitizeHtml(tableText).replace(/\r?\n|\r/g, " ");
 };
 
 const productFn = async () => {
-  const data = await readFile("rookie-ninja.products.json");
+  const data = await readFile("ifp.products.json");
 
   let productArr = [];
 
@@ -102,18 +103,20 @@ const productFn = async () => {
         $oid: "61cb1bb646d546f1a70c8b28",
       },
       categoryId: {
-        $oid: "61cbf84c1d0a9407398262b6",
+        $oid: "64bfe5471dafb0eee647178e",
       },
       brandId: data[i].brandId,
       price: 100,
       qty: 100,
       title: data[i].name,
       slug: slugify(data[i].name),
-      sku: 1010 + i,
-      description: data[i].description,
+      sku: 1510 + i,
+      description: sanitizeHtml(data[i].description),
       dimension: "f33",
       image: data[i].image,
       specifications: SpecSection(data[i].specifications),
+      shortDescription: sanitizeHtml(data[i].shortDescription),
+      shortPoints: data[i].shortPoints,
       file: data[i].file,
       salesSection: "new",
       totalSales: 0,
@@ -149,7 +152,7 @@ const productFn = async () => {
 
   //   console.log(productArr);
 
-  await saveFile(productArr, "rookie-ninja.products.json");
+  await saveFile(productArr, "ifp.products.json");
 };
 
 productFn();

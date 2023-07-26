@@ -6,11 +6,28 @@ export default function ProductDescription({ description, spec, downloads }) {
   const [current, setCurrent] = useState(0);
 
   const DescSec = () => {
-    return <p dangerouslySetInnerHTML={{ __html: description }}></p>;
+    return (
+      <div
+        className="product-description-wrap max-w-5xl"
+        dangerouslySetInnerHTML={{ __html: description }}
+      ></div>
+    );
   };
   const SpecSec = () => {
-    return <div dangerouslySetInnerHTML={{ __html: spec }}></div>;
+    // let stringWithoutCommas = spec.replace(/<\/tr>,/g, "</tr>");
+    // stringWithoutCommas = stringWithoutCommas.replace(
+    //   /<\/td><\/tr>,/g,
+    //   "</td></tr>"
+    // );
+
+    return (
+      <div
+        className="product-spec-wrap "
+        dangerouslySetInnerHTML={{ __html: spec }}
+      ></div>
+    );
   };
+  // console.log(spec);
   const DownloadSec = () => {
     return (
       <div>
@@ -58,7 +75,7 @@ export default function ProductDescription({ description, spec, downloads }) {
             <h1 className="">Downloads</h1>
           </button>
         </div>
-        <div className="mt-8">
+        <div className=" bg-gray-100 px-12 py-8 mb-12 ">
           <AccordionSec />
           {/* ss */}
         </div>

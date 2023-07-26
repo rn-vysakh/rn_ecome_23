@@ -21,6 +21,7 @@ export interface ProductDocument extends mongoose.Document {
   upc: string;
   ean: string;
   shortDescription: string;
+  shortPoints: [string];
   description: string;
   specifications: string;
   productTag: [string];
@@ -76,6 +77,7 @@ const ProductSchema = new mongoose.Schema(
     sellingPrice: { type: Number },
     oldPrice: { type: Number },
     shortDescription: { type: String },
+    shortPoints: [String],
     description: { type: String },
     specifications: { type: String },
     partNo: String,

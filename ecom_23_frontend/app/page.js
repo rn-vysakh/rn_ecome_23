@@ -65,8 +65,6 @@ export default async function Products({ searchParams }) {
     page,
   });
 
-  console.log(pagination);
-
   return (
     <main>
       <LandingSec

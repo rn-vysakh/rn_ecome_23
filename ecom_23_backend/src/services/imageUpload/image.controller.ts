@@ -72,7 +72,7 @@ export const imageController = async (req: Request, res: Response) => {
       Body: imgStreamSm,
       Key: folder + "sm_300p_" + webpFileName,
       ContentType: "image/webp",
-      ACL: "public-read",
+      // ACL: "public-read",
     };
 
     s3.upload(s3Params, function (err, data) {
@@ -101,7 +101,7 @@ export const imageController = async (req: Request, res: Response) => {
       Body: imgStreamMd,
       Key: folder + "md_640p_" + webpFileName,
       ContentType: "image/webp",
-      ACL: "public-read",
+      // ACL: "public-read",
     };
 
     s3.upload(s3Params, function (err, data) {
@@ -131,7 +131,7 @@ export const imageController = async (req: Request, res: Response) => {
       Body: imgStreamLg,
       Key: folder + "lg_1000p_" + webpFileName,
       ContentType: "image/webp",
-      ACL: "public-read",
+      // ACL: "public-read",
     };
 
     s3.upload(s3Params, function (err, data) {
@@ -162,7 +162,7 @@ export const imageController = async (req: Request, res: Response) => {
       Body: imgStreamHq,
       Key: folder + "hq_1080p_" + webpFileName,
       ContentType: "image/webp",
-      ACL: "public-read",
+      // ACL: "public-read",
     };
 
     s3.upload(s3Params, function (err, data) {
@@ -188,7 +188,7 @@ export const imageController = async (req: Request, res: Response) => {
       Body: imgStreamOq,
       Key: folder + webpFileName,
       ContentType: "image/webp",
-      ACL: "public-read",
+      // ACL: "public-read",
     };
 
     s3.upload(s3Params, function (err, data) {
