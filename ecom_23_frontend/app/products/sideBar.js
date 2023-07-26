@@ -2,10 +2,18 @@ import React from "react";
 import FilterSection from "@/app/products/filterSection";
 import CONST from "@/utils/apis";
 
-async function getBrands() {
-  const res = await fetch(`${CONST.BASE_URL}/api/brand`, {
-    cache: "no-store",
-  });
+async function getBrands(catId) {
+  let res;
+
+  if (catId) {
+    res = await fetch(`${CONST.BASE_URL}/api/brand/getbycat?catId=${catId}`, {
+      cache: "no-store",
+    });
+  } else {
+    res = await fetch(`${CONST.BASE_URL}/api/brand`, {
+      cache: "no-store",
+    });
+  }
 
   if (!res.ok) {
     // This will activate the closest `error.js` Error Boundary
@@ -18,18 +26,18 @@ async function getBrands() {
 
 async function getCategories(brands) {
   let res;
-  if (brands) {
-    res = await fetch(
-      `${CONST.BASE_URL}/api/category/getbybrand?brandId=${brands}`,
-      {
-        cache: "no-store",
-      }
-    );
-  } else {
-    res = await fetch(`${CONST.BASE_URL}/api/category`, {
-      cache: "no-store",
-    });
-  }
+  // if (brands) {
+  //   res = await fetch(
+  //     `${CONST.BASE_URL}/api/category/getbybrand?brandId=${brands}`,
+  //     {
+  //       cache: "no-store",
+  //     }
+  //   );
+  // } else {
+  res = await fetch(`${CONST.BASE_URL}/api/category`, {
+    cache: "no-store",
+  });
+  // }
 
   if (!res.ok) {
     // This will activate the closest `error.js` Error Boundary
@@ -65,23 +73,24 @@ async function getTags(categories) {
 }
 
 export default async function SideBar({ searchParams }) {
-  console.log("searchParams from side bar -->", searchParams);
+  // console.log("searchParams from side bar -->", searchParams);
 
   const brandParams = searchParams.brand;
   const categoryParams = searchParams.catId;
   const tagParams = searchParams.tag;
 
-  const { data } = await getBrands();
+  const { data } = await getBrands(categoryParams);
   const { data: categories } = await getCategories(brandParams);
   const { data: tags } = await getTags(categoryParams);
 
-  console.log("tags-->", tagParams, categoryParams);
+  // console.log("tags-->", tagParams, categoryParams);
 
   return (
     <>
-      <div className="bg-white border  p-2">
-        <FilterSection title="Brands" items={data} type="brand" />
+      <div className="bg-white border-r  p-2">
         <FilterSection title="Category" items={categories} type="catId" />
+        <FilterSection title="Brands" items={data} type="brand" />
+
         <div>
           {tags?.map((tag, key) => (
             <div key={key}>

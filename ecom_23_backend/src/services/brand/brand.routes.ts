@@ -4,6 +4,7 @@ import {
   getAllBrand,
   updateBrand,
   deleteBrand,
+  getCategoryWice,
 } from "./brand.controller";
 import { createBrandSchema, editBrandSchema } from "./brand.schema";
 import verifyAccessToken, { isAdmin } from "../../middlewares/auth.middleware";
@@ -17,6 +18,7 @@ addressRoutes.post(
   createBrand
 );
 addressRoutes.get("/", getAllBrand);
+addressRoutes.get("/getbycat", getCategoryWice);
 addressRoutes.patch(
   "/",
   verifyAccessToken,
