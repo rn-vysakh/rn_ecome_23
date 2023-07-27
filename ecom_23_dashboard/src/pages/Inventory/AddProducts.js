@@ -208,15 +208,67 @@ const BasicProductInfo = ({
         />
       </Stack>
 
-      {/* <TextField
-        fullWidth
+      <Stack direction="row" alignItems="center" spacing={4}>
+        <TextField
+          label="Short Point 1"
+          fullWidth
+          variant="outlined"
+          name="shortPointOne"
+          onChange={handleBasicDetails}
+          value={state.shortPointOne}
+          InputLabelProps={{
+            shrink: true,
+          }}
+        />
+        <TextField
+          label="Short Point 2"
+          fullWidth
+          variant="outlined"
+          name="shortPointTwo"
+          onChange={handleBasicDetails}
+          value={state.shortPointTwo}
+          InputLabelProps={{
+            shrink: true,
+          }}
+        />
+      </Stack>
+      <Stack direction="row" alignItems="center" spacing={4}>
+        <TextField
+          label="Short Point 3"
+          fullWidth
+          variant="outlined"
+          name="shortPointThree"
+          onChange={handleBasicDetails}
+          value={state.shortPointThree}
+          InputLabelProps={{
+            shrink: true,
+          }}
+        />
+        <TextField
+          label="Short Point 4"
+          fullWidth
+          variant="outlined"
+          name="shortPointFour"
+          onChange={handleBasicDetails}
+          value={state.shortPointFour}
+          InputLabelProps={{
+            shrink: true,
+          }}
+        />
+      </Stack>
+      <TextField
         label="Product Short Description"
+        fullWidth
         multiline
-        variant="outlined"
         minRows={3}
-        onChange={handleBasicDetails}
+        variant="outlined"
         name="shortDescription"
-      /> */}
+        onChange={handleBasicDetails}
+        value={state.shortDescription}
+        InputLabelProps={{
+          shrink: true,
+        }}
+      />
       <Typography style={{ color: '#616161' }}>Product Description</Typography>
       <CKEditor
         type="inline"
@@ -478,11 +530,16 @@ export default function AddProducts() {
           ...response.data,
           brandId: response?.data?.brandId?._id,
           categoryId: response?.data?.categoryId?._id,
+          shortPointOne: response?.data?.shortPoints?.[0],
+          shortPointTwo: response?.data?.shortPoints?.[1],
+          shortPointThree: response?.data?.shortPoints?.[2],
+          shortPointFour: response?.data?.shortPoints?.[3],
+          shortDescription: response?.data?.shortDescription,
         });
         setCkEditorText({ description: response?.data?.description, specifications: response?.data?.specifications });
         setSellerDetails(response?.data?.seller[0]);
         setImgState(response?.data?.image);
-        console.log(response.data);
+        console.log("get product====>",response.data);
       }
     }
 
@@ -579,7 +636,8 @@ export default function AddProducts() {
   const handleSubmit = async () => {
     setLoading(true);
     const data = { ...basicDetails, ...ckEditorText, image: imgArr, seller: [sellerDetails] };
-    // console.log('BasickInfo', data);
+    data.shortPoints = [basicDetails.shortPointOne,basicDetails.shortPointTwo,basicDetails.shortPointThree,basicDetails.shortPointFour];
+    data.shortDescription = basicDetails.shortDescription;
     // mutation.mutate(data);
     let response;
     if (productId) {
