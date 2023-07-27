@@ -2,6 +2,7 @@
 import React, { useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
+import CONST from "@/utils/apis";
 import {
   FaChevronRight ,
   FaChevronDown,
@@ -53,8 +54,6 @@ export default function MainHeader() {
     setIsHovering(event.type === "mouseenter");
   };
 
-  const url = "https://test.rookie-ninja.com/";
-
   return (
     <header className=" absolute w-screen hidden md:block ">
       <div className="max-w-7xl mx-auto flex py-5 justify-between text-white items-center font-light ">
@@ -88,25 +87,25 @@ export default function MainHeader() {
                   <div className=" ">
                     <ul className=" bg-gray-700/40 mt-2">
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={url + "about-us/"}>About Us</a>
+                        <a href={CONST.NAVBAR_URL + "about-us/"}>About Us</a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={url + "vision/"}>Mission & Vision</a>
+                        <a href={CONST.NAVBAR_URL + "vision/"}>Mission & Vision</a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={url + "team/"}>Team</a>
+                        <a href={CONST.NAVBAR_URL + "team/"}>Team</a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={url + "footprint/"}>Footprint</a>
+                        <a href={CONST.NAVBAR_URL + "footprint/"}>Footprint</a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={url + "whyrookieninja/"}>Why Rookie Ninja</a>
+                        <a href={CONST.NAVBAR_URL + "whyrookieninja/"}>Why Rookie Ninja</a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={url + "journey/"}>Journey</a>
+                        <a href={CONST.NAVBAR_URL + "journey/"}>Journey</a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={url + "contactus/"}>Contact Us</a>
+                        <a href={CONST.NAVBAR_URL + "contactus/"}>Contact Us</a>
                       </li>
                     </ul>
                   </div>
@@ -132,7 +131,7 @@ export default function MainHeader() {
                   <div className=" ">
                     <ul className=" bg-gray-700/40 mt-2">
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={url + "itdistribution/"}>IT Distribution</a>
+                        <a href={CONST.NAVBAR_URL + "itdistribution/"}>IT Distribution</a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
                       
@@ -141,7 +140,7 @@ export default function MainHeader() {
                           onMouseEnter={() => handleHover(6)}
                           onMouseLeave={() => handleHover(2)}
                         >
-                          <a href={url + "portfolio/"}>
+                          <a href={CONST.NAVBAR_URL + "portfolio/"}>
                           <div className="flex gap-2 items-center">
                           portfolio
                 <FaChevronRight className="text-xs" />
@@ -155,36 +154,36 @@ export default function MainHeader() {
                               <div className="">
                                 <ul className=" bg-gray-700/40 mt-2">
                                   <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                                    <a href={url + "computing-workstations/"}>Computing</a>
+                                    <a href={CONST.NAVBAR_URL + "computing-workstations/"}>Computing</a>
                                   </li>
                                   <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                                    <a href={url + "power-solutions/"}>
+                                    <a href={CONST.NAVBAR_URL + "power-solutions/"}>
                                       Power Solutions
                                     </a>
                                   </li>
                                   <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                                    <a href={url + "storage/"}>Storage</a>
+                                    <a href={CONST.NAVBAR_URL + "storage/"}>Storage</a>
                                   </li>
                                   <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                                    <a href={url + "document-scanners/"}>Scan</a>
+                                    <a href={CONST.NAVBAR_URL + "document-scanners/"}>Scan</a>
                                   </li>
                                   <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                                    <a href={url + "printers/"}>Print</a>
+                                    <a href={CONST.NAVBAR_URL + "printers/"}>Print</a>
                                   </li>
                                   <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                                    <a href={url + "gaming/"}>Gaming</a>
+                                    <a href={CONST.NAVBAR_URL + "gaming/"}>Gaming</a>
                                   </li>
                                   <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                                    <a href={url + "components/"}>Components</a>
+                                    <a href={CONST.NAVBAR_URL + "components/"}>Components</a>
                                   </li>
                                   <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                                    <a href={url + "software-solution/"}>Software</a>
+                                    <a href={CONST.NAVBAR_URL + "software-solution/"}>Software</a>
                                   </li>
                                   <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                                    <a href={url + "audiovisual/"}>Audio Visual</a>
+                                    <a href={CONST.NAVBAR_URL + "audiovisual/"}>Audio Visual</a>
                                   </li>
                                   <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                                    <a href={url + "mobility/"}>IT Accessories</a>
+                                    <a href={CONST.NAVBAR_URL + "mobility/"}>IT Accessories</a>
                                   </li>
                                 </ul>
                               </div>
@@ -193,16 +192,16 @@ export default function MainHeader() {
                         </div>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={url + "products/"}>Products</a>
+                        <a href={CONST.NAVBAR_URL + "products/"}>Products</a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={url + "solutions/"}>Solutions</a>
+                        <a href={CONST.NAVBAR_URL + "solutions/"}>Solutions</a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={url + "experience_center/"}>Experience Center</a>
+                        <a href={CONST.NAVBAR_URL + "experience_center/"}>Experience Center</a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={url + "training/"}>Training</a>
+                        <a href={CONST.NAVBAR_URL + "training/"}>Training</a>
                       </li>
                     </ul>
                   </div>
@@ -228,19 +227,19 @@ export default function MainHeader() {
                   <div className=" ">
                     <ul className=" bg-gray-700/40 mt-2">
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={url + "vendor_central/"}>Vendor Central</a>
+                        <a href={CONST.NAVBAR_URL + "vendor_central/"}>Vendor Central</a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={url + "brands/"}>Our Vendors</a>
+                        <a href={CONST.NAVBAR_URL + "brands/"}>Our Vendors</a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={url + "whychooseus/"}>Why Choose Us</a>
+                        <a href={CONST.NAVBAR_URL + "whychooseus/"}>Why Choose Us</a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={url + "value_ads/"}>Value Ads</a>
+                        <a href={CONST.NAVBAR_URL + "value_ads/"}>Value Ads</a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={url + "become_vendor/"}>Become Vendor</a>
+                        <a href={CONST.NAVBAR_URL + "become_vendor/"}>Become Vendor</a>
                       </li>
                     </ul>
                   </div>
@@ -266,17 +265,17 @@ export default function MainHeader() {
                   <div className=" ">
                     <ul className=" bg-gray-700/40 mt-2">
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={url + "partner-central/"}>Partner Central</a>
+                        <a href={CONST.NAVBAR_URL + "partner-central/"}>Partner Central</a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={url + "value-adds/"}>Value Ads</a>
+                        <a href={CONST.NAVBAR_URL + "value-adds/"}>Value Ads</a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={url + "why-choose-us-partner/"}>Why Choose Us</a>
+                        <a href={CONST.NAVBAR_URL + "why-choose-us-partner/"}>Why Choose Us</a>
                       </li>
 
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={url + "become-partner/"}>Become A Partner</a>
+                        <a href={CONST.NAVBAR_URL + "become-partner/"}>Become A Partner</a>
                       </li>
                     </ul>
                   </div>
@@ -302,19 +301,19 @@ export default function MainHeader() {
                   <div className=" ">
                     <ul className=" bg-gray-700/40 mt-2">
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={url + "work-culture/"}>Work Culture</a>
+                        <a href={CONST.NAVBAR_URL + "work-culture/"}>Work Culture</a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={url + "corporate-social-responsibility/"}>
+                        <a href={CONST.NAVBAR_URL + "corporate-social-responsibility/"}>
                           Corporate Social Responsibility
                         </a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={url + "equal-opportunity/"}>Equal Oppurtunity</a>
+                        <a href={CONST.NAVBAR_URL + "equal-opportunity/"}>Equal Oppurtunity</a>
                       </li>
 
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={url + "join-us/"}>Join Us</a>
+                        <a href={CONST.NAVBAR_URL + "join-us/"}>Join Us</a>
                       </li>
                     </ul>
                   </div>
@@ -323,7 +322,7 @@ export default function MainHeader() {
             </div>
 
             <li className="px-4">
-            <a href={url + "blogs/"}>Blogs</a></li>
+            <a href={CONST.NAVBAR_URL + "blogs/"}>Blogs</a></li>
           </ul>
         </div>
       </div>
