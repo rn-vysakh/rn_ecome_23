@@ -118,3 +118,27 @@
   color: #343232;
   padding-left: 10px;
 }
+
+.loading-box {
+  background: rgb(219, 219, 219);
+  background: linear-gradient(
+    45deg,
+    rgb(222, 222, 222) 0%,
+    rgb(205, 205, 205) 100%
+  );
+  background-size: 400% 400%;
+  animation: loading 1.5s ease infinite;
+}
+
+/* Animation keyframe  */
+
+@keyframes loading {
+  0% {
+    background-position: 0% 0%;
+    opacity: 0.5;
+  }
+  100% {
+    background-position: 100% 0%;
+    opacity: 1;
+  }
+}

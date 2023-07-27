@@ -2,27 +2,60 @@ import React from "react";
 import ProductGridSec from "@/app/products/productGridSec";
 import SideBar from "@/app/products/sideBar";
 import Pagination from "@/app/components/products/pagination";
+import SearchBar from "@/app/products/searchBar";
 import LandingSec from "@/app/components/landing";
 import CONST from "@/utils/apis";
 
-async function getData({ brandFilter, catFilter, tagFilter, page }) {
+async function getData({
+  brandFilter,
+  catFilter,
+  tagFilter,
+  page,
+  searchText,
+}) {
   let url = `${CONST.BASE_URL}/api/product?limit=16&page=${page || 1}`;
 
+  // if (brandFilter) {
+  //   url += `&${brandFilter}`;
+  // }
+
+  // if (catFilter) {
+  //   url += `&${catFilter}`;
+  // }
+
+  // if (tagFilter) {
+  //   url += `&${tagFilter}`;
+  // }
+
+  let params = new URLSearchParams();
+
   if (brandFilter) {
-    url += `&${brandFilter}`;
+    params.append("brandId", brandFilter);
+  } else {
+    params.delete("brandId");
   }
 
   if (catFilter) {
-    url += `&${catFilter}`;
+    params.append("catId", catFilter);
+  } else {
+    params.delete("catId");
   }
 
   if (tagFilter) {
-    url += `&${tagFilter}`;
+    params.append("tag", tagFilter);
+  } else {
+    params.delete("tag");
   }
 
-  const res = await fetch(url, {
-    cache: "no-store",
-  });
+  if (searchText) {
+    params.append("searchText", searchText);
+  } else {
+    params.delete("searchText");
+  }
+
+  url += `&${params.toString()}`;
+
+  const res = await fetch(url);
 
   // The return value is *not* serialized
   // You can return Date, Map, Set, etc.
@@ -44,18 +77,19 @@ export default async function Products({ searchParams }) {
   let catFilter = searchParams.catId;
   let tagFilter = searchParams.tag;
   let page = searchParams.page;
+  let searchText = searchParams.searchText;
 
   if (brandFilter) {
     // brandFilter = brandFilter.split(",");
-    brandFilter = `brandId=${brandFilter.split(",")}`;
+    brandFilter = brandFilter.split(",");
   }
 
   if (catFilter) {
-    catFilter = `catId=${catFilter.split(",")}`;
+    catFilter = catFilter.split(",");
   }
 
   if (tagFilter) {
-    tagFilter = `tag=${tagFilter.split(",")}`;
+    tagFilter = tagFilter.split(",");
   }
 
   const { data, pagination } = await getData({
@@ -63,6 +97,7 @@ export default async function Products({ searchParams }) {
     catFilter,
     tagFilter,
     page,
+    searchText,
   });
 
   return (
@@ -77,12 +112,15 @@ export default async function Products({ searchParams }) {
           <SideBar searchParams={searchParams} />
         </div>
         <div className="w-full lg:w-5/6 bg-white">
-          <div className="p-2 mx-4 mt-4">
+          <div className="p-2 mx-4 mt-4 flex flex-col md:flex-row justify-between items-center">
             <h2 className="text-sm text-gray-600">
               Showing {pagination.limit * (pagination.page - 1) + 1} -{" "}
               {pagination.limit * pagination.page} of {pagination.totalCount}{" "}
               results
             </h2>
+            <div>
+              <SearchBar searchParams={searchParams} />
+            </div>
           </div>
           <div className="p-5">
             <ProductGridSec products={data} />

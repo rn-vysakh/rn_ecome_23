@@ -55,6 +55,7 @@ export default function SideBar({ searchParams }) {
     params.delete("brand");
     params.delete("catId");
     params.delete("tag");
+    params.delete("searchText");
 
     router.push(pathname + "?" + params.toString());
   };
