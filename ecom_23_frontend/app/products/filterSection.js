@@ -1,10 +1,11 @@
 "use client";
 
-import React, { useState, useCallback } from "react";
+import React, { useState, useCallback, useEffect } from "react";
 import { useSearchParams, useRouter, usePathname } from "next/navigation";
 import { AiFillCaretDown, AiFillCaretUp } from "react-icons/ai";
+import { motion, AnimatePresence } from "framer-motion";
 
-const FilterSection = ({ title, items, type }) => {
+const FilterSection = ({ title, items, type, selectedItems }) => {
   const [filterItems, setFilterItems] = useState([]);
   const [isExpanded, setIsExpanded] = useState(false);
   const searchParams = useSearchParams();
@@ -16,6 +17,7 @@ const FilterSection = ({ title, items, type }) => {
     (name, value) => {
       const params = new URLSearchParams(searchParams);
       params.set(name, value);
+      params.set("page", 1);
 
       if (!value) {
         params.delete(name);
@@ -25,6 +27,12 @@ const FilterSection = ({ title, items, type }) => {
     },
     [searchParams]
   );
+
+  useEffect(() => {
+    setFilterItems([]);
+  }, []);
+
+  // console.log("filter items-->", filterItems);
 
   const handleFilter = (e) => {
     let fValues = filterItems; // [...searchParams.get(type).split(",")];
@@ -53,6 +61,21 @@ const FilterSection = ({ title, items, type }) => {
       .replace(/-+$/, "");
   };
 
+  // console.log("selected items-->", selectedItems);
+
+  function haveCommonElements({ items, selectedItems }) {
+    // If no common elements found, return false
+    return false;
+  }
+
+  const activeFilterSection = haveCommonElements({ items, selectedItems });
+
+  // console.log("active filter section-->", activeFilterSection);
+
+  if (activeFilterSection) {
+    setIsExpanded(true);
+  }
+
   return (
     <>
       <div className="border-b m-2 p-2">
@@ -63,27 +86,40 @@ const FilterSection = ({ title, items, type }) => {
           <h1 className="">{title}</h1>
           {isExpanded ? <AiFillCaretUp /> : <AiFillCaretDown />}
         </button>
-        {isExpanded && (
-          <div className="flex flex-col mt-2">
-            {items.map((item, key) => (
-              <div key={key} className="relative flex items-center my-1">
-                <input
-                  type="checkbox"
-                  value={item._id}
-                  id={slugify(`${title}-${key}`)}
-                  onChange={handleFilter}
-                  className="filter-check-box  "
-                />
-                <label
-                  for={slugify(`${title}-${key}`)}
-                  className="text-sm px-2"
+        <AnimatePresence>
+          {isExpanded && (
+            <motion.div
+              initial={{ opacity: 0.5, y: -10 }}
+              animate={{ opacity: 1, y: 0 }}
+              exit={{ opacity: 0, y: -10 }}
+              className="flex flex-col mt-2"
+            >
+              {items.map((item, key) => (
+                <div
+                  key={key}
+                  className={`relative flex items-center  hover:bg-gray-200 p-1 mb-1 transilate-all rounded-md cursor-pointer ${
+                    selectedItems?.includes(item._id) && "bg-gray-200"
+                  }`}
                 >
-                  {item.brandName || item.categoryName || item.value}
-                </label>
-              </div>
-            ))}
-          </div>
-        )}
+                  <input
+                    type="checkbox"
+                    value={item._id}
+                    id={slugify(`${title}-${key}`)}
+                    onChange={handleFilter}
+                    className="filter-check-box  "
+                    checked={selectedItems?.includes(item._id)}
+                  />
+                  <label
+                    for={slugify(`${title}-${key}`)}
+                    className="text-sm px-2 cursor-pointer w-full"
+                  >
+                    {item.brandName || item.categoryName || item.value}
+                  </label>
+                </div>
+              ))}
+            </motion.div>
+          )}
+        </AnimatePresence>
       </div>
     </>
   );

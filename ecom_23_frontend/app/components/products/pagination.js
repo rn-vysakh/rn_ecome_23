@@ -1,22 +1,43 @@
-// "use client";
-// import React, { useState } from "react";
+"use client";
+
+import React, { useState, useCallback } from "react";
+import { useSearchParams, useRouter, usePathname } from "next/navigation";
 
 import Link from "next/link";
 
 export default function Pagination({ pagination }) {
-  console.log(pagination);
+  // console.log(pagination);
   const { totalPages, limit, page, hasNextPage, totalCount } = pagination;
+  const searchParams = useSearchParams();
+  const router = useRouter();
+  const pathname = usePathname();
+
+  const createQueryString = useCallback(
+    (name, value) => {
+      const params = new URLSearchParams(searchParams);
+      params.set(name, value);
+
+      if (!value) {
+        params.delete(name);
+      }
+
+      return params.toString();
+    },
+    [searchParams]
+  );
+
+  const handlepageChange = (page) => {
+    router.push(pathname + "?" + createQueryString("page", page));
+  };
 
   let pageArr = [];
 
   if (totalPages <= 3) {
-    pageArr = [...Array(3)].map((_, i) => ({
+    pageArr = [...Array(totalPages)].map((_, i) => ({
       page: i + 1,
       display: true,
     }));
-  }
-
-  if (page === 1 || page === 2) {
+  } else if (page === 1 || page === 2) {
     pageArr = [
       {
         page: 1,
@@ -110,8 +131,9 @@ export default function Pagination({ pagination }) {
           {pageArr.map((item, key) => {
             if (item.display) {
               return (
-                <Link
-                  href={`?page=${item.page}`}
+                <button
+                  // href={`?page=${item.page}`}
+                  onClick={() => handlepageChange(item.page)}
                   key={key}
                   className={`${
                     page === item.page
@@ -122,7 +144,7 @@ export default function Pagination({ pagination }) {
                       `}
                 >
                   {item.page}
-                </Link>
+                </button>
               );
             } else {
               return (
