@@ -3,6 +3,7 @@ import Image from "next/image";
 import ImageSlider from "./imageSlider";
 import ProductDescription from "./description";
 import CONST from "@/utils/apis";
+import EnqSec from "./enqModal";
 
 const getData = async ({ productId }) => {
   let url = `${CONST.BASE_URL}/api/product/${productId}`;
@@ -29,7 +30,7 @@ export default async function SingleProduct({ params }) {
   const productId = params.productId;
   const { data } = await getData({ productId });
 
-  console.log(data);
+  // console.log(data);
   return (
     <>
       <div className="bg-black w-full h-24"></div>
@@ -44,6 +45,9 @@ export default async function SingleProduct({ params }) {
                 {data?.brandId?.brandName} | {data?.categoryId?.categoryName}
               </h4>
               <h2 className="text-3xl font-bold">{data?.title}</h2>
+              <div className="my-5">
+                <EnqSec productData={data} />
+              </div>
               <div
                 className="product-short-description-wrap bg-gray-100 py-2 mt-4 px-4 max-h-96 overflow-auto rounded shadow-sm"
                 dangerouslySetInnerHTML={{
