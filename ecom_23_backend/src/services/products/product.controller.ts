@@ -276,7 +276,7 @@ export const getSingleProducts = async (req: Request, res: Response) => {
       .populate([
         {
           path: "categoryId",
-          select: "categoryName parentName -_id",
+          select: "categoryName parentName _id",
         },
         {
           path: "brandId",

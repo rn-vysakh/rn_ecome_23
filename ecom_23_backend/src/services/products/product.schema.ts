@@ -39,7 +39,7 @@ export function createProductSchema(
         conditions: Joi.string(),
       })
     ),
-
+    shortPoints: Joi.array().items(Joi.string()),
     seoDesc: Joi.string(),
     order: Joi.number(),
     salesSection: Joi.string(),
@@ -118,6 +118,7 @@ export function updateProductSchema(
         conditions: Joi.string(),
       })
     ),
+    shortPoints: Joi.array().items(Joi.string()),
     partNo: Joi.string(),
     dimension: Joi.string(),
     weight: Joi.string(),

@@ -63,6 +63,7 @@ export default function MainHeader() {
           width={200}
           height={100}
           alt="Rookie Ninja Logo"
+          
         />
         <div>
           <ul className="flex items-center space-x-5">
