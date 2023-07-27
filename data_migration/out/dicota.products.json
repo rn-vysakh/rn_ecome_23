@@ -1,0 +1,2004 @@
+[
+  {
+    "_id": {
+      "$oid": "621872c24cdff31f8a1c43ff"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "64c2759b4b48550dfc98078c"
+    },
+    "brandId": {
+      "$oid": "61cbf56d1d0a9407398262b0"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "Eco Multi BASE 14-15.6",
+    "slug": "eco-multi-base-14-156",
+    "sku": 1510,
+    "description": "<p>Today's actions shape tomorrow's world. Which is why, here at DICOTA, we are dedicated to developing environmentally friendly solutions and therefore make all the items in our ECO collections out of sustainable, recycled PET. We reuse up to 19 PET bottles, so you will receive an environmentally friendly product with a life-long guarantee. Our PET products also have the quality, look and finish that you know and love.</p><p><br /></p><p>The compact Eco Multi BASE case offers ideal protection for your laptop thanks to its padded notebook compartment. The case fully protects devices between 14 and 15.6\" and the elastic strap also secures them within their compartment. The Eco Multi BASE guarantees extra stability and protection with its metal frame, as well as flexible mobility thanks to its lightweight design. Your smartphone or other smaller items like cables, pens or chargers can be stored in the convenient front pocket, so they are always to hand. The case's handles make it comfortable to carry and it can be attached to a suitcase in seconds with its built-in strap. It can also be carried using its adjustable shoulder strap. The Eco Multi BASE is therefore perfect for you if you always on the go and want to support the recycling of PET bottles with an eco-friendly case.</p><p><br /></p><ul><li>Made of 9 recycled PET bottles</li><li>Padded notebook compartment</li><li>Metal frame for extra protection</li><li>High-quality metal features</li><li>Notebook security strap</li><li>Document compartment on the back</li><li>Front pocket with storage space for mobile accessories</li><li>Comfortable padded handle</li><li>Removable, adjustable shoulder strap</li></ul><p><br /></p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "621872574cdff31f8a1c43da"
+      },
+      {
+        "$oid": "621872594cdff31f8a1c43dd"
+      },
+      {
+        "$oid": "6218725c4cdff31f8a1c43e0"
+      },
+      {
+        "$oid": "621872614cdff31f8a1c43e3"
+      },
+      {
+        "$oid": "621872704cdff31f8a1c43e6"
+      },
+      {
+        "$oid": "621872754cdff31f8a1c43e9"
+      },
+      {
+        "$oid": "6218727b4cdff31f8a1c43ec"
+      },
+      {
+        "$oid": "621872804cdff31f8a1c43ef"
+      },
+      {
+        "$oid": "6218728a4cdff31f8a1c43f2"
+      },
+      {
+        "$oid": "621872934cdff31f8a1c43f5"
+      },
+      {
+        "$oid": "621872974cdff31f8a1c43f8"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> More Information Item number </td> <td> D30446-RPET</td></tr><tr><td> Color </td> <td> black</td></tr><tr><td> Material </td> <td> 300D rPET Polyester</td></tr><tr><td> Warranty </td> <td> Lifetime / 30 years</td></tr><tr><td> Max. Device Measurements (mm) </td> <td> 385 x 40 x 265 mm ,15.16 x 1.57 x 10.43 inch</td></tr><tr><td> Product Measurements (mm) </td> <td> 415 x 65 x 295 mm, 16.34 x 2.56 x 11.61 inch</td></tr><tr><td> Weight </td> <td> 0.64 kg / 1.41 lbs</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>Clamshell Design</li><li><span>protective padding</span></li><li><span>light case</span></li><li>Metal frame for extra protection</li><li>Front pocket with storage space for mobile accessories</li></ul>",
+    "shortPoints": [
+      "A light notebook case with protective padding"
+    ],
+    "file": [
+      {
+        "$oid": "621872a24cdff31f8a1c43fb"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6218756c4cdff31f8a1c445d"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "64c2759b4b48550dfc98078c"
+    },
+    "brandId": {
+      "$oid": "61cbf56d1d0a9407398262b0"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "Eco Slim Case BASE 13-14.1 Blue",
+    "slug": "eco-slim-case-base-13-141-blue",
+    "sku": 1511,
+    "description": "<p>Today's actions shape tomorrow's world. Which is why, here at DICOTA, we are dedicated to developing environmentally friendly solutions and therefore make all the items in our ECO collections out of sustainable, recycled PET. We reuse up to 19 PET bottles, so you will receive an environmentally friendly product with a life-long guarantee. Our PET products also have the quality, look and finish that you know and love.</p><p><br /></p><p>The Eco Slim Case BASE is a light, slim laptop case. Devices between 13 and 14.1\" are well protected in the padded notebook compartment. The case is comfortable to carry thanks to its padded carrying handle and adjustable shoulder strap. The extra compartment on the back is especially handy for easily storing documents. Your smartphone or other smaller items like cables, pens or chargers can be stored in the convenient front pocket, so they are always to hand. The Eco Slim Case BASE is therefore perfect for you if you are always on the go and want to support the recycling of PET bottles with an eco-friendly case.</p><p><br /></p><ul><li>Made of 4 recycled PET bottles</li><li>Padded notebook compartment</li><li>High-quality metal features</li><li>Front pocket with storage space for mobile accessories</li><li>Document compartment on the back</li><li>Comfortable padded handle</li><li>Removable, adjustable shoulder strap</li></ul>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "6218744d4cdff31f8a1c4438"
+      },
+      {
+        "$oid": "621874504cdff31f8a1c443b"
+      },
+      {
+        "$oid": "621874554cdff31f8a1c443e"
+      },
+      {
+        "$oid": "621874584cdff31f8a1c4441"
+      },
+      {
+        "$oid": "6218747b4cdff31f8a1c4446"
+      },
+      {
+        "$oid": "621874864cdff31f8a1c4449"
+      },
+      {
+        "$oid": "6218749d4cdff31f8a1c444c"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Item number </td> <td> D31307-RPET</td></tr><tr><td> Color </td> <td> blue</td></tr><tr><td> Material </td> <td> 300D rPET Polyester</td></tr><tr><td> Warranty </td> <td> Lifetime / 30 years</td></tr><tr><td> EAN </td> <td> 7640186418829</td></tr><tr><td> Max. Device Measurements (mm) </td> <td> 350 x 30 x 245 mm ,13.78 x 1.18 x 9.65 inch</td></tr><tr><td> Product Measurements (mm) </td> <td> 370 x 35 x 275 mm 14.57 x 1.38 x 10.83 inch</td></tr><tr><td> Weight </td> <td> 0.35 kg / 0.77 lbs</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>Made of 4 recycled PET bottles</li><li>Padded notebook compartment</li><li>High-quality metal features</li><li>Front pocket with storage space for mobile accessories</li></ul><p><br /></p>",
+    "shortPoints": [
+      "Light notebook case with protective padding"
+    ],
+    "file": [
+      {
+        "$oid": "621874a74cdff31f8a1c444f"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "621876d54cdff31f8a1c448a"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "64c2759b4b48550dfc98078c"
+    },
+    "brandId": {
+      "$oid": "61cbf56d1d0a9407398262b0"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "Laptop Case Slim Eco BASE 13-14.1\" Grey",
+    "slug": "laptop-case-slim-eco-base-13-141-grey",
+    "sku": 1512,
+    "description": "<p>Today's actions shape tomorrow's world. Which is why, here at DICOTA, we are dedicated to developing environmentally friendly solutions and therefore make all the items in our ECO collections out of sustainable, recycled PET. We reuse up to 36 PET bottles, so you will receive an environmentally friendly product with a life-long guarantee. Our PET products also have the quality, look and finish that you know and love.</p><p><br /></p><p>The Eco Slim Case BASE is a light, slim laptop case. Devices between 13 and 14.1\" are well protected in the padded notebook compartment. The case is comfortable to carry thanks to its padded carrying handle and adjustable shoulder strap. The extra compartment on the back is especially handy for easily storing documents. Your smartphone or other smaller items like cables, pens or chargers can be stored in the convenient front pocket, so they are always to hand. The Eco Slim Case BASE is therefore perfect for you if you are always on the go and want to support the recycling of PET bottles with an eco-friendly case.</p><p><br /></p><ul><li>Made of 4 recycled PET bottles</li><li>Padded notebook compartment</li><li>High-quality metal features</li><li>Front pocket with storage space for mobile accessories</li><li>Document compartment on the back</li><li>Comfortable padded handle</li><li>Removable, adjustable shoulder strap</li></ul>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "621876714cdff31f8a1c4471"
+      },
+      {
+        "$oid": "621876894cdff31f8a1c447a"
+      },
+      {
+        "$oid": "6218768f4cdff31f8a1c447d"
+      },
+      {
+        "$oid": "6218769b4cdff31f8a1c4480"
+      },
+      {
+        "$oid": "621876a34cdff31f8a1c4483"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Item number </td> <td> D31305-RPET</td></tr><tr><td> Color </td> <td> grey</td></tr><tr><td> Material </td> <td> 300D rPET Polyester</td></tr><tr><td> Warranty </td> <td> Lifetime / 30 years</td></tr><tr><td> EAN </td> <td> 7640186418805</td></tr><tr><td> Max. Device Measurements (mm) </td> <td> 350 x 30 x 245 mm, 13.78 x 1.18 x 9.65 inch</td></tr><tr><td> Product Measurements (mm) </td> <td> 370 x 35 x 275 mm 14.57 x 1.38 x 10.83 inch</td></tr><tr><td> Weight </td> <td> 0.35 kg / 0.77 lbs</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>Made of 4 recycled PET bottles</li><li>Padded notebook compartment</li><li>High-quality metal features</li><li>Front pocket with storage space for mobile accessories</li></ul><p><br /></p>",
+    "shortPoints": [
+      "Slim and Light notebook case with protective padding"
+    ],
+    "file": [
+      {
+        "$oid": "621876bc4cdff31f8a1c4486"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6218786a4cdff31f8a1c44cc"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "64c2759b4b48550dfc98078c"
+    },
+    "brandId": {
+      "$oid": "61cbf56d1d0a9407398262b0"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "Laptop Case Slim Eco BASE 13-14.1\"",
+    "slug": "laptop-case-slim-eco-base-13-141",
+    "sku": 1513,
+    "description": "<p>Today's actions shape tomorrow's world. Which is why, here at DICOTA, we are dedicated to developing environmentally friendly solutions and therefore make all the items in our ECO collections out of sustainable, recycled PET. We reuse up to 19 PET bottles, so you will receive an environmentally friendly product with a life-long guarantee. Our PET products also have the quality, look and finish that you know and love.</p><p><br /></p><p>The Eco Slim Case BASE is a light, slim laptop case. Devices between 13 and 14.1\" are well protected in the padded notebook compartment. The case is comfortable to carry thanks to its padded carrying handle and adjustable shoulder strap. The extra compartment on the back is especially handy for easily storing documents. Your smartphone or other smaller items like cables, pens or chargers can be stored in the convenient front pocket, so they are always to hand. The Eco Slim Case BASE is therefore perfect for you if you are always on the go and want to support the recycling of PET bottles with an eco-friendly case.</p><p><br /></p><ul><li>Made of 4 recycled PET bottles</li><li>Padded notebook compartment</li><li>High-quality metal features</li><li>Front pocket with storage space for mobile accessories</li><li>Document compartment on the back</li><li>Comfortable padded handle</li><li>Removable, adjustable shoulder strap</li></ul>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "621878124cdff31f8a1c44a4"
+      },
+      {
+        "$oid": "621878144cdff31f8a1c44a8"
+      },
+      {
+        "$oid": "6218781b4cdff31f8a1c44b0"
+      },
+      {
+        "$oid": "621878484cdff31f8a1c44bb"
+      },
+      {
+        "$oid": "621878514cdff31f8a1c44c6"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Item number </td> <td> D31304-RPET</td></tr><tr><td> Color </td> <td> black</td></tr><tr><td> Material </td> <td> 300D rPET Polyester</td></tr><tr><td> Warranty </td> <td> Lifetime / 30 years</td></tr><tr><td> EAN </td> <td> 7640186418799</td></tr><tr><td> Max. Device Measurements (mm) </td> <td> 350 x 30 x 245 mm, 13.78 x 1.18 x 9.65 inch</td></tr><tr><td> Product Measurements (mm) </td> <td> 370 x 35 x 275 mm 14.57 x 1.38 x 10.83 inch</td></tr><tr><td> Weight </td> <td> 0.35 kg / 0.77 lbs</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>Made of 4 recycled PET bottles</li><li>Padded notebook compartment</li><li>High-quality metal features</li><li>Front pocket with storage space for mobile accessories</li></ul>",
+    "shortPoints": [
+      "Light notebook case with protective padding"
+    ],
+    "file": [
+      {
+        "$oid": "6384b10c819c5f74339aa28e"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "62187a3d4cdff31f8a1c4555"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "64c2759b4b48550dfc98078c"
+    },
+    "brandId": {
+      "$oid": "61cbf56d1d0a9407398262b0"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "Laptop Case Slim Eco BASE 15-15.6\"",
+    "slug": "laptop-case-slim-eco-base-15-156",
+    "sku": 1514,
+    "description": "<p>Today's actions shape tomorrow's world. Which is why, here at DICOTA, we are dedicated to developing environmentally friendly solutions and therefore make all the items in our ECO collections out of sustainable, recycled PET. We reuse up to 19 PET bottles, so you will receive an environmentally friendly product with a life-long guarantee. Our PET products also have the quality, look and finish that you know and love.</p><p><br /></p><p>The Eco Slim Case BASE is a light, slim laptop case. Devices between 15 and 15.6\" are well protected in the padded notebook compartment. The case is comfortable to carry thanks to its padded carrying handle and adjustable shoulder strap. The extra compartment on the back is especially handy for easily storing documents. Your smartphone or other smaller items like cables, pens or chargers can be stored in the convenient front pocket, so they are always to hand. The Eco Slim Case BASE is therefore perfect for you if you are always on the go and want to support the recycling of PET bottles with an eco-friendly case.</p><p><br /></p><ul><li>Made of 4.5 recycled PET bottles</li><li>Padded notebook compartment</li><li>High-quality metal features</li><li>Front pocket with storage space for mobile accessories</li><li>Document compartment on the back</li><li>Comfortable padded handle</li><li>Removable, adjustable shoulder strap</li></ul>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "62187a0c4cdff31f8a1c4540"
+      },
+      {
+        "$oid": "62187a0f4cdff31f8a1c4543"
+      },
+      {
+        "$oid": "62187a174cdff31f8a1c4546"
+      },
+      {
+        "$oid": "62187a1d4cdff31f8a1c4549"
+      },
+      {
+        "$oid": "62187a234cdff31f8a1c454c"
+      },
+      {
+        "$oid": "62187a274cdff31f8a1c454f"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Item number </td> <td> D31308-RPET</td></tr><tr><td> Color </td> <td> black</td></tr><tr><td> Material </td> <td> 300D rPET Polyester</td></tr><tr><td> Warranty </td> <td> Lifetime / 30 years</td></tr><tr><td> EAN </td> <td> 7640186418836</td></tr><tr><td> Max. Device Measurements (mm) </td> <td> 385 x 30 x 265 mm 15.16 x 1.18 x 10.43 inch</td></tr><tr><td> Product Measurements (mm) </td> <td> 405 x 35 x 285 mm 15.94 x 1.38 x 11.22 inch</td></tr><tr><td> Weight </td> <td> 0.39 kg / 0.85 lbs</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>Made of 4.5 recycled PET bottles</li><li>Padded notebook compartment</li><li>High-quality metal features</li><li>Front pocket with storage space for mobile accessories</li></ul><p><br /></p>",
+    "shortPoints": [
+      "Light notebook case with protective padding"
+    ],
+    "file": [
+      {
+        "$oid": "62187a054cdff31f8a1c452b"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "62187b594cdff31f8a1c4596"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "64c2759b4b48550dfc98078c"
+    },
+    "brandId": {
+      "$oid": "61cbf56d1d0a9407398262b0"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "Laptop Bag Eco Top Traveller BASE 13-14.1\"",
+    "slug": "laptop-bag-eco-top-traveller-base-13-141",
+    "sku": 1515,
+    "description": "<p>Today's actions shape tomorrow's world. Which is why, here at DICOTA, we are dedicated to developing environmentally friendly solutions and therefore make all the items in our ECO collections out of sustainable, recycled PET. We reuse up to 19 PET bottles, so you will receive an environmentally friendly product with a life-long guarantee. Our PET products also have the quality, look and finish that you know and love.</p><p><br /></p><p>The compact Eco Traveller BASE case offers ideal protection for laptops between 13 and 14.1\" thanks to its high-density foam (HDF) padding. The case guarantees extra stability and protection with its metal frame, as well as flexible mobility thanks to its lightweight design. There is an extra compartment in which you can easily store documents. Your smartphone or other smaller items like cables, pens or chargers can be stored in the convenient front pocket, so they are always to hand. The case is comfortable to carry thanks to its Neoprene padded carrying handle and it can be attached to a suitcase in seconds with its built-in strap. You can also carry the case using its adjustable shoulder strap. The Eco Traveller BASE is therefore perfect for you if you are always on the go and want to support the recycling of PET bottles with an eco-friendly case.</p><p><br /></p><ul><li>Made of 8 recycled PET bottles</li><li>Padded notebook compartment with high density foam (HDF)</li><li>High-quality metal features</li><li>Storage space for documents</li><li>Neoprene padded handle</li><li>Front pocket with storage space for mobile accessories</li><li>Suitcase fixation strap</li><li>Removable, adjustable shoulder strap</li></ul><p><br /></p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "62187b164cdff31f8a1c457b"
+      },
+      {
+        "$oid": "62187b184cdff31f8a1c457e"
+      },
+      {
+        "$oid": "62187b1f4cdff31f8a1c4581"
+      },
+      {
+        "$oid": "62187b244cdff31f8a1c4584"
+      },
+      {
+        "$oid": "62187b2a4cdff31f8a1c4587"
+      },
+      {
+        "$oid": "62187b314cdff31f8a1c458a"
+      },
+      {
+        "$oid": "62187b384cdff31f8a1c458f"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Item number </td> <td> D31324-RPET</td></tr><tr><td> Color </td> <td> black</td></tr><tr><td> Material </td> <td> 300D rPET Polyester</td></tr><tr><td> Warranty </td> <td> Lifetime / 30 years</td></tr><tr><td> EAN </td> <td> 7640186418973</td></tr><tr><td> Max. Device Measurements (mm) </td> <td> 350 x 40 x 245 mm 13.78 x 1.57 x 9.65 inch</td></tr><tr><td> Product Measurements (mm) </td> <td> 380 x 80 x 280 mm 14.96 x 3.15 x 11.02 inch</td></tr><tr><td> Weight </td> <td> 0.75 kg / 1.65 lbs</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>Made of 8 recycled PET bottles</li><li>Padded notebook compartment with high density foam (HDF)</li><li>High-quality metal features</li><li>Storage space for documents</li><li>Neoprene padded handle</li></ul><p><br /></p>",
+    "shortPoints": [
+      "A light notebook case with protective padding and smart storage"
+    ],
+    "file": [
+      {
+        "$oid": "62187b3f4cdff31f8a1c4592"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "62187f3c4cdff31f8a1c4627"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "64c2759b4b48550dfc98078c"
+    },
+    "brandId": {
+      "$oid": "61cbf56d1d0a9407398262b0"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "Laptop Bag Eco Top Traveller BASE 15-15.6\"",
+    "slug": "laptop-bag-eco-top-traveller-base-15-156",
+    "sku": 1516,
+    "description": "<p>Today's actions shape tomorrow's world. Which is why, here at DICOTA, we are dedicated to developing environmentally friendly solutions and therefore make all the items in our ECO collections out of sustainable, recycled PET. We reuse up to 19 PET bottles, so you will receive an environmentally friendly product with a life-long guarantee. Our PET products also have the quality, look and finish that you know and love.</p><p><br /></p><p>The compact Eco Traveller BASE case offers ideal protection for laptops between 15 and 15.6\" thanks to its high-density foam (HDF) padding. The case guarantees extra stability and protection with its metal frame, as well as flexible mobility thanks to its lightweight design. There is an extra compartment in which you can easily store documents. Your smartphone or other smaller items like cables, pens or chargers can be stored in the convenient front pocket, so they are always to hand. The case is comfortable to carry thanks to its Neoprene padded carrying handle and it can be attached to a suitcase in seconds with its built-in strap. You can also carry the case using its adjustable shoulder strap. The Eco Traveller BASE is therefore perfect for you if you are always on the go and want to support the recycling of PET bottles with an eco-friendly case.</p><p><br /></p><ul><li>Made of 9 recycled PET bottles</li><li>Padded notebook compartment with high density foam (HDF)</li><li>High-quality metal features</li><li>Storage space for documents</li><li>Neoprene padded handle</li><li>Front pocket with storage space for mobile accessories</li><li>Suitcase fixation strap</li><li>Removable, adjustable shoulder strap</li></ul><p><br /></p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "62187c554cdff31f8a1c45d4"
+      },
+      {
+        "$oid": "62187c584cdff31f8a1c45d7"
+      },
+      {
+        "$oid": "62187c5c4cdff31f8a1c45da"
+      },
+      {
+        "$oid": "62187c5f4cdff31f8a1c45dd"
+      },
+      {
+        "$oid": "62187c644cdff31f8a1c45e0"
+      },
+      {
+        "$oid": "62187c6d4cdff31f8a1c45e3"
+      },
+      {
+        "$oid": "62187c724cdff31f8a1c45ea"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Item number </td> <td> D31325-RPET</td></tr><tr><td> Color </td> <td> black</td></tr><tr><td> Material </td> <td> 300D rPET Polyester</td></tr><tr><td> Warranty </td> <td> Lifetime / 30 years</td></tr><tr><td> EAN </td> <td> 7640186418980</td></tr><tr><td> Max. Device Measurements (mm) </td> <td> 385 x 40 x 265 mm 15.16 x 1.57 x 10.43 inch</td></tr><tr><td> Product Measurements (mm) </td> <td> 415 x 85 x 305 mm 16.34 x 3.35 x 12.01 inch</td></tr><tr><td> Weight </td> <td> 0.8 kg / 1.76 lbs</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>Padded notebook compartment with high density foam (HDF)</li><li>High-quality metal features</li><li>Storage space for documents</li><li>Neoprene padded handle</li></ul><p><br /></p>",
+    "shortPoints": [
+      "A light notebook case with protective padding and smart storage"
+    ],
+    "file": [
+      {
+        "$oid": "62187c794cdff31f8a1c45f1"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6218d3504cdff31f8a1c4b10"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "64c2759b4b48550dfc98078c"
+    },
+    "brandId": {
+      "$oid": "61cbf56d1d0a9407398262b0"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "Laptop Sleeve PERFECT 13-13.3\"",
+    "slug": "laptop-sleeve-perfect-13-133",
+    "sku": 1517,
+    "description": "<p>For anybody who wants to transport their device in a light-weight and flexible fashion.</p><p><br /></p><p>Perfect Skin is made of elastic synthetic neoprene and perfectly adapts to the form of your notebook like a second skin. The best guaranty against surface scratches and other dents and damages. Another advantage: The zipper is fitted with an extra surface on the inside in order to avoid scratches on the notebook.</p><ul><li>Robust, especially elastic neoprene</li><li>Adapts perfectly like a second skin to the notebook</li><li>Guarantees optimal protections from scratches and small damages</li><li>Zipper equipped with additional padding to protect from scratches</li><li>Lightweight design</li></ul>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "6218d0b64cdff31f8a1c4b00"
+      },
+      {
+        "$oid": "6218d0b74cdff31f8a1c4b03"
+      },
+      {
+        "$oid": "6218d0b94cdff31f8a1c4b06"
+      },
+      {
+        "$oid": "6218d0bc4cdff31f8a1c4b09"
+      },
+      {
+        "$oid": "6218d0c14cdff31f8a1c4b0c"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Item number </td> <td> D31186</td></tr><tr><td> Color </td> <td> black</td></tr><tr><td> Material </td> <td> Synthetic Neoprene</td></tr><tr><td> Warranty </td> <td> Lifetime / 30 years</td></tr><tr><td> EAN </td> <td> 7640158663936</td></tr><tr><td> Max. Device Measurements (mm) </td> <td> 330 x 30 x 230 mm 12.99 x 1.18 x 9.06 inch</td></tr><tr><td> Product Measurements (mm) </td> <td> 350 x 25 x 245 mm 13.78 x 0.98 x 9.65 inch</td></tr><tr><td> Weight </td> <td> 0.17 kg / 0.37 lbs</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>Robust, especially elastic neoprene</li><li>Adapts perfectly like a second skin to the notebook</li><li>Guarantees optimal protections from scratches and small damages</li><li>Zipper equipped with additional padding to protect from scratches</li><li>Lightweight design</li></ul><p><br /></p>",
+    "shortPoints": [
+      "Protects your notebook perfectly from scratches and small damages"
+    ],
+    "file": [
+      {
+        "$oid": "6384b1b8819c5f74339aa320"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6218d4ac4cdff31f8a1c4b3d"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "64c2759b4b48550dfc98078c"
+    },
+    "brandId": {
+      "$oid": "61cbf56d1d0a9407398262b0"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "Perfect Skin 14-14.1",
+    "slug": "perfect-skin-14-141",
+    "sku": 1518,
+    "description": "<p>For anybody who wants to transport their device in a light-weight and flexible fashion.</p><p><br /></p><p>Perfect Skin is made of elastic synthetic neoprene and perfectly adapts to the form of your notebook like a second skin. The best guaranty against surface scratches and other dents and damages. Another advantage: The zipper is fitted with an extra surface on the inside in order to avoid scratches on the notebook.</p><p><br /></p><ul><li>Robust, especially elastic neoprene</li><li>Adapts perfectly like a second skin to the notebook</li><li>Guarantees optimal protections from scratches and small damages</li><li>Zipper equipped with additional padding to protect from scratches</li><li>Lightweight design</li></ul>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "6218d4454cdff31f8a1c4b24"
+      },
+      {
+        "$oid": "6218d4484cdff31f8a1c4b27"
+      },
+      {
+        "$oid": "6218d44c4cdff31f8a1c4b2a"
+      },
+      {
+        "$oid": "6218d4834cdff31f8a1c4b39"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Item number </td> <td> D31187</td></tr><tr><td> Color </td> <td> black</td></tr><tr><td> Material </td> <td> Synthetic Neoprene</td></tr><tr><td> Warranty </td> <td> Lifetime / 30 years</td></tr><tr><td> EAN </td> <td> 7640158663943</td></tr><tr><td> Max. Device Measurements (mm) </td> <td> 350 x 30 x 245 mm 13.78 x 1.18 x 9.65 inch</td></tr><tr><td> Product Measurements (mm) </td> <td> 360 x 25 x 255 mm 14.17 x 0.98 x 10.04 inch</td></tr><tr><td> Weight </td> <td> 0.18 kg / 0.4 lbs</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>Robust, especially elastic neoprene</li><li>Adapts perfectly like a second skin to the notebook</li><li>Guarantees optimal protections from scratches and small damages</li><li>Zipper equipped with additional padding to protect from scratches</li><li>Lightweight design</li></ul><p><br /></p>",
+    "shortPoints": [
+      "Protects your notebook perfectly from scratches and small damages"
+    ],
+    "file": [
+      {
+        "$oid": "6384ad9b819c5f74339aa179"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6218d6fd4cdff31f8a1c4b67"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "64c2759b4b48550dfc98078c"
+    },
+    "brandId": {
+      "$oid": "61cbf56d1d0a9407398262b0"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "Laptop Sleeve BASE 13-14.1\" Grey",
+    "slug": "laptop-sleeve-base-13-141-grey",
+    "sku": 1519,
+    "description": "<p>For anybody who wants to transport their notebook in a light-weight and flexible fashion.</p><p><br /></p><p>Skin BASE is made of robust and especially elastic neoprene and perfectly adapts to the form of your notebook like a second skin. The best guaranty against surface scratches and other dents and damages. Another advantage: The zipper is fitted with an extra surface on the inside in order to avoid scratches on the notebook. Available in four sizes and three colour variations.</p><p><br /></p><ul><li>Robust, especially elastic neoprene</li><li>Adapts perfectly like a second skin to the notebook</li><li>Guarantees optimal protections from scratches and small damages</li><li>Zipper is equipped with a special surface in the inside to avoid scratches on the notebook</li><li>Especially light design</li><li>Available in four sizes and three colour variations</li></ul><p><br /></p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "6218d6b14cdff31f8a1c4b51"
+      },
+      {
+        "$oid": "6218d6b44cdff31f8a1c4b54"
+      },
+      {
+        "$oid": "6218d6bb4cdff31f8a1c4b57"
+      },
+      {
+        "$oid": "6218d6c04cdff31f8a1c4b5a"
+      },
+      {
+        "$oid": "6218d6c54cdff31f8a1c4b5d"
+      },
+      {
+        "$oid": "6218d6ca4cdff31f8a1c4b60"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Item number </td> <td> D31292</td></tr><tr><td> Color </td> <td> grey</td></tr><tr><td> Material </td> <td> Synthetic Neoprene</td></tr><tr><td> Warranty </td> <td> Lifetime / 30 years</td></tr><tr><td> EAN </td> <td> 7640158665015</td></tr><tr><td> Max. Device Measurements (mm) </td> <td> 350 x 30 x 245 mm 13.78 x 1.18 x 9.65 inch</td></tr><tr><td> Product Measurements (mm) </td> <td> 350 x 27 x 250 mm 13.78 x 1.06 x 9.84 inch</td></tr><tr><td> Weight </td> <td> 0.17 kg / 0.37 lbs</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>Robust, especially elastic neoprene</li><li>Adapts perfectly like a second skin to the notebook</li><li>Guarantees optimal protections from scratches and small damages</li></ul><p><br /></p>",
+    "shortPoints": [
+      "Slim protective sleeve in interesting colour variations offers extensive all-round protection"
+    ],
+    "file": [
+      {
+        "$oid": "6218d6d54cdff31f8a1c4b63"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "621b7c374cdff31f8a1c5aa9"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "64c2759b4b48550dfc98078c"
+    },
+    "brandId": {
+      "$oid": "61cbf56d1d0a9407398262b0"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "Laptop Sleeve SMART 13-13.3\"",
+    "slug": "laptop-sleeve-smart-13-133",
+    "sku": 1520,
+    "description": "<p>Smart Skin provides practical and lightweight protection for your notebook. Made of robust and particularly flexible neoprene it fits snugly around your notebook like a second skin. The lining made from Nylex, a soft polyester fabric, keeps your notebooks safe from scratches.</p><p><br /></p><p>On the front there is a zip pocket with room for your accessories. Smart Skin has padded handles for your comfort when carrying, but the handles are slim enough to not add any bulk on the occasions you want to put the sleeve inside another bag.</p><ul><li>Robust, especially elastic neoprene</li><li>Adapts perfectly like a second skin to the notebook</li><li>Soft Nylex lining</li><li>Zip pocket on the front with room for accessories</li><li>Padded handles</li></ul><p><br /></p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "621b79f04cdff31f8a1c5a89"
+      },
+      {
+        "$oid": "621b79f34cdff31f8a1c5a8c"
+      },
+      {
+        "$oid": "621b79f64cdff31f8a1c5a8f"
+      },
+      {
+        "$oid": "621b79f84cdff31f8a1c5a92"
+      },
+      {
+        "$oid": "621b79fe4cdff31f8a1c5a95"
+      },
+      {
+        "$oid": "621b7a024cdff31f8a1c5a98"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Item number </td> <td> D31180</td></tr><tr><td> Color </td> <td> black</td></tr><tr><td> Material </td> <td> Neoprene</td></tr><tr><td> Warranty </td> <td> Lifetime / 30 years</td></tr><tr><td> EAN </td> <td> 7640158663875</td></tr><tr><td> Max. Device Measurements (mm) </td> <td> 330 x 30 x 230 mm 12.99 x 1.18 x 9.06 inch</td></tr><tr><td> Product Measurements (mm) </td> <td> 355 x 30 x 255 mm 13.98 x 1.18 x 10.04 inch</td></tr><tr><td> Weight </td> <td> 0.25 kg / 0.55 lbs</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>Robust, especially elastic neoprene</li><li>Adapts perfectly like a second skin to the notebook</li><li>Soft Nylex lining</li></ul><p><br /></p>",
+    "shortPoints": [
+      "Neoprene sleeve with handles"
+    ],
+    "file": [
+      {
+        "$oid": "621b7a0a4cdff31f8a1c5a9b"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "621b7efa4cdff31f8a1c5adf"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "64c2759b4b48550dfc98078c"
+    },
+    "brandId": {
+      "$oid": "61cbf56d1d0a9407398262b0"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "Laptop Sleeve SMART 14-14.1\"",
+    "slug": "laptop-sleeve-smart-14-141",
+    "sku": 1521,
+    "description": "<p>Smart Skin provides practical and lightweight protection for your notebook. Made of robust and particularly flexible neoprene it fits snugly around your notebook like a second skin. The lining made from Nylex, a soft polyester fabric, keeps your notebooks safe from scratches.</p><p><br /></p><p>On the front there is a zip pocket with room for your accessories. Smart Skin has padded handles for your comfort when carrying, but the handles are slim enough to not add any bulk on the occasions you want to put the sleeve inside another bag.</p><ul><li>Robust, especially elastic neoprene</li><li>Adapts perfectly like a second skin to the notebook</li><li>Soft Nylex lining</li><li>Zip pocket on the front with room for accessories</li><li>Padded handles</li></ul>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "621b7e254cdff31f8a1c5ac9"
+      },
+      {
+        "$oid": "621b7e294cdff31f8a1c5ace"
+      },
+      {
+        "$oid": "621b7ea14cdff31f8a1c5ad1"
+      },
+      {
+        "$oid": "621b7ea74cdff31f8a1c5ad4"
+      },
+      {
+        "$oid": "621b7eae4cdff31f8a1c5ad7"
+      },
+      {
+        "$oid": "621b7eb34cdff31f8a1c5ada"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Item number </td> <td> D31181</td></tr><tr><td> Color </td> <td> black</td></tr><tr><td> Material </td> <td> Neoprene</td></tr><tr><td> Warranty </td> <td> Lifetime / 30 years</td></tr><tr><td> EAN </td> <td> 7640158663882</td></tr><tr><td> Max. Device Measurements (mm) </td> <td> 350 x 35 x 245 mm 13.78 x 1.38 x 9.65 inch</td></tr><tr><td> Product Measurements (mm) </td> <td> 375 x 30 x 275 mm 14.76 x 1.18 x 10.83 inch</td></tr><tr><td> Weight </td> <td> 0.27 kg / 0.59 lbs</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>Robust, especially elastic neoprene</li><li>Adapts perfectly like a second skin to the notebook</li><li>Soft Nylex lining</li></ul><p><br /></p>",
+    "shortPoints": [
+      "Neoprene sleeve with handles"
+    ],
+    "file": [
+      {
+        "$oid": "6384b159819c5f74339aa2de"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "621b81a54cdff31f8a1c5b19"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "64c2759b4b48550dfc98078c"
+    },
+    "brandId": {
+      "$oid": "61cbf56d1d0a9407398262b0"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "Laptop Sleeve FLOW 13-14.1\" Anthracite/Blue",
+    "slug": "laptop-sleeve-flow-13-141-anthraciteblue",
+    "sku": 1522,
+    "description": "<p>Flexible, resistant and strong: the sleeves from the FLOW family have been designed to fit your notebook perfectly - like a second skin.</p><p><br /></p><p>Your device will be kept safe during your commute to the office or university. The outside of the sleeve is made from durable, elastic neoprene. The colourful, soft nylex lining guarantees your device the best protection, safeguarding it against scratches, small cracks and dust. Extremely lightweight, the FLOW skin comes in three different colours and is available in two sizes: one for up to 14.1 inch notebooks and one for 15.6 inch notebooks.</p><ul><li>Robust, highly elastic neoprene</li><li>Fits your notebook like a second skin</li><li>Guarantees the best protection from scratches and small cracks</li><li>Soft nylex lining</li><li>Feather-light design</li><li>Available in two sizes and three different colours</li></ul>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "621b81654cdff31f8a1c5b03"
+      },
+      {
+        "$oid": "621b81694cdff31f8a1c5b06"
+      },
+      {
+        "$oid": "621b816d4cdff31f8a1c5b09"
+      },
+      {
+        "$oid": "621b816f4cdff31f8a1c5b0c"
+      },
+      {
+        "$oid": "621b817a4cdff31f8a1c5b0f"
+      },
+      {
+        "$oid": "621b81844cdff31f8a1c5b12"
+      },
+      {
+        "$oid": "621b81894cdff31f8a1c5b15"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Item number </td> <td> D31745</td></tr><tr><td> Color </td> <td> anthracite/blue</td></tr><tr><td> Material </td> <td> Neoprene</td></tr><tr><td> Warranty </td> <td> Lifetime / 30 years</td></tr><tr><td> EAN </td> <td> 7640158669303</td></tr><tr><td> Max. Device Measurements (mm) </td> <td> 350 x 245 x 25 mm 13.78 x 9.65 x 0.98 inch</td></tr><tr><td> Product Measurements (mm) </td> <td> 360 x 270 x 20 mm 14.17 x 10.63 x 0.79 inch</td></tr><tr><td> Weight </td> <td> 0.24 kg / 0.53 lbs</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>Robust, highly elastic neoprene</li><li>Fits your notebook like a second skin</li><li>Guarantees the best protection from scratches and small cracks</li></ul><p><br /></p>",
+    "shortPoints": [
+      "The perfect fit for your notebook thanks to elastic neoprene."
+    ],
+    "file": [
+      {
+        "$oid": "6384b011819c5f74339aa243"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "621b84064cdff31f8a1c5bb1"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "64c2759b4b48550dfc98078c"
+    },
+    "brandId": {
+      "$oid": "61cbf56d1d0a9407398262b0"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "Laptop Sleeve URBAN 16\" Anthracite",
+    "slug": "laptop-sleeve-urban-16-anthracite",
+    "sku": 1523,
+    "description": "<p>Elegant and minimalistic: the high-quality design of the URBAN skin perfectly matches the shape of your MacBook. The skin features a soft faux fur lining that protects it from scratches and dust.</p><p><br /></p><p>The compact sleeve is made of an elastic neoprene material. It is light, durable and powerful thanks to its sturdy design. The URBAN skin comes in two different colours and is available in four MacBook sizes: 12, 13, 15 and 16 inches.</p><ul><li>Made of durable elastic neoprene</li><li>Fits your MacBook like a second skin</li><li>Soft faux fur lining protects against dust and scratches</li><li>Great design</li><li>Available in four sizes and two different colours</li></ul>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "621b83cc4cdff31f8a1c5b98"
+      },
+      {
+        "$oid": "621b83ce4cdff31f8a1c5b9b"
+      },
+      {
+        "$oid": "621b83d14cdff31f8a1c5b9e"
+      },
+      {
+        "$oid": "621b83d34cdff31f8a1c5ba1"
+      },
+      {
+        "$oid": "621b83d94cdff31f8a1c5ba4"
+      },
+      {
+        "$oid": "621b83e14cdff31f8a1c5ba7"
+      },
+      {
+        "$oid": "621b83e94cdff31f8a1c5baa"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Item number </td> <td> D31771</td></tr><tr><td> Color </td> <td> anthracite</td></tr><tr><td> Material </td> <td> Neoprene</td></tr><tr><td> Warranty </td> <td> Lifetime / 30 years</td></tr><tr><td> EAN </td> <td> 7640158669556</td></tr><tr><td> Max. Device Measurements (mm) </td> <td> 358 x 20 x 246 mm 14.09 x 0.79 x 9.69 inch</td></tr><tr><td> Product Measurements (mm) </td> <td> \t360 x 20 x 265 mm 14.17 x 0.79 x 10.43 inch</td></tr><tr><td> Weight </td> <td> 0.27 kg / 0.59 lbs</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>Made of durable elastic neoprene</li><li>Fits your MacBook like a second skin</li><li>Soft faux fur lining protects against dust and scratches</li></ul><p><br /></p>",
+    "shortPoints": [
+      "Laptop Sleeve",
+      "16\" Size",
+      "Anthracite"
+    ],
+    "file": [
+      {
+        "$oid": "621b83ee4cdff31f8a1c5bad"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "621b87a978998378c4dd71ca"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "64c2759b4b48550dfc98078c"
+    },
+    "brandId": {
+      "$oid": "61cbf56d1d0a9407398262b0"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "Ultra Skin PRO 13-13.3",
+    "slug": "ultra-skin-pro-13-133",
+    "sku": 1524,
+    "description": "<p>The Ultra Skin PRO accompanies you reliably and provides custom-fitted protection for your 13-13.3\" notebook or Ultrabook. The especially lightweight case combines compact design with robust materials.</p><p><br /></p><p>The material selection makes the Ultra Skin PRO built to last. The case is made of durable neoprene combined with nylon and real leather details. A soft synthetic fur lining on the inside protects your notebook from scratches. The flexible accessory compartment on the front provides storage space for a power bank, charging cable, smartphone and other personal items. The protective case is equipped with two zippers. This allows you to charge your notebook or Ultrabook conveniently, without sacrificing maximum protection.</p><ul><li>Ultra slim and lightweight design</li><li>Perfect fit with elastic neoprene</li><li>Soft faux fur lining guards against scratches</li><li>Flexible front pocket for accessories</li><li>Double zip allows mobile charging of your devices</li></ul><p><br /></p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "621b875d78998378c4dd71ab"
+      },
+      {
+        "$oid": "621b876078998378c4dd71ae"
+      },
+      {
+        "$oid": "621b876478998378c4dd71b1"
+      },
+      {
+        "$oid": "621b876a78998378c4dd71b4"
+      },
+      {
+        "$oid": "621b876e78998378c4dd71b7"
+      },
+      {
+        "$oid": "621b877478998378c4dd71ba"
+      },
+      {
+        "$oid": "621b877a78998378c4dd71bd"
+      },
+      {
+        "$oid": "621b878178998378c4dd71c0"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Item number </td> <td> D31097</td></tr><tr><td> Color </td> <td> black</td></tr><tr><td> Material </td> <td> Neoprene</td></tr><tr><td> Warranty </td> <td> Lifetime / 30 years</td></tr><tr><td> EAN </td> <td> 7640158663080</td></tr><tr><td> Max. Device Measurements (mm) </td> <td> 330 x 30 x 230 mm 12.99 x 1.18 x 9.06 inch</td></tr><tr><td> Product Measurements (mm) </td> <td> 346 x 13 x 251 mm 13.62 x 0.51 x 9.88 inch</td></tr><tr><td> Weight </td> <td> 0.21 kg / 0.46 lbs</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>Ultra slim and lightweight design</li><li>Perfect fit with elastic neoprene</li><li>Soft faux fur lining guards against scratches</li></ul><p><br /></p>",
+    "shortPoints": [
+      "Laptop Sleeve",
+      "13-13.3"
+    ],
+    "file": [
+      {
+        "$oid": "621b878878998378c4dd71c6"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "621b8c1378998378c4dd7215"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "64c2759b4b48550dfc98078c"
+    },
+    "brandId": {
+      "$oid": "61cbf56d1d0a9407398262b0"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "Laptop Sleeve Plus PRO 13-13.3\"",
+    "slug": "laptop-sleeve-plus-pro-13-133",
+    "sku": 1525,
+    "description": "<p>The Ultra Skin PRO accompanies you reliably and provides custom-fitted protection for your 13-13.3\" notebook or Ultrabook. The especially lightweight case combines compact design with robust materials and functional details.</p><p><br /></p><p>The material selection makes the Ultra Skin Plus PRO built to last. The case is made of durable neoprene combined with nylon and real leather details. A soft synthetic fur lining on the inside protects your notebook from scratches. The padded carrying handles ensure comfortable transportation, but can also be stored in a larger bag to save space. A zippered compartment on the back of the bag provides storage space for documents and mobile accessories. Power bank, charging cable and smartphone are thus always in easy reach. The Ultra Skin Plus PRO is equipped with two zippers. This allows you to charge your notebook or Ultrabook conveniently, without sacrificing maximum protection.</p><ul><li>Ultra slim and lightweight design</li><li>Perfect fit with elastic neoprene</li><li>Padded carrying handles for comfortable transportation</li><li>Soft faux fur lining guards against scratches</li><li>Flexible front pocket for accessories</li><li>Double zip allows mobile charging of your devices</li></ul><p><br /></p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "621b8bda78998378c4dd7202"
+      },
+      {
+        "$oid": "621b8bdd78998378c4dd7205"
+      },
+      {
+        "$oid": "621b8be078998378c4dd7208"
+      },
+      {
+        "$oid": "621b8be278998378c4dd720b"
+      },
+      {
+        "$oid": "621b8be678998378c4dd720e"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Item number </td> <td> D31102</td></tr><tr><td> Color </td> <td> black</td></tr><tr><td> Material </td> <td> Neoprene</td></tr><tr><td> Warranty </td> <td> Lifetime / 30 years</td></tr><tr><td> EAN </td> <td> 7640158663134</td></tr><tr><td> Max. Device Measurements (mm) </td> <td> 330 x 30 x 230 mm 12.99 x 1.18 x 9.06 inch</td></tr><tr><td> Product Measurements (mm) </td> <td> 356 x 13 x 251 mm 14.02 x 0.51 x 9.88 inch</td></tr><tr><td> Weight </td> <td> 0.27 kg / 0.59 lbs</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>Ultra slim and lightweight design</li><li>Perfect fit with elastic neoprene</li><li>Padded carrying handles for comfortable transportation</li></ul><p><br /></p>",
+    "shortPoints": [
+      "Laptop Sleeve",
+      "13-13.3\" Size"
+    ],
+    "file": [
+      {
+        "$oid": "621b8bee78998378c4dd7211"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "621b8d1978998378c4dd723e"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "64c2759b4b48550dfc98078c"
+    },
+    "brandId": {
+      "$oid": "61cbf56d1d0a9407398262b0"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "Laptop Sleeve Plus PRO 14-14.1\"",
+    "slug": "laptop-sleeve-plus-pro-14-141",
+    "sku": 1526,
+    "description": "<p>The Ultra Skin PRO accompanies you reliably and provides custom-fitted protection for your 14-14.1\" notebook or Ultrabook. The especially lightweight case combines compact design with robust materials and functional details.</p><p><br /></p><p>The material selection makes the Ultra Skin Plus PRO built to last. The case is made of durable neoprene combined with nylon and real leather details. A soft synthetic fur lining on the inside protects your notebook from scratches. The padded carrying handles ensure comfortable transportation, but can also be stored in a larger bag to save space. A zippered compartment on the back of the bag provides storage space for documents and mobile accessories. Power bank, charging cable and smartphone are thus always in easy reach. The Ultra Skin Plus PRO is equipped with two zippers. This allows you to charge your notebook or Ultrabook conveniently, without sacrificing maximum protection.</p><ul><li>Ultra slim and lightweight design</li><li>Perfect fit with elastic neoprene</li><li>Padded carrying handles for comfortable transportation</li><li>Soft faux fur lining guards against scratches</li><li>Flexible front pocket for accessories</li><li>Double zip allows mobile charging of your devices</li></ul><p><br /></p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "621b8c9978998378c4dd722b"
+      },
+      {
+        "$oid": "621b8c9c78998378c4dd722e"
+      },
+      {
+        "$oid": "621b8cbb78998378c4dd7231"
+      },
+      {
+        "$oid": "621b8cbe78998378c4dd7234"
+      },
+      {
+        "$oid": "621b8cc478998378c4dd7237"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>                            </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>Ultra slim and lightweight design</li><li>Perfect fit with elastic neoprene</li><li>Padded carrying handles for comfortable transportation</li></ul><p><br /></p>",
+    "shortPoints": [
+      "Laptop Sleeve",
+      "14-14.1\" Size"
+    ],
+    "file": [
+      {
+        "$oid": "621b8ccf78998378c4dd723a"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "621b9f8378998378c4dd7299"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "64c2759b4b48550dfc98078c"
+    },
+    "brandId": {
+      "$oid": "61cbf56d1d0a9407398262b0"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "Backpack Spin 14-15.6 ",
+    "slug": "backpack-spin-14-156-",
+    "sku": 1527,
+    "description": "<p>Thanks to the lockable notebook compartment, the Backpack Spin lets you carry your notebook securely and comfortably. The spacious main compartment offers plenty of room to store your personal belongings. Accessories such as pens or smartphone can be placed in the front pocket. The detailed workstation helps to keep everything in the right place.</p><p><br /></p><p>Furthermore this backpack features a practical slot for tablets up to 10.5\". With its breathable back padding and padded shoulder straps, Spin Backpack is the perfect companion for comfortable transportation.</p><ul><li>Padded and lockable notebook compartment</li><li>Tablet slot for tablet up to 10.5\"</li><li>Pocket for music devices with outlet for headphones</li><li>Adjustable shoulder straps</li><li>Easy access side pockets</li><li>Made of durable water repellent material</li></ul><p><br /></p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "621b9f3778998378c4dd7287"
+      },
+      {
+        "$oid": "621b9f3b78998378c4dd728a"
+      },
+      {
+        "$oid": "621b9f3f78998378c4dd728f"
+      },
+      {
+        "$oid": "621b9f4378998378c4dd7292"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Item number </td> <td> D30575</td></tr><tr><td> Color </td> <td> black</td></tr><tr><td> Volume in liters </td> <td> 21.5</td></tr><tr><td> Material </td> <td> 600D Polyester</td></tr><tr><td> Warranty </td> <td> Lifetime / 30 years</td></tr><tr><td> EAN </td> <td> 7332752004450</td></tr><tr><td> Max. Device Measurements (mm) </td> <td> 265 x 380 x 40 mm 10.43 x 14.96 x 1.57 inch</td></tr><tr><td> Product Measurements (mm) </td> <td> 450 x 320 x 160 mm 17.72 x 12.6 x 6.3 inch</td></tr><tr><td> Weight </td> <td> 0.6 kg / 1.32 lbs</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>Padded and lockable notebook compartment</li><li>Tablet slot for tablet up to 10.5\"</li><li>Pocket for music devices with outlet for headphones</li></ul><p><br /></p>",
+    "shortPoints": [
+      "Backpack",
+      "14-15.6 Size"
+    ],
+    "file": [
+      {
+        "$oid": "621b9f4978998378c4dd7295"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "621bc09c78998378c4dd73c9"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "64c2759b4b48550dfc98078c"
+    },
+    "brandId": {
+      "$oid": "61cbf56d1d0a9407398262b0"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "Laptop Backpack MOVE 13-15.6\"",
+    "slug": "laptop-backpack-move-13-156",
+    "sku": 1528,
+    "description": "<p>From yoga classes to the office. MOVE is designed for daily use. Comfortable thanks to its ergonomic back cushioning and cushioned shoulder straps with an adjustable chest belt. Perfectly manoeuvre your backpack thanks to the two handles for carrying. The fabric is made of water-repellent materials but in case of thunderstorms, the backpack also includes a rain cover with a reflective DICOTA logo. The primary storage area contains a notebook compartment cushioned with High Density Foam (HDF), a padded slip pocket for tablets up to 10.5 inches, a divider for documents and an elastic mesh pocket to hold your drink bottle. The second main compartment contains dividers for headphones and folders.</p><p><br /></p><p>Enjoy the bag's functional details everywhere you go. The Backpack MOVE features two adjustable straps at the front that can hold a yoga mat or a jacket. The two front pockets can be used to store accessories such as pens, charging cables or smartphones. The right-hand side pocket (looking at the backpack from the front) is designed to charge your devices on the go. Place your power bank inside and connect to your phone. The pocket on the left-hand side can be used for quick access to water bottles, umbrellas and key cards. This backpack comes with the Quick &amp; Easy Lock System form YKK. This system easily locks the zippers, securing your backpack in seconds. Pull the two zippers together to lock them, or unlock them by pulling the sliders down into the lower plastic part. The backpack is available in two colours.</p><ul><li>Notebook compartment cushioned with High Density Foam (HDF) &amp; padded slip pocket for tablets up to 10.5 inches</li><li>YKK Quick &amp; Easy Lock System</li><li>Side pocket for power bank to charge your smartphone on the go</li><li>Adjustable straps at the front for jackets, yoga mats, etc.</li><li>Ergonomic back cushioning</li><li>Cushioned shoulder straps including adjustable chest belt</li></ul><p><br /></p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "621bbfc178998378c4dd73a8"
+      },
+      {
+        "$oid": "621bbfcb78998378c4dd73ab"
+      },
+      {
+        "$oid": "621bbfce78998378c4dd73ae"
+      },
+      {
+        "$oid": "621bbfd278998378c4dd73b1"
+      },
+      {
+        "$oid": "621bbfd778998378c4dd73b4"
+      },
+      {
+        "$oid": "621bbfe178998378c4dd73b7"
+      },
+      {
+        "$oid": "621bbfe678998378c4dd73ba"
+      },
+      {
+        "$oid": "621bbfea78998378c4dd73bd"
+      },
+      {
+        "$oid": "621bbff078998378c4dd73c0"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Item number </td> <td> D31765</td></tr><tr><td> Color </td> <td> black</td></tr><tr><td> Volume in liters </td> <td> 24</td></tr><tr><td> Volume in liters </td> <td> Material</td></tr><tr><td> Warranty </td> <td> Lifetime / 30 years</td></tr><tr><td> EAN </td> <td> 7640158669495</td></tr><tr><td> Max. Device Measurements (mm) </td> <td> 385 x 35 x 265 mm 15.16 x 1.38 x 10.43 inch</td></tr><tr><td> Product Measurements (mm) </td> <td> 300 x 480 x 170 mm 11.81 x 18.9 x 6.69 inch</td></tr><tr><td> Weight </td> <td> 0.8 kg / 1.76 lbs</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>Notebook compartment cushioned with High Density Foam (HDF) &amp; padded slip pocket for tablets up to 10.5 inches</li><li>YKK Quick &amp; Easy Lock System</li><li>Side pocket for power bank to charge your smartphone on the go</li></ul><p><br /></p>",
+    "shortPoints": [
+      "Laptop Backpack",
+      "13-15.6\" Size"
+    ],
+    "file": [
+      {
+        "$oid": "621bbffa78998378c4dd73c3"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "621bc51878998378c4dd740f"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "64c2759b4b48550dfc98078c"
+    },
+    "brandId": {
+      "$oid": "61cbf56d1d0a9407398262b0"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "Laptop Backpack MOVE 13-15.6\" Light Grey",
+    "slug": "laptop-backpack-move-13-156-light-grey",
+    "sku": 1529,
+    "description": "<p>From yoga classes to the office. MOVE is designed for daily use. Comfortable thanks to its ergonomic back cushioning and cushioned shoulder straps with an adjustable chest belt. Perfectly manoeuvre your backpack thanks to the two handles for carrying. The fabric is made of water-repellent materials but in case of thunderstorms, the backpack also includes a rain cover with a reflective DICOTA logo. The primary storage area contains a notebook compartment cushioned with High Density Foam (HDF), a padded slip pocket for tablets up to 10.5 inches, a divider for documents and an elastic mesh pocket to hold your drink bottle. The second main compartment contains dividers for headphones and folders.</p><p><br /></p><p>Enjoy the bag's functional details everywhere you go. The Backpack MOVE features two adjustable straps at the front that can hold a yoga mat or a jacket. The two front pockets can be used to store accessories such as pens, charging cables or smartphones. The right-hand side pocket (looking at the backpack from the front) is designed to charge your devices on the go. Place your power bank inside and connect to your phone. The pocket on the left-hand side can be used for quick access to water bottles, umbrellas and key cards. This backpack comes with the Quick &amp; Easy Lock System form YKK. This system easily locks the zippers, securing your backpack in seconds. Pull the two zippers together to lock them, or unlock them by pulling the sliders down into the lower plastic part. The backpack is available in two colours.</p><ul><li>Notebook compartment cushioned with High Density Foam (HDF) &amp; padded slip pocket for tablets up to 10.5 inches</li><li>YKK Quick &amp; Easy Lock System</li><li>Side pocket for power bank to charge your smartphone on the go</li><li>Adjustable straps at the front for jackets, yoga mats, etc.</li><li>Ergonomic back cushioning</li><li>Cushioned shoulder straps including adjustable chest belt</li></ul><p><br /></p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "621bc49e78998378c4dd73ec"
+      },
+      {
+        "$oid": "621bc4a578998378c4dd73ef"
+      },
+      {
+        "$oid": "621bc4a978998378c4dd73f2"
+      },
+      {
+        "$oid": "621bc4ac78998378c4dd73f5"
+      },
+      {
+        "$oid": "621bc4b378998378c4dd73f8"
+      },
+      {
+        "$oid": "621bc4bb78998378c4dd73fb"
+      },
+      {
+        "$oid": "621bc4c678998378c4dd73fe"
+      },
+      {
+        "$oid": "621bc4ca78998378c4dd7401"
+      },
+      {
+        "$oid": "621bc4d178998378c4dd7404"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Item number </td> <td> D31766</td></tr><tr><td> Color </td> <td> grey</td></tr><tr><td> Volume in liters </td> <td> 24</td></tr><tr><td> Material </td> <td> 300D Polyester</td></tr><tr><td> Warranty </td> <td> Lifetime / 30 years</td></tr><tr><td> EAN </td> <td> 7640158669501</td></tr><tr><td> Max. Device Measurements (mm) </td> <td> 385 x 35 x 265 mm 15.16 x 1.38 x 10.43 inch</td></tr><tr><td> Product Measurements (mm) </td> <td> 300 x 480 x 170 mm 11.81 x 18.9 x 6.69 inch</td></tr><tr><td> Weight </td> <td> 0.8 kg / 1.76 lbs</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>Notebook compartment cushioned with High Density Foam (HDF) &amp; padded slip pocket for tablets up to 10.5 inches</li><li>YKK Quick &amp; Easy Lock System</li><li>Side pocket for power bank to charge your smartphone on the go</li></ul><p><br /></p>",
+    "shortPoints": [
+      "Laptop Backpack",
+      "Light Grey Colour",
+      "13-15.6\" Color "
+    ],
+    "file": [
+      {
+        "$oid": "621bc4d778998378c4dd7407"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "621bce4978998378c4dd744e"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "64c2759b4b48550dfc98078c"
+    },
+    "brandId": {
+      "$oid": "61cbf56d1d0a9407398262b0"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "Backpack GO 13-15.6 black",
+    "slug": "backpack-go-13-156-black",
+    "sku": 1530,
+    "description": "<p>Stylish and functional, this original daypack holds your gym and work essentials. The Backpack GO is comfortable to carry thanks to its ergonomic back cushioning and padded shoulder straps with an adjustable chest belt. Also includes a handle for carrying. The open front compartment expands easily to fit anything you need. Pack your sports shoes, cycling helmet or wet sports clothes and easily secure them with the metal hook and compression straps on the sides. The backpack includes a removable rain cover with a reflective DICOTA logo.</p><p><br /></p><p>Made out of water-repellent material, the Backpack GO is perfect for carrying and protecting your tech gear. Store your computer and documents in the notebook compartment cushioned with High Density Foam (HDF). The compartment is hidden in the back panel to provide perfect anti-theft protection. The main compartment contains one divider for tablets or documents and a zipped pocket for headphones. The spacious front compartments have a workstation for a pen and small items, such as power banks or charging cables. The backpack has a large front pocket and a loop to attach a bike LED light for when you cycle. Last but not least, there are two mesh pockets on the sides for drink bottles and umbrellas. Available in two colours.</p><ul><li>Notebook compartment cushioned with High Density Foam (HDF) in the back panel for anti-theft protection</li><li>Open, expandable compartment for your active gear including elastic mesh side pockets with a metal hook for fastening</li><li>Ergonomic back cushioning</li><li>Cushioned shoulder straps including adjustable chest belt</li><li>Made from water-repellent materials</li><li>Rain cover with reflective logo included</li></ul>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "621bcb0478998378c4dd742d"
+      },
+      {
+        "$oid": "621bcb0978998378c4dd7430"
+      },
+      {
+        "$oid": "621bcb0c78998378c4dd7433"
+      },
+      {
+        "$oid": "621bcb1278998378c4dd7436"
+      },
+      {
+        "$oid": "621bcc9278998378c4dd743f"
+      },
+      {
+        "$oid": "621bcc9978998378c4dd7442"
+      },
+      {
+        "$oid": "621bcc9f78998378c4dd7445"
+      },
+      {
+        "$oid": "621bcca578998378c4dd7448"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Item number </td> <td> D31763</td></tr><tr><td> Color </td> <td> black</td></tr><tr><td> Volume in liters </td> <td> 22</td></tr><tr><td> Material </td> <td> 600D Polyester</td></tr><tr><td> Warranty </td> <td> Lifetime / 30 years</td></tr><tr><td> EAN </td> <td> 7640158669471</td></tr><tr><td> Max. Device Measurements (mm) </td> <td> 385 x 35 x 265 mm 15.16 x 1.38 x 10.43 inch</td></tr><tr><td> Product Measurements (mm) </td> <td> 320 x 480 x 145 mm 12.6 x 18.9 x 5.71 inch</td></tr><tr><td> Weight </td> <td> 0.8 kg / 1.76 lbs</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>Notebook compartment cushioned with High Density Foam (HDF) in the back panel for anti-theft protection</li><li>Open, expandable compartment for your active gear including elastic mesh side pockets with a metal hook for fastening</li><li>Ergonomic back cushioning</li></ul><p><br /></p>",
+    "shortPoints": [
+      "Laptop Backpack",
+      "13-15.6\" Size",
+      "Color Black"
+    ],
+    "file": [
+      {
+        "$oid": "6384b25f819c5f74339aa40f"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "621bd7ad78998378c4dd74bb"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "64c2759b4b48550dfc98078c"
+    },
+    "brandId": {
+      "$oid": "61cbf56d1d0a9407398262b0"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "Laptop Backpack GO 13-15.6\" Light Grey",
+    "slug": "laptop-backpack-go-13-156-light-grey",
+    "sku": 1531,
+    "description": "<p>Stylish and functional, this original daypack holds your gym and work essentials. The Backpack GO is comfortable to carry thanks to its ergonomic back cushioning and padded shoulder straps with an adjustable chest belt. Also includes a handle for carrying. The open front compartment expands easily to fit anything you need. Pack your sports shoes, cycling helmet or wet sports clothes and easily secure them with the metal hook and compression straps on the sides. The backpack includes a removable rain cover with a reflective DICOTA logo.</p><p><br /></p><p>Made out of water-repellent material, the Backpack GO is perfect for carrying and protecting your tech gear. Store your computer and documents in the notebook compartment cushioned with High Density Foam (HDF). The compartment is hidden in the back panel to provide perfect anti-theft protection. The main compartment contains one divider for tablets or documents and a zipped pocket for headphones. The spacious front compartments have a workstation for a pen and small items, such as power banks or charging cables. The backpack has a large front pocket and a loop to attach a bike LED light for when you cycle. Last but not least, there are two mesh pockets on the sides for drink bottles and umbrellas. Available in two colours.</p><ul><li>Notebook compartment cushioned with High Density Foam (HDF) in the back panel for anti-theft protection</li><li>Open, expandable compartment for your active gear including elastic mesh side pockets with a metal hook for fastening</li><li>Ergonomic back cushioning</li><li>Cushioned shoulder straps including adjustable chest belt</li><li>Made from water-repellent materials</li><li>Rain cover with reflective logo included</li></ul><p><br /></p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "621bd75d78998378c4dd749e"
+      },
+      {
+        "$oid": "621bd76078998378c4dd74a1"
+      },
+      {
+        "$oid": "621bd76378998378c4dd74a4"
+      },
+      {
+        "$oid": "621bd76778998378c4dd74a7"
+      },
+      {
+        "$oid": "621bd76c78998378c4dd74aa"
+      },
+      {
+        "$oid": "621bd77478998378c4dd74ad"
+      },
+      {
+        "$oid": "621bd77b78998378c4dd74b0"
+      },
+      {
+        "$oid": "621bd77f78998378c4dd74b3"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Item number </td> <td> D31764</td></tr><tr><td> Color </td> <td> grey</td></tr><tr><td> Volume in liters </td> <td> 22</td></tr><tr><td> Material </td> <td> 300D Polyester</td></tr><tr><td> Warranty </td> <td> Lifetime / 30 years</td></tr><tr><td> EAN </td> <td> 7640158669488</td></tr><tr><td> Max. Device Measurements (mm) </td> <td> 385 x 35 x 265 mm 15.16 x 1.38 x 10.43 inch</td></tr><tr><td> Product Measurements (mm) </td> <td> 320 x 480 x 145 mm 12.6 x 18.9 x 5.71 inch</td></tr><tr><td> Weight </td> <td> 0.8 kg / 1.76 lbs</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>Notebook compartment cushioned with High Density Foam (HDF) in the back panel for anti-theft protection</li><li>Open, expandable compartment for your active gear including elastic mesh side pockets with a metal hook for fastening</li><li>Ergonomic back cushioning</li></ul><p><br /></p>",
+    "shortPoints": [
+      "Laptop Backpack",
+      "13-15.6\" Size",
+      "Light Grey"
+    ],
+    "file": [
+      {
+        "$oid": "621bd78678998378c4dd74b6"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "621bda9978998378c4dd7521"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "64c2759b4b48550dfc98078c"
+    },
+    "brandId": {
+      "$oid": "61cbf56d1d0a9407398262b0"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "Accessory Pouch Eco MOVE Small",
+    "slug": "accessory-pouch-eco-move-small",
+    "sku": 1532,
+    "description": "<p>Lived sustainability with a clear conscience - the accessories pouches MOVE are manufactured from recycled PET and are kind to the environment. Consistent recycling helps to conserve resources. At DICOTA, it's the foundation of our innovative solutions. Within the main material of the pouch, 3 PET bottles are given a new life - without compromising on quality, functionality or design. The bag offers excellent protection for your devices and is comfortable and easy to carry. Designed for daily use. Equipped with practical functions that make your life easier.</p><p><br /></p><p>Passport, ticket, smartphone, charger, cables, power bank, adapter, headphones, keys, gaming console, games, controller and more. With the Accessories Pouch MOVE you enjoy carefree travelling, knowing that all your belongings are perfectly organized and always within reach. The sophisticated interior with a variation of pockets, zipper compartments and flexible fixation straps provides storage space for everything you cannot miss during your journey. The RFID lined zipper compartment protects against unwanted scans, ensuring that your cards and personal information remain private and confidential. When travelling on a plane, use the key-holder as a hanger to attach the pouch to the seat in front of you and thereby safe space to comfortably rest your legs. Besides its great functionality, the pouch convinces as well in terms of design and durability thanks to an exciting combination of high-quality Polyester materials made from recycled PET.</p><ul><li>Made from 3 recycled PET bottles</li><li>For business, travel and gaming accessories</li><li>Functional interior helps to keep travel and business essentials organized</li><li>Main compartment with elastic straps to fix charging devices, power bank and cables</li><li>Additional zippered compartment with RFID blocker and slip-in pocket for passport, smartphone and other mobile accessories</li><li>Further zipper compartment on the front</li><li>Webbing loop with key chain ring can be used as hanger</li><li>Also perfect for gaming device &amp; related accessories</li></ul>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "621bd9b778998378c4dd7506"
+      },
+      {
+        "$oid": "621bd9ba78998378c4dd750b"
+      },
+      {
+        "$oid": "621bd9bd78998378c4dd750e"
+      },
+      {
+        "$oid": "621bd9c178998378c4dd7511"
+      },
+      {
+        "$oid": "621bd9c778998378c4dd7514"
+      },
+      {
+        "$oid": "621bd9cd78998378c4dd7519"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Item number </td> <td> D31833-RPET</td></tr><tr><td> Color </td> <td> black</td></tr><tr><td> Material </td> <td> 600D rPET Polyester</td></tr><tr><td> Warranty </td> <td> Lifetime / 30 years</td></tr><tr><td> EAN </td> <td> 7640186419659</td></tr><tr><td> Product Measurements (mm) </td> <td> 255 x 68 x 145 mm 10.04 x 2.68 x 5.71 inch</td></tr><tr><td> Weight </td> <td> 0.19 kg / 0.41 lbs</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>For business, travel and gaming accessories</li><li>Functional interior helps to keep travel and business essentials organized</li><li>Main compartment with elastic straps to fix charging devices, power bank and cables</li></ul><p><br /></p>",
+    "shortPoints": [
+      "Accessory Pouch",
+      "Small"
+    ],
+    "file": [
+      {
+        "$oid": "6384b2c3819c5f74339aa44b"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "621bdd0178998378c4dd7564"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "64c2759b4b48550dfc98078c"
+    },
+    "brandId": {
+      "$oid": "61cbf56d1d0a9407398262b0"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "Accessory Pouch Eco MOVE Medium",
+    "slug": "accessory-pouch-eco-move-medium",
+    "sku": 1533,
+    "description": "<p>Lived sustainability with a clear conscience - the accessories pouches are manufactured from recycled PET and are kind to the environment. Consistent recycling helps to conserve resources. At DICOTA, it's the foundation of our innovative solutions. Within the main material of the pouch, 3 PET bottles are given a new life - without compromising on quality, functionality or design. The bag offers excellent protection for your devices and is comfortable and easy to carry. Designed for daily use. Equipped with practical functions that make your life easier.</p><p><br /></p><p>Passport, ticket, smartphone, charger, cables, power bank, adapter, headphones, keys, gaming console, games, controller and more. With the Accessories Pouch MOVE you enjoy carefree travelling, knowing that all your belongings are perfectly organized and always within reach. The sophisticated interior with a variation of pockets, zipper compartments and flexible fixation straps provides storage space for everything you cannot miss during your journey. The RFID lined zipper compartment protects against unwanted scans, ensuring that your cards and personal information remain private and confidential. When travelling on a plane, use the key-holder as a hanger to attach the pouch to the seat in front of you and thereby safe space to comfortably rest your legs. Besides its great functionality, the pouch convinces as well in terms of design and durability thanks to an exciting combination of high-quality Polyester materials made from recycled PET.</p><ul><li>Made from 3 recycled PET bottles</li><li>For business, travel and gaming accessories</li><li>Functional interior helps to keep travel and business essentials organized</li><li>Main compartment with elastic straps to fix charging devices, power bank and cables</li><li>Additional zippered compartment with RFID blocker and slip-in pocket for passport, smartphone and other mobile accessories</li><li>Further zipper compartment on the front</li><li>Webbing loop with key chain ring can be used as hanger</li><li>Removable shoulder strap</li><li>Also perfect for gaming device &amp; related accessories</li></ul><p><br /></p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "621bdcbb78998378c4dd754c"
+      },
+      {
+        "$oid": "621bdcbe78998378c4dd754f"
+      },
+      {
+        "$oid": "621bdcc078998378c4dd7552"
+      },
+      {
+        "$oid": "621bdcc378998378c4dd7555"
+      },
+      {
+        "$oid": "621bdcc978998378c4dd7558"
+      },
+      {
+        "$oid": "621bdccd78998378c4dd755b"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Item number </td> <td> D31834-RPET</td></tr><tr><td> Color </td> <td> black</td></tr><tr><td> Material </td> <td> 600D rPET Polyester</td></tr><tr><td> Warranty </td> <td> Lifetime / 30 years</td></tr><tr><td> EAN </td> <td> 7640186419666</td></tr><tr><td> Product Measurements (mm) </td> <td> 220 x 83 x 210 mm 8.66 x 3.27 x 8.27 inch</td></tr><tr><td> Weight </td> <td> 0.27 kg / 0.59 lbs</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>For business, travel and gaming accessories</li><li>Functional interior helps to keep travel and business essentials organized</li><li>Main compartment with elastic straps to fix charging devices, power bank and cables</li></ul><p><br /></p>",
+    "shortPoints": [
+      "Accessory Pouch",
+      "Medium"
+    ],
+    "file": [
+      {
+        "$oid": "621bdcd878998378c4dd7560"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "621c696078998378c4dd763d"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "64c2759b4b48550dfc98078c"
+    },
+    "brandId": {
+      "$oid": "61cbf56d1d0a9407398262b0"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "Accessory Pouch Eco MOVE Large",
+    "slug": "accessory-pouch-eco-move-large",
+    "sku": 1534,
+    "description": "<p>Lived sustainability with a clear conscience - the accessories pouches are manufactured from recycled PET and are kind to the environment. Consistent recycling helps to conserve resources. At DICOTA, it's the foundation of our innovative solutions. Within the main material of the pouch, 4 PET bottles are given a new life - without compromising on quality, functionality or design. The bag offers excellent protection for your devices and is comfortable and easy to carry. Designed for daily use. Equipped with practical functions that make your life easier.</p><p><br /></p><p>Passport, ticket, smartphone, charger, cables, power bank, adapter, headphones, keys, gaming console, games, controller and more. With the Accessories Pouch MOVE you enjoy carefree travelling, knowing that all your belongings are perfectly organized and always within reach. The sophisticated interior with a variation of pockets, zipper compartments and flexible fixation straps provides storage space for everything you cannot miss during your journey. The RFID lined zipper compartment protects against unwanted scans, ensuring that your cards and personal information remain private and confidential. When travelling on a plane, use the key-holder as a hanger to attach the pouch to the seat in front of you and thereby safe space to comfortably rest your legs. Besides its great functionality, the pouch convinces as well in terms of design and durability thanks to an exciting combination of high-quality Polyester materials made from recycled PET.</p><ul><li>Made from 4 recycled PET bottles</li><li>For business, travel and gaming accessories</li><li>Functional interior helps to keep travel and business essentials organized</li><li>Main compartment with elastic straps to fix charging devices, power bank and cables</li><li>Additional zippered compartment with RFID blocker and slip-in pocket for passport, smartphone and other mobile accessories</li><li>Further zipper compartment on the front</li><li>Webbing loop with key chain ring can be used as hanger</li><li>Removable shoulder strap</li><li>Also perfect for gaming device &amp; related accessories</li></ul>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "621c690378998378c4dd7625"
+      },
+      {
+        "$oid": "621c690578998378c4dd7628"
+      },
+      {
+        "$oid": "621c690878998378c4dd762b"
+      },
+      {
+        "$oid": "621c690b78998378c4dd762e"
+      },
+      {
+        "$oid": "621c691078998378c4dd7631"
+      },
+      {
+        "$oid": "621c691678998378c4dd7634"
+      },
+      {
+        "$oid": "621c691a78998378c4dd7639"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Item number </td> <td> D31835-RPET</td></tr><tr><td> Color </td> <td> black</td></tr><tr><td> Material </td> <td> 600D rPET Polyester</td></tr><tr><td> Warranty </td> <td> Lifetime / 30 years</td></tr><tr><td> EAN </td> <td> 7640186419673</td></tr><tr><td> Product Measurements (mm) </td> <td> 280 x 90 x 200 mm 11.02 x 3.54 x 7.87 inch</td></tr><tr><td> Weight </td> <td> 0.31 kg / 0.68 lbs</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>For business, travel and gaming accessories</li><li>Functional interior helps to keep travel and business essentials organized</li><li>Main compartment with elastic straps to fix charging devices, power bank and cables</li></ul><p><br /></p>",
+    "shortPoints": [
+      "Accessory Pouch",
+      "Large"
+    ],
+    "file": [
+      {
+        "$oid": "6384b3a8819c5f74339aa529"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "621c6a8478998378c4dd7666"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "64c2759b4b48550dfc98078c"
+    },
+    "brandId": {
+      "$oid": "61cbf56d1d0a9407398262b0"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "Laptop Case Slim Eco PRO 12-14.1\"",
+    "slug": "laptop-case-slim-eco-pro-12-141",
+    "sku": 1535,
+    "description": "<p>Today's actions shape tomorrow's world. Which is why, here at DICOTA, we are dedicated to developing environmentally friendly solutions and therefore make all the items in our ECO collections out of sustainable, recycled PET. We reuse up to 36 PET bottles, so you will receive an environmentally friendly product with a life-long guarantee. Our PET products also have the quality, look and finish that you know and love.</p><p><br /></p><p>The Eco Slim Case PRO reliably accompanies you everywhere and meets the highest standards in terms of quality, functionality and protection. The fitall system separating wall in the notebook compartment lies protectively around your device and fits automatically to sizes from 12-14.1\". The perforated and thus light EVA foam material optimally protects the edges of your notebook. The high-quality genuine leather handles ensure comfortable transportation for daily use. Besides the notebook compartment, the Eco Slim Case PRO features a well-padded slip pocket designated to tablets up to 10.5\". Furthermore, the bag offers generous storage space for documents at the back of the case. The front pocket allows you to organize your personal equipment and additional mobile accessories. With its trolley fastening strap, the Eco Slim Case PRO ensures perfect comfort when travelling along with luggage. The Eco Slim Case PRO is perfect for you if you are always on the go and want to support the recycling of PET bottles with an eco-friendly case.</p><ul><li>Made of 7.5 recycled PET bottles</li><li>Lockable and cushioned notebook compartment with fitall system and anti slip technology</li><li>Maximum security thanks to Memory Foam and EVA frame protection</li><li>Cushioned pocket for tablets up to 10.5\"</li><li>Spacious front pocket with zip-pocket and workstation for mobile accessories</li><li>Open document compartment on the rear</li><li>High-quality metal features</li><li>Adjustable shoulder strap with comfortable padding and anti slip technology</li><li>Comfortable carry handles made of real leather</li><li>Trolley belt</li></ul><p><br /></p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "621c6a3f78998378c4dd7650"
+      },
+      {
+        "$oid": "621c6a4178998378c4dd7653"
+      },
+      {
+        "$oid": "621c6a4478998378c4dd7656"
+      },
+      {
+        "$oid": "621c6a4678998378c4dd7659"
+      },
+      {
+        "$oid": "621c6a5378998378c4dd765c"
+      },
+      {
+        "$oid": "621c6a5878998378c4dd765f"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Item number </td> <td> D30990-RPET</td></tr><tr><td> Color </td> <td> black</td></tr><tr><td> Material </td> <td> 900Dx600D rPET Polyester</td></tr><tr><td> Warranty </td> <td> Lifetime / 30 years</td></tr><tr><td> EAN </td> <td> 7640186419949</td></tr><tr><td> Max. Device Measurements (mm) </td> <td> 340 x 40 x 245 mm 13.39 x 1.57 x 9.65 inch</td></tr><tr><td> Product Measurements (mm) </td> <td> 375 x 80 x 285 mm 14.76 x 3.15 x 11.22 inch</td></tr><tr><td> Weight </td> <td> 0.71 kg / 1.56 lbs</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>Lockable and cushioned notebook compartment with fitall system and anti slip technology</li><li>Maximum security thanks to Memory Foam and EVA frame protection</li><li>Cushioned pocket for tablets up to 10.5\"</li></ul><p><br /></p>",
+    "shortPoints": [
+      "Laptop Case",
+      "12-14.1\" Size"
+    ],
+    "file": [
+      {
+        "$oid": "621c6a5d78998378c4dd7662"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "629df2a51d072097430b0227"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "64c2759b4b48550dfc98078c"
+    },
+    "brandId": {
+      "$oid": "61cbf56d1d0a9407398262b0"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "Dicota Backpack Solid Grey for 15.6Inch Laptop, D31761",
+    "slug": "dicota-backpack-solid-grey-for-156inch-laptop-d31761",
+    "sku": 1536,
+    "description": "<p><span>With the backpack trade you are equipped in the best way possible for your day-to-day business activities. You can securely transport your notebook to the office, customer visits, trade fairs or events Comfortable and adjustable shoulder strap with the possibility of fixing in the chest area makes carrying the backpack very comfortable. Dimensions</span></p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "629df2811d072097430b021c"
+      },
+      {
+        "$oid": "629df28c1d072097430b021f"
+      },
+      {
+        "$oid": "629df2901d072097430b0222"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Size </td> <td> 15.6 Inch</td></tr><tr><td> Product Weight (kg) </td> <td> 0.58</td></tr><tr><td> Model Name </td> <td> D31761</td></tr><tr><td> Type </td> <td> Backpack</td></tr><tr><td> Dimensions External </td> <td> 40 x 36 x 40 cm</td></tr><tr><td> Colour </td> <td> Grey</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>Adjustable shoulder straps.</li><li>Single pen loop.</li><li>Easy access side pockets</li><li>With Contrast Sky Blue 210D Lining.</li></ul><p><br /></p>",
+    "shortPoints": [
+      "Color : Grey",
+      "2 Year Warranty ",
+      "For 15.6Inch Laptop"
+    ],
+    "file": [
+      {
+        "$oid": "639c1930fe7575f2de1772e9"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "629df5931d072097430b0245"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "64c2759b4b48550dfc98078c"
+    },
+    "brandId": {
+      "$oid": "61cbf56d1d0a9407398262b0"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "Dicota D31760 Backpack for 15.6Inch Laptop",
+    "slug": "dicota-d31760-backpack-for-156inch-laptop",
+    "sku": 1537,
+    "description": "<p><span>Inspired by the shapes and forms of Berlin. The products of the DICOTA STYLE collection combine metropolitan design with functional details and reliable protection for your equipment whilst on the road.</span></p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "629df5851d072097430b023d"
+      },
+      {
+        "$oid": "629df5891d072097430b0240"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Model Number </td> <td> D31760</td></tr><tr><td> Weight </td> <td> 0.63 KG</td></tr><tr><td> Number of pockets </td> <td> 1 Main Pocket/3 Accessory Pocket</td></tr><tr><td> Dimensions External </td> <td> 42 x 35 x 14 cm</td></tr><tr><td> Material Used </td> <td> Polyester</td></tr><tr><td> Size </td> <td> 15.6 Inches</td></tr><tr><td> Case Type </td> <td> Laptop Backpack</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>Modern design and exciting combination of material</li><li>Hidden notebook compartment with surrounding padding</li><li>Generous expandable main compartment with practical side access</li></ul>",
+    "shortPoints": [
+      "Colour : anthracite grey ",
+      "Size :  15.6 Inches",
+      "2 YEAR WARRANTY"
+    ],
+    "file": [
+      {
+        "$oid": "639c1957fe7575f2de177319"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  }
+]

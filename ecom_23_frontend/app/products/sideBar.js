@@ -45,10 +45,13 @@ export default function SideBar({ searchParams }) {
   // console.log("tags-->", tagParams, categoryParams);
 
   useEffect(() => {
-    getBrandsData();
     getCategoryData();
     getTagsData();
   }, []);
+
+  useEffect(() => {
+    getBrandsData();
+  }, [categoryParams]);
 
   const clearSearchParams = () => {
     let params = new URLSearchParams(searchParams);
