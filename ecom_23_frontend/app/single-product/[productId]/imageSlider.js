@@ -1,6 +1,7 @@
 "use client";
 import React, { useState } from "react";
 import Image from "next/image";
+import { motion, AnimatePresence } from "framer-motion";
 import CONST from "@/utils/apis";
 
 export default function ImageSlider({ images }) {
@@ -74,13 +75,42 @@ export default function ImageSlider({ images }) {
   return (
     <>
       <div className="">
-        <div className="mt-8 mb-4 p-4 grid place-content-center border rounded relative  ">
-          <Image
-            src={`${CONST.IMG_URL}/products/${images[current]?.lgUrl}`}
-            width={450}
-            height={450}
-            alt="Product Image"
-          />
+        <div className="mt-8 mb-4 p-4 grid place-content-center border rounded relative h-[480px] ">
+          <AnimatePresence>
+            {current % 2 && (
+              <motion.div
+                className="top-0 left-0 absolute"
+                initial={{ opacity: 0, x: -100 }}
+                animate={{ x: 0, opacity: 1 }}
+                exit={{ x: 100, opacity: 0 }}
+              >
+                <Image
+                  src={`${CONST.IMG_URL}/products/${images[current]?.lgUrl}`}
+                  width={450}
+                  height={450}
+                  alt="Product Image"
+                />
+              </motion.div>
+            )}
+          </AnimatePresence>
+          <AnimatePresence>
+            {current % 2 == 0 && (
+              <motion.div
+                className="top-0 left-0 absolute"
+                initial={{ opacity: 0, x: -100 }}
+                animate={{ x: 0, opacity: 1 }}
+                exit={{ x: 100, opacity: 0 }}
+              >
+                <Image
+                  src={`${CONST.IMG_URL}/products/${images[current]?.lgUrl}`}
+                  width={450}
+                  height={450}
+                  alt="Product Image"
+                />
+              </motion.div>
+            )}
+          </AnimatePresence>
+
           <Buttons />
         </div>
         <div className="flex  gap-2 ">
@@ -88,13 +118,16 @@ export default function ImageSlider({ images }) {
             <div
               key={index}
               onClick={() => setCurrent(index)}
-              className="cursor-pointer hover:scale-110 transition-all border border-gray-200/50 p-2 hover:border-blue-300 rounded "
+              className={`cursor-pointer hover:scale-110 transition-all border-2 border-gray-200/50 p-2 hover:border-blue-300 rounded ${
+                index === current && "border-gray-300 border-2 scale-110"
+              }`}
             >
               <Image
                 src={`${CONST.IMG_URL}/products/${item.mdUrl}`}
                 width={200}
                 height={200}
                 alt="Product Image"
+                className=""
               />
             </div>
           ))}

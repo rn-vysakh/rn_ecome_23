@@ -3,7 +3,11 @@ import _ from "lodash";
 import slugify from "slugify";
 import log from "../../logger/logger";
 import httpRes from "../../utils/responses";
+import Product from "../../models/products.model";
 import Brand, { BrandDocument } from "../../models/brand.model";
+import Mongoose from "mongoose";
+
+const ObjectId = Mongoose.Types.ObjectId;
 
 export const createBrand = async (req: Request, res: Response) => {
   try {
@@ -64,6 +68,72 @@ export const getAllBrand = async (req: Request, res: Response) => {
       return res
         .status(404)
         .send(httpRes({ code: 404, message: "Brand Not found" }));
+    }
+  } catch (e: any) {
+    log.error(e);
+    return res.status(500).send(httpRes({ code: 500, message: e }));
+  }
+};
+
+export const getCategoryWice = async (req: Request, res: Response) => {
+  try {
+    let catId: string = req.query.catId as string;
+
+    if (!catId)
+      return res
+        .status(400)
+        .send(httpRes({ code: 400, message: "Brand Id is required" }));
+
+    let catIds = catId.split(",");
+
+    let catObjId = catIds.map((id) => new ObjectId(id));
+
+    let findQuery: any = {
+      status: true,
+      categoryId: { $in: catObjId },
+    };
+
+    console.log("findQuery", findQuery);
+
+    let barndData: any = await Product.aggregate([
+      {
+        $match: findQuery,
+      },
+      {
+        $group: {
+          _id: "$brandId",
+        },
+      },
+      {
+        $lookup: {
+          from: "brands",
+          localField: "_id",
+          foreignField: "_id",
+          as: "brand",
+        },
+      },
+      {
+        $unwind: "$brand",
+      },
+      {
+        $project: {
+          _id: "$brand._id",
+          categoryName: "$brand.brandName",
+        },
+      },
+    ]);
+    if (barndData) {
+      return res.status(200).send(
+        httpRes({
+          code: 200,
+          message: "Barnd Find Successfully",
+          data: barndData,
+        })
+      );
+    } else {
+      return res
+        .status(404)
+        .send(httpRes({ code: 404, message: "Category Not found" }));
     }
   } catch (e: any) {
     log.error(e);
