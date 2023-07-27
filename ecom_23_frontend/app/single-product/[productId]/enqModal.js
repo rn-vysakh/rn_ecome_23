@@ -4,6 +4,7 @@ import React, { useState } from "react";
 import Image from "next/image";
 import { motion, AnimatePresence } from "framer-motion";
 import { AiOutlineClose } from "react-icons/ai";
+import PhoneInput from "react-phone-number-input";
 import CONST from "@/utils/apis";
 
 export default function enqModal({ productData }) {
@@ -20,6 +21,10 @@ export default function enqModal({ productData }) {
     setFormData({ ...formData, [e.target.name]: e.target.value });
   };
 
+  const setValue = (value) => {
+    setFormData({ ...formData, phone: value });
+  };
+
   const handleShow = () => {
     setShow(true);
   };
@@ -31,7 +36,7 @@ export default function enqModal({ productData }) {
 
   const { _id, title, image } = productData;
 
-  console.log(image);
+  // console.log(image);
 
   const ModalSec = () => {
     return (
@@ -94,20 +99,20 @@ export default function enqModal({ productData }) {
                   </div>
                 </div>
                 <div className="flex flex-col md:flex-row gap-2">
-                  <div className="flex flex-col gap-1 w-full md:w-1/2">
+                  <div className="flex flex-col gap-1 w-full ">
                     <label htmlFor="name" className="text-gray-700 text-sm ">
-                      Name <span className="text-red-500">*</span>
+                      Phone <span className="text-red-500">*</span>
                     </label>
-                    <input
-                      type="text"
-                      name="name"
-                      placeholder="Your Name"
-                      className="border border-gray-300 p-2 rounded focus:outline-none focus:ring-2 focus:ring-blue-300 focus:border-transparent"
-                      onChange={handleChange}
-                      required
+                    <PhoneInput
+                      international
+                      countryCallingCodeEditable={false}
+                      defaultCountry="AE"
+                      placeholder="Enter phone number"
+                      name="phone"
+                      onChange={setValue}
                     />
                   </div>
-                  <div className="flex flex-col gap-1 w-full md:w-1/2">
+                  <div className="flex flex-col gap-1 w-full ">
                     <label htmlFor="company" className="text-gray-700 text-sm ">
                       Company Name <span className="text-red-500">*</span>
                     </label>

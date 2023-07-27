@@ -89,6 +89,7 @@ export default function ImageSlider({ images }) {
                   width={450}
                   height={450}
                   alt="Product Image"
+                  priority={true}
                 />
               </motion.div>
             )}
@@ -106,6 +107,7 @@ export default function ImageSlider({ images }) {
                   width={450}
                   height={450}
                   alt="Product Image"
+                  priority={true}
                 />
               </motion.div>
             )}
