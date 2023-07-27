@@ -82,3 +82,39 @@
 .filter-check-box:checked {
   background-color: rgb(68, 70, 72);
 }
+
+.PhoneInput {
+  width: 100%;
+  display: flex;
+}
+.PhoneInputCountrySelect {
+  width: 80px;
+  height: 40px;
+  border: 1px solid rgb(221, 221, 221);
+  font-size: 12px;
+  color: #343232;
+}
+.PhoneInputCountry {
+  display: flex;
+  position: relative;
+  gap: 5px;
+}
+
+.PhoneInputCountryIconImg {
+  width: 30px;
+  height: 30px;
+  margin-top: 5px;
+  /* margin: 10px; */
+  /* position: absolute;
+  top: 50%;
+  left: 10px;
+  transform: translatey(-50%); */
+}
+.PhoneInputInput {
+  width: 100%;
+  height: 40px;
+  border: 1px solid rgb(221, 221, 221);
+  font-size: 12px;
+  color: #343232;
+  padding-left: 10px;
+}
