@@ -6,6 +6,7 @@ export interface CategoryDocument extends mongoose.Document {
   status?: boolean;
   categoryName: string;
   description?: string;
+  order?: number;
   image?: string;
   isSubCategory?: boolean;
   parentId?: string;
@@ -20,6 +21,7 @@ const CategorySchema = new mongoose.Schema(
     userId: String,
     categoryName: { type: String, required: true },
     description: { type: String, required: false },
+    order: { type: Number, required: false },
     image: { type: mongoose.Schema.Types.ObjectId, ref: "Image" },
     status: { type: Boolean, default: true },
     categorySection: { type: String, enum: ["featured", "gp1", "gp2", "gp3"] },

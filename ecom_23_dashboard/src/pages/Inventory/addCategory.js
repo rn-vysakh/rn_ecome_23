@@ -64,6 +64,7 @@ export default function AddCategory() {
     type: 'new',
     parentName: '',
     parent: '',
+    order: '',
   };
   const initialResult = {
     error: false,
@@ -92,7 +93,6 @@ export default function AddCategory() {
     if (params.id) {
       const response = await getReq({ url: `api/category/${params.id}` });
 
-      console.log('Single .........', response.data);
       setState({
         ...state,
         type: 'edit',
@@ -104,6 +104,7 @@ export default function AddCategory() {
         parentName: response.data.parentName,
         imageUrl: response.data.image ? response.data.image.mdUrl : '',
         parent: `${response.data.parentId}|${response.data.parentName}`,
+        order: response.data.order,
       });
       setApiResult({
         ...apiResult,
@@ -112,7 +113,6 @@ export default function AddCategory() {
     }
 
     const response = await getReq({ url: 'api/category' });
-    console.log(response.data);
     if (!response.error) {
       setCategory(response.data);
       setApiResult({
@@ -178,6 +178,7 @@ export default function AddCategory() {
     };
     if (state.image) data.image = state.image;
     if (state.description) data.description = state.description;
+    if (state.order) data.order = state.order;
     if (state.categorySection) data.categorySection = state.categorySection;
     if (state.isSubCategory === 'yes') data.isSubCategory = true;
     if (state.parent) {
@@ -225,6 +226,7 @@ export default function AddCategory() {
     if (state.categoryName) data.categoryName = state.categoryName;
     if (state.image) data.image = state.image;
     if (state.description) data.description = state.description;
+    if (state.order) data.order = state.order;
     if (state.categorySection) data.categorySection = state.categorySection;
 
     if (state.isSubCategory === 'yes') {
@@ -243,7 +245,6 @@ export default function AddCategory() {
       data,
     });
 
-    console.log(response.data);
     if (!response.error) {
       toast.success(response.message);
       setApiResult({
@@ -387,6 +388,16 @@ export default function AddCategory() {
                           ) : (
                             ''
                           )}
+                          <TextField
+                            fullWidth
+                            type={'number'}
+                            label="Order"
+                            placeholder="Order"
+                            name="order"
+                            defaultValue={state.order}
+                            value={state.order}
+                            onChange={handleChange}
+                          />
                         </Stack>
                       </Stack>
 
