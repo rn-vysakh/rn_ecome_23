@@ -34,7 +34,7 @@ export default function ProductDescription({ description, spec, downloads }) {
     return (
       <div>
         <h1>
-          Commimg Soon <br />
+          Comimg Soon <br />
         </h1>
       </div>
     );
