@@ -7,6 +7,10 @@ const openSans = Open_Sans({ subsets: ["latin"] });
 export const metadata = {
   title: "Rookie Ninja",
   description: "Products",
+  icons: {
+    favicon: "/favicon.ico",
+    appleTouchIcon: "/apple-touch-icon.png",
+  },
 };
 
 export default function RootLayout({ children }) {
