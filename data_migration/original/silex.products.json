@@ -1,0 +1,647 @@
+[{
+  "_id": {
+    "$oid": "61d96fe58202199476b47e4d"
+  },
+  "name": "SILEX BR-300AN",
+  "categoryId": [
+    {
+      "$oid": "61cbf8671d0a9407398262bc"
+    }
+  ],
+  "brandId": {
+    "$oid": "61cbf50e1d0a9407398262aa"
+  },
+  "shortPoints": [
+    "Advanced security function",
+    "Integrated device control software",
+    "Operation log saving function"
+  ],
+  "description": "<p><strong>With operation log saving function</strong></p><p>BR-300AN is a wireless bridge device which can easily convert a 10/100/1000BASE-T wired LAN device to a wireless LAN device. It supports a wireless LAN communication in the 2.4GHz and 5GHz bands and enables a wired LAN device to join in a wireless LAN environment easily. It also supports enterprise security which allows you to use the Wireless Bridge BR-300AN reliably even in environments such as offices and healthcare sites which require security. This product is not available in North America.</p><p><br></p><p><strong>WITH OPERATION LOG SAVING FUNCTION</strong></p><p>BR-300AN is a wireless bridge device which can easily convert a 10/100/1000BASE-T wired LAN device to a wireless LAN device. It supports a wireless LAN communication in the 2.4GHz and 5GHz bands and enables a wired LAN device to join in a wireless LAN environment easily. It also supports enterprise security which allows you to use the Wireless Bridge BR-300AN reliably even in environments such as offices, health care sites that require security.</p><p><br></p><p><strong>Features and Benefits</strong></p><p>Can be used in 'single-client-mode' and 'multi-client-mode' with up to 16 devices in combination with a Hub/Switch. Both hardware and software are developed and manufactured by SILEX with AMC Manager support</p>",
+  "shortDescription": "<ul><li>Device mobilization is realized</li><li>Operation log saving function</li><li>Advanced security function</li><li>Integrated device control software</li></ul>",
+  "specifications": [
+    {
+      "title": "Interface:\t",
+      "value1": "RJ-45 Ã— 1Port\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621868b64cdff31f8a1c4273"
+      }
+    },
+    {
+      "title": "LAN Standard:\t",
+      "value1": "10/100/1000BASE-T(auto-recognition)\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621868b64cdff31f8a1c4274"
+      }
+    },
+    {
+      "title": "WLAN Standard:\t",
+      "value1": "IEEE 802.11a/b/g/n 2Tx2R\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621868b64cdff31f8a1c4275"
+      }
+    },
+    {
+      "title": "Channels:\t",
+      "value1": "2.4GHz : 1ï½ž13ch, 5GHz : 36~64ch, 100ï½ž140ch\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621868b64cdff31f8a1c4276"
+      }
+    },
+    {
+      "title": "Antenna:\t",
+      "value1": "Built-in antenna â€“ 2,4- and 5-GHz-Band\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621868b64cdff31f8a1c4277"
+      }
+    },
+    {
+      "title": "Push button:\t",
+      "value1": "Operation mode switching, default setting and smart wireless\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621868b64cdff31f8a1c4278"
+      }
+    },
+    {
+      "title": "Storage Conditions temperature:\t",
+      "value1": "-10 to 50&#176; C, humidity- 20 to 90%RF\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621868b64cdff31f8a1c4279"
+      }
+    },
+    {
+      "title": "Operating Conditions temperature:\t",
+      "value1": "0 to 40Î¥, humidity 20 to 80%RF\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621868b64cdff31f8a1c427a"
+      }
+    },
+    {
+      "title": "Maximum Power Consumption:\t",
+      "value1": "5.5W(DC5V 1.1A)\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621868b64cdff31f8a1c427b"
+      }
+    },
+    {
+      "title": "Dimensions:\t",
+      "value1": "100.0mm x 100.0mm x 25.5mm\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621868b64cdff31f8a1c427c"
+      }
+    },
+    {
+      "title": "Weights:\t",
+      "value1": "120g\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621868b64cdff31f8a1c427d"
+      }
+    },
+    {
+      "title": "Setting:\t",
+      "value1": "Web browser (supports AMC Finder), AMC Manager\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621868b64cdff31f8a1c427e"
+      }
+    },
+    {
+      "title": "",
+      "type": "title",
+      "_id": {
+        "$oid": "6381b5425cbeae8e59d4c8d2"
+      }
+    },
+    {
+      "title": "",
+      "type": "terms",
+      "_id": {
+        "$oid": "6381b5425cbeae8e59d4c8d3"
+      }
+    }
+  ],
+  "qty": 10,
+  "image": [
+    {
+      "$oid": "61d994f76f3b7a8a81014e03"
+    },
+    {
+      "$oid": "621868b54cdff31f8a1c4270"
+    }
+  ],
+  "file": [
+    "61d7f0f27b742f990fde0490",
+    {
+      "$oid": "6381b5415cbeae8e59d4c8c3"
+    }
+  ],
+  "keywords": [
+    "ROOKIE NINJA"
+  ],
+  "seoDesc": " Product details for SILEX BR-300AN. PDF brochures available. Get a quote today!",
+  "filters": [],
+  "status": true,
+  "userId": {
+    "$oid": "61cb1bb646d546f1a70c8b28"
+  },
+  "updatedAt": {
+    "$date": "2022-11-26T06:42:10.818Z"
+  },
+  "filters2": {}
+},
+{
+  "_id": {
+    "$oid": "61d96fe58202199476b47e4e"
+  },
+  "name": "SILEX DS-510",
+  "categoryId": [
+    {
+      "$oid": "61cbf8671d0a9407398262bc"
+    }
+  ],
+  "brandId": {
+    "$oid": "61cbf50e1d0a9407398262aa"
+  },
+  "shortPoints": [
+    "Wired LAN",
+    "Printer AutoConnect",
+    "Gigabit connection"
+  ],
+  "description": "<p>The Silex DS-510 is designed to easily connect and share USB devices over a network. Printers, Scanners, Disk Drives, Card Readers, or virtually any other USB device can be now be enabled with network capability. It allows flexibility to place the USB device anywhere on the network instead of needing to be attached directly to the computer, and multiple users can access the USB device.</p><p><br></p><p><strong>Feature and Benefits</strong></p><p>High-Performance data throughput due to optimized performance and gigabit connection. When the device server is not used, the power supply to the USB bus is turned off to save energy. This device is ideal for virtual environments and Citrix Ready certified.</p>",
+  "shortDescription": "<ul><li>High data throughput and Gigabit connection</li><li>Energy Saver Mode</li><li>Printer Auto Connect features to share</li><li>Isochronous Transfer Mode</li><li>Best Compatibility with a variety of devices</li><li>Compatible with virtualization programs</li><li>Needs no drivers to use the USB devices</li></ul>",
+  "specifications": [
+    {
+      "title": "Product name:\t",
+      "value1": "DS-510\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621868ed4cdff31f8a1c42ab"
+      }
+    },
+    {
+      "title": "Wired LAN:\t",
+      "value1": "10BASE-T, 100BASE-TX, 1000BASE-T\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621868ed4cdff31f8a1c42ac"
+      }
+    },
+    {
+      "title": "Device interface:\t",
+      "value1": "2 x USB 2.0 Hi-Speed (type A)\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621868ed4cdff31f8a1c42ad"
+      }
+    },
+    {
+      "title": "OS:\t",
+      "value1": "Windows 7/8/8.1/10, Windows Server 2019/ 2016/2012(R1, R2)/2008(R2), Mac OS X (PowerPC: Ver10.3.x to Ver10.5.x, Intel: Ver10.4.4 to Ver10.14.x)\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621868ed4cdff31f8a1c42ae"
+      }
+    },
+    {
+      "title": "Protocol supported:\t",
+      "value1": "TCP/IP\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621868ed4cdff31f8a1c42af"
+      }
+    },
+    {
+      "title": "Configuration:\t",
+      "value1": "Setup utility, Web browser, TELNET\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621868ed4cdff31f8a1c42b0"
+      }
+    },
+    {
+      "title": "Dimensions:\t",
+      "value1": "W: 100mm x D: 100mm x H: 25.5mm\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621868ed4cdff31f8a1c42b1"
+      }
+    },
+    {
+      "title": "Weight:\t",
+      "value1": "96g (main body only)\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621868ed4cdff31f8a1c42b2"
+      }
+    },
+    {
+      "title": "Power supply:\t",
+      "value1": "AC adapter AC100V 50/60Hz\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621868ed4cdff31f8a1c42b3"
+      }
+    },
+    {
+      "title": "",
+      "type": "title",
+      "_id": {
+        "$oid": "6381b7235cbeae8e59d4c909"
+      }
+    },
+    {
+      "title": "",
+      "type": "terms",
+      "_id": {
+        "$oid": "6381b7235cbeae8e59d4c90a"
+      }
+    }
+  ],
+  "qty": 10,
+  "image": [
+    {
+      "$oid": "61d994f76f3b7a8a81014e03"
+    },
+    {
+      "$oid": "621868eb4cdff31f8a1c42a8"
+    }
+  ],
+  "file": [
+    "61d7f0f27b742f990fde0490",
+    {
+      "$oid": "6381b7145cbeae8e59d4c8fd"
+    }
+  ],
+  "keywords": [
+    "ROOKIE NINJA"
+  ],
+  "seoDesc": " Product details for SILEX DS-510. PDF brochures available. Get a quote today!",
+  "filters": [],
+  "status": true,
+  "userId": {
+    "$oid": "61cb1bb646d546f1a70c8b28"
+  },
+  "updatedAt": {
+    "$date": "2022-11-26T06:50:11.645Z"
+  },
+  "filters2": {}
+},
+{
+  "_id": {
+    "$oid": "61d96fe58202199476b47e4f"
+  },
+  "name": "SILEX DS-520AN",
+  "categoryId": [
+    {
+      "$oid": "61cbf8671d0a9407398262bc"
+    }
+  ],
+  "brandId": {
+    "$oid": "61cbf50e1d0a9407398262aa"
+  },
+  "shortPoints": [
+    "Supports Enterprise Security",
+    "One Hi-Speed USB",
+    "Standard TCP/IP printing"
+  ],
+  "description": "<p><strong>Silex DS-520AN 802.11n Wireless and Gigabit Ethernet USB Device Server</strong></p><p>The DS-520AN is a USB Device Server supporting 802.11n Wireless LAN or Gigabit Ethernet Wired LAN Networks. Any USB device can be used over a wired/wireless network with the DS-520AN just as though it was connected to a computer.</p><p><br></p><p><strong>Gigabit Ethernet USB Device Server</strong></p><p>Office equipment such as USB scanners, multi-function printers (MFPs), dongles, hard disk drives, and cameras etc. frequently lack a wireless interface thus making them unavailable to connected devices such as computers, tablets, and smartphones. The DS-520AN Wireless USB Device Server replaces the USB cable with an enterprise-secure wireless or wired LAN connection.</p><p><br></p><p><strong>Features and Benefits</strong></p><p>The DS-520AN Supports Enterprise Security (IEEE802.1X) , Full-Speed / High-Speed Isochronous Transfers for real-time data transfers from USB cameras and speakers. The 802.11n wireless connection supports up to 300Mbps or the wired Gigabit Ethernet connection supports up to 1Gbps throughput.</p>",
+  "shortDescription": "<ul><li>Supports Enterprise Security</li><li>One Hi-Speed USB</li><li>Standard TCP/IP printing</li></ul>",
+  "specifications": [
+    {
+      "title": "Model name:\t",
+      "value1": "DS-520AN\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621868a44cdff31f8a1c423c"
+      }
+    },
+    {
+      "title": "Wired LAN:\t",
+      "value1": "10BASE-T, 100BASE-TX, 1000BASE-T\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621868a44cdff31f8a1c423d"
+      }
+    },
+    {
+      "title": "Wireless LAN:\t",
+      "value1": "IEEE 802.11a/b/g/n Dual-Band\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621868a44cdff31f8a1c423e"
+      }
+    },
+    {
+      "title": "Device Interface:\t",
+      "value1": "USB 2.0 Hi-Speed (A type)\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621868a44cdff31f8a1c423f"
+      }
+    },
+    {
+      "title": "Supported protocols:\t",
+      "value1": "TCP / IP\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621868a44cdff31f8a1c4240"
+      }
+    },
+    {
+      "title": "OS support:\t",
+      "value1": "Windows 7/8/8.1/10, Windows Server 2019/2016/2012(R1, R2)/2008(R2), Mac OS X (PowerPC: Ver10.3.x to Ver10.5.x, Intel: Ver10.4.4 to<br>\r\nVer10.14.x)\r\n ",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621868a44cdff31f8a1c4241"
+      }
+    },
+    {
+      "title": "Setting method:\t",
+      "value1": "Device Server Setup, Web browser, Smart Wireless Setup\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621868a44cdff31f8a1c4242"
+      }
+    },
+    {
+      "title": "External dimensions:\t",
+      "value1": "W: 100 mm Ã— D: 100 mm Ã— H: 25.5 mm\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621868a44cdff31f8a1c4243"
+      }
+    },
+    {
+      "title": "Maximum power consumption:\t",
+      "value1": "5.5W (DC5V 1.1A) without USB power\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621868a44cdff31f8a1c4244"
+      }
+    },
+    {
+      "title": "Regulatory Compliance:\t",
+      "value1": "VCCI class B / FCC class B / ICES-003 class B / CE class B, RoHS\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621868a44cdff31f8a1c4245"
+      }
+    },
+    {
+      "title": "Other:\t",
+      "value1": "Requires SX Virtual Link version 4.0.1 or later\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621868a44cdff31f8a1c4246"
+      }
+    },
+    {
+      "title": "",
+      "type": "title",
+      "_id": {
+        "$oid": "6381b7595cbeae8e59d4c942"
+      }
+    },
+    {
+      "title": "",
+      "type": "terms",
+      "_id": {
+        "$oid": "6381b7595cbeae8e59d4c943"
+      }
+    }
+  ],
+  "qty": 10,
+  "image": [
+    {
+      "$oid": "61d994f76f3b7a8a81014e03"
+    },
+    {
+      "$oid": "621868a34cdff31f8a1c4239"
+    }
+  ],
+  "file": [
+    "61d7f0f27b742f990fde0490",
+    {
+      "$oid": "6381b7575cbeae8e59d4c934"
+    }
+  ],
+  "keywords": [
+    "ROOKIE NINJA"
+  ],
+  "seoDesc": " Product details for SILEX DS-520AN. PDF brochures available. Get a quote today!",
+  "filters": [],
+  "status": true,
+  "userId": {
+    "$oid": "61cb1bb646d546f1a70c8b28"
+  },
+  "updatedAt": {
+    "$date": "2022-11-26T06:51:05.539Z"
+  },
+  "filters2": {}
+},
+{
+  "_id": {
+    "$oid": "61d96fe58202199476b47e50"
+  },
+  "name": "SILEX DS-600",
+  "categoryId": [
+    {
+      "$oid": "61cbf8671d0a9407398262bc"
+    }
+  ],
+  "brandId": {
+    "$oid": "61cbf50e1d0a9407398262aa"
+  },
+  "shortPoints": [
+    "Wired LAN",
+    "2x USB Ports",
+    "TCP/IP"
+  ],
+  "description": "<p><strong>SILEX DS-600 GIGABIT USB 3.0 HIGH THROUGHPUT DEVICE SERVER</strong></p><p>The Silex DS-600 is designed to easily connect and share USB 3.0 and 2.0 devices over a network. Printers, Scanners, Disk Drives, Cameras, Card Readers, or virtually any other USB device can be now be enabled with network capability. It allows flexibility to place the USB device anywhere on the network instead of needing to be attached directly to the computer, and multiple users can access the USB device.</p><p><br></p><p><strong>HIGH THROUGHPUT AND ENTERPRISE SECURITY</strong></p><p>More and more USB devices such as scanners, multi-function printers (MFPs), hard disk drives, and cameras have been used in offices. The USB Device Server allows you to use these devices on a network, improving installation flexibility without troublesome USB cables. This also reduces installation costs by enabling USB devices to be easily shared in the office in a cost optimized way.</p><p><br></p><p><strong>Features and Benefits</strong></p><p>Achieves high-performance data throughput due to optimized performance and Gigabit connection. Supports Enterprise Security and high speed isochronous USB transfer for streaming applications making it ideal for Virtual Environments.</p>",
+  "shortDescription": "<ul><li>High-Performance data throughput</li><li>Enterprise Security Features</li><li>Isochronous Transfer mode</li><li>Standard TCP/IP printing (LPR/RAW)</li><li>Supports NAS (Network Attached Storage) function compatible with USB-Hubs</li><li>Compatibility with a variety of USB devices over the network compatible with virtualization programs and environments</li><li>No special needed to use the USB devices</li></ul>",
+  "specifications": [
+    {
+      "title": "Wired LAN:\t",
+      "value1": "10BASE-T, 100BASE-TX, 1000BASE-T (Auto Recognition)\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621869004cdff31f8a1c42e0"
+      }
+    },
+    {
+      "title": "Device interface:\t",
+      "value1": "1 x USB 3.0 SUPERSPEED (Type A) and 1 x USB 2.0 Hi-Speed (type A)\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621869004cdff31f8a1c42e1"
+      }
+    },
+    {
+      "title": "Operating system supported:\t",
+      "value1": "Windows 7/8/8.1/10, Windows Server 2019/ 2016/2012(R1, R2)/2008(R2)\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621869004cdff31f8a1c42e2"
+      }
+    },
+    {
+      "title": "Protocol supported:\t",
+      "value1": "TCP/IP\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621869004cdff31f8a1c42e3"
+      }
+    },
+    {
+      "title": "Configuration:\t",
+      "value1": "Setup utility (Device Server Setup), Web browser\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621869004cdff31f8a1c42e4"
+      }
+    },
+    {
+      "title": "Dimensions:\t",
+      "value1": "W: 130mm x D: 100mm x H: 26.2mm (body only)\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621869004cdff31f8a1c42e5"
+      }
+    },
+    {
+      "title": "Weight:\t",
+      "value1": "145g (Without Accessories)\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621869004cdff31f8a1c42e6"
+      }
+    },
+    {
+      "title": "Power supply:\t",
+      "value1": "AC adapter AC100V 50/60Hz\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621869004cdff31f8a1c42e7"
+      }
+    },
+    {
+      "title": "Maximum power consumption:\t",
+      "value1": "4.8W (DC12V 0.4A) not including USB bus power\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621869004cdff31f8a1c42e8"
+      }
+    },
+    {
+      "title": "Regulatory compliance:\t",
+      "value1": "VCCI Class B / FCC Class B / CE Class B\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621869004cdff31f8a1c42e9"
+      }
+    },
+    {
+      "title": "Maximum number of connections:\t",
+      "value1": "15\r\n",
+      "value2": "",
+      "type": "spec",
+      "_id": {
+        "$oid": "621869004cdff31f8a1c42ea"
+      }
+    },
+    {
+      "title": "",
+      "type": "title",
+      "_id": {
+        "$oid": "6381b7915cbeae8e59d4c97b"
+      }
+    },
+    {
+      "title": "",
+      "type": "terms",
+      "_id": {
+        "$oid": "6381b7915cbeae8e59d4c97c"
+      }
+    }
+  ],
+  "qty": 10,
+  "image": [
+    {
+      "$oid": "61d994f76f3b7a8a81014e03"
+    },
+    {
+      "$oid": "621868fe4cdff31f8a1c42dd"
+    }
+  ],
+  "file": [
+    "61d7f0f27b742f990fde0490",
+    {
+      "$oid": "6381b78f5cbeae8e59d4c96d"
+    }
+  ],
+  "keywords": [
+    "ROOKIE NINJA"
+  ],
+  "seoDesc": " Product details for SILEX DS-600. PDF brochures available. Get a quote today!",
+  "filters": [],
+  "status": true,
+  "userId": {
+    "$oid": "61cb1bb646d546f1a70c8b28"
+  },
+  "updatedAt": {
+    "$date": "2022-11-26T06:52:01.452Z"
+  },
+  "filters2": {}
+}]

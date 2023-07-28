@@ -92,7 +92,7 @@ const SpecSection = (specifications) => {
 };
 
 const productFn = async () => {
-  const data = await readFile("dicota.products.json");
+  const data = await readFile("viewsonic.products.json");
 
   let productArr = [];
 
@@ -103,14 +103,14 @@ const productFn = async () => {
         $oid: "61cb1bb646d546f1a70c8b28",
       },
       categoryId: {
-        $oid: "64c2759b4b48550dfc98078c",
+        $oid: "64c367bdedc8e8bf8e528695",
       },
       brandId: data[i].brandId,
       price: 100,
       qty: 100,
       title: data[i].name,
       slug: slugify(data[i].name),
-      sku: 1610 + i,
+      sku: 2110 + i,
       description: sanitizeHtml(data[i].description),
       dimension: "f33",
       image: data[i].image,
@@ -152,7 +152,7 @@ const productFn = async () => {
 
   //   console.log(productArr);
 
-  await saveFile(productArr, "dicota.products.json");
+  await saveFile(productArr, "viewsonic.products.json");
 };
 
 productFn();

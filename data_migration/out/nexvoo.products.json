@@ -1,0 +1,672 @@
+[
+  {
+    "_id": {
+      "$oid": "62419b9ed7ba724b098c2357"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "64c367bdedc8e8bf8e528695"
+    },
+    "brandId": {
+      "$oid": "624193efd7ba724b098c232e"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "NEXVOO  N120W",
+    "slug": "nexvoo--n120w",
+    "sku": 1910,
+    "description": "<p><strong> Dual-Cam video Conference Bar Perfect For </strong></p><p><strong>Large Meeting Rooms</strong></p><p>Nexvoo's new generation of large meeting room video bar DoubleView Pro N120W, using a combination of 4K ultra-wide-angle lens and telephoto lens, dual-camera collaboration, taking into account the panoramic view and detail presentation of the meeting room. With the built-in Android 10.0 system, there is no need to bring a PC or Mac to the meeting room.</p><p><br /></p><p><br /></p><p><br /></p><p><strong>Built-In Android 10.0 System</strong></p><p>N120W video collaboration bar is built-in Android 10.0 system. Most of the video conferencing applications like zoom,teams and Google meet can be operated without a laptop or a Mac. Users can remotely operate the system after connecting to the screen via HDMI.</p><p><strong>4K Dual Camera System,120° Ultra-Wide-Angle Lens</strong></p><p>All the participants can be clearly seen. The telephoto camera can zoom in to view details in a larger meeting room. The video bar can automatically optimize the brightness according to lighting conditions, supporting dual 4K HD video conferencing calling and content sharing.</p><p></p><p><strong>Multiple AI-Powered Smart Technologies</strong></p><p>The sound source location and voice tracking allow you to experience real large-scale audio and video effects of the conference room. N120W can automatically adjust the framing size according to changes in the number of participants and location to present the best viewfinder.</p><p><strong>AI Noise Reduction</strong></p><p>With powerful audio pickup and incredible noise reduction technology, every speech can be heard clearly, so that you will not be disturbed. N120W dual-cam Android video collaboration bar is equipped with 8 MEMS microphone arrays and 8m high-quality pickup distance.</p><p><br /></p><p><br /></p><p></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p></p><p><strong>Compatible with Barco ClickShare</strong></p><p>N120W Android Dual-camera video conferencing bar is smartly compatible with Barco ClickShare for easy content sharing.</p><p><br /></p><p><br /></p><p></p><p><strong>Additional Features</strong></p><p><strong>USB Connectivity</strong></p><p><span>N120W can support the connection of PC via USB-C cable, as a USB device of the PC, provide high-quality audio and video capture capabilities for the video conferencing application on the PC</span></p><p><strong>Compatible With Most Video Conference Applications</strong></p><p>Users are free to use the any video conferencing applications on desktop, including Zoom, Microsoft Teams, Google Meet, etc. </p><p><strong>Realistic Sound Quality</strong></p><p>The speaker can bring realistic sound, so that everyone can feel full, excellent sound</p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "62419b2ad7ba724b098c234a"
+      },
+      {
+        "$oid": "62419b2ed7ba724b098c234d"
+      },
+      {
+        "$oid": "62419b30d7ba724b098c2350"
+      },
+      {
+        "$oid": "6242eea2d7ba724b098c2dad"
+      },
+      {
+        "$oid": "6242eeb3d7ba724b098c2db0"
+      },
+      {
+        "$oid": "6242eeb7d7ba724b098c2db3"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Resolution (Ultra Wide) </td> <td> 8MP</td></tr><tr><td> Aperture (Ultra Wide) </td> <td> f/1.8</td></tr><tr><td> Zoom (Ultra Wide) </td> <td> 5x digital zoom / EPTZ</td></tr><tr><td> Field Of View </td> <td> 120° FOV</td></tr><tr><td> Video Resolution </td> <td> Ultra HD 2160p (4K) capture</td></tr><tr><td> Resolution (Telephoto camera) </td> <td> 2M pixels</td></tr><tr><td> Aperture (Telephoto camera) </td> <td> f/2.0</td></tr><tr><td> Zoom (Telephoto camera) </td> <td> 2x digital zoom</td></tr><tr><td> Field Of View (Telephoto camera) </td> <td> 58° FOV</td></tr><tr><td> Auto Framing </td> <td> In-built</td></tr><tr><td> Speaker Tracking </td> <td> In-built </td></tr><tr><td> Face Recognition </td> <td> In-built</td></tr><tr><td> Speakers </td> <td> 100dB@1m</td></tr><tr><td> Content Sharing </td> <td> Apple Airplay, Miracast, Whiteboard</td></tr><tr><td> Audio </td> <td> Background noise elimination, Beamforming directional pickup, Multi-channel echo cancellation, Long-distance full-duplex pickup</td></tr><tr><td> Operating System </td> <td> Android 9.0</td></tr><tr><td> Memory and Storage </td> <td> 4 GB RAM / 32 GB Storage</td></tr><tr><td> Microphone </td> <td> 8 MEMS microphone arrays , 8 m / 26 feet high-quality pickup  distance</td></tr><tr><td> Interface </td> <td> 2 x USB-A (2.0), 1 x USB-C, 1 x Ethernet port, Bluetooth 4.2, WIFI 802.11b/g/n/ac, 1 x DC Power, 1 x Reset key</td></tr><tr><td> Warranty </td> <td>  2-year limited hardware</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<p>Dual-Cam Android Video Conference Bar for Large Room | N120W - Nexvoo</p><p><br /></p>",
+    "shortPoints": [
+      "Dual Cam",
+      "4K UHD Resolution",
+      "Built-in Android system"
+    ],
+    "file": [
+      {
+        "$oid": "6242f0d3d7ba724b098c2ee5"
+      },
+      {
+        "$oid": "6242f0e0d7ba724b098c2ee8"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "62422044d7ba724b098c25be"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "64c367bdedc8e8bf8e528695"
+    },
+    "brandId": {
+      "$oid": "624193efd7ba724b098c232e"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "Nexvoo Nexpod N109",
+    "slug": "nexvoo-nexpod-n109",
+    "sku": 1911,
+    "description": "<p><strong>High-Definition AI Auto Tracking Camera for Small Workgroups</strong></p><p>Nexvoo N109 high definition auto-tracking and framing video conference camera offer easy plug-and-play connection to your laptop, PC and computer.</p><p><strong>1080P AI Auto Framing Camera</strong></p><p><strong>Full-Duplex Speaker and Beamforming Microphone</strong></p><p>All meeting members can make clear videos and audios.</p><p><strong>Conferencing Camera USB Connectivity</strong></p><p>With no special software, training, or maintenance required, connecting to a video conference has never been easier. </p><p><strong>Compatible with Barco ClickShare</strong></p><p>NexPod N109 1080P auto framing video conference camera is smartly compatible with Barco ClickShare for easy content sharing.</p><p><strong>Works with Most Video Conference Applications</strong></p><p>Users are free to use the desktop video conferencing program of</p><p>their choice. </p><p><strong>Portable Full-Function Design</strong> </p><p>The sleek design and portable video conference device is easy to</p><p>use and set up for video conference in various workplaces.</p><p><strong>Application Compatibility</strong></p><p>Compatible with any application that supports standard USB audio</p><p>and video drivers, including but not limited to Microsoft Teams\\Zoom\\Google</p><p>Meet.</p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "62421fded7ba724b098c25ae"
+      },
+      {
+        "$oid": "62421fe2d7ba724b098c25b1"
+      },
+      {
+        "$oid": "62421fe7d7ba724b098c25b4"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Camera </td> <td>  f/2.6 Aperture, 110° FOV, FHD 1080p capture resolution, Frame rate: 30 fps, Auto framing and speaker tracking  function</td></tr><tr><td> Audio  </td> <td> Integrated full duplex speakerphone  with echo and noise cancellation, 360° wideband audio with 16-foot  (5m) diameter range, Mute/unmute control</td></tr><tr><td> Microphone </td> <td> Two omni-directional microphones supporting  16-foot (5m) diameter range, Sensitivity: -34dB +/-3dB, Frequency response: 20Hz – 15KHz</td></tr><tr><td> Single speaker </td> <td> Frequency response: 140Hz – 16KHz , Max output: 90dB @ 0.5m</td></tr><tr><td> Interface </td> <td> 1 x USB2.0 Type-C port , DC power interface, Kensington security lock</td></tr><tr><td> Package Include </td> <td> NexPod, Power Adapter (Optional) , 1.8m USB2.0 cable (Type-C to Type A) , Quick guide</td></tr><tr><td> Warranty </td> <td> 2-year limited hardware</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<p>Auto Framing Video Conference Camera with 1080P for Small Meeting Room | N109 - Nexvoo</p><p><br /></p>",
+    "shortPoints": [
+      "1080p Full HD ",
+      "Auto Framing",
+      "Beamforming Microphone"
+    ],
+    "file": [
+      {
+        "$oid": "62421fefd7ba724b098c25b7"
+      },
+      {
+        "$oid": "62422003d7ba724b098c25ba"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6242a448d7ba724b098c26fa"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "64c367bdedc8e8bf8e528695"
+    },
+    "brandId": {
+      "$oid": "624193efd7ba724b098c232e"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "Nexvoo Nexpod Pro N149",
+    "slug": "nexvoo-nexpod-pro-n149",
+    "sku": 1912,
+    "description": "<p><strong>Speaker Tracking Camera for Small and Huddle Rooms</strong></p><p><span>N149 speaker tracking conferencing camera is specifically designed for huddle rooms and small teams of less than six people, with a wide 120° wide-angle, digital pan and mechanical tilt function.</span></p><p><strong>5x High-Definition Digital Zoom</strong><span> </span></p><p><span>5x high-definition digital zoom, and clear and detailed optical effects, allowing all participants in the room to have a glance. </span></p><p><strong>Auto Speaker Tracking and Framing</strong></p><p><span>The speaker tracking and framing function can automatically locate the current speaker and present its close-up picture so that everyone knows who is speaking.</span></p><p><strong>Suitable for Most Video Conferencing Applications</strong></p><p><span>N149 4K conferencing camera suitable for most meeting apps like zoom, Google meet, teams. Users can freely choose any meeting application according to their needs.</span></p><p><strong>Compatible with Barco ClickShare</strong></p><p><span>NexPod N149 4K speaker tracking video conference camera is smartly compatible with Barco ClickShare for easy content sharing.</span></p><p><strong>Easy to Set up</strong></p><p><span>Without special software, training or maintenance services, participating in a video conference has never been easier.</span></p><p><strong>360° Full Azimuth Sound Effect</strong></p><p><span>It allows users to talk smoothly within a diameter of 3 meters, while echo cancellation and noise reduction technologies bring immersive sound effects. </span></p><p><strong>USB or Bluetooth Wireless Connections</strong></p><p><span>You can use USB or Bluetooth mobile speakers to make excellent audio calls.</span></p><p><strong>Rechargeable Battery</strong></p><p><span>When the battery is fully charged (charged via USB or AC power), it can support up to 3 hours of video conference or 8 hours of speakerphone calls</span></p><p><br /></p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "6242a3d5d7ba724b098c26ed"
+      },
+      {
+        "$oid": "6242a3dcd7ba724b098c26f0"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Camera </td> <td> f/1.8 Aperture, 120° FOV, UHD 4K capture resolution, Frame rate: 30 fps, Auto framing and speaker tracking  functions, 3F HDR&gt; 120dB, maintain color in  0.0005Lux low light, Video encoding: H.264/MJPEG/YUV, 5x zoom/EPTZ, Mechanical tilt  • Camera LED , 2 Camera preset</td></tr><tr><td> Audio </td> <td> Integrated full duplex speakerphone  with echo and noise cancellation, 360° wideband audio with 16-foot(5m)  diameter range, Mute/unmute control</td></tr><tr><td> Microphone </td> <td> Two omni-directional microphones supporting  16-foot (5m) diameter range, Sensitivity: -34dB +/-3dB, Frequency response: 20Hz – 15KHz</td></tr><tr><td> Speaker </td> <td> 5W, 100Hz – 16KHz frequency response, Output = 85dB @ 0.5m</td></tr><tr><td> General specifications </td> <td> Rechargeable Battery supports up to 3  hours video conferencing or screen  mirroring time; 8 hours for Bluetooth  audio,  Time to charge battery (from AC power,  device idle): 3 hours, Battery rechargeable through AC Power  or USB (not powered through USB), 6-foot(1.8m) detachable USB cable for  PC or Mac-based video conferencing</td></tr><tr><td> Interface </td> <td> 1 x USB2.0 Type-C port  (support USB3.0), DC power interface, Kensington security lock, Bluetooth 4.2</td></tr><tr><td> Remote Control </td> <td> Remote control for Camera/Speaker  /Microphone functions , 33-foot (10m) range remote control  Application compatibility</td></tr><tr><td> Package Include </td> <td> NexPod Pro, Remote control  (including 2 AAA batteries), Power Adapter, 1.8m USB2.0 cable  (Type-C to Type-A), Quick guide</td></tr><tr><td> Warranty </td> <td> 2 years</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<p>Speaker Tracking Video Conference Camera with Bluetooth for Huddle Room | N149 - Nexvoo</p><ul><li>4K UHD Resolution</li><li>Battery Powered</li><li>Al Auto Framing</li><li>Omni Directional Microphone</li></ul>",
+    "shortPoints": [
+      "4K UHD Resolution",
+      "Battery Powered"
+    ],
+    "file": [
+      {
+        "$oid": "6242a3e3d7ba724b098c26f3"
+      },
+      {
+        "$oid": "6242a422d7ba724b098c26f6"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6242aa1dd7ba724b098c2753"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "64c367bdedc8e8bf8e528695"
+    },
+    "brandId": {
+      "$oid": "624193efd7ba724b098c232e"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "Nexvoo CLASSCAM CC520",
+    "slug": "nexvoo-classcam-cc520",
+    "sku": 1913,
+    "description": "<p><strong>AI teacher tracking Camera Perfect For All Classrooms</strong></p><p><span>Nexvoo CC520 CLASSCAM is a high-definition lecturer auto-tracking and framing video conference camera for classroom with 6mm focal length, which provides an easy plug-and-play connection to your laptop, PC and computer. </span></p><p><strong>Perfect for Online Teaching</strong></p><p><span>Suitable for classroom, experience 4K UHD auto tracking camera, which can control almost any application environment and greatly improve online teaching experience.</span></p><p><strong>Teacher Tracking Camera Features with AI Body Movement Tracking</strong></p><p><span>CC520 uses AI technology to recognize and track teacher's movement across a field of view. Body movement tracking camera gives operators the ability to track an individual and even customize frame settings to capture entire white board spaces.</span></p><p><strong>Preset Zone Tracking</strong></p><p><span>Users can create two unique zones within a scene, such as a whiteboard area or a platform. When a teacher moves within these zones, the camera will stay fixed on this zone, so the audience does not miss any important information.</span></p><p><strong>Mirror The Video</strong></p><p><span>Users can easily rotate the vertical direction of the video. </span></p><p><strong>USB Plug-And-Play Connectivity</strong></p><p><span>With no special software, training, or maintenance required, connecting to a remote classroom has never been easier.</span></p><p><strong>Remote Control</strong></p><p><span>Easily operate camera pan/tilt/zoom and audio functions (mute) during video teaching.</span></p><p><br /></p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "6242a8a4d7ba724b098c272a"
+      },
+      {
+        "$oid": "6242a8a7d7ba724b098c272d"
+      },
+      {
+        "$oid": "6242a8a9d7ba724b098c2730"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Camera </td> <td> f/2.1 Aperture, Horizontal FOV - 62°  , Diagonal FOV - 73° , Lens Focal Length - f = 6mm , UHD 4K capture resolution, Frame rate: 30 fps, 3F HDR&gt; 120dB, maintain color in 0.0005Lux low light, Video encoding: H.265 / H.264 / MJPEG / YUV,  5x zoom/EPTZ , Mirror the video, Rotate the vertical direction of the video,  Mechanical tilt,  Camera LED</td></tr><tr><td> Audio </td> <td> 360° wideband audio with 16-foot(5m) diameter range, Mute/unmute control</td></tr><tr><td> Microphone </td> <td> Two omni-directional microphones supporting 16-foot (5m) diameter range, Sensitivity: -34dB +/-3dB, Frequency response: 20Hz – 15KHz</td></tr><tr><td> Interface </td> <td> 1 x USB2.0 Type-C port, DC power interface, Bluetooth 4.2</td></tr><tr><td> AI Technology </td> <td> Preset zone setting, 2 Preset zones, Auto framing for Preset zone, Out of the Preset zone detection, Close-up view setting</td></tr><tr><td> Remote Control </td> <td> Remote control for Camera/ Microphone functions, 33-foot (10m) range remote control</td></tr><tr><td> Inside the box </td> <td> Nexvoo CLASSCAM , Remote control (including 2 AAA batteries),  Power Adapter  - 6-foot(1.8m) USB2.0 cable (Type-C to Type-A), 49-foot(15m) USB extension cable (Optional), Wall mount kit, Quick guide</td></tr><tr><td> Warranty </td> <td> 1-year limited hardware</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<p>AI Teacher Auto Tracking Camera for Classroom | CC520 - Nexvoo</p><ul><li>Classroom Camera</li><li><span>Auto framing</span></li><li><span>UHD 4K resolution</span></li></ul>",
+    "shortPoints": [
+      " 4K UHD resolution",
+      "Auto framing",
+      "Classroom Camera"
+    ],
+    "file": [
+      {
+        "$oid": "6242a8e1d7ba724b098c273e"
+      },
+      {
+        "$oid": "6242a8f6d7ba724b098c2743"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6242b8a9d7ba724b098c2858"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "64c367bdedc8e8bf8e528695"
+    },
+    "brandId": {
+      "$oid": "624193efd7ba724b098c232e"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "Nexvoo NexBar N120U",
+    "slug": "nexvoo-nexbar-n120u",
+    "sku": 1914,
+    "description": "<p><strong>Dual-Cam Video Conference Bar Perfect For Large Meeting Rooms</strong></p><p><strong>Nexvoo dual-cam video bar is a new generation for large and medium-sized meeting rooms. It uses a combination of 4K ultra-wide-angle lens and telephoto lens, dual-camera collaboration, taking into account the panoramic view and detailed presentation of the meeting room.</strong></p><p><strong>4K Dual Camera System, 120° Ultra-Wide-Angle Lens</strong></p><p><strong>All the participants can be clearly seen. The telephoto camera can zoom in to view details in a large meeting room.The Video bar can automatically optimize the brightness according to lighting conditions, supporting dual 4K HD video conference calling and content sharing.</strong></p><p></p><p><strong>Multiple AI-Powered Smart Technologies</strong></p><p><strong>The sound source location and voice auto tracking allow you to experience real large-scale conference room-level audio and video effects. It can automatically adjust the framing size according to changes in the number of participants and location to present the best viewfinder.</strong></p><p><strong>AI Noise Reduction</strong><strong> </strong></p><p><strong>With powerful audio pickup and incredible noise reduction technology, every speech can be heard clearly, so that you will not be disturbed. N120U video collaboration bar is equipped with 8 MEMS microphone arrays and 8 m high-quality pickup distance.</strong></p><p><br /></p><p><br /></p><p><br /></p><p></p><p></p><p><strong>Compatible With</strong></p><p><strong>Barco ClickShare</strong></p><p><strong>N120U Dual-camera video conferencing bar is smartly compatible with Barco ClickShare for easy content sharing.</strong></p><p><br /></p><p></p><p><strong>Additional Features</strong></p><p><strong>Compatible With </strong></p><p><strong>Most Video Conference Applications</strong></p><p>Users are free to use the any video conferencing applications on desktop, including Zoom, Microsoft Teams, Google Meet, etc. </p><p><strong>USB Plug-And-Play Connectivity</strong></p><p><span>With no special software, training, or maintenance required,</span></p><p>connecting to a video teaching has never been easier. </p><p><strong>Realistic Sound Quality</strong></p><p><span>The speaker can bring realistic sound, so that everyone can feel full, excellent sound</span></p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "6242b81ad7ba724b098c283b"
+      },
+      {
+        "$oid": "6242b81fd7ba724b098c283e"
+      },
+      {
+        "$oid": "6242b824d7ba724b098c2841"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Ultra wide-angle camera </td> <td> 8M pixels, f/1.8 Aperture, 5x digital zoom / EPTZ, 120° wide-angle field of view, 4K capture resolution</td></tr><tr><td> Telephoto camera </td> <td> 3x digital zoom,  58° field of view, 1080p capture resolution</td></tr><tr><td> Smart Features </td> <td> Auto Framing, Speaker Tracking</td></tr><tr><td> Audio </td> <td> Support full-duplex conversations,  acoustic echo cancellation and  background noise suppression , Mute / Unmute controls</td></tr><tr><td> Stereo microphone </td> <td> 8-element beamforming microphone array ,  8m pickup range,  120 Hz–16 kHz frequency response</td></tr><tr><td> Speaker </td> <td> 100Hz-20KHz Frequency response,  Output = 90 dB @ 0.5m</td></tr><tr><td> Interfaces </td> <td> 1x USB2.0 Type-C port, Power connector, Bluetooth control key, Kensington security lock, Bluetooth 4.2</td></tr><tr><td> Package Include </td> <td> Remote control with 2 AAA batteries, Power adapter,  5m USB2.0 cable (Type-C to Type-A), Wall mount kit, Setup sheet</td></tr><tr><td> Warranty Information </td> <td> 2-year limited hardware</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<p>NexBar DoubleView N120U | 4K UHD AI-Powered Dual-Cam Video Conference Bar</p><ul><li>4K UHD Resolution</li><li>Dual CAM</li><li>AI Auto Framing</li></ul>",
+    "shortPoints": [
+      "4K UHD Resolution",
+      "Dual CAM",
+      "AI Auto Framing"
+    ],
+    "file": [
+      {
+        "$oid": "6242b84bd7ba724b098c2844"
+      },
+      {
+        "$oid": "6242b859d7ba724b098c2847"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6242c417d7ba724b098c28e4"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "64c367bdedc8e8bf8e528695"
+    },
+    "brandId": {
+      "$oid": "624193efd7ba724b098c232e"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "Nexvoo NexFone N380",
+    "slug": "nexvoo-nexfone-n380",
+    "sku": 1915,
+    "description": "<p><strong>Google GMS Certified Video Phone</strong></p><p><span>Nexvoo's latest NexFone N380 is a high-end Google certified and native SIP multimedia smartphone that integrates &lt;br/&gt; audio, video, and applications. It also supports the installation of third-party Apps to meet the diverse customization &lt;br/&gt; needs of different companies.</span></p><p><span> </span> <span> Certified by Google and with a built-in Android system, NexFone N380 is compatible with all video conferencing &lt;br/&gt;systems, easy to download on the Play Store, experience the latest software for the first time.</span></p><p><strong>High-Quality Sound Effect</strong></p><p><span>Professional high-fidelity sound cavity design can easily achieve high-definition sound quality, full hands-free sound &lt;br/&gt; effects, omnidirectional sound pickup, full-duplex.</span></p><p><strong>WiFi And Bluetooth Connection</strong></p><p><span>Built-in Wi-Fi and Bluetooth, can access the wireless network, cooperate with Bluetooth headset or mobile phone. </span><span>&lt;br/&gt; </span><span> Allows users to completely get rid of the shackles of the desk, greatly improving flexibility.</span></p><p><strong>Rich Interface And Flexible Expansion</strong></p><p><span>With an external headset or earphone, POE powered Ethernet port; support USB2.0 expansion, video recording, </span><span>&lt;br/&gt; </span><span>and screenshots can be realized through U disk.</span></p><p><br /></p><p><br /></p><p><br /></p><h2><br /></h2>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "6242c2e7d7ba724b098c28b7"
+      },
+      {
+        "$oid": "6242c38bd7ba724b098c28cc"
+      },
+      {
+        "$oid": "6242c3a8d7ba724b098c28cf"
+      },
+      {
+        "$oid": "6242c3aed7ba724b098c28d2"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Display </td> <td> 8-inch 1920 x 1200 resolution FHD capacitive touch screen</td></tr><tr><td> Camera  </td> <td> 8M pixels camera with privacy shutter</td></tr><tr><td> Field of view (FOV) </td> <td>  78°</td></tr><tr><td> Audio </td> <td> HD handset, HD Speaker, Hearing aid compatible (HAC) handset, Smart Noise Filtering, Full-duplex hands-free speakerphone</td></tr><tr><td> Audio codec </td> <td>  G.711/G.729A/G.729AB/  G.722.2(AMR-WB)</td></tr><tr><td> Connectivity </td> <td> Ethernet, Wi-Fi, Bluetooth 4.2</td></tr><tr><td> Ethernet </td> <td> 2x 10/100 Ethernet,  Support PoE power supply  (IEEE 802.3af), Class3</td></tr><tr><td> Wi-Fi standard </td> <td> IEEE802.11 b/g/n/ac</td></tr><tr><td> Wi-Fi Frequency band </td> <td> 2.4GHz/5.0GHz</td></tr><tr><td> Bluetooth  </td> <td> Bluetooth 4.2</td></tr><tr><td> USB  </td> <td> 1 x USB2.0</td></tr><tr><td> RJ9  </td> <td>  1 x RJ9 (4P4C) handset port</td></tr><tr><td> Operating System </td> <td>  Android 10.0, Built-in Google Play Store</td></tr><tr><td> Built-in applications </td> <td> File manager,  Calendar, Camera, Gallery,  Recorder, Calculator, Chrome and Support installation of 3rd party</td></tr><tr><td> Color </td> <td> Business Black</td></tr><tr><td> Power Adapter </td> <td> 100~240V AC input, DC 5V/2A DC output</td></tr><tr><td> USB output current </td> <td>  5V/500mA</td></tr><tr><td> Power consumption (power adapter) </td> <td> 1.5W~5.5W</td></tr><tr><td>  Power consumption (PoE) </td> <td>  2.3W~7.0W</td></tr><tr><td> Size(W*H) </td> <td> 191.6 x 241.5 mm  7.54 x 9.50 inches</td></tr><tr><td> Warranty </td> <td>  2-year limited hardware</td></tr><tr><td> SECURITY </td> <td> IPv4/IPv6, IP address mode: Static / DHCP,  Support HTTP/HTTPS service, SNTP, HTTPS certificate management, Configuration file encryption, Support ADB encryption,  OpenVPN, IEEE802.1X</td></tr><tr><td> Certification </td> <td> 3C CE FCC ROHS HAC ISO9001</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>             <p><strong>Package Includes</strong></p><p>- NexFone N380</p><p>- Ethernet cable</p><p>- Handset with handset cord</p><p>- Stand</p><p>- Quick start guide</p><p>- Power Adapter</p>             </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<p><strong>Google GMS Certified Business Media Desk Phone</strong></p><ul><li>8-inch 1920 x 1200 resolution FHD capacitive touch screen</li><li>High-fidelity sound quality: HD handset, HD Speaker</li><li>Hearing aid compatible (HAC) handset</li><li>Dual-band Wi-Fi: 2.4GHz/5.0GHz</li><li>Bluetooth 4.2</li><li>Android 10.0 operating system</li><li>Built-in Google Play Store</li><li><span> </span>8M pixels camera with privacy shutter</li></ul>",
+    "shortPoints": [
+      " 8 MP Camera with privacy shutter",
+      "Dual-band Wi-Fi - 2.4GHz/5.0GHz ",
+      "8-inch FHD  capacitive touch screen"
+    ],
+    "file": [
+      {
+        "$oid": "6242c3d4d7ba724b098c28d7"
+      },
+      {
+        "$oid": "6242c3f6d7ba724b098c28e0"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6242d207d7ba724b098c2b28"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "64c367bdedc8e8bf8e528695"
+    },
+    "brandId": {
+      "$oid": "624193efd7ba724b098c232e"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "Nexvoo NexPad T530",
+    "slug": "nexvoo-nexpad-t530",
+    "sku": 1916,
+    "description": "<p><strong>NexPad T530</strong></p><p>Nexvoo's newly launched NexPad T530 is a high-end smart conference tablet integrating audio, video and applications. It has an 8-inch multi-touch Retina-level FHD (full high-definition) capacitive screen and an 8-megapixel high-definition camera, built-in Bluetooth 4.2 module and Wi-Fi module, integrated high-power speakers, dual microphone arrays, providing high-definition audio and video experience at the same time, it also greatly improves the efficiency of group collaboration and personal office. NexPad T530 is based on Android 10.0 system, the interface operation is more convenient, smooth and intelligent. Its built-in Google Play Store, you can install any video conferencing and video entertainment applications, to meet your home office, online learning, video entertainment needs, with HDMI projection and excellent audio quality, allowing you to experience the scene in person feel.</p><p><strong>• 4K Camera </strong></p><p>NexPad T530 has a 4K camera with 78° FOV, enabling you to achieve professional video performance, and high-definition video experience makes communication easier.</p><p><strong>• High-Definition Audio </strong></p><p>NexPad T530 has excellent audio quality that similar products do not have, built-in multiple smart functions such as echo cancellation and noise shielding, which can automatically remove interfering background noise and other unnecessary sounds.</p><p><strong>• Integrated Video Collaboration Solution </strong></p><p>The shape is simple and light, and it is very convenient to use and set up. It helps to show the full charm of the video conferencing solution and is fully qualified for various work occasions.</p><p><strong>• HDMI Output </strong></p><p>With the help of HDMI projection technology, whether in a meeting room or home office, you can experience the feeling of face-to-face communication on site.</p><p><strong>• Always Secure </strong></p><p>With the built-in camera shutter, microphone mute button and multi-digit digital access PIN, NexPad T530 can provide security and privacy whether in use or at rest.</p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "6242d195d7ba724b098c2b14"
+      },
+      {
+        "$oid": "6242d19cd7ba724b098c2b17"
+      },
+      {
+        "$oid": "6242d19ed7ba724b098c2b1a"
+      },
+      {
+        "$oid": "6242d1a7d7ba724b098c2b1d"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> DISPLAY </td> <td> 8-INCH 1920 X 1200 RESOLUTION FHD CAPACITIVE TOUCH SCREEN</td></tr><tr><td> CAMERA </td> <td> 8MP Camera</td></tr><tr><td> FIELD OF VIEW (FOV) </td> <td> 78°</td></tr><tr><td> AUDIO </td> <td> Support full-duplex conversations,<br /> acoustic echo cancellation andbackground noise suppression</td></tr><tr><td> Microphone </td> <td> 2-element beamforming microphone array, <br /> Up to 9.8ft / 3 microphone pickup range,  120 Hz–16 kHz frequency response</td></tr><tr><td> Speaker </td> <td> Single speaker : 100Hz-20KHz Frequency response,</td></tr><tr><td> Video </td> <td> 4K@30fps Ultra HD video <br /> 1080p@30fps Full HD video <br />  720p@30fps HD video</td></tr><tr><td> Video codec </td> <td> H.264, H.265, VP8</td></tr><tr><td> Operating System </td> <td> Android 10.0 operating system</td></tr><tr><td> Built-in applications </td> <td> Google Play Store, Filemanager, Calendar, Camera, Gallery,  Recorder, Calculator, Chrome <br />  and support installation of 3rd partyapplications</td></tr><tr><td> SECURITY </td> <td> IPV4/IPV6, IP ADDRESS MODE: STATIC / DHCP, SUPPORT HTTP/HTTPS SERVICE, SNTP, HTTPS CERTIFICATE MANAGEMENT, CONFIGURATION FILE ENCRYPTION, SUPPORT ADB ENCRYPTION, OPENVPN, IEEE802.1X</td></tr><tr><td> ETHERNET </td> <td> 1x 10/100 Ethernet, Support PoE power supply (IEEE802.3af), Class3</td></tr><tr><td> WI-FI STANDARD </td> <td>  IEEE802.11b/g/n/ac</td></tr><tr><td> WI-FI FREQUENCY BAND </td> <td> 2.4GHz/5.0GHz</td></tr><tr><td> BLUETOOTH </td> <td> Bluetooth 4.2</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>             <p><strong>Package Includes</strong></p><p>NexPad T530, Ethernet cable, HDMI cable, Quick start guide, Power Adaptor</p>             </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<p><strong>NexPad T530 | 4K HD Google Certified Video Conferencing Tablet</strong></p><ul><li><span>8M pixels camera </span></li><li><span>Dual-band Wi-Fi</span></li><li>8-inch Touch Screen</li><li>2-Mic Array</li><li><span>Android 10.0 operating system</span></li><li><span>Dual-band Wi-Fi - </span><span>2.4GHz/5.0GHz</span></li></ul><p><span>﻿</span></p>",
+    "shortPoints": [
+      "4K Camera",
+      "8-inch Touch Screen",
+      "2-Mic Array "
+    ],
+    "file": [
+      {
+        "$oid": "6242d1ced7ba724b098c2b20"
+      },
+      {
+        "$oid": "6242d1f7d7ba724b098c2b23"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6242ed90bc49ae60e2aeebbf"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "64c367bdedc8e8bf8e528695"
+    },
+    "brandId": {
+      "$oid": "624193efd7ba724b098c232e"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "NEXVOO   N110",
+    "slug": "nexvoo---n110",
+    "sku": 1917,
+    "description": "<p><strong>All-in-one video conference bar for medium-sized conference room</strong></p><p>OneView N110 is a conference camera designed for small and medium-sized conference rooms. &lt;br/&gt; With the 120° ultra-wide field of view that can cover the entire room, N110 allows everyone in the conference room to clearly enter the lens. &lt;br/&gt;The low-distortion lens, 4K Ultra HD optical performance and two camera presets designed by Nexvoo can &lt;br/&gt; bring extraordinary video quality and further enhance face-to-face collaboration. The N110 also has six horizontally &lt;br/&gt; directed beamforming microphones and customtuned speakers to help ensure that the meeting sound is as exciting as the video. &lt;br/&gt;Its plug-and-play function is suitable for almost any video platform, &lt;br/&gt; providing a cost-effective solution for small and medium-sized conference rooms. </p><p><strong>Super-wide 120° field of view</strong></p><p>OneView N110 has an ultra-wide field of view of 120°, allowing everyone in the room to be seen, even those close to the camera or seated at the edges of the room.</p><p><strong>Ultra HD 4K image sensor</strong></p><p>Supports multiple resolutions, including 4K (Ultra HD), 1080p (Full HD) and 720p (HD) to best support the quality offered by your application and monitor.</p><p><strong>Auto framing and speaker tracking function</strong></p><p>OneView N110 can automatically obtain the best image of the conference room according to the participants and their location in the conference room, &lt;br/&gt; and automatically adjust the view when participants enter and exit the conference room to ensure that everyone is clearly visible and presents the best picture. &lt;br/&gt;The speaker tracking function can automatically locate the current speaker and present its close-up &lt;br/&gt; picture so that everyone knows who is speaking.</p><p><strong>5x HD zoom</strong></p><p>Zero in on close-ups of objects and whiteboard content with outstanding detail and clarity</p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "6242ede5d7ba724b098c2d65"
+      },
+      {
+        "$oid": "6242f57bd7ba724b098c2f30"
+      },
+      {
+        "$oid": "6242f58dd7ba724b098c2f33"
+      },
+      {
+        "$oid": "6242f57bd7ba724b098c2f30"
+      },
+      {
+        "$oid": "6242f58dd7ba724b098c2f33"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Resolution (Ultra Wide) </td> <td> 8MP</td></tr><tr><td> Aperture (Ultra Wide) </td> <td> f/1.8</td></tr><tr><td> Zoom (Ultra Wide) </td> <td> 5x digital zoom / EPTZ</td></tr><tr><td> Field Of View </td> <td> 120° FOV</td></tr><tr><td> Video Resolution </td> <td> Ultra HD 2160p (4K) capture</td></tr><tr><td> Auto Framing </td> <td> In-built</td></tr><tr><td> Speaker Tracking </td> <td> In-built </td></tr><tr><td> Face Recognition </td> <td> In-built</td></tr><tr><td> Speakers </td> <td> 100dB@1m</td></tr><tr><td> Audio </td> <td> Background noise elimination, Beamforming directional pickup, Multi-channel echo cancellation, Long-distance full-duplex pickup</td></tr><tr><td> Microphone </td> <td> 8 MEMS microphone arrays , 8 m / 26 feet high-quality pickup  distance</td></tr><tr><td> Interface </td> <td> 2 x USB-A (2.0), 1 x USB-C, 1 x Ethernet port, Bluetooth 4.2, WIFI 802.11b/g/n/ac, 1 x DC Power, 1 x Reset key</td></tr><tr><td> Warranty </td> <td>  2-year limited hardware</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<p>All-In-One 4K UHD Video Conference Bar for Medium Conference Room | N110 - Nexvoo</p><p><br /></p><ul><li>4K UHD Image Sensor</li><li> 120° FOV</li><li><span> Sony High-Sensitivity Camera Sensor</span></li><li><span>Auto Framing and Speaker Tracking</span></li><li><span>6-element beamforming microphone array</span></li><li><span>16ft / 5m pickup range</span></li></ul><p><span>﻿</span></p>",
+    "shortPoints": [
+      "4K UHD Resolution",
+      "Auto Framing and Speaker Tracking",
+      "6-element beamforming microphone array"
+    ],
+    "file": [
+      {
+        "$oid": "624301c8d7ba724b098c3076"
+      },
+      {
+        "$oid": "6243020dd7ba724b098c3079"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "62430dc5d7ba724b098c30e0"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "64c367bdedc8e8bf8e528695"
+    },
+    "brandId": {
+      "$oid": "624193efd7ba724b098c232e"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "Nexvoo BH06 Stereo Bluetooth Headset ",
+    "slug": "nexvoo-bh06-stereo-bluetooth-headset-",
+    "sku": 1918,
+    "description": "<p><strong>Add soundtrack to your life and work</strong></p><p><span>Nexvoo BH06 Stereo Bluetooth Headset helps you communicate efficiently. You can enjoy stereo sound effects for work or entertainment.</span></p><p><strong>Rich and Incredible Sound Effect</strong></p><p><span>Three accurately positioned microphones and the addition of DSP can better reduce background noise. &lt;br/&gt; Active noise reduction technology reduces disturbing noise.</span></p><p><strong>Comfortable And Durable Earpads</strong></p><p><span>Equipped with Artificial leather ear cushions with soft memory foam, the comfortable metal headband is durable and stable to wear.</span></p><p><strong>Portable And Lightweight</strong></p><p><span>The earphones can be folded flat, and the included carrying bag allows you to easily carry the earphones anytime, anywhere.</span></p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "62430d82d7ba724b098c30d6"
+      },
+      {
+        "$oid": "62430d88d7ba724b098c30d9"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Bluetooth  </td> <td>  Bluetooth v5.0</td></tr><tr><td> Supported Bluetooth profifiles </td> <td> A2DP, AVRCP, HFP, and AAC</td></tr><tr><td> Microphone Frequency Response </td> <td> 100 Hz to 6.7KHz</td></tr><tr><td> Compatible With </td> <td> Android, Windows or Mac OS</td></tr><tr><td> Battery capacity </td> <td> 320 mAh</td></tr><tr><td> Talk time </td> <td> Up to 20 hours</td></tr><tr><td> Charge time </td> <td> 2 hours</td></tr><tr><td> Headset Weight </td> <td> 95g / 3.4 oz</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>             <p><strong>Package Includes</strong></p><p>• Charging stand</p><p>• USB charging cable</p><p>• Nexvoo BH06 Headset</p>             </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<p><span>BH06 | Stereo Bluetooth Environmental Noise Cancellation Headset</span></p><ul><li><span> Bluetooth v5.0</span></li><li><span>Supported Bluetooth profiles - A2DP, AVRCP, HFP, and AAC</span></li><li><span>Noise and echo reduction</span></li><li><span>Hi-Fi Stereo Speakers</span></li><li><span>Speaker frequency response - 20Hz to 20KHz</span></li><li><span>﻿IP64 Dust and water resistant</span></li></ul>",
+    "shortPoints": [
+      "Bluetooth v5.0",
+      " Talk time  - Up to 20 hours",
+      "Active noise reduction"
+    ],
+    "file": [
+      {
+        "$oid": "62430daed7ba724b098c30dc"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "624311a5d7ba724b098c3122"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "64c367bdedc8e8bf8e528695"
+    },
+    "brandId": {
+      "$oid": "624193efd7ba724b098c232e"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "Nexvoo UH15 | USB Environmental Noise Cancellation Headset",
+    "slug": "nexvoo-uh15--usb-environmental-noise-cancellation-headset",
+    "sku": 1919,
+    "description": "<p><strong>A Must-Have for your online conference calls</strong></p><p><span>A comfortable headset is a must-have for those who spend most of their time online.</span></p><p><span>Whether you teach online classes, attend video conference calls, or watch movies most of the time, a proper headset is what you need for a pleasurable listening experience.</span></p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "6243110dd7ba724b098c310c"
+      },
+      {
+        "$oid": "62431112d7ba724b098c310f"
+      },
+      {
+        "$oid": "6243115cd7ba724b098c3115"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Connects To </td> <td> PC via USB/USB-C, connects to mobile devices  and tablets via 3.5 mm and devices that support  USB-C</td></tr><tr><td> Microphone  </td> <td> Flexible noise canceling microphone</td></tr><tr><td> MICROPHONE FREQUENCY RESPONSE </td> <td> 50 Hz to 10 KHz, optimized for PC wideband audio  up to 6.8 kHz</td></tr><tr><td> Microphone sensitivity </td> <td>  -42 ±1dB (0dB=1V/Pa, 1 KHz)</td></tr><tr><td> MICROPHONE SIGNAL-NOISE RATIO </td> <td>  &gt; 55 dB</td></tr><tr><td> Weight </td> <td> 143 g /5.04 oz including inline control, 108 g /3.8 oz</td></tr><tr><td> Warranty </td> <td> 2 years limited  warranty</td></tr><tr><td> Speaker Impedance </td> <td> 32 OHM ± 1%</td></tr><tr><td> Speaker Sensitivity </td> <td> 108 dBSPL ± 1dB (at 1 KHz 1mw)</td></tr><tr><td> Speaker Frequency Range </td> <td> 50 Hz – 10 KHz</td></tr><tr><td> Speaker Size </td> <td> 28 mm</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<p><strong>UH15 | USB Environmental Noise Cancellation Headset</strong></p><ul><li>Blocks Out Background Noise</li><li>Captures your voice loud and clear</li><li>330 ° rotatable mic boom</li><li><span>USB connection</span></li></ul>",
+    "shortPoints": [
+      "USB-C and  3.5 mm Audio jack",
+      " Flexible noise canceling microphone"
+    ],
+    "file": [
+      {
+        "$oid": "6243116ad7ba724b098c311b"
+      },
+      {
+        "$oid": "62431191d7ba724b098c311e"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,4034 @@
+[{
+  "_id": {
+    "$oid": "62b1c642ff9aadb56a3a6cc7"
+  },
+  "userId": {
+    "$oid": "61cb1bb646d546f1a70c8b28"
+  },
+  "categoryId": [
+    {
+      "$oid": "61cbfa571d0a940739826314"
+    }
+  ],
+  "brandId": {
+    "$oid": "61cbf5631d0a9407398262ad"
+  },
+  "name": "Viewsonic Direct (VBD100)",
+  "shortPoints": [
+    "Extended screen ",
+    "extended multimedia ",
+    "HDMI port"
+  ],
+  "shortDescription": "<p>myViewBoard Direct VBD100 allows a presenter to extend their screen image to a whiteboarding environment on any PC-based digital whiteboard. Over HDMI connection, users can instantly show videos on a large interactive display while having rich whiteboarding tools such as annotation, multimedia import, and screen capture and recording for engaging interaction. myViewBoard Direct provides mobile PC users with easy screen sharing on the myViewBoard canvas.</p>",
+  "description": "<p class=\"ql-align-center\"><strong>Extend a presenter’s screen to the myViewBoard&nbsp;canvas</strong></p><p class=\"ql-align-center\">Analyse and annotate a video or file from your laptop, phone, or any HDMI-devices on the myViewBoard&nbsp;canvas. Make your mark with a full range of whiteboarding tools such as annotation, browser, multimedia import, screen capture/recording, etc. on a large interactive display</p><p class=\"ql-align-center\">* A free download of myViewBoard&nbsp;Direct app is needed from the Microsoft Store.</p><p class=\"ql-align-center\">* Works with the canvas version of myViewBoard&nbsp;for Windows.</p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_digital_signage_accessories/myViewBoard_Direct_%28VBD100%29/scaled/Direct_RC-01.webp\"></p><p class=\"ql-align-center\">&nbsp;</p><p class=\"ql-align-center\"><strong>Presentation with annotation tools and external multimedia</strong></p><p class=\"ql-align-center\">Present any content or app while having an additional video demo. You can even keep the annotation tool bar on top of the screen for easy annotation.</p><p class=\"ql-align-center\">* A free download of myViewBoard&nbsp;Direct app is needed from the Microsoft Store.</p><p class=\"ql-align-center\">* Works with the canvas version of myViewBoard&nbsp;for Windows.</p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_digital_signage_accessories/myViewBoard_Direct_%28VBD100%29/scaled/Direct_RC-02.webp\"></p><p class=\"ql-align-center\">&nbsp;</p><p><strong>Dimension &amp; I/O Ports</strong></p><p><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_digital_signage_accessories/myViewBoard_Direct_%28VBD100%29/scaled/Direct-Dimension-01.webp\"></p>",
+  "specifications": [
+    {
+      "title": "INPUT",
+      "value1": "HDMI In",
+      "type": "spec",
+      "_id": {
+        "$oid": "62b1c642ff9aadb56a3a6cc8"
+      }
+    },
+    {
+      "title": "OUTPUT",
+      "value1": "USB out",
+      "type": "spec",
+      "_id": {
+        "$oid": "62b1c642ff9aadb56a3a6cc9"
+      }
+    },
+    {
+      "title": "Dimension (L*W*H) in mm",
+      "value1": "76*74*21.5",
+      "type": "spec",
+      "_id": {
+        "$oid": "62b1c642ff9aadb56a3a6cca"
+      }
+    },
+    {
+      "type": "title",
+      "_id": {
+        "$oid": "6384a1ce819c5f74339a9d5c"
+      }
+    },
+    {
+      "title": "",
+      "type": "terms",
+      "_id": {
+        "$oid": "6384a1ce819c5f74339a9d5d"
+      }
+    }
+  ],
+  "image": [
+    {
+      "$oid": "62b1c5f6ff9aadb56a3a6cb7"
+    },
+    {
+      "$oid": "62b1c5f9ff9aadb56a3a6cba"
+    },
+    {
+      "$oid": "62b1c5fbff9aadb56a3a6cbd"
+    },
+    {
+      "$oid": "62b1c5feff9aadb56a3a6cc0"
+    }
+  ],
+  "file": [
+    {
+      "$oid": "62b1c613ff9aadb56a3a6cc3"
+    }
+  ],
+  "qty": 10,
+  "keywords": [
+    "vbd100",
+    " direct ",
+    "screen sharing",
+    " extend"
+  ],
+  "order": 36,
+  "status": true,
+  "seoDesc": "rookie ninja",
+  "filters": [],
+  "createdAt": {
+    "$date": "2022-06-21T13:23:14.703Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-28T11:55:58.460Z"
+  },
+  "__v": 0,
+  "filters2": {}
+},
+{
+  "_id": {
+    "$oid": "62b1cae5ff9aadb56a3a6d38"
+  },
+  "userId": {
+    "$oid": "61cb1bb646d546f1a70c8b28"
+  },
+  "categoryId": [
+    {
+      "$oid": "61cbfa571d0a940739826314"
+    }
+  ],
+  "brandId": {
+    "$oid": "61cbf5631d0a9407398262ad"
+  },
+  "name": "Viewsonic VB-AUD-201",
+  "shortPoints": [
+    "Bluetooth 5.0 and USB-C",
+    "6m coverage",
+    "Conference Speakerphone"
+  ],
+  "shortDescription": "<p>ViewSonic conference speakerphone is the perfect product for frequent online meetings for at home or in the office. It has a premium conversation quality with 360 degree omnidirectional 6 meters diameter coverage to facilitate optimal conversation. It also has four array microphones with echo cancellation and noise reduction to make sure every word is articulated and clearly heard. In addition, it is great for portability with a light weight of 340g and 24-hour call time for meetings on the go. ViewSonic conference speakerphone can also serve as a mobile charger in case your phone battery is running low. Finally, the USB type C port and Bluetooth 5.0 allows for hassle-free connectivity and efficiency.</p>",
+  "description": "<p class=\"ql-align-center\"><strong>Disturbance-free conversation with up to 6m coverage</strong></p><p class=\"ql-align-center\">Ideal for up to 6 people, ViewSonic&nbsp;conference speakerphone offers 360-degree omnidirectional sound with 6m coverage in diameter, and microphone with echo cancellation and noise reduction. Every attendee can easily focus and enjoy ultrafine conversation quality. ViewSonic conference speakerphone is also equipped with Bluetooth 5.0 to ensure connection stability and music transmission quality.</p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/product-rc/_audio/VB-AUD-201/scaled/ezgif-2-c29e3804ce.gif\" alt=\"Disturbance-free conversation with up to 6m coverage 1\"></p><p class=\"ql-align-center\"><strong>Effortlessly join a meeting no matter where you are</strong></p><p class=\"ql-align-center\">Conference speakerphone is perfect for mobile meetings with its super lightweight design that you can easily carry anywhere.</p><p class=\"ql-align-center\"><strong>24-hour battery that keeps you connected</strong></p><p class=\"ql-align-center\">The high-capacity battery with up to 6500 mAh not only supports 24-hour use, but its reverse charging can also act as an additional charging station for your phone. The conference speakerphone allows you to travel and stay connected during your business trips.</p><p class=\"ql-align-center\"><strong>Conquer any meeting scenario</strong></p><p class=\"ql-align-center\">ViewSonic&nbsp;conference speakerphone has great connectivity that easily fits into various meeting setups. You can use USB type C to quickly plug and play, or connect your device via Bluetooth 5.0 to enjoy a tidy working table.<span style=\"color: rgb(255, 255, 255);\">mme Off</span></p><p class=\"ql-align-center\"><strong>One device that fits all conference software</strong></p><p class=\"ql-align-center\">Designed as the best mobile meeting companion, the speakerphone has perfect compatibility that easily operates within various conferencing software.</p><p class=\"ql-align-center\"><strong>Dimensions &amp; I/O Ports</strong></p><p class=\"ql-align-center\">1. Volume up button</p><ol><li class=\"ql-align-center\">Call button</li><li class=\"ql-align-center\">Mute button</li><li class=\"ql-align-center\">Multi-function button</li><li class=\"ql-align-center\">Volume down button</li><li class=\"ql-align-center\">Power button</li><li class=\"ql-align-center\">Power LED indicator</li><li class=\"ql-align-center\">Bluetooth LED indicator</li><li class=\"ql-align-center\">Bluetooth button</li><li class=\"ql-align-center\">Status indicator</li><li class=\"ql-align-center\">USB port for charging output (Type-A)</li><li class=\"ql-align-center\">Audio output port</li><li class=\"ql-align-center\">USB port for charging input (Type-C</li></ol>",
+  "specifications": [
+    {
+      "title": "AUDIO Frequency",
+      "value1": "Call mode: 150Hz ~ 8kHz; Music mode: 20Hz ~ 20kHz",
+      "type": "spec",
+      "_id": {
+        "$oid": "62b1cae5ff9aadb56a3a6d39"
+      }
+    },
+    {
+      "title": "AUDIO S/N Ratio",
+      "value1": "65dB",
+      "type": "spec",
+      "_id": {
+        "$oid": "62b1cae5ff9aadb56a3a6d3a"
+      }
+    },
+    {
+      "title": " Battery time",
+      "value1": "24 hours",
+      "type": "spec",
+      "_id": {
+        "$oid": "62b1cae5ff9aadb56a3a6d3b"
+      }
+    },
+    {
+      "title": " Battery capacity",
+      "value1": "6500mAh",
+      "type": "spec",
+      "_id": {
+        "$oid": "62b1cae5ff9aadb56a3a6d3c"
+      }
+    },
+    {
+      "title": "Charging time",
+      "value1": "4 hours (5V/2A)",
+      "type": "spec",
+      "_id": {
+        "$oid": "62b1cae5ff9aadb56a3a6d3d"
+      }
+    },
+    {
+      "title": "CONNECTIVITY",
+      "value1": " USB 2.0 (VID:0543 / PID: A017), Bluetooth 5.0",
+      "type": "spec",
+      "_id": {
+        "$oid": "62b1cae5ff9aadb56a3a6d3e"
+      }
+    },
+    {
+      "title": "OPERATING CONDITIONS",
+      "value1": " Temperature: 0°C ~ 40°C (working state),-40°C ~ 60°C (non-working state) Humidity: 45% to 90% Non-Condensing",
+      "type": "spec",
+      "_id": {
+        "$oid": "62b1cae5ff9aadb56a3a6d3f"
+      }
+    },
+    {
+      "title": "DIMENSIONS (W x D x H)",
+      "value1": "TX: Physical(inch/mm): 124 x 124 x 32(mm) (without packaging)",
+      "type": "spec",
+      "_id": {
+        "$oid": "62b1cae5ff9aadb56a3a6d40"
+      }
+    },
+    {
+      "title": "WEIGHT",
+      "value1": "Net( lb/g): 0.75 lbs/0.34 kg (Net)",
+      "type": "spec",
+      "_id": {
+        "$oid": "62b1cae5ff9aadb56a3a6d41"
+      }
+    },
+    {
+      "title": "PACKAGE CONTENTS",
+      "value1": "1. Carrying case x 12. USB Type-C Cable (Male) to USB Type-A cable (Male) 1M x 13. Quick Start Guide x 1",
+      "type": "spec",
+      "_id": {
+        "$oid": "62b1cae5ff9aadb56a3a6d42"
+      }
+    },
+    {
+      "type": "title",
+      "_id": {
+        "$oid": "6384a37f819c5f74339a9e26"
+      }
+    },
+    {
+      "title": "",
+      "type": "terms",
+      "_id": {
+        "$oid": "6384a37f819c5f74339a9e27"
+      }
+    },
+    {
+      "type": "title",
+      "_id": {
+        "$oid": "6384a37f819c5f74339a9e28"
+      }
+    },
+    {
+      "title": "",
+      "type": "terms",
+      "_id": {
+        "$oid": "6384a37f819c5f74339a9e29"
+      }
+    }
+  ],
+  "image": [
+    {
+      "$oid": "62b1ca5bff9aadb56a3a6d26"
+    },
+    {
+      "$oid": "62b1ca5fff9aadb56a3a6d29"
+    },
+    {
+      "$oid": "62b1ca65ff9aadb56a3a6d2c"
+    },
+    {
+      "$oid": "62b1ca68ff9aadb56a3a6d2f"
+    }
+  ],
+  "file": [
+    {
+      "$oid": "62b1ca77ff9aadb56a3a6d32"
+    }
+  ],
+  "qty": 10,
+  "keywords": [
+    "vb-aud-201",
+    " mic",
+    " speaker phone",
+    " conference"
+  ],
+  "order": 39,
+  "status": true,
+  "seoDesc": "rookie ninja",
+  "filters": [],
+  "createdAt": {
+    "$date": "2022-06-21T13:43:01.623Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-28T12:03:11.659Z"
+  },
+  "__v": 0,
+  "filters2": {}
+},
+{
+  "_id": {
+    "$oid": "62b1d490ff9aadb56a3a6db7"
+  },
+  "userId": {
+    "$oid": "61cb1bb646d546f1a70c8b28"
+  },
+  "categoryId": [
+    {
+      "$oid": "61cbfa571d0a940739826314"
+    }
+  ],
+  "brandId": {
+    "$oid": "61cbf5631d0a9407398262ad"
+  },
+  "name": "Viewsonic VB-VIS-002",
+  "shortPoints": [
+    " 8 Megapixel​ camera​",
+    "Instantaneous autofocus",
+    "maximum size: A3"
+  ],
+  "shortDescription": "<p>Move the classroom forward into the future with ViewSonic VB-VIS-002, a document and web camera built for more immersive, engaging lessons. Demonstrate and display physical teaching materials in detail effortlessly to a virtual classroom with an 8-megapixel autofocus camera and 8x digital zoom. Scan, record or livestream worksheets, textbooks and even 3D models of up to A3 in size and annotate on them in real time. Pair the lightweight and portable VB-VIS-002 with a laptop or large touchscreen display via a USB cable and turn your classes into an interactive collaboration.</p>",
+  "description": "<p><strong>Dynamic, instant autofocus</strong></p><p>Switch from static to moving images without losing picture clarity or your students' attention. The ViewSonic Document Camera's auto-focusing lens intuitively sharpens any material as close as 10cm. Equipped with built-in microphone, you can deliver in-class demonstrations or livestreams in razor-sharp and crystal-clear quality.​</p><p><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_camera/VB-VIS-002/scaled/RC_Dynamic_instant_autofocus.webp\"></p><p><strong>Pixel-perfect and close-up ready</strong></p><p>Capture every detail of a science diagram in high resolution with an up to 8-megapixel camera. Designed with an 8X digital zoom, you can magnify the images onto large screens for a more immersive learning experience. Record or livestream your lessons in buttery-smooth 30 FPS and stunning 1920 x 1080 Full High-Definition quality. ​</p><p><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_camera/VB-VIS-002/scaled/RC_Pixel-perfect%20and%20close-up%20ready_pc.webp\"></p><p><strong>Edge-to-edge coverage​</strong></p><p>With coverage of up to A3 in size (12 x 16\", 300 x 400mm), the ViewSonic Document Camera scans ledger-sized documents, textbooks, arts and crafts canvases, and even 3D math manipulatives in full, including all the finest details close to the edges. Prepare for your lessons efficiently at an ultra-fast scanning speed of 1/30 second per page*. ​*For items smaller than A3 only.​</p><p><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_camera/VB-VIS-002/scaled/RC_Edge-to-edge-coverage.webp\"></p><p><strong>Bring lightbulb moments to life</strong></p><p>Integrated with a LED lamp, the ViewSonic Document Camera emits ample light to snap and display your papers and books in both bright and dark environments. The fitted anti-glare sheet erases overexposure, making sure each image is captured in its full glory.​</p><p><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_camera/VB-VIS-002/scaled/RC_Bring_lightbulb.webp\"></p><p><strong>Versatile at any angle</strong></p><p>The lightweight, portable device is built with a foldable, retractable arm, an adjustable neck and a rotatable camera to take any image or video at a wide range of angles. At just 0.88lbs (0.4kg), you can hop from classroom to classroom without breaking a sweat.</p><p><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_camera/VB-VIS-002/scaled/RC_Versatile%20at%20any%20angle_pc.webp\"></p><p><strong>Advanced connectivity​</strong></p><p>Compatible with Windows, Mac and Chromebook, bridge the gap between physical educational materials and digital learning spaces with ease. Simply connect the ViewSonic Document Camera with a desktop or interactive whiteboard and you can project the scanned images to a hybrid or remote classroom effortlessly.​</p><p><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_camera/VB-VIS-002/scaled/RC_Advanced_connectivity.webp\"></p><p><strong>Go beyond the display</strong></p><p>Designed exclusively for ViewSonic Document Camera, vDocCam is a software application that elevates your teaching and learning experience. ​Use Live mode to capture and project the image in real time. Playback mode lets you record a video and take a snapshot and save them into your archive. Annotate over the displayed image in Drawing mode.</p><p><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_camera/VB-VIS-002/scaled/RC_Go%20beyond%20the%20display_pc.webp\"></p><h2 class=\"ql-align-center\">Dimensions &amp; I/O Ports</h2><p><br></p><ol><li><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_camera/VB-VIS-002/scaled/RC_Dimensions.webp\">USB Cable</li><li>Lamp Button</li><li>Focus Button</li><li>Brightness Adjusting Button</li><li>Microphone</li><li>LED Lamp</li><li>Camera Head</li><li>Arm Screw</li></ol>",
+  "specifications": [
+    {
+      "title": "OPERATING SYSTEM",
+      "value1": "Windows 7, Windows 8.1, or Windows 10 or aboveMac OS 10.10 or aboveGoogle™ Chromebook™ Version38.0 or above",
+      "type": "spec",
+      "_id": {
+        "$oid": "62ecb34ea901a1de0f054d24"
+      }
+    },
+    {
+      "title": "SYSTEM REQUIREMENT",
+      "value1": "CPU Recommended: 2.4 GHz Intel Core 2 Duo processor or above RAM Recommended: 2 GB RAM or above",
+      "type": "spec",
+      "_id": {
+        "$oid": "62ecb34ea901a1de0f054d25"
+      }
+    },
+    {
+      "title": "OPTICAL SYSTEM",
+      "value1": " Working Surface: 400mm x 300mm Focus: Auto (From 10cm to 2m)",
+      "type": "spec",
+      "_id": {
+        "$oid": "62ecb34ea901a1de0f054d26"
+      }
+    },
+    {
+      "title": "CAMERA",
+      "value1": "Sensor: 1/3.2'', CMOS (Sony IMX179) Field of View (FOV): 77° ±3° (Viewable Diagonal) White Balance: Auto, Manual",
+      "type": "spec",
+      "_id": {
+        "$oid": "62ecb34ea901a1de0f054d27"
+      }
+    },
+    {
+      "title": "AUDIO",
+      "value1": "Microphone: Built-in",
+      "type": "spec",
+      "_id": {
+        "$oid": "62ecb34ea901a1de0f054d28"
+      }
+    },
+    {
+      "title": "SUPPORTED VIDEO FORMAT",
+      "value1": "Color System Compression: MJPEG /YUY2 Max. Resolution Video: 3264 x 2448 @30 fps,2592 x 1944 @30 fps,2048 x 1536 @30 fps,1600 x 1200 @30 fps,1920 x 1080 @30 fps,1280 x 720 @30 fps,1024 x 768 @30 fps",
+      "type": "spec",
+      "_id": {
+        "$oid": "62ecb34ea901a1de0f054d29"
+      }
+    },
+    {
+      "title": "CONNECTIVITY",
+      "value1": "USB: 2.0",
+      "type": "spec",
+      "_id": {
+        "$oid": "62ecb34ea901a1de0f054d2a"
+      }
+    },
+    {
+      "title": "DIMENSIONS",
+      "value1": "Physical (W xH xD): 255 x 85 x 70 mm(10.04 x 3.35 x 2.76 inches) Packaging (W xH x D): 289 x 115 x 83 mm(11.38 x 4.53 x 3.27 inches)",
+      "type": "spec",
+      "_id": {
+        "$oid": "62ecb34ea901a1de0f054d2b"
+      }
+    },
+    {
+      "title": "WEIGHT",
+      "value1": "Physical (Net): 0.4 kg(0.88 lbs) Packaging (Gross): 0.6 kg(1.32 lbs)",
+      "type": "spec",
+      "_id": {
+        "$oid": "62ecb34ea901a1de0f054d2c"
+      }
+    },
+    {
+      "title": "REGULATIONS",
+      "value1": "Compliance Certification: EMC: FCC-A, CE / Safety: LVD",
+      "type": "spec",
+      "_id": {
+        "$oid": "62ecb34ea901a1de0f054d2d"
+      }
+    },
+    {
+      "title": "PACKAGE CONTENTS",
+      "value1": "1. VB-VIS-0022. Quick start guide 3. Anti-Glare Sheet x14. Microscope/adapter/accessories x1set (adaptorØ33/34mm x1,RubberØ28mm x1, RubberØ31mm x1)",
+      "type": "spec",
+      "_id": {
+        "$oid": "62ecb34ea901a1de0f054d2e"
+      }
+    },
+    {
+      "type": "title",
+      "_id": {
+        "$oid": "64abcb6769a970da32448a75"
+      }
+    },
+    {
+      "title": "",
+      "type": "terms",
+      "_id": {
+        "$oid": "64abcb6769a970da32448a76"
+      }
+    }
+  ],
+  "image": [
+    {
+      "$oid": "62b1d476ff9aadb56a3a6da9"
+    },
+    {
+      "$oid": "62b1d479ff9aadb56a3a6dac"
+    },
+    {
+      "$oid": "62b1d47bff9aadb56a3a6daf"
+    },
+    {
+      "$oid": "62b1d47dff9aadb56a3a6db2"
+    }
+  ],
+  "file": [
+    {
+      "$oid": "62ecb336a901a1de0f054d18"
+    }
+  ],
+  "qty": 10,
+  "keywords": [
+    "Camera "
+  ],
+  "order": 38,
+  "status": true,
+  "seoDesc": "rn",
+  "filters": [],
+  "createdAt": {
+    "$date": "2022-06-21T14:24:16.405Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-10T09:12:07.875Z"
+  },
+  "__v": 0,
+  "filters2": {}
+},
+{
+  "_id": {
+    "$oid": "62fb8743c14ac4c1ccbf7be2"
+  },
+  "userId": {
+    "$oid": "61cb1bb646d546f1a70c8b28"
+  },
+  "categoryId": [
+    {
+      "$oid": "61cbfa571d0a940739826314"
+    }
+  ],
+  "brandId": {
+    "$oid": "61cbf5631d0a9407398262ad"
+  },
+  "name": "Viewsonic EP5542",
+  "shortPoints": [
+    "slim design",
+    "Streamlined device management​",
+    "stereo sound​"
+  ],
+  "shortDescription": "<h2>55\" All-in-One Digital ePoster</h2><ul><li>Slim, freestanding design for modern settings​</li><li>Exceptional picture quality​</li><li>Superb processing power with built-in quad-core&nbsp;media player&nbsp;&nbsp;​</li><li>Total remote control with RS232 commands within Local Area Network​</li><li>Effortless integrated device and content management</li></ul>",
+  "description": "<p>OVERVIEW&nbsp;</p><p>Uber-sleek and slim, the freestanding ViewSonic EP5542 is the ideal digital ePoster kiosk for high-impact visual messaging. Designed with a scratch-proof glass faceplate for added durability, it delivers unsurpassable visibility regardless of dust or ambient light. The 4K UHD IPS panel is equipped with dual 10W stereo speakers, 178° wide-angle viewing, and 450 nits of brightness, projecting crisp, vivid images and videos to engage the crowd. The EP5542 allows seamless multimedia playback with its embedded Quad-core media player and 16GB worth of internal memory. Made for effortless remote control, manage settings of multiple devices wherever via the vController app integrated with RS232 and LAN command.&nbsp;</p><p class=\"ql-align-center\"><strong>Freestanding, slim design for modern spaces​</strong></p><p class=\"ql-align-center\">The sleek, slim ePoster display blends seamlessly into any environment. With its freestanding design, the all-in-one kiosk throws engaging content that will stand out from the crowd in any space.</p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/global/img/resize/product-rc/DS/EP5542/scaled/EP5542_Scenario_Shopping%20Centre_pc.webp\" alt=\"Freestanding, slim design for modern spaces​ 1\"></p><p class=\"ql-align-center\"><strong>Perfect picture quality​</strong></p><p class=\"ql-align-center\">With exceptional 4K Ultra HD resolution, this sleek 2160 x 3840 display delivers immersive images that are larger than life. Designed with a scratch-proof, anti-glare 7H tempered glass faceplate, deliver an impactful viewing experience regardless of ambient light year after year.</p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/global/img/resize/product-rc/DS/EP5542/scaled/EP5542_RC2_Perfect%20picture%20quality%E2%80%8B_pc.webp\" alt=\"Perfect picture quality​ 1\"></p><p class=\"ql-align-center\"><strong>Powerful performance</strong></p><p class=\"ql-align-center\">Experience superb performance from a quad-core processor and 16GB storage, boasting seamless content playback without any external media player. Equipped with ViewSonic Embedded Signage Platform, a Linux-based Kernal OS, enjoy easy development, reinforced capability with multiple web formats and standards, and secured protection.</p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/global/img/resize/product-rc/DS/EP5542/scaled/EP5542_RC3_Powerful%20performance_pc.webp\" alt=\"Powerful performance 1\"></p><p class=\"ql-align-center\"><strong>Convenient connectivity and playback​</strong></p><p class=\"ql-align-center\">Deliver compelling content instantly with an effortless plug-and-play method. Store your images, videos, and music onto your portable USB drive and connect it to the ePoster for instantaneous playback.</p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/global/img/resize/product-rc/DS/EP5542/scaled/EP5542_RC4_Convenient%20connectivity%20and%20playback%E2%80%8B_pc.webp\" alt=\"Convenient connectivity and playback​ 1\"></p><p class=\"ql-align-center\"><strong>Streamlined device management​</strong></p><p class=\"ql-align-center\">Using a user-friendly on-screen interface, manage connected devices efficiently with an intuitive vController™ software through a RS232 or RJ45 (LAN) connection, enabling easy scheduling and OSD control capabilities, such as on-and-off settings, audio, and display signal source.</p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/global/img/resize/product-rc/DS/EP5542/scaled/EP5542_RC5_Streamlined%20device%20management%E2%80%8B_pc.webp\" alt=\"Streamlined device management​ 1\"></p><p class=\"ql-align-center\"><strong>​Remote content management solution​</strong></p><p class=\"ql-align-center\">The ePoster kiosk supports Revel Digital - an optional content management software* with comprehensive content management tools, offering total control of formats, schedules, and playback settings wherever you are.​*Trial version only (license sold separately)</p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/global/img/resize/product-rc/DS/EP5542/scaled/EP5542_RC6_%E2%80%8BRemote%20content%20management%20solution%E2%80%8B_pc.webp\" alt=\"​Remote content management solution​ 1\"></p><p class=\"ql-align-center\"><strong>A better way to browse​</strong></p><p class=\"ql-align-center\">Enjoy effortless access to online content through convenient web browsing capabilities. Integrated with RJ45 connectivity, you can source videos and photos from your favorite sites without the need for additional peripherals.</p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/global/img/resize/product-rc/DS/EP5542/scaled/EP5542_RC7_%E2%80%8BA%20better%20way%20to%20browse%E2%80%8B_pc.webp\" alt=\"A better way to browse​ 1\"></p><p class=\"ql-align-center\"><strong>Timed to your convenience​</strong></p><p class=\"ql-align-center\">Schedule captivating photos and videos to your preferred time and date with a user-friendly interface. Available conveniently onscreen, you can fix the device's operation hours and content playback period at the tips of your fingers.</p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/global/img/resize/product-rc/DS/EP5542/scaled/EP5542_RC8_%E2%80%8B%E2%80%8BTimed%20to%20your%20convenience%E2%80%8B_pc.webp\" alt=\"Timed to your convenience​ 1\"></p><p class=\"ql-align-center\"><strong>​​​Built for complete security​</strong></p><p class=\"ql-align-center\">The ePoster kiosk comes with a lockable door that allows you to hold an additional PC or media player securely. Integrated with a built-in power supply, you can charge the additional device without the need of external outlets or fussy cables.​</p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/global/img/resize/product-rc/DS/EP5542/scaled/EP5542_RC9_Built%20for%20complete%20security%281%29_pc.webp\" alt=\"​​​Built for complete security​ 1\"></p><p class=\"ql-align-center\"><strong>​​​​High-fidelity stereo sound​</strong></p><p class=\"ql-align-center\">Integrated with dual speakers, complement the brilliant image quality with rich, immersive surround sound for a truly cinematic multimedia experience.</p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/global/img/resize/product-rc/DS/EP5542/scaled/EP5542_RC10_%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8BHigh-fidelity%20stereo%20sound%E2%80%8B_pc.webp\" alt=\"​​​​High-fidelity stereo sound​ 1\"></p><p class=\"ql-align-center\"><strong>​​​​Dimensions &amp; I/O Ports​</strong></p><ol><li class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/global/img/resize/product-rc/DS/EP5542/scaled/EP5542-ioimage.webp\">RJ45(LAN In)</li><li class=\"ql-align-center\">RS232</li><li class=\"ql-align-center\">Audio Out</li><li class=\"ql-align-center\">SPDIF</li><li class=\"ql-align-center\">PC In(Audio)&nbsp;</li><li class=\"ql-align-center\">PC In(VGA)</li><li class=\"ql-align-center\">USB 2.0(Type A)</li><li class=\"ql-align-center\">HDMI&nbsp;In x3</li><li class=\"ql-align-center\">DP In</li><li class=\"ql-align-center\">AC Out</li><li class=\"ql-align-center\">Power Switch</li><li class=\"ql-align-center\">AC In</li><li class=\"ql-align-center\">RJ45</li><li class=\"ql-align-center\">USB 2.0(Type A)&nbsp;x2</li><li class=\"ql-align-center\">Remote Sensor</li><li class=\"ql-align-center\">Internal Speakers</li></ol>",
+  "specifications": [
+    {
+      "title": "Panel Size:",
+      "value1": " 55\"",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8743c14ac4c1ccbf7be3"
+      }
+    },
+    {
+      "title": "Type/Tech: ",
+      "value1": "TFT LCD (VA type,DLED Backlight)",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8743c14ac4c1ccbf7be4"
+      }
+    },
+    {
+      "title": "Display Area (mm): ",
+      "value1": "1209.6 (H) x 680.4 (V)",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8743c14ac4c1ccbf7be5"
+      }
+    },
+    {
+      "title": "Aspect Ratio: ",
+      "value1": "9:16",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8743c14ac4c1ccbf7be6"
+      }
+    },
+    {
+      "title": "Native Resolution:",
+      "value1": " 2160 x 3840",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8743c14ac4c1ccbf7be7"
+      }
+    },
+    {
+      "title": "Colors: ",
+      "value1": "1.07B",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8743c14ac4c1ccbf7be8"
+      }
+    },
+    {
+      "title": "Brightness: ",
+      "value1": "450 nits (typ.)",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8743c14ac4c1ccbf7be9"
+      }
+    },
+    {
+      "title": "Contrast Ratio: ",
+      "value1": "1300:1 (typ.)",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8743c14ac4c1ccbf7bea"
+      }
+    },
+    {
+      "title": "Response Time: ",
+      "value1": "9 ms (typ. G to G)",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8743c14ac4c1ccbf7beb"
+      }
+    },
+    {
+      "title": "Viewing Angles: ",
+      "value1": "H = 178, V = 178 typ.",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8743c14ac4c1ccbf7bec"
+      }
+    },
+    {
+      "title": "Backlight Life: ",
+      "value1": "30,000 Hours Typ.",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8743c14ac4c1ccbf7bed"
+      }
+    },
+    {
+      "title": "Surface Treatment: ",
+      "value1": "Anti-Glare 3H, Haze = 2%",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8743c14ac4c1ccbf7bee"
+      }
+    },
+    {
+      "title": "Orientation:",
+      "value1": " Portrait",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8743c14ac4c1ccbf7bef"
+      }
+    },
+    {
+      "title": "INPUT",
+      "value1": " HDMI: (2.0) x 3 RGB / VGA: x1 DisplayPort: (1.2) x 1 Audio: x1 PC audio(3.5 mm) RS232: x1",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8743c14ac4c1ccbf7bf0"
+      }
+    },
+    {
+      "title": "OUTPUT",
+      "value1": "Audio: x1 (Earphone out) SPDIF: x1",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8743c14ac4c1ccbf7bf1"
+      }
+    },
+    {
+      "title": "LAN",
+      "value1": "RJ45: x1",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8743c14ac4c1ccbf7bf2"
+      }
+    },
+    {
+      "title": "USB",
+      "value1": "Type A: x3 (2.0)",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8743c14ac4c1ccbf7bf3"
+      }
+    },
+    {
+      "title": "SPEAKERS",
+      "value1": "10W x 2",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8743c14ac4c1ccbf7bf4"
+      }
+    },
+    {
+      "title": "COMPATIBILITY",
+      "value1": "RGB PC/HDMI PC: 1920 x 1080 @60Hz HDMI: 2160 x 3840 @60Hz DisplayPort: 2160 x 3840 @60Hz",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8743c14ac4c1ccbf7bf5"
+      }
+    },
+    {
+      "title": "Android Version",
+      "value1": "8.0",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8743c14ac4c1ccbf7bf6"
+      }
+    },
+    {
+      "title": "Multimedia",
+      "value1": "Image: JPG, BMP, PNG Video: MP4, MOV, MKV, DAT, MPG, MPEG, AVI, TS, WMV,RM,RMVB Audio: MP3,WAV,AAC",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8743c14ac4c1ccbf7bf7"
+      }
+    },
+    {
+      "title": "Bundle Software",
+      "value1": "Revel Digital, SureMDM(license sold separately)",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8743c14ac4c1ccbf7bf8"
+      }
+    },
+    {
+      "title": "Voltage: ",
+      "value1": "100-240VAC +/- 10% Wide Range",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8743c14ac4c1ccbf7bf9"
+      }
+    },
+    {
+      "title": "Consumption: ",
+      "value1": "126 W (Normal), 149 W (Max.), < 0.5W (Off)",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8743c14ac4c1ccbf7bfa"
+      }
+    },
+    {
+      "title": "OPERATING CONDITIONS",
+      "value1": "Temperature (º C): 0°C to 40°C Humidity: 20% ~ 80% non-condensing",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8743c14ac4c1ccbf7bfb"
+      }
+    },
+    {
+      "title": "DIMENSIONS (W x H x D)",
+      "value1": " Physical (inch / mm): 30.26 x 73.62 x 17.72 in / 768.5 x 1870 x 450 mm Packaging (inch / mm): 38.19 x 80.08 x 23.98 in / 970 x 2034 x 609 mm",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8743c14ac4c1ccbf7bfc"
+      }
+    },
+    {
+      "title": "WEIGHT",
+      "value1": "Net (lb / kg): 138.23 lbs / 62.7 kg Gross (lb / kg): 164.69 lbs / 74.7 kg",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8743c14ac4c1ccbf7bfd"
+      }
+    },
+    {
+      "title": "REGULATIONS",
+      "value1": "cTUVus, FCC, Energy Star 8.0, CE, CB, RoHS, ErP, EEI, WEEE, BSMI",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8743c14ac4c1ccbf7bfe"
+      }
+    },
+    {
+      "title": "PACKAGE CONTENTS",
+      "value1": "1. Power Cord 2. Remote control with battery 3. Quick Start Guide 4. Key *Actual content may differ from market to market",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8743c14ac4c1ccbf7bff"
+      }
+    },
+    {
+      "type": "title",
+      "_id": {
+        "$oid": "64c377bff988e3aba1ba3cc9"
+      }
+    },
+    {
+      "title": "",
+      "type": "terms",
+      "_id": {
+        "$oid": "64c377bff988e3aba1ba3cca"
+      }
+    }
+  ],
+  "image": [
+    {
+      "$oid": "62fb863fc14ac4c1ccbf7b6a"
+    },
+    {
+      "$oid": "62fb8642c14ac4c1ccbf7b6d"
+    },
+    {
+      "$oid": "62fb8646c14ac4c1ccbf7b70"
+    },
+    {
+      "$oid": "62fb8650c14ac4c1ccbf7b73"
+    },
+    {
+      "$oid": "62fb8655c14ac4c1ccbf7b76"
+    },
+    {
+      "$oid": "62fb8659c14ac4c1ccbf7b79"
+    },
+    {
+      "$oid": "62fb8664c14ac4c1ccbf7b7c"
+    },
+    {
+      "$oid": "62fb8668c14ac4c1ccbf7b7f"
+    },
+    {
+      "$oid": "62fb866ac14ac4c1ccbf7b82"
+    },
+    {
+      "$oid": "62fb866fc14ac4c1ccbf7b85"
+    },
+    {
+      "$oid": "62fb8672c14ac4c1ccbf7b88"
+    }
+  ],
+  "file": [
+    {
+      "$oid": "62fb8679c14ac4c1ccbf7b8b"
+    }
+  ],
+  "qty": 10,
+  "keywords": [
+    "Viewsonic EP5542",
+    "viewsonic",
+    " rookieninja"
+  ],
+  "order": 27,
+  "status": true,
+  "seoDesc": "Uber-sleek and slim, the freestanding ViewSonic EP5542 is the ideal digital ePoster kiosk for high-impact visual messaging.",
+  "filters": [],
+  "createdAt": {
+    "$date": "2022-08-16T12:02:11.200Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-28T08:09:35.552Z"
+  },
+  "__v": 0,
+  "filters2": {}
+},
+{
+  "_id": {
+    "$oid": "62fb8a87c14ac4c1ccbf7cf4"
+  },
+  "userId": {
+    "$oid": "61cb1bb646d546f1a70c8b28"
+  },
+  "categoryId": [
+    {
+      "$oid": "61cbfa571d0a940739826314"
+    }
+  ],
+  "brandId": {
+    "$oid": "61cbf5631d0a9407398262ad"
+  },
+  "name": "Viewsonic EP5542T",
+  "shortPoints": [
+    "3840 x 2160 4K resolution",
+    "Infrared 10-point touch",
+    "USB multimedia playback"
+  ],
+  "shortDescription": "<h2>55 inch Multi-touch Digital ePoster</h2><ul><li>3840 x 2160 4K resolution</li><li>Infrared 10-point touch</li><li>Embedded media player and 16GB storage</li><li>USB multimedia playback</li><li>Remote settings</li></ul>",
+  "description": "<p>OVERVIEW&nbsp;</p><p>The ViewSonic EP5542T is a 10-point interactive 55” all-in-one free-standing digital ePoster kiosk with a sleek, slim design. Great for grabbing attention in busy, high-traffic areas, the EP5542T comes with a scratch-proof tempered glass faceplate for added durability. Featuring 4K resolution, 178°/178° wide-angle viewing, and dual 10W stereo speakers, the EP5542T delivers customized multimedia messaging with vivid clarity. Photo and video files can be played back using the embedded ARM media player and 16GB of internal memory, or add your own media player using the convenient media player cradle inside the lockable security door. It has build-in media playback software, as well as compatibility with ProAV control systems, make for easy management of multiple displays.&nbsp;</p><h2 class=\"ql-align-center\">Interactive On-Demand Messaging</h2><p class=\"ql-align-center\">This display delivers on-demand interactive messaging with 10-point multi-touch capability and is the perfect e-catalog display solution for use as retail, information, and wayfinding kiosks in high-traffic areas.</p><p class=\"ql-align-center\"><br></p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/global/img/resize/product-rc/DS/EP5542T/EP5542T-10-point_pc.webp\"></p><h2 class=\"ql-align-center\">All-in-one with Integrated Media Player</h2><p class=\"ql-align-center\">A powerful quad-core media player enables photo and video playback, while 16GB of onboard memory provides ample storage for files and multimedia content.</p><p class=\"ql-align-center\"><br></p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/global/img/resize/product-rc/DS/EP5542T/EP5542T-Quad-core_pc.webp\"></p><h2 class=\"ql-align-center\">USB Multimedia Playback</h2><p class=\"ql-align-center\">Customised photos, music, and 4K video can be quickly displayed on-screen directly from a USB drive.</p><p class=\"ql-align-center\"><br></p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/global/img/resize/product-rc/DS/EP5542T/EP5542T-USB-Playback%281%29_pc.webp\"></p><h2 class=\"ql-align-center\">Access to Web Contents</h2><p class=\"ql-align-center\">Integrated with RJ45 connectivity, the display offers convenient web browsing functionality. Users can search online and watch videos directly on the display without having to connect to other computing devices.</p><p class=\"ql-align-center\"><br></p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/global/img/resize/product-rc/DS/EP5542T/EP5542T-LAN-1_pc.webp\"></p><h2 class=\"ql-align-center\">Internal Scheduler</h2><p class=\"ql-align-center\">An efficient, user-friendly scheduling interface is available via the on-screen display (OSD). Setup features include time and date scheduling, ensuring that messaging, images, or videos run smoothly and on time.</p><p class=\"ql-align-center\"><br></p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/global/img/resize/product-rc/DS/EP5542T/EP5542T-User-Friendly%20Content_pc.webp\"></p><h2 class=\"ql-align-center\">Remote Various Display Management</h2><p class=\"ql-align-center\">Compatible with professional ProAV control systems such as Crestron, AMX, Extron, Control4, SureMDM, and Revel Digital, this ePoster allows IT personnel to manage and configure settings remotely over LAN with other display devices.</p><p class=\"ql-align-center\"><br></p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/global/img/resize/product-rc/DS/EP5542T/EP5542T-Remote-Various-Display-Management_pc.webp\"></p><h2 class=\"ql-align-center\">Media Player Cradle with Security Door</h2><p class=\"ql-align-center\">A convenient media player cradle can accommodate a PC or an additional mounted media player, while a lockable door keeps things secure and out of sight. The ePoster stand also features an integrated power supply, eliminating the need to find alternative outlets for add-on devices.</p><p class=\"ql-align-center\"><br></p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/global/img/resize/product-rc/DS/EP5542T/EP5542T-Media-Player-Cradle-with-Security-Door%281%29_pc.webp\"></p><h2 class=\"ql-align-center\">Dual 10W Speakers</h2><p class=\"ql-align-center\">Designed with dual integrated speakers, this display combines incredible screen performance with stereo sound for an immersive multimedia experience.</p><p class=\"ql-align-center\"><br></p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/global/img/resize/product-rc/DS/EP5542T/EP5542T-Dual-10W-speakers_pc.webp\"></p><h2 class=\"ql-align-center\">Premium Design</h2><p class=\"ql-align-center\">This standing all-in-one digital ePoster kiosk features a sleek and slim premium design utilising a 7H tempered glass faceplate that offers scratch-proof protection to keep your ePoster looking like new year after year.</p><p class=\"ql-align-center\"><br></p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/global/img/resize/product-rc/DS/EP5542T/EP5542T-Robust%20and%20Reliable%20design_pc.webp\"></p><h2 class=\"ql-align-center\">4K Resolution</h2><p class=\"ql-align-center\">With four-times the resolution of Full HD, this Ultra HD 3840x2160 display delivers a breathtaking viewing experience with immersive images that are vibrant, clear, and as large as life.</p><p class=\"ql-align-center\"><br></p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/global/img/resize/product-rc/DS/EP5542T/4K_pc.webp\"></p><h2 class=\"ql-align-center\">I/O Ports</h2><p class=\"ql-align-center\"><br></p><ol><li class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/global/img/resize/product-rc/DS/EP5542T/EP5542T-Dimension-01.webp\">LAN</li><li class=\"ql-align-center\">RS-232C</li><li class=\"ql-align-center\">Audio In</li><li class=\"ql-align-center\">S/PDIF</li><li class=\"ql-align-center\">PC In</li><li class=\"ql-align-center\">Touch Out</li><li class=\"ql-align-center\">USB 2.0</li><li class=\"ql-align-center\">HDMI</li><li class=\"ql-align-center\">DP In</li><li class=\"ql-align-center\">AC In</li><li class=\"ql-align-center\">Power Swithch</li><li class=\"ql-align-center\">AC Out</li><li class=\"ql-align-center\">RJ45</li><li class=\"ql-align-center\">USB x2</li></ol>",
+  "specifications": [
+    {
+      "title": "Panel Size: ",
+      "value1": "55\"",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8a87c14ac4c1ccbf7cf5"
+      }
+    },
+    {
+      "title": "Type/Tech: ",
+      "value1": "TFT LCD (VA type,DLED Backlight)",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8a87c14ac4c1ccbf7cf6"
+      }
+    },
+    {
+      "title": "Display Area (mm): ",
+      "value1": "1209.6 (H) * 680.4 (V)",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8a87c14ac4c1ccbf7cf7"
+      }
+    },
+    {
+      "title": "Aspect Ratio: ",
+      "value1": "9:16",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8a87c14ac4c1ccbf7cf8"
+      }
+    },
+    {
+      "title": "Native Resolution: ",
+      "value1": "2160 x 3840",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8a87c14ac4c1ccbf7cf9"
+      }
+    },
+    {
+      "title": "Colors:",
+      "value1": " 1.07B",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8a87c14ac4c1ccbf7cfa"
+      }
+    },
+    {
+      "title": "Brightness: ",
+      "value1": "450 nits (typ.)",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8a87c14ac4c1ccbf7cfb"
+      }
+    },
+    {
+      "title": "Contrast Ratio:",
+      "value1": " 1300:1 (typ.)",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8a87c14ac4c1ccbf7cfc"
+      }
+    },
+    {
+      "title": "Response Time: ",
+      "value1": "9 ms (typ. G to G)",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8a87c14ac4c1ccbf7cfd"
+      }
+    },
+    {
+      "title": "Viewing Angles: ",
+      "value1": "H = 178, V = 178 typ.",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8a87c14ac4c1ccbf7cfe"
+      }
+    },
+    {
+      "title": "Backlight Life: ",
+      "value1": "30,000 Hours Typ.",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8a87c14ac4c1ccbf7cff"
+      }
+    },
+    {
+      "title": "Surface Treatment: ",
+      "value1": "7H Tempered Glass",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8a87c14ac4c1ccbf7d00"
+      }
+    },
+    {
+      "title": "Orientation: ",
+      "value1": "Portrait",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8a87c14ac4c1ccbf7d01"
+      }
+    },
+    {
+      "title": "Type/ Tech: ",
+      "value1": "IR Recognition",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8a87c14ac4c1ccbf7d02"
+      }
+    },
+    {
+      "title": "Touch Resolution:",
+      "value1": " 32768 x 32768",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8a87c14ac4c1ccbf7d03"
+      }
+    },
+    {
+      "title": "Touch Point:",
+      "value1": " 10 Points",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8a87c14ac4c1ccbf7d04"
+      }
+    },
+    {
+      "title": "INPUT",
+      "value1": " HDMI: (2.0) x 3 RGB / VGA: x1 DisplayPort: (1.2) x 1 Audio: x1 PC audio(3.5 mm) RS232: x1",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8a87c14ac4c1ccbf7d05"
+      }
+    },
+    {
+      "title": "OUTPUT",
+      "value1": "Audio: x1 (Earphone out) SPDIF: x1",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8a87c14ac4c1ccbf7d06"
+      }
+    },
+    {
+      "title": "LAN",
+      "value1": "RJ45: x1",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8a87c14ac4c1ccbf7d07"
+      }
+    },
+    {
+      "title": "USB",
+      "value1": "Type A: x3 (2.0) Type B: x2 (for touch module)",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8a87c14ac4c1ccbf7d08"
+      }
+    },
+    {
+      "title": "SPEAKERS",
+      "value1": "10W x 2",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8a87c14ac4c1ccbf7d09"
+      }
+    },
+    {
+      "title": "COMPATIBILITY",
+      "value1": "RGB PC/HDMI PC: 1920x1080 @60Hz HDMI: 2160 x 3840 @60Hz DisplayPort: 2160 x 3840 @60Hz",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8a87c14ac4c1ccbf7d0a"
+      }
+    },
+    {
+      "title": "Android Version",
+      "value1": "8.0",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8a87c14ac4c1ccbf7d0b"
+      }
+    },
+    {
+      "title": "Multimedia",
+      "value1": " Image: JPG, BMP, PNG, Video: MP4, MOV, MKV, DAT, MPG, MPEG, AVI, TS, WMV,RM,RMVB, Audio: MP3,WAV,AAC",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8a87c14ac4c1ccbf7d0c"
+      }
+    },
+    {
+      "title": "Bundle Software",
+      "value1": "Revel Digital, SureMDM",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8a87c14ac4c1ccbf7d0d"
+      }
+    },
+    {
+      "title": "Voltage: ",
+      "value1": "100-240VAC +/- 10% Wide Range",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8a87c14ac4c1ccbf7d0e"
+      }
+    },
+    {
+      "title": "Consumption: ",
+      "value1": "Normal 126 W, Max 149 W (max.), < 0.5W (Off)",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8a87c14ac4c1ccbf7d0f"
+      }
+    },
+    {
+      "title": "OPERATING CONDITIONS",
+      "value1": "Temperature (º C): 0°C to 40°C Humidity: 20% ~ 80% non-condensing",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8a87c14ac4c1ccbf7d10"
+      }
+    },
+    {
+      "title": "DIMENSIONS (W x H x D)",
+      "value1": "Physical (inch / mm): 30.26 x 73.62 x 17.72 in/768.5 x 1870 x 450 mm Packaging (inch / mm): 38.19 x 80.08 x 23.98 in/970 x 2034 x 609 mm",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8a87c14ac4c1ccbf7d11"
+      }
+    },
+    {
+      "title": "WEIGHT",
+      "value1": " Net (lb / kg): 138.23 lbs/62.7 kg Gross (lb / kg): 164.69 lbs/74.7 kg",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8a87c14ac4c1ccbf7d12"
+      }
+    },
+    {
+      "title": "REGULATIONS",
+      "value1": "cTUVus, FCC, Energy Star, CE, CB, RoHS, ErP, EEI, WEEE, BSMI",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8a87c14ac4c1ccbf7d13"
+      }
+    },
+    {
+      "title": "PACKAGE CONTENTS",
+      "value1": "1. Power Cord 2. Remote control with battery 3. Quick Start Guide 4. Key",
+      "type": "spec",
+      "_id": {
+        "$oid": "62fb8a87c14ac4c1ccbf7d14"
+      }
+    },
+    {
+      "type": "title",
+      "_id": {
+        "$oid": "64c377d6f988e3aba1ba3d40"
+      }
+    },
+    {
+      "title": "",
+      "type": "terms",
+      "_id": {
+        "$oid": "64c377d6f988e3aba1ba3d41"
+      }
+    }
+  ],
+  "image": [
+    {
+      "$oid": "62fb8a33c14ac4c1ccbf7cd2"
+    },
+    {
+      "$oid": "62fb8a37c14ac4c1ccbf7cd5"
+    },
+    {
+      "$oid": "62fb8a3bc14ac4c1ccbf7cd8"
+    },
+    {
+      "$oid": "62fb8a40c14ac4c1ccbf7cdb"
+    },
+    {
+      "$oid": "62fb8a47c14ac4c1ccbf7cde"
+    },
+    {
+      "$oid": "62fb8a4bc14ac4c1ccbf7ce1"
+    },
+    {
+      "$oid": "62fb8a4ec14ac4c1ccbf7ce4"
+    },
+    {
+      "$oid": "62fb8a51c14ac4c1ccbf7ce7"
+    },
+    {
+      "$oid": "62fb8a55c14ac4c1ccbf7cea"
+    },
+    {
+      "$oid": "62fb8a58c14ac4c1ccbf7ced"
+    },
+    {
+      "$oid": "62fb8a5ac14ac4c1ccbf7cf0"
+    }
+  ],
+  "file": [
+    {
+      "$oid": "62fb8a30c14ac4c1ccbf7ccf"
+    }
+  ],
+  "qty": 10,
+  "keywords": [
+    "Viewsonic EP5542T",
+    " viewsonic",
+    " rookieninja"
+  ],
+  "order": 28,
+  "status": true,
+  "seoDesc": "The ViewSonic EP5542T is a 10-point interactive 55” all-in-one free-standing digital ePoster kiosk with a sleek, slim design. Great for grabbing attention in busy, high-traffic areas, the EP5542T comes with a scratch-proof tempered glass faceplate for added durability.",
+  "filters": [],
+  "createdAt": {
+    "$date": "2022-08-16T12:16:07.651Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-28T08:09:58.187Z"
+  },
+  "__v": 0,
+  "filters2": {}
+},
+{
+  "_id": {
+    "$oid": "635f7b7b342ab9e8f1f23ce0"
+  },
+  "userId": {
+    "$oid": "61cb1bb646d546f1a70c8b28"
+  },
+  "categoryId": [
+    {
+      "$oid": "61cbfa571d0a940739826314"
+    }
+  ],
+  "brandId": {
+    "$oid": "61cbf5631d0a9407398262ad"
+  },
+  "name": "ViewSonic EP5540 ",
+  "shortPoints": [
+    "55 inch All-in-One Digital ePoster",
+    "3840 x 2160 4K resolution",
+    "Embedded media player and 16GB storage",
+    "LAN function to access to web"
+  ],
+  "shortDescription": "<ul><li>3840 x 2160 4K resolution</li><li>Embedded media player and 16GB storage</li><li>USB multimedia playback</li><li>Expandable external media player holder</li><li>LAN function to access to web</li></ul><p><br></p>",
+  "description": "<p>The ViewSonic EP5540 is a 55” all-in-one free-standing digital ePoster kiosk with a sleek, slim design. Great for grabbing attention in busy, high-traffic areas, the EP5540 comes with a scratch-proof tempered glass faceplate for added durability. Featuring 4K resolution, 178°/178° wide-angle viewing, and dual 10W stereo speakers, the EP5540 delivers customised multimedia messaging with vivid clarity. Photo and video files can be played back using the embedded Quad-core media player and 16GB of internal memory, or add your own media player using the convenient media player cradle inside the lockable security door. The signage content and display management software, as well as compatibility with ProAV control systems, make for easy management of multiple displays.</p><p class=\"ql-align-center\">4K Resolution</p><p class=\"ql-align-center\">This display features 4K resolution for unbelievable pixel-by-pixel image performance and a more realistic viewing experience.&nbsp;</p><p class=\"ql-align-center\">All-in-one with Integrated Media Player</p><p class=\"ql-align-center\">This display features an integrated media player with quad-core processor and 16GB storage, providing smooth and reliable multimedia contents playback – without the need for an external media player or PC.</p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/DS/EP5540T/EP5540T-Quad-core.webp\" height=\"766\" width=\"574\"></p><p class=\"ql-align-center\">&nbsp;</p><p class=\"ql-align-center\">USB Multimedia Playback</p><p class=\"ql-align-center\">Customised photos, music, and 4K video can be quickly displayed on-screen directly from a USB drive.</p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/DS/EP5540T/EP5540T-USB-Playback%281%29.webp\" height=\"762\" width=\"510\"></p><p class=\"ql-align-center\">&nbsp;</p><p class=\"ql-align-center\">Access to Web Contents</p><p class=\"ql-align-center\">Integrated with RJ45 connectivity, the display offers convenient web browsing functionality. Users can search online and watch videos directly on the display without having to connect to other computing devices.</p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/DS/EP5540T/EP5540T-LAN.webp\" height=\"654\" width=\"739\"></p><p class=\"ql-align-center\">&nbsp;</p><p class=\"ql-align-center\">Internal scheduler</p><p class=\"ql-align-center\">An efficient, user-friendly scheduling interface is available via the on-screen display (OSD). Setup features include time and date scheduling, ensuring that messaging, images, or videos run smoothly and on time.</p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/DS/EP5540T/EP5540T-User-Friendly%20Content.webp\" height=\"635\" width=\"854\"></p><p class=\"ql-align-center\">&nbsp;</p><p class=\"ql-align-center\">Dual 10W Speakers</p><p class=\"ql-align-center\">Designed with dual integrated speakers, this display combines incredible screen performance with stereo sound for an immersive multimedia experience.</p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/DS/EP5540T/EP5540T-Dual-10W-speakers%281%29.webp\" height=\"647\" width=\"647\"></p><p class=\"ql-align-center\">&nbsp;</p><p class=\"ql-align-center\">Signage Content Management</p><p class=\"ql-align-center\">The intranet remote control vSignage software allows anyone with basic computer skills to create or modify content playback schedules quickly from any Windows PC or laptop. With a variety of layout templates over LAN, users can deliver the right message to the right audience at the right times.</p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/DS/EP5540T/EP5540T-image-change.webp\" height=\"680\" width=\"973\"></p><p class=\"ql-align-center\">&nbsp;</p><p class=\"ql-align-center\">Remote Display Management</p><p class=\"ql-align-center\">The built-in vController™ software makes remote display management easier without needing to type in commands. By using an RS232 or RJ45 connection between a computer and digital signage, users can manage the signage’s OSD settings such as On/Off, display signal source, audio, and other general items.</p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/DS/EP5540T/EP5540T-Remote-Display-Management.webp\" height=\"703\" width=\"980\"></p><p class=\"ql-align-center\">&nbsp;</p><p class=\"ql-align-center\">Remote Various Display Management</p><p class=\"ql-align-center\">Compatible with professional ProAV control systems such as Crestron, AMX, Extron, and Control4, this ePoster allows IT personnel to manage and configure settings remotely over LAN with other display devices.</p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/DS/EP5540T/EP5540T-Remote-Various-Display-Management.webp\"></p><p class=\"ql-align-center\">&nbsp;</p><p class=\"ql-align-center\">Media Player Cradle with Security Door</p><p class=\"ql-align-center\">A convenient media player cradle can accommodate a PC or an additional mounted media player, while a lockable door keeps things secure and out of sight. The ePoster stand also features an integrated power supply, eliminating the need to find alternative outlets for add-on devices.</p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/DS/EP5540T/EP5540T-Media-Player-Cradle-with-Security-Door.webp\"></p><p class=\"ql-align-center\">&nbsp;</p><p class=\"ql-align-center\">Robust and Reliable Design</p><p class=\"ql-align-center\">This standing all-in-one digital ePoster kiosk features a sleek and slim premium design, utilising a 7H tempered glass faceplate that offers scratch-proof protection to keep your ePoster looking like new year after year.</p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/DS/EP5540T/EP5540-Robust-and-Reliable-design.webp\" height=\"682\" width=\"559\"></p><p class=\"ql-align-center\">&nbsp;</p><p class=\"ql-align-center\">I/O Ports</p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/DS/EP5540T/EP5540T-Versatile-Connectivity.webp\" height=\"516\" width=\"775\"></p><p class=\"ql-align-center\">&nbsp;</p><p class=\"ql-align-center\">Dimension</p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/DS/EP5540T/EP5540T-Dimension-01.webp\" height=\"653\" width=\"567\"></p>",
+  "specifications": [
+    {
+      "title": "Display",
+      "value1": "Panel Size: 55\"",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23ce1"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Type/Tech: TFT LCD (IPS type,DLED Backlight)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23ce2"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Display Area (mm): 1209.6 (H) * 680.4 (V)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23ce3"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Aspect Ratio: 9:16",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23ce4"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Native Resolution: 3840 x 2160",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23ce5"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Colors: 1.07B",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23ce6"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Brightness: 350 nits (typ.)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23ce7"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Contrast Ratio: 1200:1 (typ.)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23ce8"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Response Time: 9 ms (typ. G to G)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23ce9"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Viewing Angles: H = 178, V = 178 typ.",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23cea"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Backlight Life: 30,000 Hours Typ.",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23ceb"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Surface Treatment: Anti-glare",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23cec"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Orientation: Portrait",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23ced"
+      }
+    },
+    {
+      "title": " Storage",
+      "value1": "eMMC 16GB",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23cee"
+      }
+    },
+    {
+      "title": "INPUT",
+      "value1": " HDMI: (1.4) x2",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23cef"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "RGB / VGA: x1",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23cf0"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Audio: x1 PC audio(3.5 mm)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23cf1"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "RS232: x1",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23cf2"
+      }
+    },
+    {
+      "title": " OUTPUT",
+      "value1": " Audio: x1 (Earphone out)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23cf3"
+      }
+    },
+    {
+      "title": "LAN",
+      "value1": " RJ45: x1",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23cf4"
+      }
+    },
+    {
+      "title": "USB",
+      "value1": " Type A: x3 (2.0 x 1, 3.0 x 2 )",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23cf5"
+      }
+    },
+    {
+      "title": "SPEAKERS",
+      "value1": " 10W x 2",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23cf6"
+      }
+    },
+    {
+      "title": "COMPATIBILITY",
+      "value1": "RGB PC/HDMI PC: 1920x1080 @60Hz",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23cf7"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "HDMI: 2160 x 3840 @60Hz",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23cf8"
+      }
+    },
+    {
+      "title": " Android Version",
+      "value1": " 5.0.1",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23cf9"
+      }
+    },
+    {
+      "title": "Multimedia",
+      "value1": " Image: JPG, BMP, PNG",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23cfa"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Video: AVI, MPG, MPEG, DAT, MP4, TS, RM, RMVB, MKV, MOV",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23cfb"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Audio: MP3, AAC",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23cfc"
+      }
+    },
+    {
+      "title": " Bundle Software",
+      "value1": "vSignage",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23cfd"
+      }
+    },
+    {
+      "title": "Power",
+      "value1": " Voltage: 100-240VAC +/- 10% Wide Range",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23cfe"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Consumption: Normal 117 W, Max 150 W (max.)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23cff"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "< 0.5W (Off)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23d00"
+      }
+    },
+    {
+      "title": " OPERATING CONDITIONS",
+      "value1": "Temperature (º C): 0°C to 40°C",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23d01"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Humidity: 20% ~ 80% non-condensing",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23d02"
+      }
+    },
+    {
+      "title": " DIMENSIONS (W x H x D)",
+      "value1": " Physical (inch / mm): 31.97 x 74.8 x 17.71 in/812 x 1900 x 450 mm",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23d03"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Packaging (inch / mm): 38.7 x 79.37 x 24.33 in/983 x 2016 x 618 mm",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23d04"
+      }
+    },
+    {
+      "title": " WEIGHT",
+      "value1": "Net (lb / kg): 153.66 lbs/69.7 kg",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23d05"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Gross (lb / kg): 186.73 lbs/84.7 kg",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23d06"
+      }
+    },
+    {
+      "title": " REGULATIONS",
+      "value1": "cTUVus, FCC, BSMI",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23d07"
+      }
+    },
+    {
+      "title": "PACKAGE CONTENTS",
+      "value1": " 1. Power Cord",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23d08"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "2. Remote control with battery",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23d09"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "3. Quick Start Guide",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23d0a"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "4. User Guide CD",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23d0b"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "5. Key",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f7b7b342ab9e8f1f23d0c"
+      }
+    },
+    {
+      "type": "title",
+      "_id": {
+        "$oid": "64abce5c69a970da32448ec3"
+      }
+    },
+    {
+      "title": "",
+      "type": "terms",
+      "_id": {
+        "$oid": "64abce5c69a970da32448ec4"
+      }
+    }
+  ],
+  "image": [
+    {
+      "$oid": "635f7a91342ab9e8f1f23ccf"
+    },
+    {
+      "$oid": "635f7a95342ab9e8f1f23cd2"
+    },
+    {
+      "$oid": "635f7a99342ab9e8f1f23cd5"
+    },
+    {
+      "$oid": "635f7a9e342ab9e8f1f23cd8"
+    }
+  ],
+  "file": [
+    {
+      "$oid": "635f7b79342ab9e8f1f23cdc"
+    }
+  ],
+  "qty": 10,
+  "keywords": [
+    "viewsonic",
+    "monitor"
+  ],
+  "order": 0,
+  "status": true,
+  "seoDesc": "This display features 4K resolution for unbelievable pixel-by-pixel image performance and a more realistic viewing experience.",
+  "filters": [],
+  "createdAt": {
+    "$date": "2022-10-31T07:38:35.612Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-10T09:24:44.213Z"
+  },
+  "__v": 0,
+  "filters2": {}
+},
+{
+  "_id": {
+    "$oid": "635f817d342ab9e8f1f23d7b"
+  },
+  "userId": {
+    "$oid": "61cb1bb646d546f1a70c8b28"
+  },
+  "categoryId": [
+    {
+      "$oid": "61cbfa571d0a940739826314"
+    }
+  ],
+  "brandId": {
+    "$oid": "61cbf5631d0a9407398262ad"
+  },
+  "name": "ViewSonic VB-CAM-201",
+  "shortPoints": [
+    "4K UHD resolution and 5x digital zooming",
+    "Stereo speaker and 4 array microphone with 3A audio (AEC/ANS/AGC) processing technology*",
+    "Automatically adjust the frame based on attendees’ seating with up to 121° wide-angle FOV."
+  ],
+  "shortDescription": "<ul><li>Automatically focus framing on narrator during the conference through voice tracking.</li><li>Automatically adjust the frame based on attendees’ seating with up to 121° wide-angle FOV.</li><li>4K UHD resolution and 5x digital zooming.</li><li>Multiple mounting options to fit in all meeting room setups.</li><li>Stereo speaker and 4 array microphone with 3A audio (AEC/ANS/AGC) processing technology*</li></ul><p><span style=\"color: rgb(34, 34, 34);\">&nbsp;*Remarks:</span></p><p><span style=\"color: rgb(34, 34, 34);\">AEC: Acoustic Echo Cancellation</span></p><p><span style=\"color: rgb(34, 34, 34);\">ANS: Automatic Noise Suppression</span></p><p><span style=\"color: rgb(34, 34, 34);\">AGC: Automatic Gain Control</span></p>",
+  "description": "<p>The ViewSonic All-in-one conference camera is designed to enhance the video meeting experience for all the participants. Its 4K UHD resolution and 121° super wide-angle lens efficiently capture the whole room regardless of seating arrangements. The voice tracking feature of its built-in microphone paired with a 5x digital zoom ensures that the speaker will always be inframe. It comes complete with an 8W speaker and a 4 array microphone with noise and echo cancellation technologies to ensure participants can hear and be heard loud and clear.</p><p class=\"ql-align-center\">Video Conferencing Made Easy</p><p class=\"ql-align-center\">The all-in-one conference camera is motorized with an auto-adjustable 121° wide-angle lens to ensure all attendees are in the frame, regardless of the seating arrangements.</p><p class=\"ql-align-center\">Crystal Clear Communication</p><p class=\"ql-align-center\">The all-in-one conference camera is fitted with a powerful built-in microphone, accurately capturing voices at up to 6 meters. State-of-the-art 3A audio (AEC/ANS/AGC) processing technology provides echo cancellation, noise reduction, and automatic gain control, ensuring clear and accurate communication every time. Its plug-and-play connectivity with ViewSonic’s ViewBoard makes setup quick and easy.</p><p class=\"ql-align-center\">Flexible Set-Up</p><p class=\"ql-align-center\">Versatile mounting options allow you to adapt your set-up to suit your needs no matter your preferred conference room layout.</p><p class=\"ql-align-center\"><br></p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_camera/VB-CAM-201/scaled/VB-CAM-201_Mount-it-in-best-way%281%29_pc.webp\" alt=\"Flexible Set-Up 1\"></p><p class=\"ql-align-center\">One Device, Any Software</p><p class=\"ql-align-center\"><br></p><p class=\"ql-align-center\">Compatibility issues are a thing of the past. All-in-one conference camera is supported by a broad range of video conferencing solutions to ensure you’re able to connect when you need, using the software of your choice.</p><p class=\"ql-align-center\"><br></p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_camera/VB-CAM-201/scaled/a5s9p-nqmeq_pc.webp\" alt=\"One Device, Any Software 1\"></p><ol><li class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_camera/VB-CAM-201/scaled/VB-CAM-201_Dimension1_pc.webp\">DC in</li><li class=\"ql-align-center\">USB-C 3.0</li><li class=\"ql-align-center\">HDMI</li><li class=\"ql-align-center\">USB-A 2.0</li><li class=\"ql-align-center\">LAN</li></ol><p><br></p>",
+  "specifications": [
+    {
+      "title": "OPERATING SYSTEM",
+      "value1": "Windows 7 (only 1080p and below), Windows 8.1, Windows 10 or highermacOS® 10.10 or higherGoogle ChromebookTM Version 29.0.1547.70 or higherLinux (requires support for UVC)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f817d342ab9e8f1f23d7c"
+      }
+    },
+    {
+      "title": "SYSTEM REQUIREMENT",
+      "value1": " CPU Recommended: 2.4 GHz Intel® Core 2TM Duo processor or above",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f817d342ab9e8f1f23d7d"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "RAM Recommended: 2 GB of memory or above",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f817d342ab9e8f1f23d7e"
+      }
+    },
+    {
+      "title": " CAMERA",
+      "value1": "Sensor: 1/2.5 inch, CMOS, 8.51M pixel",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f817d342ab9e8f1f23d7f"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Field of View (FOV): 121°(DFOV), 110°(HFOV), 5x Digital Zoom, Pan/Tilt ±15°",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f817d342ab9e8f1f23d80"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "White Balance: Automatic, Indoor, Outdoor, One Push, Manual",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f817d342ab9e8f1f23d81"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Digital Noise Reduction: 2D, 3D digital noise reduction",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f817d342ab9e8f1f23d82"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Backlight Compensation: Support",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f817d342ab9e8f1f23d83"
+      }
+    },
+    {
+      "title": " AUDIO",
+      "value1": "Microphone: Beamforming microphone, pick up distance up to 6 meters",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f817d342ab9e8f1f23d84"
+      }
+    },
+    {
+      "title": "SUPPORTED VIDEO FORMAT",
+      "value1": "Color System Compression: H.264 / MJPEG /YUY2",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f817d342ab9e8f1f23d85"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Max. Resolution Video: 4K@30fps, 1080P@30fps, 720P@30fps, etc",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f817d342ab9e8f1f23d86"
+      }
+    },
+    {
+      "title": " CONNECTIVITY",
+      "value1": "USB: 3.0(Type C x1), 2.0(Type A x1)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f817d342ab9e8f1f23d87"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "HDMI output: x1",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f817d342ab9e8f1f23d88"
+      }
+    },
+    {
+      "title": " DIMENSIONS",
+      "value1": "Physical (W xH xD): 600 x 115 x 135 mm (bracket included)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f817d342ab9e8f1f23d89"
+      }
+    },
+    {
+      "title": "WEIGHT",
+      "value1": "Physical (Net): 2.2 kg (4.86 lbs)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f817d342ab9e8f1f23d8a"
+      }
+    },
+    {
+      "title": "REGULATIONS",
+      "value1": "Compliance Certification: CE, FCC, IC ID, FCC ID, LVD",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f817d342ab9e8f1f23d8b"
+      }
+    },
+    {
+      "title": "PACKAGE CONTENTS",
+      "value1": "1. VB-CAM-2012. Documentation3. Remote Control4. Power Adapter5. Bracket6. USB Type-C Cable7. Bracket Screw x 68. Wall Anchor x 6",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f817d342ab9e8f1f23d8c"
+      }
+    },
+    {
+      "type": "title",
+      "_id": {
+        "$oid": "635f817d342ab9e8f1f23d8d"
+      }
+    },
+    {
+      "title": "",
+      "type": "terms",
+      "_id": {
+        "$oid": "635f817d342ab9e8f1f23d8e"
+      }
+    },
+    {
+      "type": "title",
+      "_id": {
+        "$oid": "635f817d342ab9e8f1f23d8f"
+      }
+    },
+    {
+      "title": "",
+      "type": "terms",
+      "_id": {
+        "$oid": "635f817d342ab9e8f1f23d90"
+      }
+    }
+  ],
+  "image": [
+    {
+      "$oid": "635f8136342ab9e8f1f23d6a"
+    },
+    {
+      "$oid": "635f813a342ab9e8f1f23d6d"
+    },
+    {
+      "$oid": "635f813f342ab9e8f1f23d70"
+    },
+    {
+      "$oid": "635f8144342ab9e8f1f23d73"
+    }
+  ],
+  "file": [
+    {
+      "$oid": "635f8157342ab9e8f1f23d76"
+    }
+  ],
+  "qty": 10,
+  "keywords": [
+    "viewsonic",
+    "monitor"
+  ],
+  "order": 0,
+  "status": true,
+  "seoDesc": "A powerful 4K UHD resolution and a 5x digital zoom, coupled with voice and camera tracking allows you to switch between wide-angle, full room views, and individual speaker tracking to ensure you'll always focus on what matters most.",
+  "filters": [],
+  "createdAt": {
+    "$date": "2022-10-31T08:04:13.041Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-31T08:04:13.041Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "635f83d6342ab9e8f1f23db5"
+  },
+  "userId": {
+    "$oid": "61cb1bb646d546f1a70c8b28"
+  },
+  "categoryId": [
+    {
+      "$oid": "61cbfa571d0a940739826314"
+    }
+  ],
+  "brandId": {
+    "$oid": "61cbf5631d0a9407398262ad"
+  },
+  "name": "ViewSonic VB-CAM-001",
+  "shortPoints": [
+    "1080p Ultra-wide Web Camera",
+    "Built-in stereo microphone with automatic noise reduction",
+    "Multi-purpose bracket design"
+  ],
+  "shortDescription": "<ul><li>Built-in&nbsp;stereo microphone with automatic noise reduction</li><li>Light correction technology and backlight compensation</li><li>Multi-purpose bracket design for easy installation</li><li>Compatible with Windows/Mac/Android/Chrome OS</li></ul><p><br></p>",
+  "description": "<p>Expand the world of virtual conferencing and streaming in your home, office, or classroom with a ViewSonic web camera. The high definition 1080p device features an ultra-wide view for a maximized visual experience, a premium stereo microphone with automatic noise reduction capabilities, and intelligent light correction technology for picture-perfect imagery in any environment. Easy to install and sync, the web camera is the ideal tool for hyper-clear video calls and enhanced live streaming.</p><p>Crystal clear video calls</p><p><br></p><p>Stay connected with ultra-sharp picture quality during your video calls. The USB web camera features a 1080p Full HD camera that delivers crisp images and crystal-clear video at 30 frames per second. With such high-quality live streaming and video conferencing, everyone’s faces are kept in stunning clarity.</p><p><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_camera/VB-CAM-001/scaled/RC_Crystal%20clear%20video%20calls_pc.webp\"></p><p>Maximize your field of vision</p><p>Boasting a wide peripheral angle, the web camera easily captures everyone in the room without the need for constant readjustment. It creates a spatial distance between the lens and yourself, so you don’t have to worry about your face being overmagnified onscreen.</p><p><br></p><p><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_camera/VB-CAM-001/scaled/RC_Maximize%20your%20field%20of%20vision_remove%20110.webp\"></p><p>Completely immersive acoustics</p><p>Engage with family, friends, and colleagues with high-fidelity audio during your video calls. The dual omnidirectional microphones are equipped with automatic noise reduction, which enhances every voice and sound to pin-drop clarity. Capturing sound clearly within a distance of 20 feet (6 meters), you can converse effortlessly from any angle.</p><p><br></p><p><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_camera/VB-CAM-001/scaled/RC_Completely%20immersive%20acoustics_pc.webp\"></p><p>Look great in any light</p><p>Powered with smart light correction technology and High Dynamic Range (HDR) capabilities, ViewSonic’s web camera adjusts color and brightness automatically for the best possible lighting conditions. Whether you’re in a dimly lit room or sitting against backlight, the device will make sure you will always look your best no matter the environment.</p><p><br></p><p><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_camera/VB-CAM-001/scaled/RC_Look%20great%20in%20any%20light_pc.webp\"></p><p>Simple, convenient setup</p><p>Built with an adjustable bracket and a forward-tilt universal clip, you can easily mount the device on any surface and display for unparalleled visual perspective. Whether it’s a monitor, large format display or tripod, you can attach the web camera to your preferred angle with ease.</p><p><br></p><p><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_camera/VB-CAM-001/scaled/RC_Simple%2C%20convenient%20setup_pc.webp\"></p><p>All-in-one compatibility</p><p><br></p><p>ViewSonic web camera connects to any computer or laptop via USB 2.0 for easy syncing and plug-and-play video conferencing. It supports multiple applications such as Skype, Zoom, Google Hangout and Twitch, and is compatible with various operating systems including Windows, Mac, Android and Chrome.</p><p><br></p><p><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_camera/VB-CAM-001/scaled/RC_All-in-one%20compatibility_pc.webp\"></p><p class=\"ql-align-center\">I/O Port and dimensions</p><p><br></p><ol><li><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_camera/VB-CAM-001/scaled/RC_IO_Port_and_dimensions.webp\">USB2.0 Cable</li><li>1080p Full HD Camera</li><li>Omnidirectional microphone</li><li>Adjustable Bracket and a Forward-tilt Universal Clip</li></ol><p><br></p>",
+  "specifications": [
+    {
+      "title": "OPERATING SYSTEM",
+      "value1": "Windows® 7, Windows 8.1, Windows 10 or above, macOS™ 10.10 or above, Chrome OS, Android 5.0 or above",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f83d6342ab9e8f1f23db6"
+      }
+    },
+    {
+      "title": "SYSTEM REQUIREMENT",
+      "value1": "CPU Recommended: Intel® Core 2 Duo processor or above",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f83d6342ab9e8f1f23db7"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "RAM Recommended: 2G RAM or above",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f83d6342ab9e8f1f23db8"
+      }
+    },
+    {
+      "title": " CAMERA",
+      "value1": "Sensor: CMOS, 2.07M Pixels",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f83d6342ab9e8f1f23db9"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "White Balance: Auto, Manual, VAR",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f83d6342ab9e8f1f23dba"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Digital Noise Reduction: 2D, 3D digital noise reduction",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f83d6342ab9e8f1f23dbb"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Backlight Compensation: Support",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f83d6342ab9e8f1f23dbc"
+      }
+    },
+    {
+      "title": " AUDIO",
+      "value1": "Microphone: Stereo",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f83d6342ab9e8f1f23dbd"
+      }
+    },
+    {
+      "title": "SUPPORTED VIDEO FORMAT",
+      "value1": "Color System Compression: YUY2 / H.264 / MJPEG",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f83d6342ab9e8f1f23dbe"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Max. Resolution Video: 1080p@30fps/25fps, 720p@30fps/25fps, 960x540p@30fps/25fps, 640x360p@30fps/25fps",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f83d6342ab9e8f1f23dbf"
+      }
+    },
+    {
+      "title": " CONNECTIVITY",
+      "value1": " USB: 2.0",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f83d6342ab9e8f1f23dc0"
+      }
+    },
+    {
+      "title": "DIMENSIONS",
+      "value1": "Physical (W xH xD): 118 x 37.2 x 30.8 mm ( 4.7 x 1.5x 1.2 inches)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f83d6342ab9e8f1f23dc1"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Packaging (W xH x D): 143 x 76 x 76 mm ( 5.63 x 3.0 x 3.0 inches)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f83d6342ab9e8f1f23dc2"
+      }
+    },
+    {
+      "title": " WEIGHT",
+      "value1": "Physical (Net): 0.093 kg(0.2 lb)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f83d6342ab9e8f1f23dc3"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Packaging (Gross): 0.2 Kg( 0.44 lb)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f83d6342ab9e8f1f23dc4"
+      }
+    },
+    {
+      "title": " REGULATIONS",
+      "value1": " Compliance Certification: USA &Canada: FCC, Europe: CE RoHS, ErP",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f83d6342ab9e8f1f23dc5"
+      }
+    },
+    {
+      "title": "PACKAGE CONTENTS",
+      "value1": "1. VB-CAM-0012. Quick Start Guide3. Mounted screw4. USB 2.0 cable 5 feet (1.5m)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f83d6342ab9e8f1f23dc6"
+      }
+    },
+    {
+      "type": "title",
+      "_id": {
+        "$oid": "635f83d6342ab9e8f1f23dc7"
+      }
+    },
+    {
+      "title": "",
+      "type": "terms",
+      "_id": {
+        "$oid": "635f83d6342ab9e8f1f23dc8"
+      }
+    }
+  ],
+  "image": [
+    {
+      "$oid": "635f838b342ab9e8f1f23da5"
+    },
+    {
+      "$oid": "635f838e342ab9e8f1f23da8"
+    },
+    {
+      "$oid": "635f8392342ab9e8f1f23dab"
+    },
+    {
+      "$oid": "635f8396342ab9e8f1f23dae"
+    }
+  ],
+  "file": [
+    {
+      "$oid": "635f83ac342ab9e8f1f23db1"
+    }
+  ],
+  "qty": 10,
+  "keywords": [
+    "viewsonic",
+    "monitor"
+  ],
+  "order": 0,
+  "status": true,
+  "seoDesc": "Stay connected with ultra-sharp picture quality during your video calls. The USB web camera features a 1080p Full HD camera that delivers crisp images and crystal-clear video at 30 frames per second. ",
+  "filters": [],
+  "createdAt": {
+    "$date": "2022-10-31T08:14:14.489Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-31T08:14:14.489Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "635f8d6f342ab9e8f1f23e0e"
+  },
+  "userId": {
+    "$oid": "61cb1bb646d546f1a70c8b28"
+  },
+  "categoryId": [
+    {
+      "$oid": "61cbfa571d0a940739826314"
+    }
+  ],
+  "brandId": {
+    "$oid": "61cbf5631d0a9407398262ad"
+  },
+  "name": "ViewSonic VB-CAM-002",
+  "shortPoints": [
+    "Full HD 1080p All-round Web Camera​",
+    "Crystal clear video quality",
+    "Complete privacy with built-in lens cover​",
+    "Built-in stereo microphone with automatic noise reduction"
+  ],
+  "shortDescription": "<ul><li>Crystal clear video quality from Full HD 1080p resolution​</li><li>All-round&nbsp;design&nbsp;for&nbsp;easy&nbsp;installation and cable management​</li><li>Complete privacy with built-in lens cover​</li><li>Compatible&nbsp;with&nbsp;Windows,&nbsp;Mac, Android, and Chrome&nbsp;OS​</li><li>Built-in&nbsp;stereo microphone with automatic noise reduction</li></ul><p><br></p>",
+  "description": "<p>Collaborations are made easy with ViewSonic VB-CAM-002 Web Camera and its all-round stand. Elevate your hybrid classes or remote business meetings with high-definition 1080p picture quality, which makes everything feel interactive and look brilliant. Easy to install and compatible with various OS, stay connected via seamless USB Type-A connectivity and multiple web conferencing applications. The web camera also enhances your privacy settings with a built-in privacy cover, where a simple slide over the lens gives you total security and peace of mind.​</p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_camera/VB-CAM-002/scaled/VB-CAM-002_RC1_Just%20like%20in%20real%20life_pc.webp\" alt=\"Just like in real life​ 1\"></p><p class=\"ql-align-center\">Less clutter for more ideas​</p><p class=\"ql-align-center\">Designed with a versatile magnetic stand and cable management features, enjoy clutter-free online classes and meetings that can be set up in seconds. This user-friendly web camera has narrow bezels, keeping distractions away so you can stay focused on your web conferences.​</p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_camera/VB-CAM-002/scaled/VB-CAM-002_RC2_Less%20clutter%20for%20more%20ideas%E2%80%8B_pc.webp\" alt=\"Less clutter for more ideas​ 1\"></p><p class=\"ql-align-center\">Simple, convenient setup​</p><p class=\"ql-align-center\">Built with an adjustable bracket and a forward-tilt universal clip, you can easily mount the device on any surface and display for unparalleled visual perspective. Whether it’s a monitor, large format display, or tripod, you can attach the web camera at your preferred angle with ease.​</p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_camera/VB-CAM-002/scaled/VB-CAM-002_RC3_Simple%2C%20convenient%20setup%E2%80%8B_pc.webp\" alt=\"Simple, convenient setup​ 1\"></p><p class=\"ql-align-center\">Total control of privacy​</p><p class=\"ql-align-center\">Secure your device and achieve complete privacy with VB-CAM-002. With a built-in privacy cover that slides over the lens, there is no need to worry about potential visual hacking or being on camera if you don't want to. ​</p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/product-rc/_camera/VB-CAM-002/scaled/VB-CAM-002_RC4_Total%20control%20of%20privacy(small%20file).gif\" alt=\"Total control of privacy​ 1\"></p><p class=\"ql-align-center\">Look great in any light​</p><p class=\"ql-align-center\">Powered with smart light correction technology and High Dynamic Range (HDR) capabilities, ViewSonic VB-CAM-002 adjusts color and brightness automatically for the best possible lighting conditions. Whether you’re in a dimly lit room or sitting against backlight, the device will make sure you will always look your best no matter the environment.​</p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_camera/VB-CAM-002/scaled/VB-CAM-002_RC5_Look%20great%20in%20any%20light%E2%80%8B_pc.webp\" alt=\"Look great in any light​ 1\"></p><p class=\"ql-align-center\">All about making a connection​</p><p class=\"ql-align-center\">Equipped with effortless USB Type-A connectivity, sync your video conferences on your laptop, desktop, or mobile with a simple plug-and-play solution. Compatible with various operating systems such as Windows, Mac, Android, and Chrome, making a connection will be a breeze. ​</p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_camera/VB-CAM-002/scaled/VB-CAM-002_RC6_All%20about%20making%20a%20connection%E2%80%8B_pc.webp\" alt=\"All about making a connection​ 1\"></p><p class=\"ql-align-center\">Video conference the way you like​</p><p class=\"ql-align-center\">Optimize your hybrid classrooms or remote workplaces with seamless video conferences via VB-CAM-002. The web camera supports multiple web conferencing applications including Microsoft Teams, Zoom, Google Meet, FaceTime (Mac), and Twitch – giving you the freedom to choose your preferred platform. ​</p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_camera/VB-CAM-002/scaled/VB-CAM-002_RC7_Video%20conference%20the%20way%20you%20like%E2%80%8B_pc.webp\" alt=\"Video conference the way you like​ 1\"></p><p class=\"ql-align-center\">Completely immersive acoustics​</p><p class=\"ql-align-center\">Engage with family, friends, and colleagues with high-fidelity audio during your video calls. The dual omnidirectional microphones are equipped with automatic noise reduction, which enhances every voice and sound to pin-drop clarity. Capturing sound clearly within a distance of 20 feet (6 meters), you can converse effortlessly from any angle.​</p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_camera/VB-CAM-002/scaled/VB-CAM-002_RC8_Completely%20immersive%20acoustics%E2%80%8B_pc.webp\" alt=\"Completely immersive acoustics​ 1\"></p><p class=\"ql-align-center\">Dimensions &amp; I/O Ports​</p><ol><li class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_camera/VB-CAM-002/scaled/VB-CAM-002.webp\">LED light</li><li class=\"ql-align-center\">Sliding cover</li><li class=\"ql-align-center\">Omnidirectional microphone</li><li class=\"ql-align-center\">Adjustable bracket and a forward-tilt universal clip</li><li class=\"ql-align-center\">Micro USB</li><li class=\"ql-align-center\">Cable management hole</li><li class=\"ql-align-center\">Standard ¼ inch tripod screw hole</li><li class=\"ql-align-center\">Wall mount hole x2</li></ol><p><br></p>",
+  "specifications": [
+    {
+      "title": "OPERATING SYSTEM",
+      "value1": " Windows® 7, Windows 8.1, Windows 10 or above, macOS™ X, Linux, Android",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f8d6f342ab9e8f1f23e0f"
+      }
+    },
+    {
+      "title": "CAMERA",
+      "value1": " Sensor: 1/2.8'', CMOS, 2.07M Pixels",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f8d6f342ab9e8f1f23e10"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Field of View (FOV): 90°",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f8d6f342ab9e8f1f23e11"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Digital Noise Reduction: 2D, 3D digital noise reduction",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f8d6f342ab9e8f1f23e12"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Backlight Compensation: Support",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f8d6f342ab9e8f1f23e13"
+      }
+    },
+    {
+      "title": " AUDIO",
+      "value1": "Microphone: Sensitivity -30±2dB, S/N Ration 70dB",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f8d6f342ab9e8f1f23e14"
+      }
+    },
+    {
+      "title": "SUPPORTED VIDEO FORMAT",
+      "value1": "Color System Compression: MJPEG / YUY2 / H.264",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f8d6f342ab9e8f1f23e15"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Max. Resolution Video: 1080P@30fps/25fps, 720P@30fps/25fps, 960x540P@30fps/25fps, 640x360P@30fps/25fps",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f8d6f342ab9e8f1f23e16"
+      }
+    },
+    {
+      "title": " CONNECTIVITY",
+      "value1": "USB: 2.0",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f8d6f342ab9e8f1f23e17"
+      }
+    },
+    {
+      "title": "DIMENSIONS",
+      "value1": "Physical (W xH xD): 109 x 56 x 125 mm (4.3 x 2.2 x 4.9 inches)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f8d6f342ab9e8f1f23e18"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Packaging (W xH x D): 480 x 255 x 580 mm (18.8 x 10 x 22.8 inches)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f8d6f342ab9e8f1f23e19"
+      }
+    },
+    {
+      "title": " WEIGHT",
+      "value1": "Physical (Net): 0.19 kg / 0.4 lbs",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f8d6f342ab9e8f1f23e1a"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Packaging (Gross): 0.27 kg / 0.6 lbs",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f8d6f342ab9e8f1f23e1b"
+      }
+    },
+    {
+      "title": " REGULATIONS",
+      "value1": "Compliance Certification: CE, FCC, LVD",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f8d6f342ab9e8f1f23e1c"
+      }
+    },
+    {
+      "title": "PACKAGE CONTENTS",
+      "value1": " 1. VB-CAM-002",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f8d6f342ab9e8f1f23e1d"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "2. Quick start guide",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f8d6f342ab9e8f1f23e1e"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "3. USB 2.0 Type-A to Micro-B Cable",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f8d6f342ab9e8f1f23e1f"
+      }
+    },
+    {
+      "type": "title",
+      "_id": {
+        "$oid": "635f8d6f342ab9e8f1f23e20"
+      }
+    },
+    {
+      "title": "",
+      "type": "terms",
+      "_id": {
+        "$oid": "635f8d6f342ab9e8f1f23e21"
+      }
+    }
+  ],
+  "image": [
+    {
+      "$oid": "635f8d38342ab9e8f1f23dfe"
+    },
+    {
+      "$oid": "635f8d3d342ab9e8f1f23e01"
+    },
+    {
+      "$oid": "635f8d41342ab9e8f1f23e04"
+    },
+    {
+      "$oid": "635f8d45342ab9e8f1f23e07"
+    }
+  ],
+  "file": [
+    {
+      "$oid": "635f8d4f342ab9e8f1f23e0a"
+    }
+  ],
+  "qty": 10,
+  "keywords": [
+    "viewsonic",
+    "monitor"
+  ],
+  "order": 0,
+  "status": true,
+  "seoDesc": "Unlock crystal clear video calls with the 1080p Full HD VB-CAM-002, delivering detail-rich visuals and smooth movements at 30 frames per second.",
+  "filters": [],
+  "createdAt": {
+    "$date": "2022-10-31T08:55:11.416Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-31T08:55:11.416Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "635f9034342ab9e8f1f23e46"
+  },
+  "userId": {
+    "$oid": "61cb1bb646d546f1a70c8b28"
+  },
+  "categoryId": [
+    {
+      "$oid": "61cbfa571d0a940739826314"
+    }
+  ],
+  "brandId": {
+    "$oid": "61cbf5631d0a9407398262ad"
+  },
+  "name": "ViewSonic VB-WPS-003",
+  "shortPoints": [
+    "Screen sharing button with HDMI connector",
+    "Secure and safeguard your data ​",
+    "Collaborate across multiple devices instantly​"
+  ],
+  "shortDescription": "<ul><li>Connect and&nbsp;share content with&nbsp;a click​</li><li>Secure and safeguard your data&nbsp;​</li><li>Uninterrupted connectivity​ with USB-C or HDMI</li><li>Collaborate across&nbsp;multiple devices instantly​</li><li>Compatible with&nbsp;Windows, Mac and Chrome OS​</li></ul><p><br></p>",
+  "description": "<p>Enhance and elevate your meetings and presentations with just one tap. The ViewBoard® Cast Button eliminates complicated setups, time-consuming installations, and unwanted clutter, giving you more time to create, collaborate, and connect. Connect your device and cast your content effortlessly from your preferred device to your wireless display through USB-C or HDMI cable. Secured with WPA2-PSK encryption, you can present and participate with guaranteed peace of mind.</p><p><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_viewboard_cast_button_and_cradle/VB-WPS-003/scaled/RC_Instant_pc.webp\"></p><p>Uninterrupted connectivity​</p><p>Connect the ViewBoard®&nbsp;Cast Button and your device via the HDMI or USB-C cable, and you can showcase videos of superior clarity without fuss. You can focus on acing your presentation as the Cast Button gets powered at the same time.</p><p><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_viewboard_cast_button_and_cradle/VB-WPS-003/scaled/RC_Uninterrupted-connectivity__pc.webp\"></p><p>Superior compatibility​</p><p>Compatible with various operating systems(Windows, Mac and Chrome OS), the ViewBoard®&nbsp;Cast Button lets you participate and present from your preferred device without hassle.</p><p><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_viewboard_cast_button_and_cradle/VB-WPS-003/scaled/RC_Superior-compatibility__pc.webp\"></p><p>Optimize your meetings​</p><p>Make your wireless meetings and presentations more effective and efficient with a single tap. The ViewBoard®&nbsp;Cast Button allows up to 4 persons to present on a ViewBoard®/Wireless Presentation Display at once, giving everyone the ability to participate and present.​</p><p><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_viewboard_cast_button_and_cradle/VB-WPS-003/scaled/RC-meetings.webp\"></p><p>Enhance your presentations​</p><p>The ViewBoard®&nbsp;Cast Button helps you manage and streamline meetings better. Add notes and save presentations directly on the ViewBoard®&nbsp;Interactive Display. Move from PowerPoint to YouTube seamlessly without switching devices. Meetings will now be a breeze for everyone.</p><p><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_viewboard_cast_button_and_cradle/VB-WPS-003/scaled/Scenario_Enhance-your-presentations_.webp\"></p><p>Uncompromising security​ and privacy</p><p>Elevate collaboration and content-sharing without risking cybersecurity. With ViewBoard®&nbsp;Cast Button, there is no need to connect to your company’s network or install external software. Secured with WPA2-PSK encryption, simply plug it into your device and share data safely and seamlessly.</p><p><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_viewboard_cast_button_and_cradle/VB-WPS-003/scaled/RC_Uncompromising_pc.webp\"></p><p class=\"ql-align-center\">Dimensions &amp; I/O Ports</p><ol><li><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_viewboard_cast_button_and_cradle/VB-WPS-003/scaled/VB-WPS-003-Dimension.webp\">HDMI</li><li>USB 2.0</li><li>Flashing Blue Light : Connecting to your device</li><li>Static Blue Light : Connected, ready to cast</li><li>Static White Light : Casting</li></ol><p><br></p>",
+  "specifications": [
+    {
+      "title": "Operation System",
+      "value1": "Windows® 7, Windows 8.1, Windows 10 or later; MacOS™ 10.10 or later; Chrome OS; Linux",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9034342ab9e8f1f23e47"
+      }
+    },
+    {
+      "title": "System Requirement",
+      "value1": " HDMI Output & USB Type-A",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9034342ab9e8f1f23e48"
+      }
+    },
+    {
+      "title": "WiFi Frequency/Authentication Protocol",
+      "value1": "2.4GHz & 5GHz/5.8GHz dual band802.11 a/b/g/n/AC ; WPA2-PSK",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9034342ab9e8f1f23e49"
+      }
+    },
+    {
+      "title": "Resolution/Frame Rate",
+      "value1": "FHD/30 fps",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9034342ab9e8f1f23e4a"
+      }
+    },
+    {
+      "title": "Extended Desktop",
+      "value1": "Available",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9034342ab9e8f1f23e4b"
+      }
+    },
+    {
+      "title": "Simultaneous Connections",
+      "value1": " Unlimited",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9034342ab9e8f1f23e4c"
+      }
+    },
+    {
+      "title": "Number Of Sources Simultaneous On Screen",
+      "value1": "4(ViewBoard Cast receiver);16(ViewBoard Cast Pro receiver)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9034342ab9e8f1f23e4d"
+      }
+    },
+    {
+      "title": "Touch Control Back",
+      "value1": " Support 10 points",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9034342ab9e8f1f23e4e"
+      }
+    },
+    {
+      "title": "Power",
+      "value1": "Voltage: 5V 650mA",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9034342ab9e8f1f23e4f"
+      }
+    },
+    {
+      "title": "Connector",
+      "value1": "USB: USB2.0 Type-A compatible to USB2.0/3.0",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9034342ab9e8f1f23e50"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "HDMI: HDMI 1.2 above",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9034342ab9e8f1f23e51"
+      }
+    },
+    {
+      "title": " Operating Condition",
+      "value1": "Temperature (º C): 32°F to 104°F (0°C to 40°C)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9034342ab9e8f1f23e52"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Humidity: 20% ~ 90% non-condensing",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9034342ab9e8f1f23e53"
+      }
+    },
+    {
+      "title": " Storage Condition",
+      "value1": "Temperature (º C): -10°C to 60°C",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9034342ab9e8f1f23e54"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Humidity: 20% ~ 90% non-condensing",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9034342ab9e8f1f23e55"
+      }
+    },
+    {
+      "title": " Dimensions (W X H X D)",
+      "value1": "Physical: 225.7 x 25.2 x 61.8 mm (8.9*1.0*2.4 inch)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9034342ab9e8f1f23e56"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Packaging: 260.5 x 42 x 103.5 mm (10.3*1.7*4.1 inch)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9034342ab9e8f1f23e57"
+      }
+    },
+    {
+      "title": " Weight",
+      "value1": "Physical (Net): 117 g (0.26 lb)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9034342ab9e8f1f23e58"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Packaging (Gross): 340 g (0.75 lb)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9034342ab9e8f1f23e59"
+      }
+    },
+    {
+      "title": " Regulations",
+      "value1": "FCC, FCC ID, ICID, CE, RED, BSMI, NCC, MIC, WPC, NTC",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9034342ab9e8f1f23e5a"
+      }
+    },
+    {
+      "title": "Quick Start Guide",
+      "value1": "Language: English, Danish, Dutch, Finnish, French, German, Italian, Norwegian, Polish, Russian, Spanish, Swedish, Turkish, Indonesian, Vietnamese, Traditional Chinese, Simplified Chinese, Arabic",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9034342ab9e8f1f23e5b"
+      }
+    },
+    {
+      "title": "Package Contents",
+      "value1": " 1. VB-WPS-0032. Quick Start Guide",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9034342ab9e8f1f23e5c"
+      }
+    },
+    {
+      "type": "title",
+      "_id": {
+        "$oid": "635f9034342ab9e8f1f23e5d"
+      }
+    },
+    {
+      "title": "",
+      "type": "terms",
+      "_id": {
+        "$oid": "635f9034342ab9e8f1f23e5e"
+      }
+    },
+    {
+      "type": "title",
+      "_id": {
+        "$oid": "635f9034342ab9e8f1f23e5f"
+      }
+    },
+    {
+      "title": "",
+      "type": "terms",
+      "_id": {
+        "$oid": "635f9034342ab9e8f1f23e60"
+      }
+    }
+  ],
+  "image": [
+    {
+      "$oid": "635f8ff7342ab9e8f1f23e36"
+    },
+    {
+      "$oid": "635f8ffb342ab9e8f1f23e39"
+    },
+    {
+      "$oid": "635f8fff342ab9e8f1f23e3c"
+    },
+    {
+      "$oid": "635f9002342ab9e8f1f23e3f"
+    }
+  ],
+  "file": [
+    {
+      "$oid": "635f900d342ab9e8f1f23e42"
+    }
+  ],
+  "qty": 10,
+  "keywords": [
+    "viewsonic",
+    "monitor"
+  ],
+  "order": 0,
+  "status": true,
+  "seoDesc": "With just one click, cast your screen and share your content from your laptop to the ViewBoard®/Wireless Presentation Display with ease. ",
+  "filters": [],
+  "createdAt": {
+    "$date": "2022-10-31T09:07:00.415Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-31T09:07:00.415Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "635f9340342ab9e8f1f23e8e"
+  },
+  "userId": {
+    "$oid": "61cb1bb646d546f1a70c8b28"
+  },
+  "categoryId": [
+    {
+      "$oid": "61cbfa571d0a940739826314"
+    }
+  ],
+  "brandId": {
+    "$oid": "61cbf5631d0a9407398262ad"
+  },
+  "name": "ViewSonic VB-WPS-001",
+  "shortPoints": [
+    "ViewBoard Cast Button (VB-WPS-001) Screen sharing button with USB-C connector",
+    "Uninterrupted connectivity​ with USB-C or HDMI",
+    "Collaborate across multiple devices instantly​"
+  ],
+  "shortDescription": "<ul><li>Connect and&nbsp;share content with&nbsp;a click​</li><li>Secure and safeguard your data&nbsp;​</li><li>Uninterrupted connectivity​ with USB-C or HDMI</li><li>Collaborate across&nbsp;multiple devices instantly​</li><li>Compatible with&nbsp;Windows, Mac and Chrome OS​</li></ul><p><br></p>",
+  "description": "<p>Enhance and elevate your meetings and presentations with just one tap. The ViewBoard® Cast Button eliminates complicated setups, time-consuming installations, and unwanted clutter, giving you more time to create, collaborate, and connect. Connect your device and cast your content effortlessly from your preferred device to your wireless display through USB-C or HDMI cable. Secured with WPA2-PSK encryption, you can present and participate with guaranteed peace of mind.</p><p><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_viewboard_cast_button_and_cradle/VB-WPS-001/scaled/RC_Instant%20sync%20with%20a%20click_pc.webp\"></p><p>Uninterrupted connectivity​</p><p>Connect the ViewBoard®&nbsp;Cast Button and your device via the HDMI or USB-C cable, and you can showcase videos of superior clarity without fuss. You can focus on acing your presentation as the Cast Button gets powered at the same time.</p><p><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_viewboard_cast_button_and_cradle/VB-WPS-001/scaled/RC_Uninterrupted-connectivity__pc.webp\"></p><p>Superior compatibility​</p><p>Compatible with various operating systems(Windows, Mac and Chrome OS), the ViewBoard®&nbsp;Cast Button lets you participate and present from your preferred device without hassle.</p><p><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_viewboard_cast_button_and_cradle/VB-WPS-001/scaled/RC_Superior-compatibility__pc.webp\"></p><p>Optimize your meetings​</p><p>Make your wireless meetings and presentations more effective and efficient with a single tap. The ViewBoard®&nbsp;Cast Button allows up to 4 persons to present on a ViewBoard®/Wireless Presentation Display at once, giving everyone the ability to participate and present.​</p><p>Enhance your presentations​</p><p>The ViewBoard®&nbsp;Cast Button helps you manage and streamline meetings better. Add notes and save presentations directly on the ViewBoard®&nbsp;Interactive Display. Move from PowerPoint to YouTube seamlessly without switching devices. Meetings will now be a breeze for everyone.</p><p><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_viewboard_cast_button_and_cradle/VB-WPS-001/scaled/Scenario_Enhance-your-presentations_.webp\"></p><p>Uncompromising security​ and privacy</p><p>Elevate collaboration and content-sharing without risking cybersecurity. With ViewBoard®&nbsp;Cast Button, there is no need to connect to your company’s network or install external software. Secured with WPA2-PSK encryption, simply plug it into your device and share data safely and seamlessly.</p><p><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_viewboard_cast_button_and_cradle/VB-WPS-001/scaled/RC_Uncompromising_pc.webp\"></p><p class=\"ql-align-center\">Dimensions &amp; I/O Ports</p><ol><li><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_viewboard_cast_button_and_cradle/VB-WPS-001/scaled/VB-WPS-001-Dimension.webp\">USB-C</li><li>Flashing Blue Light : Connecting to your device</li><li>Static Blue Light : Connected, ready to cast</li><li>Static White Light : Casting</li></ol>",
+  "specifications": [
+    {
+      "title": "Operation System",
+      "value1": "Windows® 7, Windows 8.1, Windows 10 or later; MacOS™ 10.10 or later; Chrome OS; Linux",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9340342ab9e8f1f23e8f"
+      }
+    },
+    {
+      "title": "System Requirement",
+      "value1": "Full-featured USB-C (DP & Power delivery)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9340342ab9e8f1f23e90"
+      }
+    },
+    {
+      "title": "WiFi Frequency/Authentication Protocol",
+      "value1": "2.4GHz & 5GHz/5.8GHz dual band802.11 a/b/g/n/AC ; WPA2-PSK",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9340342ab9e8f1f23e91"
+      }
+    },
+    {
+      "title": "Resolution/Frame Rate",
+      "value1": "FHD/30 fps",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9340342ab9e8f1f23e92"
+      }
+    },
+    {
+      "title": "Extended Desktop",
+      "value1": "Available",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9340342ab9e8f1f23e93"
+      }
+    },
+    {
+      "title": "Simultaneous Connections",
+      "value1": "Unlimited",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9340342ab9e8f1f23e94"
+      }
+    },
+    {
+      "title": "Number Of Sources Simultaneous On Screen",
+      "value1": "4(ViewBoard Cast receiver);16(ViewBoard Cast Pro receiver)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9340342ab9e8f1f23e95"
+      }
+    },
+    {
+      "title": "Touch Control Back",
+      "value1": "Support 10 points",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9340342ab9e8f1f23e96"
+      }
+    },
+    {
+      "title": "Power",
+      "value1": " Voltage: 5V 650mA",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9340342ab9e8f1f23e97"
+      }
+    },
+    {
+      "title": "Connector",
+      "value1": "USB: USB3.1 Type-C",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9340342ab9e8f1f23e98"
+      }
+    },
+    {
+      "title": "Operating Condition",
+      "value1": "Temperature (º C): 32°F to 104°F (0°C to 40°C)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9340342ab9e8f1f23e99"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Humidity: 20% ~ 90% non-condensing",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9340342ab9e8f1f23e9a"
+      }
+    },
+    {
+      "title": " Storage Condition",
+      "value1": "Temperature (º C): -10°C to 60°C",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9340342ab9e8f1f23e9b"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Humidity: 20% ~ 90% non-condensing",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9340342ab9e8f1f23e9c"
+      }
+    },
+    {
+      "title": " Dimensions (W X H X D)",
+      "value1": "Physical: 203.8 x 61.8 x 25.5 mm (8.0*2.4*1.0 inch)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9340342ab9e8f1f23e9d"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Packaging: 260.5 x 42 x 103.5 mm (10.2*1.7*4.1 inch)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9340342ab9e8f1f23e9e"
+      }
+    },
+    {
+      "title": " Weight",
+      "value1": "Physical (Net): 103 g (0.23 lb)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9340342ab9e8f1f23e9f"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Packaging (Gross): 331 g (0.73 lb)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9340342ab9e8f1f23ea0"
+      }
+    },
+    {
+      "title": " Regulations",
+      "value1": "FCC, FCC ID, ICID, CE, RED, RCM, WPC",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9340342ab9e8f1f23ea1"
+      }
+    },
+    {
+      "title": "Quick Start Guide",
+      "value1": "Language: English, Danish, Dutch, Finnish, French, German, Italian, Norwegian, Polish, Russian, Spanish, Swedish, Turkish, Indonesian, Vietnamese, Traditional Chinese, Simplified Chinese, Arabic",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9340342ab9e8f1f23ea2"
+      }
+    },
+    {
+      "title": "Package Contents",
+      "value1": "1. VB-WPS-0012. Quick Start Guide3. USB-C to USB Type-A adapter for pairing purpose",
+      "type": "spec",
+      "_id": {
+        "$oid": "635f9340342ab9e8f1f23ea3"
+      }
+    },
+    {
+      "type": "title",
+      "_id": {
+        "$oid": "635f9397342ab9e8f1f23edd"
+      }
+    },
+    {
+      "title": "",
+      "type": "terms",
+      "_id": {
+        "$oid": "635f9397342ab9e8f1f23ede"
+      }
+    }
+  ],
+  "image": [
+    {
+      "$oid": "635f9316342ab9e8f1f23e7e"
+    },
+    {
+      "$oid": "635f9319342ab9e8f1f23e81"
+    },
+    {
+      "$oid": "635f931d342ab9e8f1f23e84"
+    },
+    {
+      "$oid": "635f9321342ab9e8f1f23e87"
+    }
+  ],
+  "file": [
+    {
+      "$oid": "635f9328342ab9e8f1f23e8a"
+    }
+  ],
+  "qty": 10,
+  "keywords": [
+    "viewsonic",
+    "monitor"
+  ],
+  "order": 0,
+  "status": true,
+  "seoDesc": "With just one click, cast your screen and share your content from your laptop to the ViewBoard®/Wireless Presentation Display with ease. ",
+  "filters": [],
+  "createdAt": {
+    "$date": "2022-10-31T09:20:00.272Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-31T09:21:27.895Z"
+  },
+  "__v": 0,
+  "filters2": {}
+},
+{
+  "_id": {
+    "$oid": "635fafad342ab9e8f1f23f88"
+  },
+  "userId": {
+    "$oid": "61cb1bb646d546f1a70c8b28"
+  },
+  "categoryId": [
+    {
+      "$oid": "61cbfa571d0a940739826314"
+    }
+  ],
+  "brandId": {
+    "$oid": "61cbf5631d0a9407398262ad"
+  },
+  "name": "ViewSonic VPC12-WPO-11",
+  "shortPoints": [
+    "Slot-in PC for the ViewBoard® interactive displays",
+    "Intel Core i5-7200U with vPro and TPM function",
+    "Intel HD graphic 620",
+    "Max Resolution up to 4096x2304@60Hz"
+  ],
+  "shortDescription": "<ul><li>Intel Core i5-7200U with vPro and TPM function</li><li>Intel HD graphic 620</li><li>Total Available Graphics Memory: 64GB</li><li>Max Resolution up to 4096x2304@60Hz</li><li>Windows 10 Pro&nbsp;</li></ul><p><br></p>",
+  "description": "<p>Slot-in PC for the ViewBoard® interactive displays</p>",
+  "specifications": [
+    {
+      "title": "Core",
+      "value1": "CPU: Intel® Core™ i5-7200U with vPro and TPM function",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fafad342ab9e8f1f23f89"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Graphics: Intel® HD Graphics 620, Total Available Graphics Memory: 64GB, Max Resolution up to 4096x2304@60Hz",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fafad342ab9e8f1f23f8a"
+      }
+    },
+    {
+      "title": " Memory",
+      "value1": "Type: DDR4 SO-DIMM",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fafad342ab9e8f1f23f8b"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Capacity: 8GB (up to 16GB)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fafad342ab9e8f1f23f8c"
+      }
+    },
+    {
+      "title": " Software",
+      "value1": "Operating System: Windows 10 Pro",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fafad342ab9e8f1f23f8d"
+      }
+    },
+    {
+      "title": "Storage",
+      "value1": "Dimension: 2.5\"",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fafad342ab9e8f1f23f8e"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Capacity: 128GB SSD (up to 512GB)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fafad342ab9e8f1f23f8f"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Interface: SATA3 6GB/sec",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fafad342ab9e8f1f23f90"
+      }
+    },
+    {
+      "title": " INPUT",
+      "value1": "MIC(Microphone): x1",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fafad342ab9e8f1f23f91"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "OPS: Yes",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fafad342ab9e8f1f23f92"
+      }
+    },
+    {
+      "title": " OUTPUT",
+      "value1": "HDMI: x1 (max. resolution 4096x2160@24Hz)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fafad342ab9e8f1f23f93"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Audio: x1 (Line Out)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fafad342ab9e8f1f23f94"
+      }
+    },
+    {
+      "title": " LAN",
+      "value1": "RJ45: x1 (Integrated 10/100/1000M Adaption)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fafad342ab9e8f1f23f95"
+      }
+    },
+    {
+      "title": "Wireless / Bluetooth",
+      "value1": "Wireless / Bluetooth: Intel® Dual Band Wireless-AC 8260, 802.11 a/b/g/n/ac (2.4GHz/5GHz) / BT4.2 ; BLE",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fafad342ab9e8f1f23f96"
+      }
+    },
+    {
+      "title": "USB",
+      "value1": "Type A: USB3.0x2, USB2.0x2",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fafad342ab9e8f1f23f97"
+      }
+    },
+    {
+      "title": "Support Media Format",
+      "value1": "Video format: Container: ASF, WMA, WMV, WM, ASX, WAX, WVX , WMX, WPL, WMD, AVI, MPG, MPEG, M1V, MP2, MP3, MPA, MPE, M3U",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fafad342ab9e8f1f23f98"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Image format: Container: JPG, JPEG, JPE, JFIF, BMP, , DIB, PNG, GIF, TIF, TIFF",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fafad342ab9e8f1f23f99"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Audio codec: Container: MID, MIDI, RMI, AIF, AIFC, AIFF, WAV, CDA",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fafad342ab9e8f1f23f9a"
+      }
+    },
+    {
+      "title": " Power",
+      "value1": "Voltage: DC 12/19V",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fafad342ab9e8f1f23f9b"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Consumption: 60W",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fafad342ab9e8f1f23f9c"
+      }
+    },
+    {
+      "title": " OPERATING CONDITIONS",
+      "value1": "Temperature (º C): -5°C to 45°C",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fafad342ab9e8f1f23f9d"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Humidity: 10% ~ 90% non-condensing",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fafad342ab9e8f1f23f9e"
+      }
+    },
+    {
+      "title": " DIMENSIONS (W x H x D)",
+      "value1": "Physical (inch / mm): 7.1 x 4.7x 1.2 in/180 x 119 x 30mm",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fafad342ab9e8f1f23f9f"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Packaging (inch / mm): 10.0 x 7.7 x3.1 in/254 x 196 x 77 mm",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fafad342ab9e8f1f23fa0"
+      }
+    },
+    {
+      "title": " WEIGHT",
+      "value1": "Net (lb / kg): 1.85lb/0.84kg",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fafad342ab9e8f1f23fa1"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Gross (lb / kg): 2.31lb/1.05kg",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fafad342ab9e8f1f23fa2"
+      }
+    },
+    {
+      "title": " PACKAGE CONTENTS",
+      "value1": "PACKAGE CONTENTS: 1. VPC12-WPO , 2. QSG",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fafad342ab9e8f1f23fa3"
+      }
+    },
+    {
+      "type": "title",
+      "_id": {
+        "$oid": "635fb416342ab9e8f1f24228"
+      }
+    },
+    {
+      "title": "",
+      "type": "terms",
+      "_id": {
+        "$oid": "635fb416342ab9e8f1f24229"
+      }
+    }
+  ],
+  "image": [
+    {
+      "$oid": "635faf6a342ab9e8f1f23f77"
+    },
+    {
+      "$oid": "635faf70342ab9e8f1f23f7a"
+    },
+    {
+      "$oid": "635faf73342ab9e8f1f23f7d"
+    },
+    {
+      "$oid": "635faf77342ab9e8f1f23f80"
+    }
+  ],
+  "file": [
+    {
+      "$oid": "635faf82342ab9e8f1f23f83"
+    }
+  ],
+  "qty": 10,
+  "keywords": [
+    "viewsonic"
+  ],
+  "order": 0,
+  "status": true,
+  "seoDesc": "Slot-in PC for the ViewBoard® interactive displays",
+  "filters": [],
+  "createdAt": {
+    "$date": "2022-10-31T11:21:17.825Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-31T11:40:06.361Z"
+  },
+  "__v": 0,
+  "filters2": {}
+},
+{
+  "_id": {
+    "$oid": "635fb35f342ab9e8f1f24194"
+  },
+  "userId": {
+    "$oid": "61cb1bb646d546f1a70c8b28"
+  },
+  "categoryId": [
+    {
+      "$oid": "61cbfa571d0a940739826314"
+    }
+  ],
+  "brandId": {
+    "$oid": "61cbf5631d0a9407398262ad"
+  },
+  "name": "ViewSonic VPC12-WPO-16",
+  "shortPoints": [
+    "Slot-in PC for the ViewBoard® Interactive Displays and Presentation Display",
+    "Intel Core i5-8259U​",
+    "Max Resolution up to 4096x2304@60Hz​",
+    "Intel HD graphic 655​"
+  ],
+  "shortDescription": "<ul><li>Intel Core i5-8259U​</li><li>High Definition Audio Stereo​</li><li>Intel HD graphic 655​</li><li>Max Resolution up to 4096x2304@60Hz​</li><li>Windows 10 pro</li></ul><p><br></p>",
+  "description": "<p>The ViewSonic® VPC12-WPO-16 slot-in PC is the ideal integrated solution for the ViewBoard® interactive displays and presentation displays. With dual-band Wi-Fi and Bluetooth, a powerful Intel® Core™ i5-8259U Processor, 8GB (up to 64GB) DDR4 SO-DIMM memory, and 256GB SSD storage, the VPC12-WPO-16 contains the computing power needed to operate CPU intensive applications.</p>",
+  "specifications": [
+    {
+      "title": "Core",
+      "value1": " CPU: Intel® Core™ i5-8259U",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb35f342ab9e8f1f24195"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Graphics: Intel® Iris® Plus Graphics 655 Total Available Graphics Memory: 32GB Max Resolution up to 4096x2304@60Hz",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb35f342ab9e8f1f24196"
+      }
+    },
+    {
+      "title": " Memory",
+      "value1": "Type: DDR4 SO-DIMM",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb35f342ab9e8f1f24197"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Capacity: 8GB( up to 64GB )",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb35f342ab9e8f1f24198"
+      }
+    },
+    {
+      "title": " Software",
+      "value1": " Operating System: Window10® Pro",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb35f342ab9e8f1f24199"
+      }
+    },
+    {
+      "title": "Storage",
+      "value1": " Capacity: 256GB SSD",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb35f342ab9e8f1f2419a"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Interface: M.2 SATA Rev. 3",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb35f342ab9e8f1f2419b"
+      }
+    },
+    {
+      "title": " INPUT",
+      "value1": " MIC(Microphone): x1",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb35f342ab9e8f1f2419c"
+      }
+    },
+    {
+      "title": "OUTPUT",
+      "value1": "HDMI: 1(max. resolution 4096x2160@30Hz)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb35f342ab9e8f1f2419d"
+      }
+    },
+    {
+      "title": "Wireless / Bluetooth",
+      "value1": "Intel® Dual Band Wireless-AC 3165 802.11 ac/a/b/g/n (2.4GHz/5GHz) / BT4.2 ; BLE",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb35f342ab9e8f1f2419e"
+      }
+    },
+    {
+      "title": "USB",
+      "value1": "Type A: USB3.0 x 4",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb35f342ab9e8f1f2419f"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Type C: USB2.0 x 1",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb35f342ab9e8f1f241a0"
+      }
+    },
+    {
+      "title": " Support Media Format",
+      "value1": "Video format: Container: ASF, WMA, WMV, WM, ASX, WAX, WVX , WMX, WPL, WMD, AVI, MPG, MPEG, M1V, MP2, MP3, MPA, MPE, M3U",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb35f342ab9e8f1f241a1"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Image format: Container: JPG, JPEG, JPE, JFIF, BMP, , DIB, PNG, GIF, TIF, TIFF",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb35f342ab9e8f1f241a2"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Audio codec: Container: MID, MIDI, RMI, AIF, AIFC, AIFF, WAV, CDA",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb35f342ab9e8f1f241a3"
+      }
+    },
+    {
+      "title": " Power",
+      "value1": "Voltage: DC 12/19V",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb35f342ab9e8f1f241a4"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Consumption: 65W",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb35f342ab9e8f1f241a5"
+      }
+    },
+    {
+      "title": " OPERATING CONDITIONS",
+      "value1": "Temperature (º C): 23°F to 113°F (-5°C to 45°C)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb35f342ab9e8f1f241a6"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Humidity: 10% ~ 90% non-condensing",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb35f342ab9e8f1f241a7"
+      }
+    },
+    {
+      "title": " DIMENSIONS (W x H x D)",
+      "value1": "Physical (inch / mm): 202 x 119 x 30 mm / 7.95” x 4.69” x 1.18”",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb35f342ab9e8f1f241a8"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Packaging (inch / mm): 254 x 196 x 77 mm / 10.00” x 7.72” x 3.03”",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb35f342ab9e8f1f241a9"
+      }
+    },
+    {
+      "title": " WEIGHT",
+      "value1": "Net (lb / kg): 0.8kg / 1.76lb",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb35f342ab9e8f1f241aa"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Gross (lb / kg): 1.1kg / 2.43lb",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb35f342ab9e8f1f241ab"
+      }
+    },
+    {
+      "title": " REGULATIONS",
+      "value1": " CE EMC, CE LVD, CE RED, RoHS, WEEE, BIS, WPC",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb35f342ab9e8f1f241ac"
+      }
+    },
+    {
+      "type": "title",
+      "_id": {
+        "$oid": "635fb35f342ab9e8f1f241ad"
+      }
+    },
+    {
+      "title": "",
+      "type": "terms",
+      "_id": {
+        "$oid": "635fb35f342ab9e8f1f241ae"
+      }
+    }
+  ],
+  "image": [
+    {
+      "$oid": "635fb322342ab9e8f1f24184"
+    },
+    {
+      "$oid": "635fb326342ab9e8f1f24187"
+    },
+    {
+      "$oid": "635fb329342ab9e8f1f2418a"
+    },
+    {
+      "$oid": "635fb32d342ab9e8f1f2418d"
+    }
+  ],
+  "file": [
+    {
+      "$oid": "635fb334342ab9e8f1f24190"
+    }
+  ],
+  "qty": 10,
+  "keywords": [
+    "viewsonic"
+  ],
+  "order": 0,
+  "status": true,
+  "seoDesc": "Slot-in PC for the ViewBoard® Interactive Displays and Presentation Display",
+  "filters": [],
+  "createdAt": {
+    "$date": "2022-10-31T11:37:03.910Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-31T11:37:03.910Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "635fb690342ab9e8f1f24254"
+  },
+  "userId": {
+    "$oid": "61cb1bb646d546f1a70c8b28"
+  },
+  "categoryId": [
+    {
+      "$oid": "61cbfa571d0a940739826314"
+    }
+  ],
+  "brandId": {
+    "$oid": "61cbf5631d0a9407398262ad"
+  },
+  "name": "ViewSonic VPC27-W53-O1-1B",
+  "shortPoints": [
+    "Slot-in PC for ViewBoard",
+    "Powerful Intel® 10th Core Processors​",
+    "Improved System Stability, Security, & Thermal Control"
+  ],
+  "shortDescription": "<ul><li>Ideal Integrated Solution for ViewBoard® Interactive Displays &amp; Commercial Displays​</li><li>Powerful Intel® 10th Core Processors​</li><li>Improved System Stability, Security, &amp; Thermal Control</li></ul><p><br></p>",
+  "description": "<p>Seize the power to get more done when you sync your ViewBoard® interactive displays and wireless presentation display with the ViewSonic VPC27-W53-O1-1B slot-in PC. Integrated with exceptional performance from Intel® 10th Gen Core™ processors, 16GB DDR4 memory, and up to 256GB of SSD storage, experience enhances computing performance to breeze through complex classes and collaborations. Plug into pure productivity with dual-band WiFi, Bluetooth 5.2, and a range of ports, including 4K HDMI, DP1.2, USB 3.2, and Gigabit LAN RJ45 for faster workflows.​</p><p class=\"ql-align-center\">Tap into a productivity powerhouse​</p><p class=\"ql-align-center\">Boost the interactive whiteboard with remarkable power and lightning-fast speed from Intel® 10th Gen Core™ processors, letting you zip through lessons and tutorials effortlessly. Integrated with Intel® WiFi 6 and Bluetooth 5.2, experience ultra-fast, versatile connectivity to facilitate remote and hybrid classes with ease.</p><p class=\"ql-align-center\">Stability in every lesson</p><p class=\"ql-align-center\">Teach and present without any worry about sudden disruptions. Built with the FinchGuard, a Watchdog timer software, the VPC27-W53-O1-1B intuitively detects and recovers from system malfunctions seamlessly to maximize productivity.​</p><p class=\"ql-align-center\">Stay cool and blaze through classes​</p><p class=\"ql-align-center\">Equipped with a thermal control circuit and noise reduction capabilities, the fan within the device will dissipate much more heat in quieter acoustics of under 35 decibels for more conducive and longer lessons. ​</p><p class=\"ql-align-center\">Boot up with total security​</p><p class=\"ql-align-center\">Prevent malicious software and unwanted operating systems from loading during start-up with the optional Secure Boot in the BIOS setting. This stops existing errors from loading and keeps unauthorized personnel from accessing PC settings. ​</p><p class=\"ql-align-center\">Efficient content management​</p><p class=\"ql-align-center\">Synced with myViewBoard, an intuitive suite of software applications, the VPC27-W53-O1-1B offers remote content sharing and engaging lesson delivery for enhanced interactivity and maximized productivity.​</p><p class=\"ql-align-center\">I/O Port</p><ol><li class=\"ql-align-center\">HDD/Power LED</li><li class=\"ql-align-center\">LINE-OUT</li><li class=\"ql-align-center\">MIC-IN</li><li class=\"ql-align-center\">Power Button</li><li class=\"ql-align-center\">HDMI</li><li class=\"ql-align-center\">Type C</li><li class=\"ql-align-center\">DP</li><li class=\"ql-align-center\">USB 2.0</li><li class=\"ql-align-center\">Reset</li><li class=\"ql-align-center\">USB 3.2</li><li class=\"ql-align-center\">LAN</li></ol>",
+  "specifications": [
+    {
+      "title": "Core",
+      "value1": "CPU: Intel Core i7-10700T(vPro) 2.0GHz Turbo boost 4.5GHz",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb690342ab9e8f1f24255"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Graphics: Integrated Intel® UHD graphic 630 Intel H510 chipset",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb690342ab9e8f1f24256"
+      }
+    },
+    {
+      "title": " Memory",
+      "value1": "Capacity: 16GB DDR4",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb690342ab9e8f1f24257"
+      }
+    },
+    {
+      "title": "Software",
+      "value1": "Operating System: Windows 10 Pro 64 bit",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb690342ab9e8f1f24258"
+      }
+    },
+    {
+      "title": "Storage",
+      "value1": "Dimension: M.2 2280 (22 x 80 mm)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb690342ab9e8f1f24259"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Capacity: 256GB SSD",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb690342ab9e8f1f2425a"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Interface: M.2 2280 NVMe PCIe Gen3 SSD",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb690342ab9e8f1f2425b"
+      }
+    },
+    {
+      "title": " INPUT",
+      "value1": "MIC(Microphone): x1",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb690342ab9e8f1f2425c"
+      }
+    },
+    {
+      "title": "OUTPUT",
+      "value1": "DisplayPort: x 1 (1.2, resolution 3840x2160@60Hz)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb690342ab9e8f1f2425d"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "HDMI: x 1 (1.4, resolution 3840x2160@60Hz)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb690342ab9e8f1f2425e"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Audio: x 1 Line out",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb690342ab9e8f1f2425f"
+      }
+    },
+    {
+      "title": " LAN",
+      "value1": "RJ45: GbE LAN Port",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb690342ab9e8f1f24260"
+      }
+    },
+    {
+      "title": "Wireless / Bluetooth",
+      "value1": " Intel AX200 WiFi 6 + BT5.2 Module dual band",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb690342ab9e8f1f24261"
+      }
+    },
+    {
+      "title": "USB",
+      "value1": "Type A: USB x 4 (USB 3.2 x 1, USB 2.0 x 3)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb690342ab9e8f1f24262"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Type C: x 1 (data only)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb690342ab9e8f1f24263"
+      }
+    },
+    {
+      "title": " Bundle Software",
+      "value1": " Adobe Reader /myViewBoard WhiteBoard /WatchDog / Winflash",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb690342ab9e8f1f24264"
+      }
+    },
+    {
+      "title": "Power",
+      "value1": "Voltage: DC in +12V~+19V @ 3.42A",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb690342ab9e8f1f24265"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Consumption: 65 W (Typical)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb690342ab9e8f1f24266"
+      }
+    },
+    {
+      "title": " OPERATING CONDITIONS",
+      "value1": "Temperature (º C): -5~45°C",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb690342ab9e8f1f24267"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Humidity: 20% ~ 80% R.H. Non-Condensing",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb690342ab9e8f1f24268"
+      }
+    },
+    {
+      "title": " DIMENSIONS (W x H x D)",
+      "value1": "Physical (inch / mm): 7.95” x 4.69” x 1.18” / 202 x 119 x 30 mm",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb690342ab9e8f1f24269"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Packaging (inch / mm): 10.00” x 7.72” x 3.03”/254 x 196 x 77 mm",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb690342ab9e8f1f2426a"
+      }
+    },
+    {
+      "title": " WEIGHT",
+      "value1": " Net (lb / kg): 2.205 lb/1 kg",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb690342ab9e8f1f2426b"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Gross (lb / kg): 2.646 lb/1.2 kg",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb690342ab9e8f1f2426c"
+      }
+    },
+    {
+      "title": " REGULATIONS",
+      "value1": "cTUVus, FCC-B w/ ICES003, FCC ID+SDOC, CA IC, IC VOC, NOM, COFETEL, CE EMC, CE RED, CE LVD, CB, RoHS, REACH, WEEE, BSMI, NCC, BIS, WPC, RCM, MIC, VCCI, VNTA, CCC, SRRC",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb690342ab9e8f1f2426d"
+      }
+    },
+    {
+      "title": "PACKAGE CONTENTS",
+      "value1": "1. VPC OPS2. Quick Start Guide3. Screw x 2",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb690342ab9e8f1f2426e"
+      }
+    },
+    {
+      "type": "title",
+      "_id": {
+        "$oid": "638462931f957c13dda2c084"
+      }
+    },
+    {
+      "title": "",
+      "type": "terms",
+      "_id": {
+        "$oid": "638462931f957c13dda2c085"
+      }
+    }
+  ],
+  "image": [
+    {
+      "$oid": "635fb66a342ab9e8f1f24244"
+    },
+    {
+      "$oid": "635fb66f342ab9e8f1f24247"
+    },
+    {
+      "$oid": "635fb672342ab9e8f1f2424a"
+    },
+    {
+      "$oid": "635fb675342ab9e8f1f2424d"
+    }
+  ],
+  "file": [
+    {
+      "$oid": "635fb67b342ab9e8f1f24250"
+    }
+  ],
+  "qty": 10,
+  "keywords": [
+    "viewsonic"
+  ],
+  "order": 0,
+  "status": true,
+  "seoDesc": "Seize the power to get more done when you sync your ViewBoard® interactive displays and wireless presentation display with the ViewSonic VPC27-W53-O1-1B slot-in PC.",
+  "filters": [],
+  "createdAt": {
+    "$date": "2022-10-31T11:50:40.928Z"
+  },
+  "updatedAt": {
+    "$date": "2022-11-28T07:26:11.009Z"
+  },
+  "__v": 0,
+  "filters2": {}
+},
+{
+  "_id": {
+    "$oid": "635fb95c342ab9e8f1f24331"
+  },
+  "userId": {
+    "$oid": "61cb1bb646d546f1a70c8b28"
+  },
+  "categoryId": [
+    {
+      "$oid": "61cbfa571d0a940739826314"
+    }
+  ],
+  "brandId": {
+    "$oid": "61cbf5631d0a9407398262ad"
+  },
+  "name": "ViewSonic VSB050",
+  "shortPoints": [
+    "USB Wireless Adapter"
+  ],
+  "shortDescription": "<p>USB Wireless Adapter</p><p><br></p>",
+  "description": "<p>Experience ultimate productivity and easy connection with ViewSonic VSB050. Supporting a dual-band 2.4GHz and 5GHz WiFi, you can effortlessly share high-quality content during wireless presentations. The device also features Bluetooth 4.2 for high-speed Class 1 and 2 data transfers. Live a clutter-and-cable-free life when you stream your documents and multimedia files wirelessly from your device to any interactive display or projector*.​</p><p>*The display or projector must be connected to a ViewBoard Box.</p><p><br></p>",
+  "specifications": [
+    {
+      "title": "Chip",
+      "value1": " RTL8821CU",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb95c342ab9e8f1f24332"
+      }
+    },
+    {
+      "title": "Wifi-Standard",
+      "value1": "802.11 a/b/g/n/ac",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb95c342ab9e8f1f24333"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "2.4GHz: Complies IEEE 802.11 b/ g /n specification",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb95c342ab9e8f1f24334"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Supports 20/40MHz, up to 150 Mbps data rate",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb95c342ab9e8f1f24335"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "5GHz: Complies IEEE 802.11a /n/ac specification",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb95c342ab9e8f1f24336"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Supports 20/40 /80MHz, up to 433 Mbps data rate",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb95c342ab9e8f1f24337"
+      }
+    },
+    {
+      "title": " BT",
+      "value1": "Supports Bluetooth v4.2+HS, BLE",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb95c342ab9e8f1f24338"
+      }
+    },
+    {
+      "title": "Power",
+      "value1": " Requirements: DC 5V/1A",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb95c342ab9e8f1f24339"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Consumption: 5W",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb95c342ab9e8f1f2433a"
+      }
+    },
+    {
+      "title": " Dimension",
+      "value1": "Physical: 33.3 x 20 x 8.8 mm",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb95c342ab9e8f1f2433b"
+      }
+    },
+    {
+      "title": "WEIGHT",
+      "value1": " Gross: 0.05 lbs / 0.36 kg",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb95c342ab9e8f1f2433c"
+      }
+    },
+    {
+      "title": "OPERATING CONDITION",
+      "value1": " Temperature: 32°F to 104°F (0°C to 40°C)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb95c342ab9e8f1f2433d"
+      }
+    },
+    {
+      "title": " ",
+      "value1": " Humidity: 10% ~ 90% non-condensing",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb95c342ab9e8f1f2433e"
+      }
+    },
+    {
+      "title": " COMPLIANCE",
+      "value1": " FCC, CE, NCC, MIC, RoHS",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fb95c342ab9e8f1f2433f"
+      }
+    },
+    {
+      "type": "title",
+      "_id": {
+        "$oid": "635fb95c342ab9e8f1f24340"
+      }
+    },
+    {
+      "title": "",
+      "type": "terms",
+      "_id": {
+        "$oid": "635fb95c342ab9e8f1f24341"
+      }
+    }
+  ],
+  "image": [
+    {
+      "$oid": "635fb931342ab9e8f1f24324"
+    },
+    {
+      "$oid": "635fb936342ab9e8f1f24327"
+    },
+    {
+      "$oid": "635fb93a342ab9e8f1f2432a"
+    }
+  ],
+  "file": [
+    {
+      "$oid": "635fb942342ab9e8f1f2432d"
+    }
+  ],
+  "qty": 10,
+  "keywords": [
+    "viewsonic"
+  ],
+  "order": 0,
+  "status": true,
+  "seoDesc": "Experience ultimate productivity and easy connection with ViewSonic VSB050. ",
+  "filters": [],
+  "createdAt": {
+    "$date": "2022-10-31T12:02:36.431Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-31T12:02:36.431Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "635fbc78342ab9e8f1f243ba"
+  },
+  "userId": {
+    "$oid": "61cb1bb646d546f1a70c8b28"
+  },
+  "categoryId": [
+    {
+      "$oid": "61cbfa571d0a940739826314"
+    }
+  ],
+  "brandId": {
+    "$oid": "61cbf5631d0a9407398262ad"
+  },
+  "name": "ViewSonic VA2406-h",
+  "shortPoints": [
+    "24” Full HD Monitor",
+    "SuperClear® VA panel",
+    "ViewMode color rendering options"
+  ],
+  "shortDescription": "<ul><li>SuperClear® VA panel</li><li>Eye-care technology for comfortable viewing</li><li>Eco-mode for low energy consumption</li><li>ViewMode color rendering options</li><li>HDMI and VGA inputs for connectivity</li></ul><p><br></p>",
+  "description": "<p>The ViewSonic VA2406-h is a 24” Full HD monitor with HDMI and VGA input for business or home usage. Delivering a stunning image quality with low power consumption, this monitor provides six ViewMode presets that deliver optimized screen performance based on your needs. The eye care technology that comes standard with all VA monitors helps to eliminate eyestrain from extended viewing periods. A VESA-compatible mount makes this monitor is easy to setup on the wall or with a wide range of industry-standard mounts.</p><p class=\"ql-align-center\">Viewing Clarity from Wide Angles</p><p class=\"ql-align-center\">Enjoy superb performance and better viewing quality from horizontal to vertical angles. With&nbsp;SuperClear® Vertical Alignment&nbsp;panel&nbsp;technology, the monitor remains clear and in good contrast color from 178°&nbsp;all around, whether you are looking at the screen from above, below, the&nbsp;front, or the side.</p><p class=\"ql-align-center\"><span style=\"color: rgb(153, 0, 0);\">SuperClear® 178°/178°</span></p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_lcd_display_%28new%29/VA2406-H/scaled/05-SuperClear-01_pc.webp\" alt=\"Viewing Clarity from Wide Angles 1\"></p><p class=\"ql-align-center\">Full HD 1080p</p><p class=\"ql-align-center\">Full HD 1920x1080 resolution creates unbelievably clear pixel-by-pixel image performance. Experience amazing clarity and detail while working, gaming, or enjoying the latest entertainment.</p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_lcd_display_%28new%29/VA2406-H/scaled/04_Full%20HD%201080p%281%29_pc.webp\" alt=\"Full HD 1080p 1\"></p><p class=\"ql-align-center\">Comfortable Viewing</p><p class=\"ql-align-center\">Flicker-Free technology and a Blue Light Filter help to eliminate eye strain from extended viewing periods.</p><p class=\"ql-align-center\"><span style=\"color: rgb(153, 0, 0);\">Flicker Free</span></p><p class=\"ql-align-center\"><span style=\"color: rgb(153, 0, 0);\">Blue Light Filter</span></p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_lcd_display_%28new%29/VA2406-H/scaled/06-Eye%20Care_pc.webp\" alt=\"Comfortable Viewing 1\"></p><p class=\"ql-align-center\">Color Rendering Options</p><p class=\"ql-align-center\">ViewSonic’s ViewMode feature offers “Game”, “Movie”, “Web”, “Text”, and “Mono” presets. These presets enhance gamma curve, color temperature, contrast, and brightness to deliver an optimized viewing experience for different uses.</p><p class=\"ql-align-center\">Low Energy Consumption</p><p class=\"ql-align-center\">Designed for energy efficiency in mind, ViewSonic’s Eco Mode results in a smaller carbon footprint and reduced office overhead costs.</p><p class=\"ql-align-center\"><span style=\"color: rgb(153, 0, 0);\">Eco-Mode</span></p><p class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/_lcd_display_%28new%29/VA2406-H/scaled/Eco-mode_pc.webp\" alt=\"Low Energy Consumption 1\"></p><p class=\"ql-align-center\">Dimensions &amp; I/O Ports</p><p class=\"ql-align-center\"><br></p><ol><li class=\"ql-align-center\"><img src=\"https://www.viewsonic.com/vsAssetFile/me/img/resize/product-rc/lcd/VA2406-H/scaled/VA2406-h-Dimension.webp\">Menu Control Panel</li><li class=\"ql-align-center\">VESA Compatible</li><li class=\"ql-align-center\">(Wall Mount 100 x 100mm)</li><li class=\"ql-align-center\">HDMI</li><li class=\"ql-align-center\">VGA</li><li class=\"ql-align-center\">Earphone</li><li class=\"ql-align-center\">DC in</li></ol><p><br></p>",
+  "specifications": [
+    {
+      "title": "Display",
+      "value1": "Display Size (in.): 24",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fbc78342ab9e8f1f243bb"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Viewable Area (in.): 23.8",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fbc78342ab9e8f1f243bc"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Panel Type: VA Technology",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fbc78342ab9e8f1f243bd"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Resolution: 1920 x 1080",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fbc78342ab9e8f1f243be"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Resolution Type: FHD (Full HD)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fbc78342ab9e8f1f243bf"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Static Contrast Ratio: 5,000:1 (typ)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fbc78342ab9e8f1f243c0"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Dynamic Contrast Ratio: 50M:1",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fbc78342ab9e8f1f243c1"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Light Source: LED",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fbc78342ab9e8f1f243c2"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Brightness: 250 cd/m² (typ)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fbc78342ab9e8f1f243c3"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Colors: 16.7M",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fbc78342ab9e8f1f243c4"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Color Space Support: 8 bit (6 bit + FRC)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fbc78342ab9e8f1f243c5"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Aspect Ratio: 16:9",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fbc78342ab9e8f1f243c6"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Response Time (Typical GTG): 4ms",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fbc78342ab9e8f1f243c7"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Viewing Angles: 178º horizontal, 178º vertical",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fbc78342ab9e8f1f243c8"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Backlight Life (Hours): 30000 Hrs (Min)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fbc78342ab9e8f1f243c9"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Curvature: Flat",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fbc78342ab9e8f1f243ca"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Refresh Rate (Hz): 75",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fbc78342ab9e8f1f243cb"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Blue Light Filter: Yes",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fbc78342ab9e8f1f243cc"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Flicker-Free: Yes",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fbc78342ab9e8f1f243cd"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Color Gamut: NTSC: 72% size (Typ)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fbc78342ab9e8f1f243ce"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "sRGB: 104% size (Typ)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fbc78342ab9e8f1f243cf"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Pixel Size: 0.275 mm (H) x 0.275 mm (V)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fbc78342ab9e8f1f243d0"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Surface Treatment: Anti-Glare, Hard Coating (3H)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fbc78342ab9e8f1f243d1"
+      }
+    },
+    {
+      "title": " Compatibility",
+      "value1": "PC Resolution (max): 1920x1080",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fbc78342ab9e8f1f243d2"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Mac® Resolution (max): 1920x1080",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fbc78342ab9e8f1f243d3"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "PC Operating System: Windows 10/11 certified; macOS tested",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fbc78342ab9e8f1f243d4"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Mac® Resolution (min): 1920x1080",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fbc78342ab9e8f1f243d5"
+      }
+    },
+    {
+      "title": " Connector",
+      "value1": " VGA: 1",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fbc78342ab9e8f1f243d6"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "3.5mm Audio Out: 1",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fbc78342ab9e8f1f243d7"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "HDMI 1.4: 1",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fbc78342ab9e8f1f243d8"
+      }
+    },
+    {
+      "title": " ",
+      "value1": "Power in: DC Socket (Center Positive)",
+      "type": "spec",
+      "_id": {
+        "$oid": "635fbc78342ab9e8f1f243d9"
+      }
+    },
+    {
+      "type": "title",
+      "_id": {
+        "$oid": "635fbc78342ab9e8f1f243da"
+      }
+    },
+    {
+      "title": "",
+      "type": "terms",
+      "_id": {
+        "$oid": "635fbc78342ab9e8f1f243db"
+      }
+    }
+  ],
+  "image": [
+    {
+      "$oid": "635fbc57342ab9e8f1f243aa"
+    },
+    {
+      "$oid": "635fbc5a342ab9e8f1f243ad"
+    },
+    {
+      "$oid": "635fbc5d342ab9e8f1f243b0"
+    },
+    {
+      "$oid": "635fbc61342ab9e8f1f243b3"
+    }
+  ],
+  "file": [
+    {
+      "$oid": "635fbc69342ab9e8f1f243b6"
+    }
+  ],
+  "qty": 10,
+  "keywords": [
+    "viewsonic",
+    "monitor"
+  ],
+  "order": 0,
+  "status": true,
+  "seoDesc": "Full HD 1920x1080 resolution creates unbelievably clear pixel-by-pixel image performance. Experience amazing clarity and detail while working, gaming, or enjoying the latest entertainment.",
+  "filters": [],
+  "createdAt": {
+    "$date": "2022-10-31T12:15:52.341Z"
+  },
+  "updatedAt": {
+    "$date": "2022-10-31T12:15:52.341Z"
+  },
+  "__v": 0
+}]

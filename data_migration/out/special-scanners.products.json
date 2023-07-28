@@ -1,0 +1,1242 @@
+[
+  {
+    "_id": {
+      "$oid": "61d96fe58202199476b47e42"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "61cbf84c1d0a9407398262b6"
+    },
+    "brandId": {
+      "$oid": "61cbf4f11d0a9407398262a1"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "CZUR Shine500 Pro Book Scanner",
+    "slug": "czur-shine500-pro-book-scanner",
+    "sku": 1810,
+    "description": "<p><strong>CZUR Shine Pro </strong></p><p>is an active 2.0 USB play-and-plug portable desktop document scanner which is foldable and saves space on your work desk.</p><p><br /></p><p>It effortlessly scans multiple documents in less than 1 second per page,it can be used to scan contracts,receipts,ID cards,accounting papers and so much more.With user-friendly corresponding software,you can edit the scanned images and convert the image into various types of format.</p><p><br /></p><p>Advanced OCR(optical character recognition)recognize up to 186 languages, help you layout your scanned document enable editing.Also,video recording support helps you manage with multiple work project.Its external foot pedal gives you a hands-free experience, for even faster and efficient scanning.</p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "61d994f76f3b7a8a81014e03"
+      },
+      {
+        "$oid": "621794704cdff31f8a1c3b2e"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>             <h4>Characters</h4>           </div>         </div>         <div>           <div>             <table>               <tr><td> OCR </td> <td> ✔</td><td>✔</td></tr><tr><td> OCR languages  </td> <td> 180+</td><td>180+</td></tr><tr><td> Smart paging </td> <td> ✔</td><td>✔</td></tr><tr><td> Smart tilt corrections and auto-cropping </td> <td> ✔</td><td>✔</td></tr><tr><td> Trimming </td> <td> ✔</td><td>✔</td></tr><tr><td> Color mode </td> <td> ✔</td><td>✔</td></tr><tr><td> Combine sides </td> <td> ✔</td><td>✔</td></tr><tr><td> Manual Selection scanning </td> <td> ✔</td><td>✔</td></tr><tr><td> Video Recording </td> <td> ✔</td><td>✔</td></tr><tr><td> Auto-scan </td> <td> ✔</td><td>✔</td></tr><tr><td> Product Appearance </td> <td> Black</td><td>Black</td></tr><tr><td> Packing Size </td> <td> 492*175*217 MM ï¼ˆL*W*Hï¼‰</td><td>492*175*217 MM ï¼ˆL*W*Hï¼‰</td></tr><tr><td> Weight </td> <td> 0.75 N.W.  1.85kg G.W.</td><td>0.75 N.W.  1.85kg G.W</td></tr><tr><td> Packaging list </td> <td> Main Device, USB Cable, Foot Pedal, Soft Pad, User Manual</td><td>Main Device, USB Cable, Foot Pedal, Soft Pad, User Manual</td></tr><tr><td> Product Type  </td> <td> Shine 800 Pro </td><td>Shine 500 Pro </td></tr><tr><td> Sensor/Pixel  </td> <td> CMOS 8 megapixel (3264*2448)</td><td>CMOS 5 megapixel (2592*1944)</td></tr><tr><td> DPI </td> <td> 270</td><td>210</td></tr><tr><td> Sanning Size </td> <td> â¦¤A4</td><td>â¦¤A4</td></tr><tr><td> Scan Speed </td> <td> â¦¤1 s</td><td>â¦¤1 s</td></tr><tr><td> OCR Languages </td> <td> 180+</td><td>180+</td></tr><tr><td> Video Paremeter  </td> <td> MJPG 3264*2448@10Fps</td><td>MJPG 2592*1944@10Fps</td></tr><tr><td> Light Control  </td> <td> Stepless adjusted </td><td>Stepless adjusted</td></tr><tr><td> Image format </td> <td> JPG</td><td>JPG</td></tr><tr><td> Color bit depth </td> <td> 24 bits</td><td>24 bits</td></tr><tr><td> Export format </td> <td> JPG, PDF, Searchable PDF, Word, Excel, TIFF</td><td>JPG, PDF, Searchable PDF, Word, Excel, TIFF </td></tr><tr><td> USB </td> <td> USB2.0</td><td>USB2.0</td></tr><tr><td> Top LED lights </td> <td> âœ”</td><td>âœ”</td></tr><tr><td> Side Light </td> <td> âœ–</td><td>âœ–</td></tr><tr><td> Focus mode </td> <td> Fixed focus </td><td>Fixed focus </td></tr><tr><td> Scanning method </td> <td> Device Control, Software triggering, Foot pedal</td><td>Device Control, Software triggering, Foot pedal</td></tr><tr><td> System support </td> <td> XP, Win 7/ 8/10, 32/64-bit; macOS 10.11 and above </td><td>XP, Win 7/ 8/10, 32/64-bit; macOS 10.11 and above</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>Smart black edge optimization was added for scan parameter settings in the processing mode [Flat Single Page];</li><li>Paper mending was added for the parameter settings in the processing methods [Flat Single Page] and [Facing Pages];</li><li>For devices with auto-focus functions, the [Auto Focus] button was added in the scanning interface.</li><li>The video image ratio can be selected as 16:9 or 4:3 for the recording;</li></ul>",
+    "shortPoints": [
+      "Portable Book Scanner",
+      "Max paper size: A4",
+      "5 MP"
+    ],
+    "file": [
+      "61d7f0f27b742f990fde0490",
+      {
+        "$oid": "62d40547dda7dbf167569326"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "61d96fe58202199476b47e43"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "61cbf84c1d0a9407398262b6"
+    },
+    "brandId": {
+      "$oid": "61cbf4f11d0a9407398262a1"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "CZUR Shine800 A3 Pro Book Scanner",
+    "slug": "czur-shine800-a3-pro-book-scanner",
+    "sku": 1811,
+    "description": "<p><strong>CZUR Shine Pro</strong></p><p><br /></p><p>is an active 2.0 USB play-and-plug portable desktop document scanner which is foldable and saves space on your work desk.</p><p><br /></p><p>It effortlessly scans multiple documents in less than 1 second per page,it can be used to scan contracts,receipts,ID cards,accounting papers and so much more.With user-friendly corresponding software,you can edit the scanned images and convert the image into various types of format.</p><p><br /></p><p>Advanced OCR(optical character recognition)recognize up to 186 languages, help you layout your scanned document enable editing.Also,video recording support helps you manage with multiple work project.Its external foot pedal gives you a hands-free experience, for even faster and efficient scanning.</p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "61d994f76f3b7a8a81014e03"
+      },
+      {
+        "$oid": "621794ce4cdff31f8a1c3bd9"
+      },
+      {
+        "$oid": "621794d94cdff31f8a1c3bdc"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>             <h4>Characters</h4>           </div>         </div>         <div>           <div>             <table>               <tr><td> OCR </td> <td> ✔</td><td>✔</td></tr><tr><td> OCR languages  </td> <td> 180+</td><td>180+</td></tr><tr><td> Smart paging </td> <td> ✔</td><td>✔</td></tr><tr><td> Smart tilt corrections and auto-cropping </td> <td> ✔</td><td>✔</td></tr><tr><td> Trimming </td> <td> ✔</td><td>✔</td></tr><tr><td> Color mode </td> <td> ✔</td><td>✔</td></tr><tr><td> Combine sides </td> <td> ✔</td><td>✔</td></tr><tr><td> Manual Selection scanning </td> <td> ✔</td><td>✔</td></tr><tr><td> Video Recording </td> <td> ✔</td><td>✔</td></tr><tr><td> Auto-scan </td> <td> ✔</td><td>✔</td></tr><tr><td> Product Appearance </td> <td> Black</td><td>Black</td></tr><tr><td> Packing Size </td> <td> 492*175*217 MM ï¼ˆL*W*Hï¼‰</td><td>492*175*217 MM ï¼ˆL*W*Hï¼‰</td></tr><tr><td> Weight </td> <td> 0.75 N.W.  1.85kg G.W.</td><td>0.75 N.W.  1.85kg G.W</td></tr><tr><td> Packaging list </td> <td> Main Device, USB Cable, Foot Pedal, Soft Pad, User Manual</td><td>Main Device, USB Cable, Foot Pedal, Soft Pad, User Manual</td></tr><tr><td> Product Type  </td> <td> Shine 800 Pro </td><td>Shine 500 Pro </td></tr><tr><td> Sensor/Pixel  </td> <td> CMOS 8 megapixel (3264*2448)</td><td>CMOS 5 megapixel (2592*1944)</td></tr><tr><td> DPI </td> <td> 270</td><td>210</td></tr><tr><td> Scanning Size </td> <td> â¦¤A4</td><td>â¦¤A4</td></tr><tr><td> Scan Speed </td> <td> â¦¤1 s</td><td>â¦¤1 s</td></tr><tr><td> OCR Languages </td> <td> 180+</td><td>180+</td></tr><tr><td> Video Paremeter  </td> <td> MJPG 3264*2448@10Fps</td><td>MJPG 2592*1944@10Fps</td></tr><tr><td> Light Control  </td> <td> Stepless adjusted </td><td>Stepless adjusted</td></tr><tr><td> Image format </td> <td> JPG</td><td>JPG</td></tr><tr><td> Color bit depth </td> <td> 24 bits</td><td>24 bits</td></tr><tr><td> Export format </td> <td> JPG, PDF, Searchable PDF, Word, Excel, TIFF</td><td>JPG, PDF, Searchable PDF, Word, Excel, TIFF </td></tr><tr><td> USB </td> <td> USB2.0</td><td>USB2.0</td></tr><tr><td> Top LED lights </td> <td> âœ”</td><td>âœ”</td></tr><tr><td> Side Light </td> <td> âœ–</td><td>âœ–</td></tr><tr><td> Focus mode </td> <td> Fixed focus </td><td>Fixed focus </td></tr><tr><td> Scanning method </td> <td> Device Control, Software triggering, Foot pedal</td><td>Device Control, Software triggering, Foot pedal</td></tr><tr><td> System support </td> <td> XP, Win 7/ 8/10, 32/64-bit; macOS 10.11 and above </td><td>XP, Win 7/ 8/10, 32/64-bit; macOS 10.11 and above</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>8 MP</li><li>Portable Book Scanner</li><li>Max paper size: A4</li></ul>",
+    "shortPoints": [
+      "Portable Book Scanner",
+      "Max paper size: A4",
+      "8 MP"
+    ],
+    "file": [
+      "61d7f0f27b742f990fde0490",
+      {
+        "$oid": "62d40571dda7dbf16756936d"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "61d96fe58202199476b47e44"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "61cbf84c1d0a9407398262b6"
+    },
+    "brandId": {
+      "$oid": "61cbf4f11d0a9407398262a1"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "CZUR Aura Pro Portable Book Scanner",
+    "slug": "czur-aura-pro-portable-book-scanner",
+    "sku": 1812,
+    "description": "<p><strong>â€¢ Use Case &amp; Speed: </strong>Aura is a portable scanner with a scanning speed of 2 sec/page. Perfect choice if you need to bring it around (portable, lightweight with a battery) or for home use (stylish design, digitize your own book collections, and use it as a desk lamp).</p><p><strong>â€¢ Patented Book Curve Flattening Technology:</strong> Removes the curvature of books in CZUR's software. No need to flatten the page curves by hand.</p><p><strong>â€¢ Fast Scanning Speed Supplemental Side Lights:</strong> Ultra-fast scanning speed from Auraâ€™s high configuration software. Only 2sec/page for both single sheets and double page books. Able to scan any size material smaller than A3. 2 Supplemental Side Lights are included to create an enhanced light environment to avoid reflection on glossy papers.</p><p><strong>â€¢ Auto-Detect Page Turn and Auto Scan</strong>: Intelligent software auto-detects page turn and can trigger scan automatically for effortless scanning. The convenient foot pedal can also be used to trigger scanning, while it frees your hands.</p><p><strong>â€¢ High Resolution &amp; AI Tech:</strong> CMOS 13MP (4160*3120, A4â‰ˆ340 AND A3â‰ˆ245 DPI) camera. Smart Paging and Auto Cropping, Combine Sides, Stamp Mode, and Multiple Color Modes</p><p><strong>â€¢ Multifunctional Desk Lamp</strong>: 4 color modes for both family and office use six brightness levels. Dual color temperature LEDs prevent eye fatigue.</p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "61d994f76f3b7a8a81014e03"
+      },
+      {
+        "$oid": "6217984c4cdff31f8a1c3ce8"
+      },
+      {
+        "$oid": "6217985b4cdff31f8a1c3ceb"
+      },
+      {
+        "$oid": "621798604cdff31f8a1c3cee"
+      },
+      {
+        "$oid": "621798654cdff31f8a1c3cf1"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>             <h4>Product Information</h4>           </div>         </div>         <div>           <div>             <table>               <tr><td> Device Name </td> <td> Aura</td></tr><tr><td> Usage </td> <td> Personal use, Family use, Educational Institutions, Corporates</td></tr><tr><td> Product type </td> <td> Smart scanner</td></tr><tr><td> Scannable Items </td> <td> Documents, books, photos, exam papers, receipts, etc.</td></tr><tr><td> Core Features </td> <td> Non flickering, non-radiation, light evenly distributed, good for eyes, different color temperatures, different brightness levels, sound control by phone</td></tr><tr><td> Switch Settings </td> <td> Natural light, reading light, computer light, smart night light mode</td></tr><tr><td> LED Light Specifications </td> <td> 16 true white and 16 warm white LEDs</td></tr><tr><td> Light source </td> <td> Polarized light</td></tr><tr><td> Luminous Flux </td> <td> Natural Light mode (140-600lx), Reading Light mode (180-800lx), Computer mode (1105601x), Smart Lighting mode at night (15-601x)</td></tr><tr><td> Color Rendering Index (CRI) </td> <td> Ra=85</td></tr><tr><td> Color Temperature Range </td> <td> Natural Light mode (4800K), Reading Light mode (4000K), Computer mode (3000K), Smart Night Light Mode (3000K)</td></tr><tr><td> Control Method </td> <td> Digital audio waves can be used through applets or the App (in an open and quiet environment, the effective distance is 5m)</td></tr><tr><td> App OS </td> <td> iOS/Android</td></tr><tr><td> Hardware Configuration </td> <td> 32 bits MIPS CPU</td></tr><tr><td> Laser-Assisted </td> <td> 3 laser rays</td></tr><tr><td> DDR </td> <td> 1Gbit</td></tr><tr><td> SPI Flash </td> <td> 128Mbit</td></tr><tr><td> TFT screen </td> <td> 2.0 inches, 4: 3, 320*240 (for preview)</td></tr><tr><td> Mic </td> <td> ✖</td></tr><tr><td> Buzzer </td> <td> ✖</td></tr><tr><td> Hand Button </td> <td> ✖</td></tr><tr><td> Foot Pedal </td> <td> ✖</td></tr><tr><td> Black Work Mat </td> <td> ✖</td></tr><tr><td> Book Holder  </td> <td> ✖</td></tr><tr><td> Power Adapter </td> <td> Input AC: 100-240 V 50/60 Hz 0.6 A Output DC: 9V/1.5 A</td></tr><tr><td> Scanning </td> <td> </td></tr><tr><td> Lamp </td> <td> ✔</td></tr><tr><td> Visual Presenter </td> <td> ✖</td></tr><tr><td> WiFi </td> <td> ✖</td></tr><tr><td> Internet </td> <td> ✖</td></tr><tr><td> Cloud Service </td> <td> ✖</td></tr><tr><td> CZUR App for Lamp </td> <td> ✔</td></tr><tr><td> TWAIN </td> <td> ✖</td></tr><tr><td> SDK </td> <td> ✖</td></tr><tr><td> OCR </td> <td> ✔</td></tr><tr><td> OCR Supports 180+ Languages </td> <td> ✔</td></tr><tr><td> Curve Flattening </td> <td> Second generation laser assisted to flatten curves</td></tr><tr><td> Smart Paging </td> <td> ✔</td></tr><tr><td> Smart Tilt Corrections and Auto-Cropping </td> <td> ✔</td></tr><tr><td> Professional Trimming </td> <td> ✔</td></tr><tr><td> Background Purifying </td> <td> ✔</td></tr><tr><td> Fingerprint Removal </td> <td> ✔</td></tr><tr><td> Yellow Finger Cots </td> <td> ✔</td></tr><tr><td> Color Mode </td> <td> Automatic, Color, Black and White, Stamps</td></tr><tr><td> Auto Detect when Page Flipped and Auto Scan  </td> <td> ✔</td></tr><tr><td> Manual Selection </td> <td> ✔</td></tr><tr><td> Product Color </td> <td> Dark gray</td></tr><tr><td> Product Size (when folded open) </td> <td> 372*180*443mm (*w*h)</td></tr><tr><td> Product Size (when folded closed) </td> <td> 180*130*443mm (*w*h)</td></tr><tr><td> Weight </td> <td> 1.5KG (Net)</td></tr><tr><td> Packaging List  </td> <td> Aura scanner, USB cable, power adapter, foot pedal, black work mat, yellow finger cots, CD (Getting Started Guide and User Manual), warranty card, quality certificate.</td></tr><tr><td> Warranty </td> <td> One Year</td></tr><tr><td> Sensor </td> <td> HD CMOS lens</td></tr><tr><td> Pixels </td> <td> 14 megapixels</td></tr><tr><td> Resolution </td> <td> 4320*3240</td></tr><tr><td> DPI (by default) </td> <td> 240</td></tr><tr><td> Scanning Range </td> <td> Single sheet ≤A3; bound books ≤A4</td></tr><tr><td> Scanning Speed </td> <td> Single sheet 22.0sec/page; bound books 2.0sec/two pages (differs due to lightings)</td></tr><tr><td> Maximum Scanning Thickness </td> <td> 420x297 mm: supports 16 mm<br /> 370x260 mm: supports 30 mm </td></tr><tr><td> Pre-scan Time  </td> <td> 0 seconds</td></tr><tr><td> Image Format </td> <td> JPG</td></tr><tr><td> Color Bit Depth </td> <td> 24 bits</td></tr><tr><td> Output Formats </td> <td> JPG, PDF, Word, Excel, Searchable PDF, TIFF</td></tr><tr><td> Video Streaming Format </td> <td> MJPG</td></tr><tr><td> Preview </td> <td> MJPG 1536*1152@20fps</td></tr><tr><td> USB </td> <td> USB 2.0 High-Speed</td></tr><tr><td> Light Source </td> <td> Natural light + LED lights</td></tr><tr><td> Top LED Lights </td> <td> âœ”</td></tr><tr><td> Side Light </td> <td> âœ”</td></tr><tr><td> Focus Mode\t </td> <td> Fixed focus</td></tr><tr><td> Scanning Access </td> <td> Software triggering, foot pedal triggering</td></tr><tr><td> System Support </td> <td> XP/Win7/Win8/Win10 (32 and 64 bit); mac OS 10.11 and above</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>2 sec/page | 14 MP</li><li>Portable Book Scanner</li><li>Max paper size: A3</li></ul>",
+    "shortPoints": [
+      "2 sec/page | 14 MP",
+      "Portable Book Scanner",
+      "Max paper size: A3"
+    ],
+    "file": [
+      "61d7f0f27b742f990fde0490",
+      {
+        "$oid": "62d3feffdda7dbf167569168"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "61d96fe58202199476b47e45"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "61cbf84c1d0a9407398262b6"
+    },
+    "brandId": {
+      "$oid": "61cbf4f11d0a9407398262a1"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "CZUR Aura X Pro Portable Book Scanner",
+    "slug": "czur-aura-x-pro-portable-book-scanner",
+    "sku": 1813,
+    "description": "<ul><li>Built-in Battery and High Mobility: A travel-friendly smart scanner with a built-in 3000 mAh battery that can last over 100 mins while multiple scanning projects.</li><li>Patented Scanning Technology: Self-Developed â€œCurve Flattening Technologyâ€ which can scan and exactly replicate the individual flat pages of curved books. (Google Patents: WO2017206222A1)</li><li>Fast &amp; Easy to use : 2 sec/page and can scan any objects smaller than A3. Convenient foot pedal can trigger scanning, while it frees your hands</li><li>High Accuracy and Editable Formats: The Aura X proâ€™s OCR software can convert captured JPG images into JPG, PDF, Word, Excel, Searchable PDF and TIFF, supporting more than 186 languages</li><li>Multifunction Desk Lamp: 4 Color Modes for both Office and Family use with 6 level brightness levels to prevent eye fatigue.</li></ul>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "61d994f76f3b7a8a81014e03"
+      },
+      {
+        "$oid": "6217949f4cdff31f8a1c3b6a"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Device Name </td> <td> Aura</td></tr><tr><td> Product type </td> <td> Smart scanner</td></tr><tr><td> Usage </td> <td> Personal use, Family use, Educational Institutions,Corporates </td></tr><tr><td> Scannable Items </td> <td> Documents, books, photos, exam papers, receipts, etc.</td></tr><tr><td> Sensor </td> <td> HD CMOS lens</td></tr><tr><td> Pixels </td> <td> 14 megapixels</td></tr><tr><td> Resolution </td> <td> 4320*3240</td></tr><tr><td> DPI (by default) </td> <td> 240</td></tr><tr><td> Scanning Range </td> <td> Single sheet â‰¤A3; bound books â‰¤A4</td></tr><tr><td> Scanning Speed </td> <td> Single sheet â‰ˆ2.0sec/page; bound books â‰ˆ2.0sec/two pages (differs due to lightings)</td></tr><tr><td> Maximum scanning thickness </td> <td> 420x297 mm: supports 16 mm<br />370x260 mm: supports 30 mm</td></tr><tr><td> Pre-scan Time </td> <td> 0 seconds</td></tr><tr><td> Image Format\t\t </td> <td> JPG\t</td></tr><tr><td> Color Bit Depth </td> <td> 24 bits\t</td></tr><tr><td> Output Formats </td> <td> JPG, PDF, Word, Excel, Searchable PDF, TIFF   </td></tr><tr><td> Video Streaming Format </td> <td> MJPG</td></tr><tr><td> Preview </td> <td> MJPG 1536*1152@20fps </td></tr><tr><td> USB </td> <td> USB 2.0 High-Speed</td></tr><tr><td> Light Source </td> <td> Natural light + LED lights</td></tr><tr><td> Top LED Lights </td> <td> âœ”</td></tr><tr><td> Side Light </td> <td> âœ”</td></tr><tr><td> Focus Mode </td> <td> Fixed focus</td></tr><tr><td> Scanning Access </td> <td> Software triggering, foot pedal triggering</td></tr><tr><td> System Support </td> <td> XP/Win7/Win8/Win10 (32 and 64 bit); mac OS 10.11 and above</td></tr><tr><td> Hardware Configuration </td> <td> 32 bits MIPS CPU</td></tr><tr><td> Laser-Assisted </td> <td> 3 laser rays</td></tr><tr><td> DDR </td> <td> 1Gbit</td></tr><tr><td> SPI Flash </td> <td> 128Mbit</td></tr><tr><td> TFT screen </td> <td> 2.0 inches, 4: 3, 320*240 (for preview)</td></tr><tr><td> Mic </td> <td> ✔</td></tr><tr><td> Buzzer </td> <td> ✖</td></tr><tr><td> Hand Button </td> <td> ✖</td></tr><tr><td> Foot Pedal </td> <td> ✔</td></tr><tr><td> Black Work Mat </td> <td> ✔</td></tr><tr><td> Book Holder </td> <td> ✖</td></tr><tr><td> Power Adapter </td> <td> Input AC: 100-240 V 50/60 Hz 0.6 A Output DC: 9V/1.5 A</td></tr><tr><td> Scanning </td> <td> ✔</td></tr><tr><td> Lamp </td> <td> ✔</td></tr><tr><td> Visual Presenter </td> <td> ✖</td></tr><tr><td> WiFi </td> <td> ✖</td></tr><tr><td> Internet </td> <td> ✖</td></tr><tr><td> Cloud Service </td> <td> ✖</td></tr><tr><td> CZUR App for Lamp Function </td> <td> ✔</td></tr><tr><td> TWAIN </td> <td> ✖</td></tr><tr><td> SDK\t </td> <td> ✖</td></tr><tr><td> OCR </td> <td> ✔</td></tr><tr><td> OCR Supports 180+ Languages </td> <td> ✔</td></tr><tr><td> Curve Flattening </td> <td> Second generation laser assisted to flatten curves</td></tr><tr><td> Smart Paging </td> <td> ✔</td></tr><tr><td> Smart Tilt Corrections and Auto-Cropping </td> <td> ✔</td></tr><tr><td> Professional Trimming </td> <td> ✔</td></tr><tr><td> Background Purifying </td> <td> ✔</td></tr><tr><td> Fingerprint Removal </td> <td> ✔</td></tr><tr><td> Yellow Finger Cots </td> <td> ✔</td></tr><tr><td> Color Mode </td> <td> Automatic, Color, Black and White, Stamps</td></tr><tr><td> Auto Detect when Page Flipped and Auto Scan </td> <td> ✔</td></tr><tr><td> Manual Selection </td> <td> ✔</td></tr><tr><td> Core Features </td> <td> Non flickering, non-radiation, light evenly distributed, good for eyes, different color temperatures, different brightness levels, sound control by phone</td></tr><tr><td> Switch Settings </td> <td> Natural light, reading light, computer light, smart night light mode</td></tr><tr><td> LED Light Specifications </td> <td> 16 true white and 16 warm white LEDs\t</td></tr><tr><td> Light source </td> <td> Polarized light</td></tr><tr><td> Luminous Flux </td> <td> Natural Light mode (140-600lx), Reading Light mode (180-800lx), Computer mode (1105601x), Smart Lighting mode at night (15-601x)</td></tr><tr><td> Color Rendering Index (CRI) </td> <td> Ra≈85</td></tr><tr><td> Color Temperature Range </td> <td> Natural Light mode (4800K), Reading Light mode (4000K), Computer mode (3000K), Smart Night Light Mode (3000K)</td></tr><tr><td> Control Method </td> <td> Digital audio waves can be used through applets or the App (in an open and quiet environment, the effective distance is 5m)</td></tr><tr><td> App OS </td> <td> iOS/Android </td></tr><tr><td> Product Color </td> <td> Dark gray </td></tr><tr><td> Product Size (when folded open) </td> <td> 372*180*443mm (l*w*h)</td></tr><tr><td> Product Size (when folded closed) </td> <td> 180*130*443mm (l*w*h)</td></tr><tr><td> Weight  </td> <td> 1.5KG (Net)</td></tr><tr><td> Packaging List </td> <td> Aura scanner, USB cable, power adapter, foot pedal, black work mat, yellow finger cots, CD (Getting Started Guide and User Manual), warranty card, quality certificate.</td></tr><tr><td> Warranty </td> <td> One Year</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>2 sec/page | 14 MP</li><li>Built-in 3000 mAh battery</li><li>Max paper size: A3</li></ul>",
+    "shortPoints": [
+      "2 sec/page | 14 MP",
+      "Built-in 3000 mAh battery",
+      "Max paper size: A3"
+    ],
+    "file": [
+      "61d7f0f27b742f990fde0490",
+      {
+        "$oid": "62d40236dda7dbf1675691e6"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "61d96fe58202199476b47e46"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "61cbf84c1d0a9407398262b6"
+    },
+    "brandId": {
+      "$oid": "61cbf4f11d0a9407398262a1"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "CZUR ET16 PLUS Smart Book Scanner",
+    "slug": "czur-et16-plus-smart-book-scanner",
+    "sku": 1814,
+    "description": "<ul><li>Patented Flattening Curved Book Page Technology: ET16 Plus applies CZURâ€™s latest technology to flatten the 3D curved surface after pixel transformation to complete flattening of the book page.</li><li>16MP Sony Camera, Easy and Fast: Embedded 16MP Sony Camera and with the 1.5 S/P scanning speed, ET16 Plus can easily finish scanning a 300 page book within 10 min, which is 10 times faster than traditional scanner.</li><li>Capable of scanning multiple items: Books &amp; Binder Documents, Business Cards and Vouchers and even Physical Objects.</li><li>10 LED Lights +2 Supplemental Lights: sufficient light exposure, making scanning document shadowless, for best scanning results.</li><li>Life Free OCR Software + 1 Year Warranty: Life-time FREE SOFTERWARE, able to read 186 languages, allowing you to edit your scanned materials right after scan (crop, adjust sharpness, contrast, thickness, etc). Any materials can be converted into EDITABLE PDF,WORD,TIFF and automatically stored. You can even use our SOFTWARE convert and edit imported document materials. For an open book, the software can automatically separate or combine the 2 open pages after scan</li></ul>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "61d994f76f3b7a8a81014e03"
+      },
+      {
+        "$oid": "621798854cdff31f8a1c3d60"
+      },
+      {
+        "$oid": "621798884cdff31f8a1c3d63"
+      },
+      {
+        "$oid": "6217988b4cdff31f8a1c3d66"
+      },
+      {
+        "$oid": "6217988e4cdff31f8a1c3d69"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> OCR </td> <td> ✔</td><td>✔</td></tr><tr><td> OCR languages </td> <td> 180+</td><td>180+</td></tr><tr><td> Visual presenter </td> <td> USB-PC Visual presenter</td><td>USB-PC Visual presenter</td></tr><tr><td> Smart lamp mode </td> <td> ✖</td><td>✖</td></tr><tr><td> Wi-Fi </td> <td> Support, 2.4GHz band</td><td>✖</td></tr><tr><td> CZUR Cloud\t </td> <td> ✔</td><td>✖</td></tr><tr><td> Image storage(Wi-Fi mode) </td> <td> Device cache: Up to 150 pages; Cloud: 10 G for free</td><td>✖</td></tr><tr><td> Flattening Curve  </td> <td> ✔</td><td>✔</td></tr><tr><td> Smart paging  </td> <td> ✔</td><td>✔</td></tr><tr><td> Smart tilt corrections and auto-cropping </td> <td> ✔</td><td>✔</td></tr><tr><td> Professional trimming </td> <td> ✔</td><td>✔</td></tr><tr><td> Background purifying </td> <td> ✔</td><td>✔</td></tr><tr><td> Finger removal </td> <td> ✔</td><td>✔</td></tr><tr><td> Color mode  </td> <td> Color, Patterns, Stamps, Gray scale, B&amp;W</td><td>Color, Patterns, Stamps, Gray scale, B&amp;W</td></tr><tr><td> Auto-scan </td> <td> ✔</td><td>✔</td></tr><tr><td> Manual Selection scanning </td> <td> ✔</td><td>✔</td></tr><tr><td> Screen recording  </td> <td> ✔</td><td>✔</td></tr><tr><td> Video recording </td> <td> ✔</td><td>✔</td></tr><tr><td> Software features setting </td> <td> ✔</td><td>✔</td></tr><tr><td> Product appearance </td> <td> Black</td><td>Black</td></tr><tr><td> Product dimensions </td> <td> 362.45x351.5x149.30 mm</td><td>362.45x351.5x149.30 mm</td></tr><tr><td> Weight </td> <td> 2KG (Net)</td><td>2KG (Net)</td></tr><tr><td> Packaging list </td> <td> Scanner Side lights, USB cable, Power adapter, Hand button, Foot pedal, Black document pad, Specialized finger cots, CD, User manual, Warranty card, Quality certificate</td><td>Scanner, Side lights, USB cable, Power adapter.Hand button, Foot pedal, Black document pad, Specialized finger cots, CD, User manual, Warranty card, Quality certificate\t</td></tr><tr><td> Processor \t </td> <td> 32-bit MIPS CPU</td><td>32-bit MIPS CPU</td></tr><tr><td> Laser - assisted </td> <td> 3 laser rays</td><td>3 laser rays</td></tr><tr><td> DDR </td> <td> 1G bit</td><td>1G bit</td></tr><tr><td> Image cache </td> <td> 2GByte TF</td><td>1GByte TF</td></tr><tr><td> LCD\t </td> <td> 2.4\", 4:3, 320x240</td><td>2.4\", 4:3, 320x240</td></tr><tr><td> MIC\t </td> <td> âœ”</td><td>âœ”</td></tr><tr><td> Buzzer </td> <td> âœ–</td><td>âœ”</td></tr><tr><td> Hand button </td> <td> âœ”</td><td>âœ”</td></tr><tr><td> Foot pedal </td> <td> âœ”</td><td>âœ”</td></tr><tr><td> Black document pad </td> <td> âœ”</td><td>âœ”</td></tr><tr><td> Power </td> <td> Input:AC 100-240V-50/60HZ 0.6A Output:DC 9V=1.5A-2A\t</td><td>Input:AC 100-240V-50/60HZ 0.6A Output:DC 9V=1.5A-2A</td></tr><tr><td> Element </td> <td> 3G2P+IR\t</td><td>3G2P+IR\t</td></tr><tr><td> Sensor Size </td> <td> 1/2.3\"</td><td>1/2.3\"</td></tr><tr><td> EFL </td> <td> 4.55mm</td><td>4.55mm</td></tr><tr><td> BFL  </td> <td> &gt;3.4mm</td><td>&gt;3.4mm</td></tr><tr><td> F/NO </td> <td> 4.5</td><td>4.5</td></tr><tr><td> IR Cut  </td> <td> 650±10nm</td><td>650±10nm</td></tr><tr><td> Field of view </td> <td> 82Â°</td><td>82Â°</td></tr><tr><td> Distortion </td> <td> &lt;0.5%</td><td>&lt;0.5%</td></tr><tr><td> <b>Product type</b> </td> <td> <b>ET 18 Pro</b></td><td><b>ET 16 Plus</b></td></tr><tr><td> Scanning materials </td> <td> Documents, Books, Magazines, Forms, Invoices, Certificates, Business cards and Sculpture object</td><td> Documents, Books, Magazines, Forms, Invoices, Certificates, Business cards and Sculpture object </td></tr><tr><td> Sensor </td> <td> CMOS\t</td><td>CMOS</td></tr><tr><td> Pixel </td> <td> 18 megapixels</td><td>16 megapixels</td></tr><tr><td> Resolution </td> <td> 4896*3672</td><td>4608*3456</td></tr><tr><td> DPI(default) </td> <td> 275</td><td>250</td></tr><tr><td> Scanning format </td> <td> â‰¤A3, 420 x 297 mm (16.5x11.7 inch)</td><td>â‰¤A3, 420 Ã— 297 mm (16.5x11.7 inch) </td></tr><tr><td> Maximum scanning format </td> <td> 480x360 mm (18.89x14.17 inch)</td><td>480x360 mm (18.89x14.17 inch)</td></tr><tr><td> Maximum scanning thickness </td> <td> 420x297 mm: supports 35 mm<br />271x195 mm: supports 50 mm</td><td>420x297 mm: supports 35 mm<br /> 271x195 mm: supports 50 mm</td></tr><tr><td> Scan speed </td> <td> Flat single pageâ‰ˆ1.5s/page;<br /> Books â‰ˆ1.5s/dual pages</td><td>Flat single pageâ‰ˆ1.5s/page;<br />Books â‰ˆ1.5s/dual pages </td></tr><tr><td> Pre scan </td> <td> 0s</td><td>0s</td></tr><tr><td> Image format </td> <td> JPG\t</td><td>JPG\t</td></tr><tr><td> Color bit depth </td> <td> 24 bits</td><td>24 bits</td></tr><tr><td> Export format </td> <td> JPG, PDF, Searchable PDF, Word, Excel, TIFF</td><td>JPG, PDF, Searchable PDF, Word, Excel, TIFF</td></tr><tr><td> Video streaming format </td> <td> MJPG</td><td>MJPG</td></tr><tr><td> Preview\t </td> <td> PC-Visual presenter: 1920*1080@20Fps;<br />PC-Scanning: 1536*1152@20Fps</td><td>PC-Visual presenter: 1920*1080@20Fps;<br />PC-Scanning: 1536*1152@20Fps </td></tr><tr><td> USB\t </td> <td> USB 2.0 High-Speed</td><td>USB 2.0 High-Speed</td></tr><tr><td> Light source </td> <td> Built-in lights and Side lights</td><td>Built-in lights and Side lights</td></tr><tr><td> Top LED lights </td> <td> âœ”</td><td>âœ”</td></tr><tr><td> Side lights </td> <td> âœ”</td><td>âœ”</td></tr><tr><td> Focus mode </td> <td> Fixed focus</td><td>Fixed focus</td></tr><tr><td> Scanning method </td> <td> Device Control, Software triggering, Hand button, Foot pedal</td><td>Device Control, Software triggering, Hand button, Foot pedal</td></tr><tr><td> System support\t </td> <td> XP, Win 7/8/10, 32/64-bit, macOS 10.11 and above</td><td>XP, Win 7/8/10, 32/64-bit, macOS 10.11 and above</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>1.5s/page | 16 MP</li><li>Smart Book Scanner</li><li>Max paper size: A3</li></ul>",
+    "shortPoints": [
+      "1.5s/page | 16 MP",
+      "Smart Book Scanner",
+      "Max paper size: A3"
+    ],
+    "file": [
+      {
+        "$oid": "61d7f0f27b742f990fde0490"
+      },
+      {
+        "$oid": "62d3fb4cdda7dbf1675690bc"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "61d96fe58202199476b47e47"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "61cbf84c1d0a9407398262b6"
+    },
+    "brandId": {
+      "$oid": "61cbf4f11d0a9407398262a1"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "CZUR ET18 Pro Smart Book Scanner",
+    "slug": "czur-et18-pro-smart-book-scanner",
+    "sku": 1815,
+    "description": "<p>CZUR Book Scanner ET18 Pro A3, A4 Document Scanner with OCR WIFI Function for Mac, Windows Convert to PDF/Searchable PDF/Word/TIFF</p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "61d994f76f3b7a8a81014e03"
+      },
+      {
+        "$oid": "621797d34cdff31f8a1c3c77"
+      },
+      {
+        "$oid": "621797dd4cdff31f8a1c3c7a"
+      },
+      {
+        "$oid": "621797e04cdff31f8a1c3c7d"
+      },
+      {
+        "$oid": "621797e24cdff31f8a1c3c80"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> <b>Product type</b> </td> <td> <b>Smart Scanner</b></td><td><b>Smart Scanner</b> </td></tr><tr><td> Scanning materials\t </td> <td> Documents, Books, Magazines, Forms, Invoices, Certificates, Business cards and Sculpture object\t</td><td>Documents, Books, Magazines, Forms, Invoices, Certificates, Business cards and Sculpture object </td></tr><tr><td> Sensor\t </td> <td> CMOS\t</td><td>CMOS </td></tr><tr><td> Pixel </td> <td> 18 megapixels\t</td><td>16 megapixels </td></tr><tr><td> Resolution\t </td> <td> 4896*3672\t</td><td>4608*3456 </td></tr><tr><td> DPI(default)\t </td> <td> 275</td><td>250 </td></tr><tr><td> Scanning format\t </td> <td> â‰¤A3, 420 x 297 mm (16.5x11.7 inch)\t</td><td>â‰¤A3, 420 Ã— 297 mm (16.5x11.7 inch) </td></tr><tr><td> Maximum scanning format\t </td> <td> 480x360 mm (18.89x14.17 inch)\t</td><td>480x360 mm (18.89x14.17 inch) </td></tr><tr><td> Maximum scanning thickness\t </td> <td> 420x297 mm: supports 35 mm<br /> 271x195 mm: supports 50 mm</td><td>420x297 mm: supports 35 mm<br /> 271x195 mm: supports 50 mm</td></tr><tr><td> Scan speed\t </td> <td> Flat single pageâ‰ˆ1.5s/page;<br /> Books â‰ˆ1.5s/dual pages</td><td>Flat single pageâ‰ˆ1.5s/page;<br /> Books â‰ˆ1.5s/dual pages</td></tr><tr><td> Pre scan\t </td> <td> 0s</td><td>0s</td></tr><tr><td> Image format\t </td> <td> JPG</td><td>JPG</td></tr><tr><td> Color bit depth\t </td> <td> 24 bits\t</td><td>24 bits\t</td></tr><tr><td> Export format\t </td> <td> JPG, PDF, Searchable PDF, Word, Excel, TIFF\t</td><td>JPG, PDF, Searchable PDF, Word, Excel, TIFF </td></tr><tr><td> Video streaming format\t </td> <td> MJPG\t</td><td>MJPG\t</td></tr><tr><td> Preview\t </td> <td> PC-Visual presenter: 1920*1080@20Fps;<br /> PC-Scanning: 1536*1152@20Fps</td><td>PC-Visual presenter: 1920*1080@20Fps;<br /> PC-Scanning:1536*1152@20Fps </td></tr><tr><td> USB\t </td> <td> USB 2.0 High-Speed\t</td><td>USB 2.0 High-Speed </td></tr><tr><td> Light source\t </td> <td> Built-in lights and Side lights\t</td><td>Built-in lights and Side lights\t</td></tr><tr><td> Top LED lights\t </td> <td> ✔</td><td>✔</td></tr><tr><td> Side lights\t </td> <td> ✔</td><td>✔</td></tr><tr><td> Focus mode\t </td> <td> Fixed focus\t</td><td>Fixed focus\t</td></tr><tr><td> Scanning method\t </td> <td> Device Control, Software triggering, Hand button, Foot pedal\t</td><td>Device Control, Software triggering, Hand button, Foot pedal </td></tr><tr><td> System support\t </td> <td> XP, Win 7/8/10, 32/64-bit, macOS 10.11 and above\t</td><td>XP, Win 7/8/10, 32/64-bit, macOS 10.11 and above </td></tr><tr><td> Processor </td> <td> 32-bit MIPS CPU\t</td><td>32-bit MIPS CPU\t</td></tr><tr><td> Laser - assisted\t </td> <td> 3 laser rays\t</td><td>3 laser rays\t</td></tr><tr><td> DDR\t </td> <td> 1G bit\t</td><td>1G bit\t</td></tr><tr><td> Image cache\t </td> <td> 2GByte TF\t</td><td>1GByte TF </td></tr><tr><td> LCD\t </td> <td> 2.4\", 4:3, 320x240\t</td><td>2.4\", 4:3, 320x240\t</td></tr><tr><td> MIC\t </td> <td> ✔</td><td>✔</td></tr><tr><td> Buzzer\t </td> <td> ✖</td><td>✔</td></tr><tr><td> Hand button\t </td> <td> ✔</td><td>✔</td></tr><tr><td> Foot pedal\t </td> <td> ✔</td><td>✔</td></tr><tr><td> Black document pad\t </td> <td> ✔</td><td>✔</td></tr><tr><td> Power\t </td> <td> Input:AC 100-240V-50/60HZ 0.6A Output:DC 9V=1.5A-2A\t</td><td>Input:AC 100-240V-50/60HZ 0.6A Output:DC 9V=1.5A-2A </td></tr><tr><td> OCR\t </td> <td> ✔</td><td>✔</td></tr><tr><td> OCR languages\t </td> <td> 180+\t</td><td>180+\t</td></tr><tr><td> Visual presenter\t </td> <td> USB-PC Visual presenter\t</td><td>USB-PC Visual presenter\t</td></tr><tr><td> Smart lamp mode\t </td> <td> ✖</td><td>✖</td></tr><tr><td> Wi-Fi\t </td> <td> Support, 2.4GHz band\t</td><td>✖</td></tr><tr><td> CZUR Cloud\t </td> <td> ✔</td><td>✖</td></tr><tr><td> Image storage(Wi-Fi mode)\t </td> <td> Device cache: Up to 150 pages; Cloud: 10 G for free\t</td><td>✖</td></tr><tr><td> Flattening Curve\t </td> <td> ✔</td><td>✔</td></tr><tr><td> Smart paging\t </td> <td> ✔</td><td>✔</td></tr><tr><td> Smart tilt corrections and auto-cropping\t </td> <td> ✔</td><td>✔</td></tr><tr><td> Professional trimming\t </td> <td> ✔</td><td>✔</td></tr><tr><td> Background purifying\t </td> <td> ✔</td><td>✔</td></tr><tr><td> Finger removal\t </td> <td> ✔</td><td>✔</td></tr><tr><td> Color mode\t </td> <td> Color, Patterns, Stamps, Gray scale, B&amp;W\t</td><td>Color, Patterns, Stamps, Gray scale, B&amp;W\t</td></tr><tr><td> Auto-scan\t </td> <td> ✔</td><td>✔</td></tr><tr><td> Manual Selection scanning\t </td> <td> ✔</td><td>✔</td></tr><tr><td> Screen recording\t </td> <td> ✔</td><td>✔</td></tr><tr><td> Video recording\t </td> <td> ✔</td><td>✔</td></tr><tr><td> Software features setting\t </td> <td> ✔</td><td>✔</td></tr><tr><td> Element\t </td> <td> 3G2P+IR\t</td><td>3G2P+IR </td></tr><tr><td> Sensor Size\t </td> <td> 1/2.3\"\t</td><td>1/2.3\"\t</td></tr><tr><td> EFL\t </td> <td> 4.55mm\t</td><td>4.55mm\t</td></tr><tr><td> BFL\t </td> <td> &gt;3.4mm\t</td><td>&gt;3.4mm </td></tr><tr><td> F/NO\t </td> <td> 4.5</td><td>4.5</td></tr><tr><td> IR Cut\t </td> <td> 650Â±10nm\t</td><td>650Â±10nm\t</td></tr><tr><td> Field of view\t </td> <td> 82Â°\t</td><td>82Â°\t</td></tr><tr><td> Distortion\t </td> <td> &lt;0.5%\t</td><td>&lt;0.5%\t</td></tr><tr><td> Product appearance\t </td> <td> Black\t</td><td>Black\t</td></tr><tr><td> Product dimensions\t </td> <td> 362.45x351.5x149.30 mm\t</td><td>362.45x351.5x149.30 mm\t</td></tr><tr><td> Weight\t </td> <td> 2KG (Net)\t</td><td>2KG (Net)\t</td></tr><tr><td> Packaging list\t </td> <td> Scanner Side lights, USB cable, Power adapter, Hand button, Foot pedal, Black document pad, Specialized finger cots, CD, User manual, Warranty card, Quality certificate\t</td><td>Scanner Side lights, USB cable, Power adapter, Hand button, Foot pedal, Black document pad, Specialized finger cots, CD, User manual, Warranty card, Quality certificate\t</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>1.5s/page | 18 MP</li><li>Smart Book Scanner</li><li>Max paper size: A3</li></ul>",
+    "shortPoints": [
+      "1.5s/page | 18 MP",
+      "Smart Book Scanner",
+      "Max paper size: A3"
+    ],
+    "file": [
+      "61d7f0f27b742f990fde0490",
+      {
+        "$oid": "62d402d1dda7dbf167569256"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "61d96fe58202199476b47e48"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "61cbf84c1d0a9407398262b6"
+    },
+    "brandId": {
+      "$oid": "61cbf4f11d0a9407398262a1"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "CZUR M3000 Pro Book Scanner",
+    "slug": "czur-m3000-pro-book-scanner",
+    "sku": 1816,
+    "description": "<p>Scanning books is no longer a challenge. Gone are the days where you need to forcibly press the spine of a delicate book against the glass of a standard office copier to digitally scan pages. The M3000 book scanner from CZUR provides the easiest way to scan books, magazines, article, records, or any other document up to 11â€x 17â€ in size.</p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "61d994f76f3b7a8a81014e03"
+      },
+      {
+        "$oid": "621798aa4cdff31f8a1c3dd1"
+      },
+      {
+        "$oid": "621798ad4cdff31f8a1c3dd4"
+      },
+      {
+        "$oid": "621798af4cdff31f8a1c3dd7"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Model </td> <td> M3000 Pro</td></tr><tr><td> Scanning materials </td> <td> Documents, Books, Magazines, Files, Scrolls, Forms, Invoices, Certificates, Business cards and Sculpture object </td></tr><tr><td> Sensor </td> <td> CMOS</td></tr><tr><td> Pixel </td> <td> 20M</td></tr><tr><td> Resolution </td> <td> 5248*3936</td></tr><tr><td> DPI(default) </td> <td> 300</td></tr><tr><td> Format </td> <td> Flat single page≤A3, Books≤A4</td></tr><tr><td> Speed </td> <td> Flat single page≈1.2s/page/Books≈1.2s/dual pages</td></tr><tr><td> Pre scan </td> <td> 0s</td></tr><tr><td> Image format </td> <td> JPG</td></tr><tr><td> Color bit depth </td> <td> 24 bits</td></tr><tr><td> Export format </td> <td> JPG, PDF, Searchable PDF, Word, Excel, TIFF</td></tr><tr><td> Video streaming format </td> <td> MJPG</td></tr><tr><td> Preview </td> <td> PC-Visual presenter: 1920*1080@20Fps;<br />PC-Scanning: 1536*1152@20Fps</td></tr><tr><td> USB </td> <td> USB 2.0 High-Speed</td></tr><tr><td> Light source </td> <td> Natural light and LED lights</td></tr><tr><td> Top LED lights </td> <td> ✔</td></tr><tr><td> Side lights </td> <td> ✔</td></tr><tr><td> Focus mode </td> <td> Fixed focus</td></tr><tr><td> Scanning access </td> <td> Device Control, Software triggering, Hand button, Foot pedal</td></tr><tr><td> System support </td> <td> XP, Win 71 8/10, 32/64-bit, macOS 10.11 and above</td></tr><tr><td> Processor </td> <td> 32-bit MIPS CPU</td></tr><tr><td> Laser - assisted </td> <td> 3 laser rays</td></tr><tr><td> DDR </td> <td> 1G bit</td></tr><tr><td>  Image cache </td> <td> Hi-Speed DDR</td></tr><tr><td> LCD </td> <td> 2.4\", 4:3, 320x240</td></tr><tr><td> MIC </td> <td> ✔</td></tr><tr><td> Buzzer </td> <td> ✔</td></tr><tr><td> Hand button </td> <td> ✔</td></tr><tr><td> Foot pedal </td> <td> ✔</td></tr><tr><td> Hard document base </td> <td> ✔</td></tr><tr><td> Book rest </td> <td> ✔</td></tr><tr><td> Book cover block </td> <td> ✔</td></tr><tr><td> Power\t </td> <td> Input:AC 100-240V-50/60HZ 0.6A Output: DC 9V=1.5A-2A</td></tr><tr><td> OCR </td> <td> ✔</td></tr><tr><td> OCR languages </td> <td> 180+</td></tr><tr><td> Visual presenter </td> <td> USB-PC Visual presenter</td></tr><tr><td> Flattening Curve </td> <td> ✔</td></tr><tr><td> Smart paging </td> <td> ✔</td></tr><tr><td> Smart tilt corrections and auto-cropping </td> <td> ✔</td></tr><tr><td> Professional trimming </td> <td> ✔</td></tr><tr><td> Background purifying </td> <td> ✔</td></tr><tr><td> Finger removal </td> <td> ✔</td></tr><tr><td> Color mode </td> <td> Color, Patterns, Stamps, Gray scale, B&amp;W </td></tr><tr><td> Auto-scan </td> <td> ✔</td></tr><tr><td> Manual Selection scanning </td> <td> ✔</td></tr><tr><td> Combined Sides scanning </td> <td> ✔</td></tr><tr><td> Blank page detection </td> <td> ✔</td></tr><tr><td> Watermark </td> <td> ✔</td></tr><tr><td> Screen recording  </td> <td> ✔</td></tr><tr><td> Video recording </td> <td> ✔</td></tr><tr><td> Element </td> <td> 2G2P+IR</td></tr><tr><td> Sensor Size </td> <td> 1/2.3\"</td></tr><tr><td> EFL </td> <td> 4.7mm</td></tr><tr><td> BFL </td> <td> &gt;6.18mm</td></tr><tr><td> F/NO  </td> <td> 3.5</td></tr><tr><td> IR Cut  </td> <td> 650±10nm</td></tr><tr><td> Field of view </td> <td> 82Â°</td></tr><tr><td> Distortion </td> <td> &lt;0.3%</td></tr><tr><td> Product appearance </td> <td> Black</td></tr><tr><td> Product dimensions </td> <td> 505*520*425mm (l*w*h)</td></tr><tr><td> Weight </td> <td> 4.5KG (Net)</td></tr><tr><td> Packaging list </td> <td> Scanner, Side lights, USB cable, Power adapter, Hand button Foot pedal, Black document pad, Specialized finger cots, CD, User manual, Warranty card, Quality certificate</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>Two Pages in 1.2s | 20MP</li><li>Book Scanner</li><li>Max paper size: A3</li></ul>",
+    "shortPoints": [
+      "Two Pages in 1.2s | 20MP",
+      "Book Scanner",
+      "Max paper size: A3"
+    ],
+    "file": [
+      "61d7f0f27b742f990fde0490",
+      {
+        "$oid": "62d404f3dda7dbf1675692bf"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "61d96fe58202199476b47e49"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "61cbf84c1d0a9407398262b6"
+    },
+    "brandId": {
+      "$oid": "61cbf4fd1d0a9407398262a4"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "COLORTRAC Smartlf Scan! Series",
+    "slug": "colortrac-smartlf-scan-series",
+    "sku": 1817,
+    "description": "<p><strong>Portable and versatile. With SmartLF Scan! the possibilities are bigger than you might think!</strong></p><p>SmartLF Scan! can be used as a personal or as a shared resource device and is not tied to a single computer or restricted to using a certain printer. A small Windows program (NetApp) allows scans to be collected by any computer on the same network or saved to any networked folder from where standard Windows applications take over. Why not experience the advantages of a low-cost but portable wide format scanner and find out what it could do for your business? All scans saved in standard PDF, JPG and TIFF formats.</p><p><br /></p><p>SmartLF Scan! represents incredible value for money and with a rapid return on investment (ROI) this scanner has the capacity to revolutionise the way any team, large or small works together on complex and changing projects.</p><p><br /></p><p><strong>'DocLogic' for built-in optimal image quality and file size</strong></p><p>DocLogic is an intelligent image optimization system. It automatically sets the DPI on your documents or photos according to the physical size of the document or photo, to maximize image quality and reduce file size.</p><p><br /></p><p><strong>'Outstanding and Revolutionary'</strong></p><p>Colortrac was the first large format scanner manufacturer to receive 4.5 stars and a rating of 'Outstanding' from Bertl (Business Equipment Research &amp; Test Laboratories) for both camera and sensor scanners. The CAD User Magazine has described the SmartLF Scan! as 'Revolutionary in its portability AND versatility'.</p><p><br /></p><p><strong>'A great little large format scanner'</strong></p><p>SmartLF Scan! is unprecedented in terms of scan performance in a package of this size. Cleverly optimised automatic settings mean even the inexperienced can produce compact, high quality files within minutes.</p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "61d994f76f3b7a8a81014e03"
+      },
+      {
+        "$oid": "621867fe4cdff31f8a1c411e"
+      },
+      {
+        "$oid": "621868004cdff31f8a1c4121"
+      },
+      {
+        "$oid": "621868044cdff31f8a1c4124"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td>  </td> <td> <b>SmartLF Scan! 24</b></td><td><b>SmartLF Scan! 36</b></td></tr><tr><td> In-the-box </td> <td> Scan! large format scanner<br /> Tough wheeled carry case<br /> Mains external power supply<br /> Calibration target<br /> RJ45 Ethernet cable</td><td>Scan! large format scanner<br /> Tough wheeled carry case<br /> Mains external power supply<br /> Calibration target<br /> RJ45 Ethernet cable</td></tr><tr><td> Scan System </td> <td> Four modes of operation.<br /> PDF, JPG and TIF files are generated inside the scanner. They can be:<br /> 1 - stored in the scanner for transfer later<br /> 2 - stored directly to USB stick<br /> 3 - transferred directly to PC<br /> 4 - transferred directly to networked PC.<br /> When connected to a PC, additional black and white binary files are available.<br /> SmartLF Scan! is self-contained and only requires a power supply to operate</td><td>Four modes of operation.<br /> PDF, JPG and TIF files are generated inside the scanner. They can be:<br /> 1 - stored in the scanner for transfer later<br /> 2 - stored directly to USB stick<br /> 3 - transferred directly to PC<br /> 4 - transferred directly to networked PC.<br /> When connected to a PC, additional black and white binary files are available.<br /> SmartLF Scan! is self-contained and only requires a power supply to operate</td></tr><tr><td> Scan software </td> <td> Scan formats are viewable using native Windows Apps. A small Windows program is supplied to receive live or stored scan files from the scanner. This is not required for scan to USB stick operation. PDF files are opened automatically (needs PDF viewer).</td><td>Scan formats are viewable using native Windows Apps. A small Windows program is supplied to receive live or stored scan files from the scanner. This is not required for scan to USB stick operation. PDF files are opened automatically (needs PDF viewer).</td></tr><tr><td> Optical Resolution </td> <td> 600 dpi</td><td>600 dpi</td></tr><tr><td> DocLogic  </td> <td> Intelligent image optimisation system<br /> automatically sets dpi of document or photos according to physical size to maximise image quality and reduce file size</td><td>Intelligent image optimisation system<br /> automatically sets dpi of document or photos according to physical size to maximise image quality and reduce file size</td></tr><tr><td> Max Scan Width </td> <td> 24â€ (609.6 mm)</td><td>36â€ (914.4 mm)</td></tr><tr><td> Max Scan Length </td> <td> Up to 200â€ (5m) @200dpi or 150â€ (3.8m) @400dpi or 109â€ (2.7m) @600dpi - DocLogic reserves 300dpi. Up to 200\" (5m)</td><td>Up to 200â€ (5m) @200dpi or 150â€ (3.8m) @400dpi or 109â€ (2.7m) @600dpi - DocLogic reserves 300dpi. Up to 200\" (5m)</td></tr><tr><td> Min Media Width / Thickness </td> <td> 6â€ (150 mm) / 0.003â€ (0.07 mm)</td><td>6â€ (150 mm) / 0.003â€ (0.07 mm)</td></tr><tr><td> Max Media Width / Thickness </td> <td> 26â€ (660mm) / 0.02â€ (0.5 mm)</td><td>38â€ (965 mm) / 0.02â€ (0.5 mm)</td></tr><tr><td> Paper sizing (image sizes) </td> <td> ISO DIN / ARCH / ANSI / automatic width and length</td><td>ISO DIN / ARCH / ANSI / automatic width and length</td></tr><tr><td> Internal memory </td> <td> approx. 6 GB or 8 scans</td><td>approx. 6 GB or 8 scans</td></tr><tr><td> Scan Accuracy </td> <td> 0.2 % +/-1 pixel</td><td>0.2 % +/-1 pixel</td></tr><tr><td> SingleSensor digital imaging technology </td> <td> SingleSensor is a full width straight-line contact image sensor (US patent #8,922,849)<br /> Bi-directional long-life LED light system for optimum object illumination and instant-on scanning capability</td><td>SingleSensor is a full width straight-line contact image sensor (US patent #8,922,849)<br /> Bi-directional long-life LED light system for optimum object illumination and instant-on scanning capability</td></tr><tr><td> Operation modes </td> <td> scan to internal memory / scan to USB stick (not supplied) / scan to networked computer</td><td>scan to internal memory / scan to USB stick (not supplied) / scan to networked computer</td></tr><tr><td> Color space </td> <td> 24-bit sRGB and grayscale (plus bitonal using the pc connection)</td><td>24-bit sRGB and grayscale (plus bitonal using the pc connection)</td></tr><tr><td> Scan speeds (maximum at 200 dpi) </td> <td> 4.5 inch/sec (114.3mm/sec) grayscale and 3 in/sec (76.2mm/sec) for color</td><td>4.5 inch/sec (114.3mm/sec) grayscale and 3 in/sec (76.2mm/sec) for color</td></tr><tr><td> Paper Path </td> <td> Centered, face-up, front entry</td><td>Centered, face-up, front entry</td></tr><tr><td> Data interfaces </td> <td> Front: USB2 socket for scan to USB memory stick.<br /> Rear: Ethernet RJ45 GBit for scan to computer over network</td><td>Front: USB2 socket for scan to USB memory stick.<br /> Rear: Ethernet RJ45 GBit for scan to computer over network</td></tr><tr><td> Power Requirements </td> <td> External power supply Input: 100~240VAC, 50-60Hz, auto-sensing +/-10%, Output: 3.42A at 19V,<br /> Scanner power consumption: 19.4 W (scanning), 10.2W (standby), 0.05W (sleep). Energy Star qualified</td><td>External power supply Input: 100~240VAC, 50-60Hz, auto-sensing +/-10%, Output: 3.42A at 19V,<br /> Scanner power consumption: 19.4 W (scanning), 10.2W (standby), 0.05W (sleep). Energy Star qualified</td></tr><tr><td> Environment </td> <td> Operating temperature 10Â°C â€“ 35Â°C, Relative Humidity 10% â€“ 90% (non-condensing)</td><td>Operating temperature 10°C â€“ 35°C, Relative Humidity 10% â€“ 90% (non-condensing)</td></tr><tr><td> Weight &amp; Dimensions (WxHxD) </td> <td> Scanner only 11.5 lbs (5.2 kg)<br /> 34.3 x 6.3 x 5 inches (870 x 160 x 126 mm)<br /> Scanner incl. case: 22.3 lbs (10.1 kg)<br /> 38.6 x 10.4 x 8.2 inches (980 x 265 x 208 mm)</td><td> Scanner only 15.4 lbs (7 kg)<br /> 46.3 x 6.3 x 5 inches (1175 x 160 x 126 mm)<br /> Scanner incl. case: 30.9 lbs (14 kg)<br /> 50.4 x 10.4 x 8.2 inches (1280 x 265 x 208 mm)</td></tr><tr><td> Host Platform </td> <td> Windows 10, Windows 8.1, 32-bit and 64-bit architectures</td><td>Windows 10, Windows 8.1, 32-bit and 64-bit architectures</td></tr><tr><td> Certifications </td> <td> ENERGY STAR qualified, CB, CE, CCC, FCC, UL, RoHS compliant</td><td>ENERGY STAR qualified, CB, CE, CCC, FCC, UL, RoHS compliant</td></tr><tr><td> Warranty </td> <td> 12 months or 30,000 linear scan metres</td><td>12 months or 30,000 linear scan metres</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li><strong>Store</strong> â€“ When PC access is not possible save your scans inside the scanner. SmartLF Scan! will store up to 6GB of digitised documents or a maximum of eight separate scans. Stored scans can be downloaded to USB stick or a networked computer at any time (requires mains power).</li><li><strong>Send</strong> â€“ Move scans as they are generated directly to your PC or a shared network folder (requires free NetApp Windows utility).</li><li><strong>Print</strong> â€“ Print scans to any printer using the Windows printer driver and standard Windows applications such as Adobe Reader and Photos.</li></ul>",
+    "shortPoints": [
+      "24\" - 36\" scan size",
+      "Portable wide format scanner",
+      "Support collaboration and sharing",
+      "Scan to USB, etc. or direct to Cloud"
+    ],
+    "file": [
+      "61d7f0f27b742f990fde0490",
+      {
+        "$oid": "6380be115cbeae8e59d4bd2f"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "61d96fe58202199476b47e4a"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "61cbf84c1d0a9407398262b6"
+    },
+    "brandId": {
+      "$oid": "61cbf4fd1d0a9407398262a4"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "COLORTRAC Smartlf SG Series",
+    "slug": "colortrac-smartlf-sg-series",
+    "sku": 1818,
+    "description": "<p>Waste no time with COLORTRAC'S innovative new SMARTLF sg series large format scanners, winner of the SGIA 2015 large format scanner of the year and nominee for wide format imaging's 2016 scanner of the year. Scan your thick media and wide format up to 44 inches. Our fastest ever CCD scanners are full high definition (HD) with 1200 dpi optical resolution and benefit from instant-on led lights providing high productivity from the moment you power on, with no warm up required and no waiting around.</p><p><br /></p><p>For full flexibility, choose the SmartLF SG Series 36\" and 44\" scanners, winner of the SGIA 2015 Large Format Scanner of the Year and nominee for Wide Format Imaging's 2016 Scanner of the Year. Perfect for capturing sharply defined detail on technical drawings and maps, as well as the vibrant, accurate colors needed by graphics...</p><p><br /></p><p><strong>Sharp and accurate - with superb color</strong></p><p>The SmartLF SG Series 36\" and 44\" scanners are perfect for capturing sharply defined detail on technical drawings and maps as well as the vibrant, accurate colors needed by graphics professionals.</p><p><br /></p><p>SmartLF SG Series large format scanners have all the advantages of CCD technology's superior color imaging - the ability to scan a wide gamut (range of colours) and a high dynamic range (ability to see detail in dark and light areas) - combined with 1200 dpi optical resolution, the highest optical resolution available in any CCD wide format scanner in the market today. This makes them perfect for capturing vibrant, accurate colors for graphics professionals as well as sharply defined line detail on technical documents and maps.</p><p><br /></p><p>SmartLF SG scanners use the advanced SureDrive paper transport system to maintain accurate document positioning as the document passes through the scanner. Combining this with the ClearView bright white bi-directional LED illumination system ensures that with SG even folded documents scan accurately and as shadow-free as possible.</p><p><br /></p><p>Images are scanned using 48-bits (color) or 16-bits (monochrome), with the best 24 and 8-bits selected as image data respectively.</p><p><br /></p><p>All the benefits of CCD - without the downsides</p><p>Traditional CCD scanners have superior color imaging but are disadvantaged by their fluorescent lighting systems. By using white LEDs instead of fluorescent tubes, the SmartLF SG is able to maximize the benefits of CCD while saving time and energy.</p><p><br /></p><p><strong>Simplified thick media system</strong></p><p>Thick media operation is now full-time on all SG Series scanners. To raise the lid and increase the thickness capability of the scanner raise the lever on the left-hand side of the scanner lid to its maximum position then load the document manually.  Lower the lever to grip the media and begin scanning. All media must be loaded panel-side justified with SG/</p><p><br /></p><p><strong>No warm up, no waiting</strong></p><p>While a fluorescently lit scanner can be used within five minutes of switching on, it should really be left to warm up for about 30 minutes in order for the tubes to reach their optimum light intensity and for the tube temperature to reach equilibrium. If this is not done color match and possible stitch inaccuracies caused by a still cold chassis may result.</p><p><br /></p><p>ClearView white LED illumination used in SmartLF SG produces high quality scans just like fluorescent illumination but unlike fluorescent tubes the color temperature from LEDs remains stable from first power-up to final power-down. No more waiting for warm-up to complete, simply turn SG scanners on and scan!</p><p><br /></p><p><strong>2GB scan data memory</strong></p><p>SmartLF SG is the first scanner from Colortrac to have 2GB of onboard scan data memory. This ensures smooth progress of the document through the scanner even if the computer experiences sudden sluggishness or the Ethernet network is unexpectedly busy.</p><p><br /></p><p><strong>Significant power saving</strong></p><p>SmartLF SG uses nearly 30% less power when scanning and 94% less power when idle. The scanner has a programmable timer that switches the unit into power saving (ENERGY STARÂ®) mode when it is not operated for the defined period.</p><p><br /></p><p>In addition the 'instant-on' LED lighting inside every SG means that you can leave the scanner switched off most of the time and only turn it on when you need to use it.</p><p><br /></p><p><strong>Light for life</strong></p><p>While you would normally expect to replace fluorescent tubes every year or two, LEDs are long life. Unlike fluorescent tubes, which stay on the whole time the scanner is switched on, LEDs only come on during the actual scanning process. They have an estimated working life of 50,000 hours which equates to over six years of constant 24/7 scanning!</p><p><br /></p><p><strong>Less calibration</strong></p><p>Fluorescently lit scanners require more frequent calibration because the tubes age and change characteristics over their life. LEDs maintain consistent output and because of this maintenance is required far less frequently.</p><p><br /></p><p><strong>No mercury</strong></p><p>Unlike fluorescent tubes LEDs do not contain mercury, which makes them more environmentally friendly.</p><p><br /></p><p><strong>More cameras - more accuracy</strong></p><p>The SmartLF SG has six CCDs across the scan width to minimize geometric distortion, more than any other similarly sized scanner.</p><p><br /></p><p>Traditional CCD scanners are prone to stitch and accuracy issues caused by sensor misalignment. These are minimized in the SmartLF SG by housing the six CCDs within a rigid monocoque camera chassis.</p><p><br /></p><p><strong>High productivity</strong></p><p><strong>Fast scanning speed</strong></p><p>All models scan monochrome at 13 inches per second (200 dpi). If you need high volume color scanning, choose the express color e model which scans color at 8 inches per second (200 dpi).</p><p><br /></p><p><strong>Gigabit Ethernet connectivity</strong></p><p>The SmartLF SG large format scanner is networkable it has a Gigabit Ethernet connection as well as a USB2/USB3 connection. The Gigabit Ethernet port can transmit scan data between the scanner and the PC as fast as the USB3 port network traffic allowing. An Ethernet connection also allows placement of the scanner further from the host PC than when using a USB2 or USB3 connection.</p><p><br /></p><p><strong>'Scan-it-once' philosophy</strong></p><p>SmartWorks Pro software takes 'scan-it-once' to its heart.</p><p><br /></p><p>With other wide format scanners operators often need to perform multiple pre-scans of selected image areas to get scan settings right. With the SmartLF SG large format scanner and SmartWorks Pro the 'scan-it-once' system although present in SmartWorks TOUCH, really goes up a gear. Once the scan data is on-screen thresholding and any image enhancements required on the scan such as sharpening or background clean-up can be made in real time and in very controllable increments.</p><p><br /></p><p>Scan-it-once technology gives you a huge workflow advantage. You can perform quality assurance and adjustments in-line, 'right-first-time', instead of needing to re-scan quality control failures off-line after batch scanning is completed.</p><p><br /></p><p>An additional advantage of scan-it-once technology is that it minimizes document movement (and possible wear) through the scanner and document skew caused by repeated back and forth 'checking'.</p><p><br /></p><p><strong>Intelligent Adaptive Thresholding (IAT)</strong></p><p>IAT allows operators to create better quality scans of dirty documents very quickly by reacting automatically to a range of different background dirt intensities.</p><p><br /></p><p><strong>Preserves delicate originals</strong></p><p>The SmartLF SG SureDrive paper transport system applies the minimum force necessary for preserving delicate originals, while achieving the required traction and accuracy to ensure images are sharp and shadow free.</p><p><br /></p><p><strong>Professional-level scan and copying software</strong></p><p>SmartWorks Pro is available in two versions and either SmartWorks Pro SCAN or SmartWorks Pro SCAN &amp; COPY must normally be purchased separately to use with this scanner. A trial version of the software operating exactly as the full version but watermarking every scan and copy is shipped with each SG scanner. Every SG scanner includes SmartWorks TOUCH (see Software) and a basic Twain interface for use inside viewing certain applications designed to support Twain. See website for more details.</p><p><br /></p><p><strong>Simple scanner control panel interface</strong></p><p>The basic but effective scanner control panel has buttons to start and stop any scan or copy as well providing manual control over document movement.</p><p><br /></p><p><strong>Plug 'n' Play USB2/USB3 and Ethernet interfaces</strong></p><p>Simply plug the scanner into your PC and use it. The SG scanner automatically detects whether the port on the computer is USB3 or USB2 and alters the maximum scan speed so the computer is not overloaded with data. When using Ethernet SmartWorks Pro software is designed to detect any SG scanner attached to the network automatically and operates using DHCP networking protocol.</p><p><br /></p><p><strong>Low maintenance</strong></p><p>SmartLF SG requires minimal service and calibration. The utility software included with it provides you with all the maintenance applications you need to keep your large format scanner in prime condition and up-to-date with the latest firmware and drivers. The scan glass is held down by magnets for quick and easy removal or replacement and there is easy access to the SmartLF SG's paper feed for cleaning.</p><p><br /></p><p><strong>Environmentally friendly</strong></p><p>SmartLF SG wide format scanner is RoHS compliant; energy efficient (it has earned the ENERGY STARÂ®); does not use consumable fluorescent lamps which contain mercury; uses recycle friendly components; and is optimized for quiet operation.</p><p><br /></p><p><strong>Upgradable</strong></p><p>The SmartLF SG large format scanner is available in three models: m (monochrome), c (color) and e (enhanced color).</p><p><br /></p><p>If your initial requirement is for a monochrome wide format scanner only, you can buy a monochrome scanner now and upgrade to color if and when you need it. If your initial requirement is for infrequent color scanning, you can buy a color wide format scanner now and upgrade to a faster enhanced color model should your color scanning volume increase.</p><p><br /></p><p>You can upgrade your scanner quickly and easily, by email. There is no need for you to return the scanner to us or for a service engineer to call.</p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "61d994f76f3b7a8a81014e03"
+      },
+      {
+        "$oid": "621867884cdff31f8a1c4013"
+      },
+      {
+        "$oid": "6218678b4cdff31f8a1c4016"
+      },
+      {
+        "$oid": "6218678e4cdff31f8a1c4019"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>             <h4>Specification</h4>           </div>         </div>         <div>           <div>             <table>               <tr><td>  </td> <td> <b>SG 36m/44m Mono</b></td><td><b>SG 36c/44c Color</b></td></tr><tr><td> Upgradeable </td> <td> m \tâ†’ c<br />m \tâ†’ e</td><td>c â†’ e</td></tr><tr><td> Optical Resolution </td> <td> 1200dpi</td><td>1200dpi</td></tr><tr><td> Software Scan Resolution </td> <td> Up to 1200 dpi (optical) and 9600 dpi (interpolated) with SmartWorks Pro Scan and SmartWorks Pro Scan &amp; Copy software</td><td>Up to 1200 dpi (optical) and 9600 dpi (interpolated) with SmartWorks Pro Scan and SmartWorks Pro Scan &amp; Copy software</td></tr><tr><td> Max Scan Width </td> <td> 36in (91.4 cm) / 44in (111.8 cm)</td><td>36in (91.4 cm) / 44in (111.8 cm)</td></tr><tr><td> Max Media Width </td> <td> 46in (116.8cm)</td><td>46in (116.8cm)</td></tr><tr><td> Max Media Thickness </td> <td> 0.6in (15mm)</td><td>0.6in (15mm)</td></tr><tr><td> Max Scan Length </td> <td> Depends on file format and software application. See scanner software information</td><td>Depends on file format and software application. See scanner software information</td></tr><tr><td> Accuracy </td> <td> +/-0.1% +/-1 pixel</td><td>+/-0.1% +/-1 pixel</td></tr><tr><td> Imaging Technology </td> <td> 6 x CCD</td><td>6 x CCD</td></tr><tr><td> Data Capture (color/grayscale) </td> <td> 16-bit</td><td>48-bit/16-bit</td></tr><tr><td> Color Space </td> <td> N/A</td><td>Raw RGB, SRGB, Adobe RGB and Profiled RGB using SmartWorks Pro</td></tr><tr><td> Scan Speed 1-bit mono (in/sec)@200dpi </td> <td> 13.00</td><td>13.00</td></tr><tr><td> Scan Speed 8-bit grayscale (in/sec) @200dpi </td> <td> 13.00</td><td>13.00</td></tr><tr><td> Scan Speed 24-bit color (in/sec) @200dpi </td> <td> N/A</td><td>4.00</td></tr><tr><td> Productivity (documents/hour) </td> <td> 474</td><td>229<sup>2</sup></td></tr><tr><td> Paper Path </td> <td> Face-down, front entry, rear exit</td><td>Face-down, front entry, rear exit</td></tr><tr><td> Interface </td> <td> USB 3.0 interface for data transfer rates up to 85MB/sec. Optimised USB2 interface for transfer rates up to 35MB/sec.<br /> Network ready Gigabit Ethernet interface</td><td>USB 3.0 interface for data transfer rates up to 85MB/sec. Optimised USB2 interface for transfer rates up to 35MB/sec.<br /> Network ready Gigabit Ethernet interface</td></tr><tr><td> Power Requirements </td> <td> External power supply 100-250 VAC autosensing +/-10%, 50-60 Hz<br /> Scanner power consumption 72Wh (scanning) 2.5Wh (standby)</td><td>External power supply 100-250 VAC autosensing +/-10%, 50-60 Hz<br /> Scanner power consumption 72Wh (scanning) 2.5Wh (standby)</td></tr><tr><td> Operating conditions </td> <td> 10Â°C - 35Â°C, 35% - 80% RH non-condensing</td><td>10Â°C - 35Â°C, 35% - 80% RH non-condensing</td></tr><tr><td> Weight &amp; Dimensions (LxWxH) </td> <td> Scanner: 112 lbs (51 kg) / 56 x 18 x 8 inches (143 x 45 x 21 cm) Packed: 123 lbs (56 kg) / 62 x 22 x 12 inches (157 x 57 x 31 cm)</td><td>Scanner: 112 lbs (51 kg) / 56 x 18 x 8 inches (143 x 45 x 21 cm) Packed: 123 lbs (56 kg) / 62 x 22 x 12 inches (157 x 57 x 31 cm)</td></tr><tr><td> Operating System and Interface(s) </td> <td> Windows 10, Windows 8, Windows 7, 32-bit and 64-bit architectures. USB2, SuperSpeed USB3 and GBit Ethernet</td><td>Windows 10, Windows 8, Windows 7, 32-bit and 64-bit architectures. USB2, SuperSpeed USB3 and GBit Ethernet</td></tr><tr><td> Certifications </td> <td> ENERGY STAR Qualified, ULICUL, FCC, CB, CE, C-TICK, VCCI, PCT/EAC, CCC, ROHS</td><td>ENERGY STAR Qualified, ULICUL, FCC, CB, CE, C-TICK, VCCI, PCT/EAC, CCC, ROHS</td></tr><tr><td> Included Software </td> <td> SmartWorks TOUCH (USB connection only), TWAIN, Evaluation copy of SmartWorks Pro SCAN &amp; COPY (watermarks scans and copies).</td><td>SmartWorks TOUCH (USB connection only), TWAIN, Evaluation copy of SmartWorks Pro SCAN &amp; COPY (watermarks scans and copies).</td></tr><tr><td> Optional Software </td> <td> SmartWorks Pro SCAN &amp; COPY software - industry leading professional scanning and color-copying software<br /> SmartWorks Pro SCAN software - industry leading, professional scanning software</td><td>SmartWorks Pro SCAN &amp; COPY software - industry leading professional scanning and color-copying software<br /> SmartWorks Pro SCAN software - industry leading, professional scanning software</td></tr><tr><td> Accessories </td> <td> Floor Stand (includes catch basket), Document Return Guides, Repro Stand, PC Mounting Kit (floor stand required)</td><td>Floor Stand (includes catch basket), Document Return Guides, Repro Stand, PC Mounting Kit (floor stand required)</td></tr><tr><td> Notes </td> <td> <sup>1</sup> SmartLF SG scanners and SmartWorks Pro software when used to scan at 9600dpi in any colour mode to a TIFF uncompressed file format is restricted to a scan width of 40mm (1.5\") and scan length not exceeding 160mm (6.3\"). Scanning larger widths at 9600 dpi or scanning to other file formats is not possible. <br /><br /><sup>2</sup> Productivity for color scanners using maximum color speeds for cand e models. Mono productivity using maximum m model scan speed. Assumes fixed paper size (no paper size detection) batch scanning at 200dpi. Includes load and eject time.</td><td><sup>1</sup> SmartLF SG scanners and SmartWorks Pro software when used to scan at 9600dpi in any colour mode to a TIFF uncompressed file format is restricted to a scan width of 40mm (1.5\") and scan length not exceeding 160mm (6.3\"). Scanning larger widths at 9600 dpi or scanning to other file formats is not possible. <br /><br /><sup>2</sup> Productivity for color scanners using maximum color speeds for cand e models. Mono productivity using maximum m model scan speed. Assumes fixed paper size (no paper size detection) batch scanning at 200dpi. Includes load and eject time.</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>36\" - 44\" scan size</li><li>Fastest ever CCD scanners</li><li>High volume, &amp; detailed scanning</li><li>Scan thick media</li></ul>",
+    "shortPoints": [
+      "36\" + 44\" scan size",
+      "Fastest ever CCD scanners",
+      "High volume, & detailed scanning",
+      "Scan thick media"
+    ],
+    "file": [
+      "61d7f0f27b742f990fde0490",
+      {
+        "$oid": "6380bf8b5cbeae8e59d4bd76"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "61d96fe58202199476b47e4b"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "61cbf84c1d0a9407398262b6"
+    },
+    "brandId": {
+      "$oid": "61cbf4fd1d0a9407398262a4"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "COLORTRAC Smartlf SC 36 Xpress Series",
+    "slug": "colortrac-smartlf-sc-36-xpress-series",
+    "sku": 1819,
+    "description": "<p><strong>The 'Xpress' difference</strong></p><p>Colortrac SmartLF SC Xpress Series is now even faster for everyday scanning tasks. At 200 dpi the paper speed has been doubled which means that an A0 / E size document scanned in 24-bit colour now scans at a full 12 inches per second, very nearly the same speed as a monochrome scan.  At 300 dpi the speed has also been doubled. Scan speeds at higher dpis are not affected. This performance requires a USB3 enabled computer connection. For USB2 connections these speeds will be halved.</p><p><br /></p><p>The new SmartLF SC 36 Xpress large format scanner is ideal for Technical and CAD Drawing Offices, Architectural, Engineering, Construction, Facilities Management and Electronic Document Capture (EDC). Using the new SuperSpeed USB3 digital interface and SingleSensor digital imaging makes this wide format scanner the best solution for general purpose Technical Imaging and Color Graphics for documents up to E-size or A0 format.</p><p><br /></p><p><strong>SingleSensor Technology</strong></p><p>The SmartLF SC 36 Xpress is an addition to our expanding range of large format scanners that use our SingleSensor (Patent pending) digital imaging technology. The Colortrac invention combines a full document width of individual contact image sensors (CIS) in a robust single-piece unit, enabling a significantly higher optical quality and dramatic increase in pixel alignment stability. The SmartLF SC 36 scanner has 43,200 short image-path sensors that are illuminated by a custom designed bi-directional LED lighting arrangement that also provide 'instant-on' low energy illumination making the SmartLF SC 36 Xpress. Shadow effects in folds of creased documents are also reduced by the innovative active pressure roller that gently presses the document against the SingleSensor. These features reduce optical errors to a minimum ensuring all scan and copy data is of the highest possible color and dimensional accuracy.  The scanner is designed and manufactured to meet or exceed all relevant international safety and electrical standards.</p><p><br /></p><p><strong>Larger Document Staging Area</strong></p><p>The new design incorporates a larger face-up staging platform to make loading documents into the scanner faster and easier. SmartLF SC 36 Xpress is the first Colortrac scanner designed specifically to auto-size documents face-up in the centre of the scanner, a change which helps the operator to see what they are scanning and also to load creased documents more effectively. For documents conforming to standard drawing sheet sizes (manual mode) the scanner can accept media side &amp; center using SmartWorks Pro or at the side only using the SmartWorks TOUCH software. The straight-through paper path of SmartLF SC 36 Xpress has a maximum media width of 38 inches (96.5cm) and accepts documents up to 0.08 inches (2 mm) in thickness. This is more than enough to meet the requirements of AEC, CAD, GIS and the majority of work done by copy shop or service bureaux.</p><p><br /></p><p><strong>Dynamic Document Feed</strong></p><p>The SmartLF SC 36 Xpress SingleSensor allows the use of a simplified arrangement of rollers to ensure that the document always stays in contact with the optics. Driven rollers either side of the optical path and an active soft pressure roller running the full length of the SingleSensor allow the scanner to dynamically respond and actively work against the optical disturbances caused by document lift and paper creasing. This technology ensures that delicate or fragile media such as newspaper and old blueprints can be safely and accurately scanned without problem.</p><p><br /></p><p><strong>SuperSpeed PC Interface</strong></p><p>The SmartLF SC Xpress large format scanner series are the first scanners to incorporate the new SuperSpeed USB 3.0 digital interface. With a dramatic x10 increase in the internal data transfer rates, the new USB 3.0 interface works at up to 5Gb/sec. In terms of speed of scan data saved to the computer this represents more than double the previous rate of 28MB/sec (USB2) to 65 -85 MB/sec for USB3 depending on computer manufacturer. SuperSpeed USB 3.0 is unique to Colortrac and allows the SmartLF SC 36 XPress scanner to work at full speed using higher resolutions on wider documents than ever before. For those without a USB3 equipped computer SmartLF SC 36 Xpress enhanced USB2 circuitry achieves a 25% improvement in data speed (35MB/sec) above the previously recognised industry average transfer rate of 28MB/sec for a normal USB2 equipped pc.</p><p><br /></p><p>Higher data transfer gives the SmartLF SC 36 operator the freedom to scan wider and at higher resolutions without affecting productivity. If you have large amounts of archiving then SmartLF SC 36 Xpress is the perfect solution.</p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "61d994f76f3b7a8a81014e03"
+      },
+      {
+        "$oid": "621867d74cdff31f8a1c40c8"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>             <h4>Specification</h4>           </div>         </div>         <div>           <div>             <table>               <tr><td>  </td> <td> SC 36m Xpress</td><td>SC 36c Xpress</td></tr><tr><td> Upgradeable </td> <td> m \t→ c m \t→e</td><td>c \t→ e</td></tr><tr><td> Optical Resolution </td> <td> 1200dpi</td><td>1200dpi</td></tr><tr><td> Extended Resolution </td> <td> Linear interpolation from 100 to 9600dpi in 1 dpi steps</td><td>Linear interpolation from 100 to 9600dpi in 1 dpi steps</td></tr><tr><td> Max Scan Width </td> <td> 36in (914mm)</td><td>36in (914mm)</td></tr><tr><td> Max Media Width </td> <td> 38in (965mm)</td><td>38in (965mm)</td></tr><tr><td> Max Media Thickness </td> <td> 0.08in (2mm)</td><td>0.08in (2mm)</td></tr><tr><td> Min Document Size </td> <td> 6.0in (152mm) x 6.0in (152mm)</td><td>6.Oin (152mm) x 6.0in (152mm)</td></tr><tr><td> Max Scan Length </td> <td> Depends on file format and software application. See scanner software information</td><td>Depends on file format and software application. See scanner software information</td></tr><tr><td> Accuracy </td> <td> +/-0.1% +/-1 pixel</td><td>+/-0.1% +/-1 pixel</td></tr><tr><td> Auto Size Display </td> <td> Detects and displays the width of the document as it is loaded (mm or inches)</td><td>Detects and displays the width of the document as it is loaded (mm or inches)</td></tr><tr><td> Imaging Technology </td> <td> Single Sensor</td><td>Single Sensor</td></tr><tr><td> Data Capture (color/grayscale) </td> <td> 16-bit</td><td>48-bit/16-bit</td></tr><tr><td> Color Space </td> <td> N/A</td><td>Raw RGB from scanner. SRGB using SmartWorks TOUCH. Adobe RGB and Profiled RGB from optional SmartWorks Pro</td></tr><tr><td> Scan Speed 1-bit mono (in/sec) 8-bit grayscale @200dpi </td> <td> 13.00</td><td>13.00</td></tr><tr><td> Scan Speed 24bit color (in/sec) @200dpi </td> <td> N/A</td><td>6.0</td></tr><tr><td> Paper Path </td> <td> Face-up, front entry, rear exit or rewind to front Face-up, front entry, front exit with optional Document Return Guide</td><td>Face-up, front entry, rear exit or rewind to front Face-up, front entry, front exit with optional Document Return Guide</td></tr><tr><td> Interface </td> <td> SuperSpeed USB 3.0 data transfer rates up to 85MB/sec Optimised USB2 transfer rates up to 35MB/sec</td><td>SuperSpeed USB 3.0 data transfer rates up to 85MB/sec Optimised USB2 transfer rates up to 35MB/sec</td></tr><tr><td> Power Requirements </td> <td> External power supply 100-240VAC auto-sensing +/-10%, 50-60Hz <br />Scanner power consumption: 53W scanning/1.35W sleep/ 0.16W standby (scanner off, ext. power supply on)</td><td>External power supply 100-240VAC auto-sensing +/-10%, 50-60Hz <br />Scanner power consumption: 53W scanning/1.35W sleep/ 0.16W standby (scanner off, ext. power supply on)</td></tr><tr><td> Operating conditions </td> <td> 10Â°C - 35Â°C, 35% - 80% relative humidity non-condensing</td><td>10Â°C - 35Â°C, 35% - 80% relative humidity non-condensing</td></tr><tr><td> Weight &amp; Dimensions (WxHxD) </td> <td> Scanner: 53 lbs (24 kg)/ 45.1 x 6.0 x 15 inches (115 x 15.2 x 38.1 cm) Packed: 60 lbs (27.5 kg) / 50.6 x 9.3 x 20 inches (128 x 24 x 52 cm)</td><td>Scanner: 53 lbs (24 kg)/ 45.1 x 6.0 x 15 inches (115 x 15.2 x 38.1 cm) Packed: 60 lbs (27.5 kg) / 50.6 x 9.3 x 20 inches (128 x 24 x 52 cm)</td></tr><tr><td> Host platform </td> <td> Windows 10, Windows 8, Windows 7-32-bit and 64-bit architectures</td><td>Windows 10, Windows 8, Windows 7-32-bit and 64-bit architectures</td></tr><tr><td> Certifications </td> <td> ENERGY STAR qualified, CB, CE, CCC, FCC, UL, ROHS compliant</td><td>ENERGY STAR qualified, CB, CE, CCC, FCC, UL, ROHS compliant</td></tr><tr><td> Included software </td> <td> <b>SmartWorks TOUCH</b><br /> Simple-to-use software for scanning, copying and printing. Intuitive interface designed for touch screens or mouse and keyboard operation. Select the mode, choose the document type closest to the original and press go. All document types can be individually modified <br />Save to PDF, PDF/A, MPDF, JPEG, JPEG2000, PNG, AutoCAD DWF, TIFF, TIFF LZW, TIF-G4, MTIFF, PCX, BMP. Batch scanning, full preview and all Windows driven printers supported.</td><td><b>SmartWorks TOUCH</b><br /> Simple-to-use software for scanning, copying and printing. Intuitive interface designed for touch screens or mouse and keyboard operation. Select the mode, choose the document type closest to the original and press go. All document types can be individually modified <br />Save to PDF, PDF/A, MPDF, JPEG, JPEG2000, PNG, AutoCAD DWF, TIFF, TIFF LZW, TIF-G4, MTIFF, PCX, BMP. Batch scanning, full preview and all Windows driven printers supported.</td></tr><tr><td> Optional Software </td> <td> <b>SmartWorks Pro</b> 2 product versions SCAN / SCAN &amp; COPY - professional solutions for best in class image restoration, scan productivity &amp; hi-fidelity copy quality. Fully colour-managed scan, view &amp; copy system.</td><td><b>SmartWorks Pro</b> 2 product versions SCAN / SCAN &amp; COPY - professional solutions for best in class image restoration, scan productivity &amp; hi-fidelity copy quality. Fully colour-managed scan, view &amp; copy system.</td></tr><tr><td> Accessories </td> <td> Floor Stand-includes Paper Catch Basket plus optional PC, Monitor, Keyboard and Mouse mounting kit. Repro Stand - adjustable height to fit most popular Large Format printers. Includes Keyboard tray, PC &amp; Flat screen monitor mount- ing kit. Optional Document Return Guide for front feed, front-return capability</td><td>Floor Stand-includes Paper Catch Basket plus optional PC, Monitor, Keyboard and Mouse mounting kit. Repro Stand - adjustable height to fit most popular Large Format printers. Includes Keyboard tray, PC &amp; Flat screen monitor mount- ing kit. Optional Document Return Guide for front feed, front-return capability</td></tr><tr><td> Notes </td> <td> <sup>1</sup>Power requirements for SC Xpress models <br /><sup>2</sup> SmartLF SC Xpress scanners and SmartWorks Pro software scanning at 9600dpi in any colour mode to a TIFF uncompressed file format is restricted to a scan width of 40mm (1.5\") and scan length not exceeding 160mm (6.3\"). Scanning larger widths at 9600 dpi or scanning to other file formats is not possible <br /><sup>3</sup> USB3 is required to achieve uninterrupted maximum scan speeds for all SC Xpress Series Scanners at the 'e' upgrade level for originals wider than 24' scanned above 200dpi. Colortrac recommends the software speed or quality settings be used to eliminate stop/start and maximise scan image quality at higher scan dpi/width combinations if a USB3 connection is not available <br /><sup>4</sup> Thick documents up to 2mm must be flexible. Colortrac does not guarantee quoted speeds for thick media. Thick media should be scanned at reduced speeds to obtain optimal image quality. For heavy and/or thick materials the operator may need to support the document as it enters and exits the scanner. For larger sizes of heavy and/or thick media Colortrac recommend the scanner be placed first on a flat surface and the operator supports the document as it enters and exits the scanner. Colortrac recommends the Paper Return Guide is removed when using heavy and/or thick media in the scanner</td><td><sup>1</sup>Power requirements for SC Xpress models <br /><sup>2</sup> SmartLF SC Xpress scanners and SmartWorks Pro software scanning at 9600dpi in any colour mode to a TIFF uncompressed file format is restricted to a scan width of 40mm (1.5\") and scan length not exceeding 160mm (6.3\"). Scanning larger widths at 9600 dpi or scanning to other file formats is not possible <br /><sup>3</sup> USB3 is required to achieve uninterrupted maximum scan speeds for all SC Xpress Series Scanners at the 'e' upgrade level for originals wider than 24' scanned above 200dpi. Colortrac recommends the software speed or quality settings be used to eliminate stop/start and maximise scan image quality at higher scan dpi/width combinations if a USB3 connection is not available <br /><sup>4</sup> Thick documents up to 2mm must be flexible. Colortrac does not guarantee quoted speeds for thick media. Thick media should be scanned at reduced speeds to obtain optimal image quality. For heavy and/or thick materials the operator may need to support the document as it enters and exits the scanner. For larger sizes of heavy and/or thick media Colortrac recommend the scanner be placed first on a flat surface and the operator supports the document as it enters and exits the scanner. Colortrac recommends the Paper Return Guide is removed when using heavy and/or thick media in the scanner</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>36\" scan size</li><li>Super Speed data transfer</li><li>High-quality A0/E scanning</li><li>FireFly: SuperSpeed USB3</li></ul>",
+    "shortPoints": [
+      "36\" scan size",
+      "Super Speed data transfer",
+      "High-quality A0/E scanning",
+      "FireFly: SuperSpeed USB3"
+    ],
+    "file": [
+      "61d7f0f27b742f990fde0490",
+      {
+        "$oid": "6380c0045cbeae8e59d4bdbf"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "61d96fe58202199476b47e4c"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "61cbf84c1d0a9407398262b6"
+    },
+    "brandId": {
+      "$oid": "61cbf4fd1d0a9407398262a4"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "COLORTRAC Smartlf SC 42 Xpress Series",
+    "slug": "colortrac-smartlf-sc-42-xpress-series",
+    "sku": 1820,
+    "description": "<p><strong>The 'Xpress' difference</strong></p><p>Colortrac SC SmartLF Xpress Series is now even faster for everyday scanning tasks. At 200 dpi the paper speed has been doubled which means that an A0 / E size document scanned in 24-bit colour now scans at a full 12 inches per second, very nearly the same speed as a monochrome scan. At 300 dpi the speed has also been doubled. Scan speeds at higher dpis are not affected. This performance requires a USB3 enabled computer connection. For USB2 connections these speeds will be halved.</p><p><br /></p><p><strong>SingleSensor Technology</strong></p><p>Colortrac SmartLF SC Xpress Series - A well-proven, innovative technology for great wide format image quality. SingleSensor is a Colortrac invention that combines CIS elements and LEDs in a single line for maximum scan accuracy and optimal illumination. Reliable and affordable scanning with a fast return on investment. Get the job done 'super-fast' with no stopping or waiting.</p><p><br /></p><p><strong>Larger Document Staging Area</strong></p><p>The new design incorporates a larger face-upstaging platform to make loading documents into the scanner faster and easier. SC 42 Xpress is the first Colortrac scanner designed specifically to auto-size documents face-up in the centre of the scanner, a change which helps the operator to see what they are scanning and also to load creased documents more effectively. For documents conforming to standard drawing sheet sizes (manual mode) the scanner can accept media side &amp; center using SmartWorks Pro or at the side only using the SmartWorks TOUCH software. An included magnetic paper guide accessory can be used to maximise side margin accuracy where required. With a straight-through paper path the SC 42 Xpress has a maximum media width of 44' (1117mm) and scans documents and maps up to 0.08\" (2 mm) in thickness. This is more than enough to meet the requirements of AEC, CAD, GIS and the majority of work done by copyshop or service bureaux.</p><p><br /></p><p><strong>Dynamic Document Feed</strong></p><p>SmartLF SC 42 Xpress SingleSensor allows the use of a simplified arrangement of rollers to ensure that the document always stays in contact with the optics. Driven rollers either side of the optical path and an active soft pressure roller running the full length of the SingleSensor allow the scanner to dynamically respond and actively work against the optical disturbances caused by document lift and paper creasing. This technology ensures that delicate or fragile media such as newspaper and old blueprints can be safely and accurately scanned without problem.</p><p><br /></p><p><strong>SuperSpeed PC Interface</strong></p><p>The SmartLF SC 42 Xpress is the first large format scanner to incorporate the new SuperSpeed USB 3.0 digital interface. With a dramatic x10 increase in the internal data transfer rates, the new USB 3.0 interface works at up to 5Gb/sec. In terms of speed of scan data saved to the computer this represents more than double the previous rate of 28MB/sec (USB2) to 65 -85 MB/sec for USB3 depending on computer manufacturer. SuperSpeed USB 3.0 is unique to Colortrac and allows the SmartLF SC 42 Xpress scanner to work at full speed using higher resolutions on wider documents than ever before. For those without a USB3 equipped computer SmartLF SC 42 Xpress enhanced USB2 circuitry achieves a 25% improvement in data speed (35MB/sec) above the previously recognised industry average transfer rate of 28MB/sec for a normal USB2 equipped pc. Higher data transfer gives the SmartLF SC 42 Xpress operator the freedom to scan wider and at higher resolutions without affecting productivity. If you have large amounts of archiving then SmartLF SC 42 is the perfect solution.</p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "61d994f76f3b7a8a81014e03"
+      },
+      {
+        "$oid": "621867ae4cdff31f8a1c4065"
+      },
+      {
+        "$oid": "621867b04cdff31f8a1c4068"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td>  </td> <td> <b>SC 42m Xpress</b></td><td><b>SC 42c Xpress</b></td></tr><tr><td> Upgradeable </td> <td> m \tâ†’ c m \tâ†’ e</td><td>c \tâ†’ e</td></tr><tr><td> Optical Resolution </td> <td> 1200dpi</td><td>1200dpi</td></tr><tr><td> Extended resolution </td> <td> Linear interpolation from 100 to 9600dpi in 1 dpi steps</td><td>Linear interpolation from 100 to 9600dpi in 1 dpi steps</td></tr><tr><td> Max Scan Width </td> <td> 42in (106.7cm)</td><td>42in (106.7cm)</td></tr><tr><td> Max Media Width </td> <td> 44in (111.6cm)</td><td>44in (111.6cm)</td></tr><tr><td> Max Media Thickness </td> <td> 0.08in (2mm)</td><td>0.08in (2mm)</td></tr><tr><td> Min Document Size </td> <td> 6.0in (152mm) x 6.0in (152mm)</td><td>6.Oin (152mm) x 6.0in (152mm)</td></tr><tr><td> Max Scan Length </td> <td> Depends on file format and software application. See scanner software information</td><td>Depends on file format and software application. See scanner software information</td></tr><tr><td> Accuracy </td> <td> +/-0.1% +/- 1 pixel</td><td>+/-0.1% +/-1 pixel</td></tr><tr><td> Auto Size Display </td> <td> Detects and displays the width of the document as it is loaded (mm or inches)</td><td>Detects and displays the width of the document as it is loaded (mm or inches)</td></tr><tr><td> Imaging Technology </td> <td> Single Sensor</td><td>Single Sensor</td></tr><tr><td> Data Capture (color/grayscale) </td> <td> 16-bit</td><td>48-bit/16-bit</td></tr><tr><td> Color Space </td> <td> N/A</td><td>Raw RGB from scanner. SRGB using SmartWorks TOUCH.<br /> Adobe RGB and Profiled RGB from optional SmartWorks Pro</td></tr><tr><td> Scan Speed 1-bit mono (in/sec) 8-bit grayscale @200dpi </td> <td> 13.00</td><td>13.00</td></tr><tr><td> Scan Speed 24bit color (in/sec) @200dpi </td> <td> N/A</td><td>6.0</td></tr><tr><td> Paper Path </td> <td> Face-up, front entry, rear exit or rewind to front Face-up, front entry with optional Document Return Guide</td><td>Face-up, front entry, rear exit or rewind to front Face-up, front entry with optional Document Return Guide</td></tr><tr><td> Interface </td> <td> SuperSpeed USB 3.0 data transfer rates up to 85MB/sec. <br />Optimised USB2 transfer rates up to 35MB/sec (using 2m USB cable supplied)</td><td>SuperSpeed USB 3.0 data transfer rates up to 85MB/sec. <br />Optimised USB2 transfer rates up to 35MB/sec (using 2m USB cable supplied)</td></tr><tr><td> Power Requirements </td> <td> External power supply 100~240VAC auto-sensing +/-10%, 50-60Hz <br />Scanner power consumption: 53W scanning /1.35W sleep/ 0.16W standby (scanner off, ext. power supply on)</td><td>External power supply 100~240VAC auto-sensing +/-10%, 50-60Hz <br />Scanner power consumption: 53W scanning /1.35W sleep/ 0.16W standby (scanner off, ext. power supply on)</td></tr><tr><td> Operating conditions </td> <td> 10Â°C - 35Â°C, 35% - 80% relative humidity non-condensing</td><td>10Â°C - 35Â°C, 35% - 80% relative humidity non-condensing</td></tr><tr><td> Weight &amp; Dimensions (WxHxD) </td> <td> Scanner: 58.4 lbs (26.5 kg) / 51.2 x 6.0 x 15 inches (130 x 15.2 x 38.1 cm)<br /> Packed: 68.3 lbs (31 kg) / 56.8 x 9.3 x 20 inches (144 x 24 x 52 cm)</td><td>Scanner: 58.4 lbs (26.5 kg) / 51.2 x 6.0 x 15 inches (130 x 15.2 x 38.1 cm)<br /> Packed: 68.3 lbs (31 kg) / 56.8 x 9.3 x 20 inches (144 x 24 x 52 cm)</td></tr><tr><td> Host Platform </td> <td> Windows 10, Windows 8, Windows 7-32-bit and 64-bit architectures</td><td>Windows 10, Windows 8, Windows 7-32-bit and 64-bit architectures</td></tr><tr><td> Certifications </td> <td> CB, CE, CCC, FCC, UL, RoHS compliant</td><td>CB, CE, CCC, FCC, UL, RoHS compliant</td></tr><tr><td> Included software </td> <td> <b>SmartWorks TOUCH</b><br /> Simple-to-use software for scanning, copying and printing. Intuitive interface designed for touch screens or mouse and keyboard operation. Select the mode, choose the document type closest to the original and press go. All document types can be individually modified. <br />Save to PDF, PDF/A, MPDF, JPEG, JPEG2000, PNG, AutoCAD DWF, TIFF, TIFF LZW, TIF-G4, MTIFF, PCX, BMP. Batch scanning, full preview and all Windows driven printers supported.</td><td><b>SmartWorks TOUCH</b><br /> Simple-to-use software for scanning, copying and printing. Intuitive interface designed for touch screens or mouse and keyboard operation. Select the mode, choose the document type closest to the original and press go. All document types can be individually modified. <br />Save to PDF, PDF/A, MPDF, JPEG, JPEG2000, PNG, AutoCAD DWF, TIFF, TIFF LZW, TIF-G4, MTIFF, PCX, BMP. Batch scanning, full preview and all Windows driven printers supported.</td></tr><tr><td> Optional Software </td> <td> <b>SmartWorks Pro</b><br /> Two product versions SCAN / SCAN &amp; COPY - professional solutions for best in class image restoration, scan productivity &amp; hi-fidelity copy quality. Fully colour-managed scan view &amp; copy system.</td><td><b>SmartWorks Pro</b><br /> Two product versions SCAN / SCAN &amp; COPY - professional solutions for best in class image restoration, scan productivity &amp; hi-fidelity copy quality. Fully colour-managed scan view &amp; copy system.</td></tr><tr><td> Accessories </td> <td> Floor Stand-includes Paper Catch Basket plus optional PC, Monitor, Keyboard and Mouse mounting kit. Repro Stand - adjustable height to fit most popular Large Format printers. Includes Keyboard tray, PC &amp; Flat screen monitor mounting kit. Optional Document Return Guide for front feed, front-return capability.</td><td>Floor Stand-includes Paper Catch Basket plus optional PC, Monitor, Keyboard and Mouse mounting kit. Repro Stand - adjustable height to fit most popular Large Format printers. Includes Keyboard tray, PC &amp; Flat screen monitor mounting kit. Optional Document Return Guide for front feed, front-return capability.</td></tr><tr><td> Notes </td> <td> <sup>1</sup> Power requirements for SC Xpress models <br /><sup>2</sup> SmartLF SC Xpress scanners and SmartWorks Pro software scanning at 9600dpi in any colour mode to a TIFF uncompressed file format is restricted to a scan width of 40mm (1.5\") and scan length not exceeding 160mm (6.3\"). Scanning larger widths at 9600 dpi or scanning to other file formats is not possible <br /><sup>3</sup> USB3 is required to achieve uninterrupted maximum scan speeds for all SC Xpress Series scanners at the 'e' upgrade level for originals wider than 24' scanned above 200dpi. Colortrac recommends the software speed or quality settings be used to eliminate stop/start and maximise scan image quality at higher scan dpi/width combinations if a USB3 connection is not available <br /><sup>4</sup> Thick documents up to 2mm must be flexible. Colortrac does not guarantee quoted speeds for thick media. Thick media should be scanned at reduced speeds to obtain optimal image quality. For heavy and/or thick materials the operator may need to support the document as it enters and exits the scanner. For larger sizes of heavy and/or thick media Colortrac recommend the scanner be placed first on a flat surface and the operator supports the document as it enters and exits the scanner. Colortrac recommends the Paper Return Guide is removed when using heavy and/or thick media in the scanner</td><td><sup>1</sup> Power requirements for SC Xpress models <br /><sup>2</sup> SmartLF SC Xpress scanners and SmartWorks Pro software scanning at 9600dpi in any colour mode to a TIFF uncompressed file format is restricted to a scan width of 40mm (1.5\") and scan length not exceeding 160mm (6.3\"). Scanning larger widths at 9600 dpi or scanning to other file formats is not possible <br /><sup>3</sup> USB3 is required to achieve uninterrupted maximum scan speeds for all SC Xpress Series scanners at the 'e' upgrade level for originals wider than 24' scanned above 200dpi. Colortrac recommends the software speed or quality settings be used to eliminate stop/start and maximise scan image quality at higher scan dpi/width combinations if a USB3 connection is not available <br /><sup>4</sup> Thick documents up to 2mm must be flexible. Colortrac does not guarantee quoted speeds for thick media. Thick media should be scanned at reduced speeds to obtain optimal image quality. For heavy and/or thick materials the operator may need to support the document as it enters and exits the scanner. For larger sizes of heavy and/or thick media Colortrac recommend the scanner be placed first on a flat surface and the operator supports the document as it enters and exits the scanner. Colortrac recommends the Paper Return Guide is removed when using heavy and/or thick media in the scanner</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>42\" scan size</li><li>Super Speed data transfer</li><li>High-quality A0/E scanning</li><li>FireFly: SuperSpeed USB3</li></ul>",
+    "shortPoints": [
+      "42\" scan size",
+      "Super Speed data transfer",
+      "High-quality A0/E scanning",
+      "FireFly: SuperSpeed USB3"
+    ],
+    "file": [
+      "61d7f0f27b742f990fde0490",
+      {
+        "$oid": "6380c2dc5cbeae8e59d4be42"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "61d96fe58202199476b47e74"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "61cbf84c1d0a9407398262b6"
+    },
+    "brandId": {
+      "$oid": "61cbf5051d0a9407398262a7"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "ROWE Scan 450i Large Format Scanner Series",
+    "slug": "rowe-scan-450i-large-format-scanner-series",
+    "sku": 1821,
+    "description": "<p><strong>ROWE ScanCloud</strong></p><h4>Easy connection to your cloud</h4><p>ROWE ScanCloud technology links the ROWE Scan 450i large format scanner with your cloud provider. Simply scan in the QR code e.g. by smartphone, select your cloud as target, start the scan and the file will be immediately transferred to your cloud folder. Simply smart and safe.The ROWE ScanCloud is independent of your cloud provider.</p><p><strong>Scan quality</strong></p><p>UNIQUE, PATENTED TECHNOLOGY FOR THE BEST SCAN QUALITY.</p><h4>ROWE ScanMatrix+ consists of several digital core components. A new scan quality dimension is achieved by their interaction. Simply superior. Simply ROWE.</h4><p>  </p><p>Standard scanner     ROWE Scan 450i</p><p>ROWE DYNAMIC STITCHING (RDS)</p><p>ROWE engineers have achieved a groundbreaking innovation: excellent scans, even when the document is folded or thin. The patented ROWE DYNAMIC STITCHING continuously controls the scanned document data of each sensor and sets them together in real time. Any deviations that may occur are corrected automatically. Compare the difference!</p><p>  </p><p>Standard scanner     ROWE Scan 450i</p><p><br /></p><p><strong>ROWE SELECTED TRUE LIGHT</strong></p><p>The Scan Sensor Technology used for the first time in the ROWE Scan 450i means the lighting of the originals is exceptionally homogenous. This is achieved by the optimal alignment of the lighting angle to the sensor. Together with the ROWE double lens technology, this produces excellent scanning results.</p><p><br /></p><p><strong>PRODUCTIVITY. EXCELLENT.</strong></p><h4>The heart of the new ROWE Scan 450i is company technology protected by patents. Itâ€™s the base for superior productivity at scanning. Your competitive edge.</h4><p><strong>Immediately operational</strong></p><p>As a result of highly efficient LED-light sources a warm-up phase isnâ€™t necessary, the ROWE Scan 450i is immediately operational â€“ also in color. This saves time, energy and reduces the running costs.</p><p><br /></p><p><strong>DOCUMENT IMPROVEMENT SYSTEM (DIS)</strong></p><p>After scanning, can brightness, contrast or color for example be adjusted without rescanning the document? No problem, with the DOCUMENT IMPROVEMENT SYSTEM from ROWE! All changes will be immediately displayed in the viewer.</p><p><br /></p><p>    </p><p>                Standard scanner                                                                 ROWE Scan 450i</p><p><br /></p><p><strong>Automatic Width Recognition â€œOn the flyâ€œ</strong></p><p>ROWE has eliminated the annoying forward and backward movement for recognition of the document width. â€œOn the flyâ€, means that during the scan process the width of the document is detected precisely. This protects your documents and effectively saves time.</p><p><br /></p><p><strong>SUPERIOR SECURE INVESTMENT AND MODULARITY.Minimal operating costs and exceptional durability are especially important to us.</strong></p><ul><li>Especially high quality materials and exceptional workmanship guarantee exceptional durability</li><li>Lowest scan glass wear â€“ maximum protection for the documents: With the new ROWE SAFE DRIVE the ROWE Scan 450i achieves up to 500% longer life-cycle of the scan glass compared to standard scanners.</li></ul><p><strong>Environment</strong></p><p>Our technology â€žMade in Germanyâ€ is subject to strict environmental regulations.</p><ul><li>Whisper-quiet means a pleasant working atmosphere</li><li>Energy Star The ROWE Scan 450i large format scanner exceeds the requirements of the Energy Star.</li><li>Quality seals and certificates RoHS, ENERGY STAR, CE, CCC, UL, cUL, CB, FCC Part 15 Class B, EAC, BSMI</li></ul>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "61d994f76f3b7a8a81014e03"
+      },
+      {
+        "$oid": "621868604cdff31f8a1c41aa"
+      },
+      {
+        "$oid": "621868634cdff31f8a1c41ad"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> <b>FEATURES SCAN 450i</b> </td> <td> <b>DESCRIPTION LARGE FORMAT SCANNER</b></td><td><b>ROWE Scan 450i - 40</b></td></tr><tr><td> Scan width / Original thickness / Scan length </td> <td> </td></tr><tr><td> Maximum scan width </td> <td> 24\" (622 mm) / maximum original width 27.4\" (696 mm)  <br /><br />36\" (927 mm) / maximum original width 39.4\" (1001 mm)<br /> <br />44\" (1130 mm) / maximum original width 47.4\" (1204 mm)<br /></td><td>âœ“  <br /><br /><br />âœ“<br />  <br /><br />âœ“</td></tr><tr><td> Maximum original thickness </td> <td> Up to 2 mm (0.08\") with flexible materials</td><td>âœ“</td></tr><tr><td> Scan length </td> <td> Not limitied by the scanner</td><td>âœ“</td></tr><tr><td> <b>Scan quality</b> </td> <td> </td></tr><tr><td> Optical resolution\t </td> <td> 2400 x 1200 dpi\t</td><td>âœ“</td></tr><tr><td> Maximum resolution\t </td> <td> 9600 x 9600 dpi\t</td><td>âœ“</td></tr><tr><td> Scan accuracy\t </td> <td> 0,1% +/- 1 Pixel</td><td>âœ“</td></tr><tr><td> Color depth </td> <td> 48-bit color <br />16-bit greyscale<br /></td><td>âœ“ <br />âœ“<br /></td></tr><tr><td> Color space\t </td> <td> Not only the standard sRGBcolor space but also user defined color spaces like Adobe RGB or Device RGB are supported\t</td><td>âœ“</td></tr><tr><td> ROWE SELECTED TRUE LIGHT </td> <td> Lighting of originals is exceptionally homogenous. Optimal alignment of the lighting angle to the reading unit.\t</td><td>âœ“\t</td></tr><tr><td> ROWE DOUBLE ROW LENSE\t </td> <td> Significantly higher light throughput\t</td><td>âœ“\t</td></tr><tr><td> ROWE DYNAMIC STITCHING - RDS (patent)\t </td> <td> Controls continuously the scanned document data of each sensor and sets them together in real time. Any deviations that may occur are corrected automatically.\t</td><td>âœ“\t</td></tr><tr><td> ROWE PRO LOGIC\t </td> <td> Scan once for optimal results. Automatic process for the filtering of dirt/background and the highlighting of image information, ideal for originals with poor contrast.\t</td><td>âœ“\t</td></tr><tr><td> <b>Ergonomics</b> </td> <td> </td><td>âœ“\t</td></tr><tr><td> Automatic workflow (4 freely programmable Hot Keys on the control panel of the scanner)\t </td> <td> All functions of the ROWE ScanManager can be stored. Retrievable with a click. The number of favourites (personalised settings, e.g. defined scan profiles) is not limited in the ROWE ScanManager. You can also protect the favourites with a password.\t</td><td>âœ“\t</td></tr><tr><td> Simple replacement of scan glass\t </td> <td> Removal of the scan glass is carried out without tools â€“ simply, quickly and absolutely ergonomically!\t</td><td>âœ“\t</td></tr><tr><td> ROWE SAFE DRIVE (patent)\t </td> <td> - Up to 500 % longer life-cycle of the scan glass compared to standard scanners without ROWE SAFE DRIVE - Safe transport of fragile originals</td><td>âœ“\t</td></tr><tr><td> Scanning face-up\t </td> <td> Makes an ergonomic handling of the originals possible â€“ you see what you scan.\t</td><td>âœ“\t</td></tr><tr><td> Active output\t </td> <td> Driven transport rollers at the rear guarantee safe output of the documents, no jam in the scanner also during operation without a stand or in connection with a scan table.\t</td><td>âœ“\t</td></tr><tr><td> <b>Productivity / Interface</b>\t </td> <td> </td></tr><tr><td> Color (24-bit RGB) and 8-bit indexed Color at 400 dpi (Turbo)* </td> <td> Meters per minute / Inches per second\t</td><td>2.75 / 1.8\t</td></tr><tr><td> Black and white (1-bit) and greyscale (8-bit) at 400 dpi (Turbo)*\t </td> <td> Meters per minute / Inches per second\t</td><td>17 / 11.15</td></tr><tr><td> DOCUMENT IMPROVEMENT SYSTEM - DIS\t </td> <td> All changes can be done after scanning. No rescanning required. Any changes made will be immediately displayed in the viewer.\t</td><td>âœ“</td></tr><tr><td> Automatic width recognition â€œOn the flyâ€œ (patented)\t </td> <td> The width of the original is precisely determined during the scanning process. No forward and backward movement for recognition of the document width.\t</td><td>âœ“</td></tr><tr><td> Dynamic width recognition (patented)\t </td> <td> Automatic and correct recognition of the document width, also when damaged, e.g. ripped corners\t</td><td>âœ“</td></tr><tr><td> No warm-up time\t </td> <td> Immediately operational (also for color)\t</td><td>âœ“</td></tr><tr><td> Immediately operational (also for color)\t </td> <td> High performance real time width recognition and data transfer process\t</td><td>âœ“</td></tr><tr><td> SuperSpeed USB 3.0 + RES\t </td> <td> Data throughput up to 1000 % higher compared to HighSpeed USB 2.0\t</td><td>âœ“</td></tr><tr><td> HightSpeed USB 2.0 + RES\t </td> <td> Data throughput up to 200 % higher compared to HighSpeed USB 2.0\t</td><td>âœ“</td></tr><tr><td> DIN A0, color (24-bit RGB), incl. automatic width recognition, SuperSpeed USB 3.0 with RES technology\t </td> <td> Documents per hour,** at 300 x 300 dpi\t</td><td>113\t</td></tr><tr><td> DIN A0, black/white (1-bit) and greyscale (8-bit), incl. automatic width recognition, SuperSpeed USB 3.0 with RES technology\t </td> <td> Documents per hour,** at 300 x 300 dpi <br />Documents per hour,** at 600 x 600 dpi<br /></td><td>427 <br /><br />189<br /></td></tr><tr><td> Power connection\t </td> <td> 100 - 240 V 50/60 Hz\t</td><td>âœ“</td></tr><tr><td> Power consumption\t </td> <td> Operating / energy saving mode with programmable timer, exceeds the requirements of the Energy Star\t</td><td><br />&lt; 19 W /<br /> &lt; 0.4 W</td></tr><tr><td> Weight\t </td> <td> Large format scanner 24\" <br />Large format scanner 36 <br />Large format scanner 44\"<br /></td><td>13.0 kg <br />16.0 kg <br />18.5 kg<br /></td></tr><tr><td> Dimension\t </td> <td> Large format scanner 24\" depth x width x height <br /><br />Large format scanner 36\" depth x width x height<br /> <br />Large format scanner 44\" depth x width x height<br /></td><td>332 x 896 x 126 mm <br /><br /><br />332 x 1201 x 126 mm<br /> <br /><br />332 x 1404 x 126 mm<br /></td></tr><tr><td> Quality seals / certificates </td> <td> RoHS, ENERGY STAR, CE, CCC, UL, cUL, CB, FCC Part 15 Class B, EAC, BSMI</td><td>âœ“\t</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>ROWE Scan 450i has three models with scanning widths of 24\", 36\" and 44\".</li><li>Standard equipment for all large format scanners is SuperSpeed USB 3.0 + RES, ROWE ScanCloud and ROWE ScanMatrix+ which is a unique technology worldwide.</li><li>Scanning with the patented process ROWE DYNAMIC STITCHING, fully automatic transformation of originals with poor contrast into perfect scans due to the image improvement technology ROWE PRO LOGIC and brilliant, natural colors as a result of ROWE SELECTED TRUE LIGHT.</li><li>Thanks to the patented ROWE SAFE DRIVE technology the scan glass has a life-cycle up to 500% longer than standard wide-format scanners.</li><li>A power consumption of less than 0.4% in energy saving mode also protects the environment.</li></ul>",
+    "shortPoints": [
+      "24\", 36\" and 44\"",
+      "SuperSpeed USB 3.0 + RES",
+      "2400 x 1200 dpi optical resolution"
+    ],
+    "file": [
+      "61d7f0f27b742f990fde0490",
+      {
+        "$oid": "62fcf139a9587313d15090b0"
+      },
+      {
+        "$oid": "62fcf139a9587313d15090b0"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "61d96fe58202199476b47e75"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "61cbf84c1d0a9407398262b6"
+    },
+    "brandId": {
+      "$oid": "61cbf5051d0a9407398262a7"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "ROWE Scan 850i Large Format Scanner Series",
+    "slug": "rowe-scan-850i-large-format-scanner-series",
+    "sku": 1822,
+    "description": "<p>ROWE was awarded one of the highest prizes for innovative products by an independent expert jury.</p><p>The wide-format scanner ROWE Scan 850i with its 6 models and future-proof technology stands for unbelievable innovation, productivity, and numerous patents. Take a look at this brochure for a glimpse of the technical highlights and unique features.</p><p><strong>ROWE SAFEGUARD, ROWE SAFE DRIVE und ROWE DOCUMENT IMPROVEMENT SYSTEM</strong>  </p><p>Thanks to their technologies ROWE SAFEGUARD, ROWE SAFE DRIVE and ROWE DOCUMENT IMPROVEMENT SYSTEM the new ROWE Scan 850i protects your originals like no other scanner before it.  </p><p><strong>ROWE SAFEGUARD</strong></p><p>You want to protect your valuable documents in the best way during the scan? The media transport technology, a new development by ROWE, immediately ensures that even old, torn or extremely wavy originals are transported in the best possible way and protected. Simply safe - typical ROWE.</p><p><strong>PRODUCTIVITY. UNBEATABLE.</strong> </p><p>The heart of the new ROWE Scan 850i is company technology protected by patents. Itâ€™s the base for superior productivity at scanning. Your competitive edge. <strong> </strong> </p><p><strong>SuperSpeed USB 3</strong> <strong>+ ROWE EFFICIENT SCANNING (RES)</strong> <strong>= Exceptional productivity</strong>  </p><p>Only ROWE combines RES â€“ a high performance process of data compression without loss - with SuperSpeed USB 3. The result: data throughput increases up to 1000% compared to Highspeed USB 2! Of course, the ROWE Scan 850i still supports Highspeed USB 2. Even compared to Gigabit Ethernet, ROWE SuperSpeed USB 3 is up to 300% faster.</p><p><strong>OPTIMIZATION OF YOUR WORKFLOW.</strong> </p><p>The ROWE Scan 850i makes it possible for you to generate numerous file formats and to save them in your Cloud. </p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "61d994f76f3b7a8a81014e03"
+      },
+      {
+        "$oid": "621868394cdff31f8a1c417d"
+      },
+      {
+        "$oid": "6218683c4cdff31f8a1c4180"
+      },
+      {
+        "$oid": "621868414cdff31f8a1c4183"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>                            </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>The wide format scanner ROWE Scan 850i with its 6 models</li><li>future-proof technology stands for unbelievable innovation, productivity and numerous patents.</li></ul>",
+    "shortPoints": [
+      "3 wide format models 44\", 55\" und 60\"",
+      "SuperSpeed 3",
+      "Technology protected by patents"
+    ],
+    "file": [
+      "61d7f0f27b742f990fde0490",
+      {
+        "$oid": "62fcf124a9587313d1509088"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "62f21f3af94c2b67b62a9fd2"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "61cbf84c1d0a9407398262b6"
+    },
+    "brandId": {
+      "$oid": "61cbf4f11d0a9407398262a1"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "Czur  ET24 Pro",
+    "slug": "czur--et24-pro",
+    "sku": 1823,
+    "description": "<p><strong>• Patented Curve Flattening Technology</strong></p><p>Automatically flatten and correct the curve distortion of books</p><p><strong>• High-Speed Scanning</strong></p><p>Each scanning takes as fast as 1.5 seconds</p><p><strong>• Adjustable Brightness</strong></p><p>Enables adjustments for 4 levels of brightness to your surroundings</p><p><strong>• No R</strong><strong>eflections</strong></p><p>Additional light source from side light to evenly illuminate your documents and prevent reflections</p><p><strong>• Handles up to A3 Size</strong></p><p>Handles content measuring up to 18.89” x 14.17” and up to 1.96” thick</p><p><strong>• Built-in ABBYY® OCR</strong></p><p>Creates searchable PDFs and editable Word and Excel files for a lifetime free. Recognizes more than 180 languages</p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "62f21db3f94c2b67b62a9fb8"
+      },
+      {
+        "$oid": "62f21db9f94c2b67b62a9fbb"
+      },
+      {
+        "$oid": "62f21dbef94c2b67b62a9fbe"
+      },
+      {
+        "$oid": "62f21dc1f94c2b67b62a9fc1"
+      },
+      {
+        "$oid": "62f21dc6f94c2b67b62a9fc4"
+      },
+      {
+        "$oid": "62f21dcaf94c2b67b62a9fc7"
+      },
+      {
+        "$oid": "62f21dcdf94c2b67b62a9fca"
+      },
+      {
+        "$oid": "62f21dd1f94c2b67b62a9fcd"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Product dimensions </td> <td> 362.45 x 351.5 x 149.30 mm</td></tr><tr><td> Product weight </td> <td> 1.5kg</td></tr><tr><td> Pixel dimensions </td> <td> 5696*4272</td></tr><tr><td> Color bit depth </td> <td> 24-bit color</td></tr><tr><td> Scanning speed </td> <td> 1.5s/ page</td></tr><tr><td> OCR </td> <td> 180+ languages recognized</td></tr><tr><td> Mega Pixels </td> <td> 24 megapixels</td></tr><tr><td> Max. document size </td> <td> 480×360 mm (18.89×14.17 inch)  (A3: 420 × 297 mm/ 16.5×11.7 inch)</td></tr><tr><td> Max. document thickness </td> <td> 50mm</td></tr><tr><td> Optical resolution (default) </td> <td> 320 dpi</td></tr><tr><td> SYSTEM SUPPORT </td> <td> XP, Win 7/ 8/10/11,  32/64-bit;  macOS 10.11 and above  Linux</td></tr><tr><td> File formats (output) </td> <td> Searchable - Word, Excels, TIFF, PDF  Others - JPG, PDF</td></tr><tr><td> Scanning formats (input) </td> <td> books (reference, magazines, tomes, etc.)  documents (ID cards, contracts, tax forms, ) family archives (birth certificates, love letters, drawings, postcards, newspaper clips, etc.)</td></tr><tr><td> Light source </td> <td> 1 x Built-in LED array, white 2-level  1 x Attachable LED light, white 1-level</td></tr><tr><td> Visual Presenter mode </td> <td> Supported, 1920*1080@20Fps  HDMI:   1920*1080P 60Hz  1920*1080P 50Hz  1920*1080i 60Hz  1920*1080i 50Hz  1280*720P 60Hz  1280*720P50Hz </td></tr><tr><td> Scanning Color Mode </td> <td> Color, Patterns, Stamps, Gray scale, B&amp;W</td></tr><tr><td> Smart Technology </td> <td> Auto Finger Removal Technology  Auto Page-Turn Detection Technology  Auto Scanning Engine  Auto Curve-Flattening Technology  OCR (by ABBYY Technology)  Automatic Page Spliting</td></tr><tr><td> Image processing tool </td> <td> Image Crop  Image Trim  Image Rotation  Image Tilt Correction  Image Standarization  File Rename Rule Presetting</td></tr><tr><td> Scanning Trigger </td> <td> Hand Control  Pedal Control  Button Control (on scanner)  Button Control (on software)  Auto-Scanning (triggered by page turning)</td></tr><tr><td> Warranty Information </td> <td> 1-Year Limited Hardware Warranty</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<p>The ET series book scanners come with CZUR all-in-one software, which power our digitization projects with tons of simplicity and versatility. Both of them combine all the smart technologies and essential tools you need from OCR to automatic document detection, from image trimming to color adjusting, in a user-friendly, simplified and sleek interface.</p>",
+    "shortPoints": [
+      "24 megapixels",
+      "max papersize: a3",
+      "1.5s/ page"
+    ],
+    "file": [
+      {
+        "$oid": "6381b3995cbeae8e59d4c62c"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "62f21ffdf776e48295a74573"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "61cbf84c1d0a9407398262b6"
+    },
+    "brandId": {
+      "$oid": "61cbf4f11d0a9407398262a1"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "Czur  ET25 Pro",
+    "slug": "czur--et25-pro",
+    "sku": 1824,
+    "description": "<p><strong>• Patented Curve Flattening Technology</strong></p><p>Automatically flatten and correct the curve distortion of books</p><p><strong>• High-Speed Scanning</strong></p><p>Each scanning takes as fast as 1.5 seconds</p><p><strong>• Adjustable Brightness</strong></p><p>Enables adjustments for 4 levels of brightness to your surroundings</p><p><strong>• No R</strong><strong>eflections</strong></p><p>Additional light source from side light to evenly illuminate your documents and prevent reflections</p><p><strong>• Handles up to A3 Size</strong></p><p>Handles content measuring up to 18.89” x 14.17” and up to 1.96” thick</p><p><strong>• Built-in ABBYY® OCR</strong></p><p>Creates searchable PDFs and editable Word and Excel files for a lifetime free. Recognizes more than 180 languages</p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "62f21dabf94c2b67b62a9fb5"
+      },
+      {
+        "$oid": "62f21db9f94c2b67b62a9fbb"
+      },
+      {
+        "$oid": "62f21dbef94c2b67b62a9fbe"
+      },
+      {
+        "$oid": "62f21dc1f94c2b67b62a9fc1"
+      },
+      {
+        "$oid": "62f21dc6f94c2b67b62a9fc4"
+      },
+      {
+        "$oid": "62f21dcaf94c2b67b62a9fc7"
+      },
+      {
+        "$oid": "62f21dcdf94c2b67b62a9fca"
+      },
+      {
+        "$oid": "62f21dd1f94c2b67b62a9fcd"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Product Type </td> <td> Smart Scanner</td></tr><tr><td> Sensors </td> <td> CMOS</td></tr><tr><td> Mega Pixel </td> <td> 25MP</td></tr><tr><td> Resolutions. </td> <td> 5824 x 4368</td></tr><tr><td> DPI </td> <td> 330</td></tr><tr><td> Scanning Format </td> <td> Flat single page: &lt;-A3, Books: &lt;-A4</td></tr><tr><td> Maximum Scanning Format </td> <td> A3</td></tr><tr><td> Scan Speed </td> <td> Flat single page - 1.5s/page, Books - 1.5s/dual pages</td></tr><tr><td> Image Format </td> <td> JPG, PDF, TIFF</td></tr><tr><td> Export Format </td> <td> JPG, PDF, Searchable PDF, Word, Excel, TIFF</td></tr><tr><td> Light Source </td> <td> Top LED lights and side lights</td></tr><tr><td> Top LED Lights </td> <td> Yes</td></tr><tr><td> Side Lights </td> <td> Yes</td></tr><tr><td> Processor </td> <td> Dual core openrisc 32bit, 2Gbit DDR</td></tr><tr><td> Image Cache </td> <td> Hi-Speed DDR</td></tr><tr><td> Hand Button </td> <td> Yes</td></tr><tr><td> Foot Pedal </td> <td> Yes</td></tr><tr><td> Flattening Curve </td> <td> Yes</td></tr><tr><td> Smart Paging </td> <td> Yes</td></tr><tr><td> Smart Tilt Corrections and Auto-Cropping </td> <td> Yes</td></tr><tr><td> Professional Trimming </td> <td> Yes</td></tr><tr><td> Background Purifying </td> <td> Yes</td></tr><tr><td> Finger Removal </td> <td> Yes</td></tr><tr><td> USB </td> <td>  USB 2.0 High-Speed</td></tr><tr><td> OCR </td> <td> Yes</td></tr><tr><td> OCR Languages </td> <td> 180+</td></tr><tr><td> Color Mode </td> <td> Color, Patterns, Stamps, Gray scale, B&amp;W</td></tr><tr><td> Auto-Scan </td> <td> Yes</td></tr><tr><td> Manual Selection Scanning </td> <td> Yes</td></tr><tr><td> Screen Recording </td> <td> Yes</td></tr><tr><td> Video Recording </td> <td> Yes</td></tr><tr><td> Power Input </td> <td> 100 - 240V 50/60HZ</td></tr><tr><td> Power Output </td> <td> 9V/1.5A</td></tr><tr><td> System Support </td> <td> Windows 7, 8, 10, 11, XP, macOS 10.12 and above, Linux Ubuntu 16.04(Desktop 64-bit) or later</td></tr><tr><td> Color </td> <td> Black</td></tr><tr><td> Product Dimensions </td> <td> 375 x 220x 390mm</td></tr><tr><td> Product Weight </td> <td> 1.5 kg (Net), 4.8 kg (Gross)</td></tr><tr><td> Warranty </td> <td> 1 year</td></tr><tr><td> Others </td> <td> HDMI Type: HDMI 1.4</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<p>The ET series book scanners come with CZUR all-in-one software, which power our digitization projects with tons of simplicity and versatility. Both of them combine all the smart technologies and essential tools you need from OCR to automatic document detection, from image trimming to color adjusting, in a user-friendly, simplified and sleek interface.</p>",
+    "shortPoints": [
+      "25 megapixels",
+      "max papersize: a3",
+      " 1.5s/ page"
+    ],
+    "file": [
+      {
+        "$oid": "6381b3ed5cbeae8e59d4c6ab"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "62f3ab6e3d488c3d885f5e79"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "61cbf84c1d0a9407398262b6"
+    },
+    "brandId": {
+      "$oid": "61cbf4f11d0a9407398262a1"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "CZUR Shine Ultra Portable scanner",
+    "slug": "czur-shine-ultra-portable-scanner",
+    "sku": 1825,
+    "description": "<p><strong>Use Case &amp; Speed</strong><span>: Work with Windows XP,7,8,10 AND macOS 10.11 or later , macOS 10.13 or later recommended.Designed for A3&amp;A4(11.69*16.53 &amp; 8.27*11.75 inch) document, any objects smaller than A3 size can be scanned with Ultra-fast scanning speed, less than 1 second per page. Perfect device to scan books or papers.</span></p><p><strong>Document Camera &amp; Scanner</strong><span>: Work as both a document camera for remote teaching&amp;learning compatible with ZOOM, Goole Meet, Skype and a document scanner to scan papers and convert/OCR files. Able to scan 180+ languages and convert to JPG, PDF, Searchable PDF, Word, Excel and TIFF powered by ABBYY</span></p><p><strong>High Resolution &amp; AI Tech</strong><span>: CMOS 13MP (4160*3120, A4≈340 AND A3≈245 DPI) camera. Smart Paging and Auto Cropping, Combine Sides, Stamp Mode, and Multiple Color Modes</span></p><p><strong>﻿Height Adjustable &amp; Portable</strong><span>: 22-level height adjustable neck. 90 degree foldable and lightweight 4 lbs with foot pedal for convenient operation.1-year warranty is included</span></p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "62f3a9f33d488c3d885f5e4b"
+      },
+      {
+        "$oid": "62f3a9f73d488c3d885f5e4e"
+      },
+      {
+        "$oid": "62f3adb13d488c3d885f5f9d"
+      },
+      {
+        "$oid": "62f3adb43d488c3d885f5fa2"
+      },
+      {
+        "$oid": "62f3adb13d488c3d885f5f9d"
+      },
+      {
+        "$oid": "62f3adb43d488c3d885f5fa2"
+      },
+      {
+        "$oid": "62f3ae753d488c3d885f60eb"
+      },
+      {
+        "$oid": "62f3ae783d488c3d885f60ee"
+      },
+      {
+        "$oid": "62f3ae7b3d488c3d885f60f1"
+      },
+      {
+        "$oid": "62f3ae7f3d488c3d885f60f4"
+      },
+      {
+        "$oid": "62f3ae823d488c3d885f60f7"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Product Type </td> <td> Shine Ultra</td></tr><tr><td> Sensor/Pixel </td> <td> CMOS 13 Megapixel (4160*3120)</td></tr><tr><td> DPI </td> <td> A4~340; A3~245</td></tr><tr><td> Maximum scanning format: </td> <td> 480×360 mm (18.89×14.17 inch) (A3: 420 × 297 mm/ 16.5×11.7 inch)</td></tr><tr><td> Reference scanning thickness: </td> <td> 420×297 mm (A3): supports 6mm 271×195 mm (A4): supports10mm</td></tr><tr><td> Scan Speed: </td> <td> ≤1 sec</td></tr><tr><td> Video Parameter: </td> <td> MJPG 5696*4272@10Fps</td></tr><tr><td> Light Control: </td> <td> Stepless Dimming</td></tr><tr><td> Image format: </td> <td> JPG</td></tr><tr><td> Color bit depth: </td> <td> 24 bits</td></tr><tr><td> Export format: </td> <td> JPG, PDF, Searchable PDF, Word, Excel, TIFF</td></tr><tr><td> USB: </td> <td> USB2.0</td></tr><tr><td> Top LED lights: </td> <td> ✓</td></tr><tr><td> Focus mode: </td> <td> AF(Auto Focus)</td></tr><tr><td> Scanning method: </td> <td> Device Control, Software triggering, Foot pedal</td></tr><tr><td> System support: </td> <td> XP, Win 7/ 8/10, 32/64-bit; macOS 10.11 and later;</td></tr><tr><td> OCR </td> <td> ✓</td></tr><tr><td> OCR languages: </td> <td> 180+</td></tr><tr><td> Smart paging: </td> <td> ✓</td></tr><tr><td> Smart tilt corrections and auto-cropping: </td> <td> ✓</td></tr><tr><td> Trimming: </td> <td> ✓</td></tr><tr><td> Color mode: </td> <td> ✓</td></tr><tr><td> Combine sides: </td> <td> ✓</td></tr><tr><td> Manual Selection scanning: </td> <td> ✓</td></tr><tr><td> Video recording: </td> <td> ✓</td></tr><tr><td> Auto-scan: </td> <td> ✓</td></tr><tr><td> Product appearance: </td> <td> Black</td></tr><tr><td> Product Dimensions: </td> <td> 116.9*157.9*334.9mm (l*w*h) / 116.9*157.9*409.4mm (pull-out)(l*w*h)</td></tr><tr><td> Weight </td> <td> 1kg.</td></tr><tr><td> Packaging list: </td> <td> Main Device,USB Cable,Foot Pedal,Finger Cots,Black Work Mat,User Manual</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<p>CZUR Shine Ultra</p><p>Powerful book scanner makes scanning as easy as breeze</p><p>With OCR (Optical Character Recognition) functionality</p><p>Shine Ultra enables you to transfer scanned pages into editable files including searchable PDFs, JPG, Word, and others,</p><p>which elevates scanning possibilities to a whole new level.</p><p>With over 186 languages supported, this powerful scanner gets it all done!</p><p>Bring an entire library with you everywhere you go!</p>",
+    "shortPoints": [
+      "13 Megapixel Camera",
+      "≤1 sec scan speed",
+      "autofocus"
+    ],
+    "file": [
+      {
+        "$oid": "6381b4525cbeae8e59d4c71c"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6409a533fa708f88dd28364d"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "61cbf84c1d0a9407398262b6"
+    },
+    "brandId": {
+      "$oid": "61cbf4f11d0a9407398262a1"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "CZUR M3000 Pro V2 Pro Book Scanner",
+    "slug": "czur-m3000-pro-v2-pro-book-scanner",
+    "sku": 1826,
+    "description": "<p>Scanning books is no longer a challenge. Gone are the days where you need to forcibly press the spine of a delicate book against the glass of a standard office copier to digitally scan pages. The M3000 Pro V2 book scanner from CZUR provides the easiest way to scan books, magazines, article, records, or any other document up to A3.</p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "61d994f76f3b7a8a81014e03"
+      },
+      {
+        "$oid": "621798aa4cdff31f8a1c3dd1"
+      },
+      {
+        "$oid": "621798ad4cdff31f8a1c3dd4"
+      },
+      {
+        "$oid": "621798af4cdff31f8a1c3dd7"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Model </td> <td> M3000 Pro V2</td></tr><tr><td> Scanning materials </td> <td> Documents, Books, Magazines, Files, Scrolls, Forms, Invoices, Certificates, Business cards and Sculpture object </td></tr><tr><td> Sensor </td> <td> CMOS</td></tr><tr><td> Pixel </td> <td> 28M</td></tr><tr><td> Resolution </td> <td> 6144*4608</td></tr><tr><td> DPI(default) </td> <td> 360</td></tr><tr><td> Format </td> <td> Flat single page≤A3, Books≤A4</td></tr><tr><td> Speed </td> <td> Flat single page≈1.2s/page/Books≈1.2s/dual pages</td></tr><tr><td> Pre scan </td> <td> 0s</td></tr><tr><td> Image format </td> <td> JPG</td></tr><tr><td> Color bit depth </td> <td> 24 bits</td></tr><tr><td> Export format </td> <td> JPG, PDF, Searchable PDF, Word, Excel, TIFF</td></tr><tr><td> Video streaming format </td> <td> MJPG</td></tr><tr><td> Preview </td> <td> PC-Visual presenter: 3072*1728@12Fps; PC-Scanning:1536*1152@20Fps</td></tr><tr><td> USB </td> <td> USB 2.0 High-Speed</td></tr><tr><td> Light source </td> <td> Natural light and LED lights</td></tr><tr><td> Top LED lights </td> <td> ✔</td></tr><tr><td> Side lights </td> <td> ✔</td></tr><tr><td> Focus mode </td> <td> Fixed focus</td></tr><tr><td> Scanning access </td> <td> Device Control, Software triggering, Hand button, Foot pedal</td></tr><tr><td> System support </td> <td> XP, Win 7/ 8/10/11, 32/64-bit; macOS 10.13 and above</td></tr><tr><td> Processor </td> <td> Dual core openrisc 32bit</td></tr><tr><td> Laser - assisted </td> <td> 3 laser rays</td></tr><tr><td> DDR </td> <td> 1G bit</td></tr><tr><td>  Image cache </td> <td> Hi-Speed DDR</td></tr><tr><td> LCD </td> <td> 2.4\", 4:3, 320x240</td></tr><tr><td> MIC </td> <td> ✔</td></tr><tr><td> Buzzer </td> <td> ✔</td></tr><tr><td> Hand button </td> <td> ✔</td></tr><tr><td> Foot pedal </td> <td> ✔</td></tr><tr><td> Hard document base </td> <td> ✔</td></tr><tr><td> Book rest </td> <td> ✔</td></tr><tr><td> Book cover block </td> <td> ✔</td></tr><tr><td> Power\t </td> <td> Input:AC 100-240V-50/60HZ 0.6A Output: DC 9V=1.5A-2A</td></tr><tr><td> OCR </td> <td> ✔</td></tr><tr><td> OCR languages </td> <td> 180+</td></tr><tr><td> Visual presenter </td> <td> USB-PC Visual presenter</td></tr><tr><td> Flattening Curve </td> <td> ✔</td></tr><tr><td> Smart paging </td> <td> ✔</td></tr><tr><td> Smart tilt corrections and auto-cropping </td> <td> ✔</td></tr><tr><td> Professional trimming </td> <td> ✔</td></tr><tr><td> Background purifying </td> <td> ✔</td></tr><tr><td> Finger removal </td> <td> ✔</td></tr><tr><td> Color mode </td> <td> Color, Patterns, Stamps, Gray scale, B&amp;W </td></tr><tr><td> Auto-scan </td> <td> ✔</td></tr><tr><td> Manual Selection scanning </td> <td> ✔</td></tr><tr><td> Combined Sides scanning </td> <td> ✔</td></tr><tr><td> Blank page detection </td> <td> ✔</td></tr><tr><td> Watermark </td> <td> ✔</td></tr><tr><td> Screen recording  </td> <td> ✔</td></tr><tr><td> Video recording </td> <td> ✔</td></tr><tr><td> Element </td> <td> 2G2P+IR</td></tr><tr><td> Sensor Size </td> <td> 1/2.3\"</td></tr><tr><td> EFL </td> <td> 4.7mm</td></tr><tr><td> BFL </td> <td> &gt;6.18mm</td></tr><tr><td> F/NO  </td> <td> 3.5</td></tr><tr><td> IR Cut  </td> <td> 650±10nm</td></tr><tr><td> Field of view </td> <td> 82Â°</td></tr><tr><td> Distortion </td> <td> &lt;0.3%</td></tr><tr><td> Product appearance </td> <td> Black</td></tr><tr><td> Product dimensions </td> <td> 505*520*425mm (l*w*h)</td></tr><tr><td> Weight </td> <td> 4.5KG (Net)</td></tr><tr><td> Packaging list </td> <td> Scanner, Side lights, USB cable, Power adapter, Hand button Foot pedal, Black document pad, Specialized finger cots, CD, User manual, Warranty card, Quality certificate</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<ul><li>Two Pages in 1.2s | 28MP</li><li>Book Scanner</li><li>Max paper size: A3</li></ul>",
+    "shortPoints": [
+      "Two Pages in 1.2s | 28MP",
+      "Book Scanner",
+      "Max paper size: A3"
+    ],
+    "file": [
+      "61d7f0f27b742f990fde0490",
+      {
+        "$oid": "62d404f3dda7dbf1675692bf"
+      }
+    ],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "64379ae3f7de3e4e87f4145f"
+    },
+    "userId": {
+      "$oid": "61cb1bb646d546f1a70c8b28"
+    },
+    "categoryId": {
+      "$oid": "61cbf84c1d0a9407398262b6"
+    },
+    "brandId": {
+      "$oid": "61cbf4f11d0a9407398262a1"
+    },
+    "price": 100,
+    "qty": 100,
+    "title": "CZUR LENS 1200 PRO",
+    "slug": "czur-lens-1200-pro",
+    "sku": 1827,
+    "description": "<p><strong>Exquisite design touching your heart</strong></p><p>Slim and delicate with a small base Any placement in the desktop space Portable</p><p><strong>High pixel + fixed focal+ large depth of field= Fast and Clear</strong></p><p>No preheating</p><p>No need to focus</p><p>Scanning at power-on</p><p>What you see is what you get</p><p><br /></p><p>Focus on scanning</p><p>profound black technology</p><p>Rapid Imaging</p><p>Intelligent Software</p><p>OCR (Optical Character Recognition)</p><p>Auto-Scan</p><p><strong>Powerful AI Scan Software CZUR Lens</strong></p><p>Corrective edge , Background Color Optimization,Post-processing</p><p>All done automatically by the software,</p><p>Output with one click</p><p><strong>Programming Languages</strong></p><p>OCR software supports 180+ languages</p><p>Basic/C++/Fortran/JAVA/Pascal more programming languages</p><p>Convert scanned images into editable documents</p><p>High Optical Character Recognition accuracy ------ Up to 99%</p><p><strong>Auto-Scan</strong></p><p><strong>Free your hands</strong></p><p>Auto page-turning detecting</p><p>Makes scanning than ever before easier</p><p>PC end trigger</p><p>Automatic detection scanning</p><p><strong>Powerful functions meet all your needs</strong></p><p>Combining the front and back side</p><p>Add watermark</p><p>Barcode &amp;QR recognition</p><p>Multi-page composition</p><p>Frame select area scanning</p><p><strong>HD Visual Presenter</strong></p><p><strong>Real-time screen ,Easy to label, Zoom in, Add text</strong></p><p>Work/ Study from home can be easier by screen sharing</p><p><strong>Rotate the lever</strong></p><p><strong>switch the shooting mode</strong></p><p>Elaborate structure makes perfect</p><p>No extra- camera required</p><p>Easy portrait capture, video conferencing</p><p><strong>CZUR Camera is powerful</strong></p><p><br /></p><p><strong>HD video with audio recording</strong></p><p>Start screen recording,</p><p>Ease of operation</p><p>Recorded online meetings / lectures can be exported directly</p><p>Direct export of recorded online meetings/ lectures</p><p><strong>Application Scenario</strong></p><p>Applicable scenarios: finance, insurance, education, communication industry, government agencies, enterprises, etc</p><p>Applicable materials: documents, archives, forms, bills, certificates, etc</p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p><p><br /></p>",
+    "dimension": "f33",
+    "image": [
+      {
+        "$oid": "64379a20f7de3e4e87f4144b"
+      },
+      {
+        "$oid": "64379a20f7de3e4e87f4144e"
+      },
+      {
+        "$oid": "64379a24f7de3e4e87f41451"
+      },
+      {
+        "$oid": "64379a28f7de3e4e87f41454"
+      },
+      {
+        "$oid": "64379a2df7de3e4e87f41457"
+      },
+      {
+        "$oid": "64379a32f7de3e4e87f4145a"
+      }
+    ],
+    "specifications": "<div>         <div>           <div>                       </div>         </div>         <div>           <div>             <table>               <tr><td> Basic Information </td> <td> Brand</td><td>CZUR</td></tr><tr><td>   </td> <td> Model</td><td>Lens 1200 Pro</td></tr><tr><td>   </td> <td> Region</td><td>Overseas</td></tr><tr><td>   </td> <td> Product Type</td><td>Smart Scanner</td></tr><tr><td>   </td> <td> Product Series</td><td>CZUR Lens</td></tr><tr><td>   </td> <td> Application scene</td><td>Enterprise, Education, Family, Personal and so on</td></tr><tr><td>   </td> <td> Scanning Material</td><td>Documents, archives, forms, vouchers, ID documents and so on</td></tr><tr><td> Regular Parameter  </td> <td> Sensor</td><td>CMOS</td></tr><tr><td>   </td> <td> Pixel</td><td>12 megapixels</td></tr><tr><td>   </td> <td> Resolution</td><td>4032*3024</td></tr><tr><td>   </td> <td> DPI (default)</td><td>≈330</td></tr><tr><td>   </td> <td> Scan Format</td><td>≤A4</td></tr><tr><td>   </td> <td> Scan Speed</td><td>≤1 sec</td></tr><tr><td>   </td> <td> Pre Scan</td><td> 0 sec</td></tr><tr><td>   </td> <td> Image Format</td><td>JPG、TIFF</td></tr><tr><td>   </td> <td> Image Color</td><td>24 bits</td></tr><tr><td>   </td> <td> Static File Output Format</td><td>JPG, PDF, Searchable PDF, Word, Excel</td></tr><tr><td>   </td> <td> Dynamic File Output Format</td><td>MP4</td></tr><tr><td>   </td> <td> Video Stream Format</td><td>MJPG,Switchable YUV</td></tr><tr><td>   </td> <td> Video Parameter</td><td>MJPG 4032*3024@15fps</td></tr><tr><td>   </td> <td> Focus Mode</td><td> Fixed focus</td></tr><tr><td>  Optics </td> <td> Lens Structure</td><td> 3G2P+IR</td></tr><tr><td>   </td> <td> Light-Sensing Surface</td><td> 1/3.2\"</td></tr><tr><td>   </td> <td> EFL</td><td>4.7mm±5%</td></tr><tr><td>   </td> <td> BFL</td><td>6.18mm±5%</td></tr><tr><td>   </td> <td> F/NO.</td><td>3.5</td></tr><tr><td>   </td> <td> IR Cut</td><td> 650±10nm</td></tr><tr><td>   </td> <td> Angle</td><td> 62°±5%</td></tr><tr><td>   </td> <td> Distortion</td><td>＜0.5%</td></tr><tr><td>  Configuration Parameter </td> <td> Ports</td><td> Type-c</td></tr><tr><td>   </td> <td> Hall switch Sensor</td><td>√</td></tr><tr><td>   </td> <td> Power Indicator Light</td><td>White</td></tr><tr><td>   </td> <td> Major Microphone</td><td>Digital MIC</td></tr><tr><td>   </td> <td> Scan Light Source</td><td>Natural light 、 LED fill light</td></tr><tr><td>   </td> <td> LED Fill Light</td><td>Support</td></tr><tr><td>   </td> <td> Top LED adjustment mode</td><td>Smart Control: Turn off the light when crossbar closed and turn on the light when crossbar unfolded automatically;</td></tr><tr><td>   </td> <td>  </td><td>Key Control: ON, OFF.</td></tr><tr><td>   </td> <td>  Side Fill Light</td><td>×</td></tr><tr><td>   </td> <td> Foot Pedal</td><td>×</td></tr><tr><td>   </td> <td> Soft Document Pad</td><td>Support</td></tr><tr><td>   </td> <td> Power</td><td>USB 5V/500mA</td></tr><tr><td>  Specific Function </td> <td> Document Scanning</td><td>√</td></tr><tr><td>   </td> <td> Visual Presenter</td><td>√</td></tr><tr><td>   </td> <td> Major Camera Scene Shooting</td><td>√</td></tr><tr><td>   </td> <td> Deputy Camera Scene Shooting</td><td> ×</td></tr><tr><td>   </td> <td> Base Rotation</td><td>√ Rotate 180 degrees horizontally</td></tr><tr><td>   </td> <td> Face recognition</td><td>×</td></tr><tr><td>   </td> <td> OCR Text Recognition</td><td>Support 185 languages</td></tr><tr><td>   </td> <td> TWAIN Port</td><td>×</td></tr><tr><td>   </td> <td> SDK Development Package</td><td>×</td></tr><tr><td>  Software Function </td> <td> Smart Tilt Adjustment and Auto-Cropping</td><td>√</td></tr><tr><td>   </td> <td> ID card left blank in corner</td><td>√</td></tr><tr><td>   </td> <td> Adjust by text direction</td><td>√</td></tr><tr><td>   </td> <td> Manual Selection Scanning</td><td>√</td></tr><tr><td>   </td> <td> Background Purifying</td><td>√</td></tr><tr><td>   </td> <td> Combining the Front and the Back Sides in Scanning</td><td>√</td></tr><tr><td>   </td> <td> Combine Muti-pages into one</td><td> ×</td></tr><tr><td>   </td> <td> Add Watermark</td><td>√</td></tr><tr><td>   </td> <td> Bar Code Recognition</td><td>√</td></tr><tr><td>   </td> <td> QR Code Recognition</td><td>√</td></tr><tr><td>   </td> <td> Multi business card smart cutting and splitting</td><td>√</td></tr><tr><td>   </td> <td> Inteligent completion of damaged pages</td><td>√</td></tr><tr><td>   </td> <td> Book scanning and surface flattening</td><td>×</td></tr><tr><td>   </td> <td> Video</td><td>1920*1080 and 1600*1200 optional, contains sound</td></tr><tr><td>   </td> <td> Scan Method</td><td>PC software triggering, auto-scan after page turning detection</td></tr><tr><td>   </td> <td> OS</td><td>XP/Win7/Win8/Win10, 32-bit or 64-bit；MacOS</td></tr><tr><td>  Packaging and Accessories </td> <td> Product Color</td><td>Black</td></tr><tr><td>   </td> <td> Product Dimension</td><td>325.5*105*78.5mm</td></tr><tr><td>   </td> <td> Product Weight</td><td>0.42 Kg N.W. 1.05kg G.W.</td></tr><tr><td>   </td> <td> Packaging List</td><td>Scanner, Type-C Cable, Soft Document Pad, CD, Getting Started Guide</td></tr>             </table>           </div>         </div>          <div>           <div>             <div>                          </div>           </div>         </div>       </div>     ",
+    "shortDescription": "<p>Corrective edge</p><p>Background Color Optimization</p><p>Post-processing</p><p>All done automatically by the software</p><p>Output with one click</p><p><br /></p><p><br /></p>",
+    "shortPoints": [
+      "Corrective edge",
+      "Output with one click",
+      "Post-processing"
+    ],
+    "file": [],
+    "salesSection": "new",
+    "totalSales": 0,
+    "productTag": [],
+    "keywords": [],
+    "order": 0,
+    "viewCount": 1,
+    "saleCount": 0,
+    "status": true,
+    "seller": [
+      {
+        "sellerName": "Eriberto",
+        "sellerId": {
+          "$oid": "61cb1bb646d546f1a70c8b28"
+        },
+        "_id": {
+          "$oid": "64b535c34187730f2ef06f74"
+        }
+      }
+    ]
+  }
+]

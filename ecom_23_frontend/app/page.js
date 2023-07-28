@@ -55,7 +55,7 @@ async function getData({
 
   url += `&${params.toString()}`;
 
-  const res = await fetch(url);
+  const res = await fetch(url, { cache: "no-store" });
 
   // The return value is *not* serialized
   // You can return Date, Map, Set, etc.
