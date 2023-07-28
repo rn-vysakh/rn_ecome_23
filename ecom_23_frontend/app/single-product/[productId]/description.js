@@ -33,9 +33,7 @@ export default function ProductDescription({ description, spec, downloads }) {
   const DownloadSec = () => {
     return (
       <div>
-        <h1>
-          Comimg Soon <br />
-        </h1>
+        <h1>Coming Soon</h1>
       </div>
     );
   };
