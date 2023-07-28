@@ -110,7 +110,7 @@ const productFn = async () => {
       qty: 100,
       title: data[i].name,
       slug: slugify(data[i].name),
-      sku: 1510 + i,
+      sku: 1610 + i,
       description: sanitizeHtml(data[i].description),
       dimension: "f33",
       image: data[i].image,
