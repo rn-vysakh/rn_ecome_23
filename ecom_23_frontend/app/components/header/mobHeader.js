@@ -8,7 +8,6 @@ import Iconify from "@/app/components/common/Iconify";
 import navItems from "./navItems";
 import navUrl from "@/utils/apis";
 
-
 const staggerMenuItems = stagger(0.1, { startDelay: 0.15 });
 
 function useMenuAnimation(isOpen) {
@@ -21,6 +20,7 @@ function useMenuAnimation(isOpen) {
         clipPath: isOpen
           ? "inset(0% 0% 0% 0% round 10px)"
           : "inset(10% 50% 90% 50% round 10px)",
+        zIndex: 100,
       },
       {
         type: "spring",
@@ -62,8 +62,8 @@ const MobHeader = ({ currentMenu }) => {
 
   const handleChildMenuClick = (key) => {
     if (childMenu === key) {
-        setChildMenu(null);
-        setIsMenuOpen(null);
+      setChildMenu(null);
+      setIsMenuOpen(null);
       setActiveMenu(null);
       return;
     }
@@ -81,7 +81,6 @@ const MobHeader = ({ currentMenu }) => {
     setChildMenu(null);
   }, [pathname]);
 
-
   const ChildMenu = ({ child }) => {
     return (
       <motion.div
@@ -98,7 +97,12 @@ const MobHeader = ({ currentMenu }) => {
               key={key}
               className=" p-2  transition-all duration-100 font-normal hover:font-bold border-b hover:bg-gray-600"
             >
-              <div className="text-md text-white " onClick={() => handleChildMenuClick(key)}>{item.name}</div>
+              <div
+                className="text-md text-white "
+                onClick={() => handleChildMenuClick(key)}
+              >
+                {item.name}
+              </div>
             </Link>
           ))}
         </div>
@@ -118,17 +122,22 @@ const MobHeader = ({ currentMenu }) => {
         <div className="w-full h-full flex flex-col gap-1">
           {child.map((item, key) => (
             <>
-            <Link
-              href={item.link}
-              key={key}
-              className=" p-2  transition-all duration-100 font-normal hover:font-bold border-b hover:bg-gray-600"
-            >
-              <div className="text-md text-white" onClick={() => handleChildMenuClick(key)}>{item.name}</div>
-            </Link>
-             {childMenu === key && item.child && (
+              <Link
+                href={item.link}
+                key={key}
+                className=" p-2  transition-all duration-100 font-normal hover:font-bold border-b hover:bg-gray-600"
+              >
+                <div
+                  className="text-md text-white"
+                  onClick={() => handleChildMenuClick(key)}
+                >
+                  {item.name}
+                </div>
+              </Link>
+              {childMenu === key && item.child && (
                 <ChildMenu child={item.child} />
               )}
-              </>
+            </>
           ))}
         </div>
       </motion.div>
@@ -137,45 +146,46 @@ const MobHeader = ({ currentMenu }) => {
 
   const Menu = () => {
     return (
-      <div className="bg-gray-900  py-5 px-8 rounded-[12px] shadow-xl w-full mt-3 z-100 max-h-[80vh] scroll-auto">
-       <div className="flex flex-col gap-5  font-semibold ">
+      <div className="bg-gray-900  py-5 px-8 rounded-[12px] shadow-xl w-full mt-3 overflow-scroll">
+        <div className="flex flex-col gap-5  font-semibold ">
           {navItems.map((item, key) => (
             <div key={key} className="w-full">
-             {item.child ? ( <button
-                className=" border-b menu-item flex justify-between items-center p-2 w-full hover:bg-gray-600"
-                onClick={() => handleSubMenuClick(key)}
-              >
-                <div className="text-white">{item.name}</div>
-                <div>
-                  {item.child && (
-                    <Iconify
-                      icon={
-                        key === activeMenu
-                          ? "ri-arrow-up-s-line"
-                          : "ri-arrow-down-s-line"
-                      }
-                    />
-                  )}
-                </div>
-              </button>) :(
-                 <a
-                 href={item.link}
-                 className=" border-b menu-item flex justify-between items-center p-2 w-full hover:bg-gray-600"
-                
-               >
-                 <div className="text-white">{item.name}</div>
-                 <div>
-                   {item.child && (
-                     <Iconify
-                       icon={
-                         key === activeMenu
-                           ? "ri-arrow-up-s-line"
-                           : "ri-arrow-down-s-line"
-                       }
-                     />
-                   )}
-                 </div>
-               </a>
+              {item.child ? (
+                <button
+                  className=" border-b menu-item flex justify-between items-center p-2 w-full hover:bg-gray-600"
+                  onClick={() => handleSubMenuClick(key)}
+                >
+                  <div className="text-white">{item.name}</div>
+                  <div>
+                    {item.child && (
+                      <Iconify
+                        icon={
+                          key === activeMenu
+                            ? "ri-arrow-up-s-line"
+                            : "ri-arrow-down-s-line"
+                        }
+                      />
+                    )}
+                  </div>
+                </button>
+              ) : (
+                <a
+                  href={item.link}
+                  className=" border-b menu-item flex justify-between items-center p-2 w-full hover:bg-gray-600"
+                >
+                  <div className="text-white">{item.name}</div>
+                  <div>
+                    {item.child && (
+                      <Iconify
+                        icon={
+                          key === activeMenu
+                            ? "ri-arrow-up-s-line"
+                            : "ri-arrow-down-s-line"
+                        }
+                      />
+                    )}
+                  </div>
+                </a>
               )}
               {activeMenu === key && item.child && (
                 <SubMenu child={item.child} />
@@ -200,18 +210,22 @@ const MobHeader = ({ currentMenu }) => {
                   width={200}
                   height={200}
                 /> */}
-                <img src="/assets/images/rn-logo-white.png" height={200} width={200}/>
+                <img
+                  src="/assets/images/rn-logo-white.png"
+                  height={200}
+                  width={200}
+                />
               </Link>
             </div>
             <div className=" flex gap-2">
               <button
-                className="text-2xl bg-white p-2 rounded-lg shadow-xl border active:scale-95 active:translate-y-1 ease-in-out transition-all duration-100 "
+                className="text-2xl bg-white p-2  shadow-xl border active:scale-95 active:translate-y-1 ease-in-out transition-all duration-100 "
                 onClick={handleMenuOpen}
               >
                 {isMenuOpen ? (
-                  <Iconify icon="ri-close-line"/>
+                  <Iconify icon="ri-close-line" />
                 ) : (
-                  <Iconify icon="ri-menu-line"/>
+                  <Iconify icon="ri-menu-line" />
                 )}
               </button>
             </div>
