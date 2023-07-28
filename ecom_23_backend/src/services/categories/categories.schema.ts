@@ -12,6 +12,7 @@ export function createCategorySchema(
   const schema = Joi.object({
     categoryName: Joi.string().required(),
     description: Joi.string(),
+    order: Joi.number(),
     image: Joi.string(),
     parentId: Joi.string(),
     parentName: Joi.string(),
@@ -57,6 +58,7 @@ export function editCategorySchema(
     id: Joi.string().required(),
     categoryName: Joi.string(),
     description: Joi.string(),
+    order: Joi.number(),
     parentId: Joi.string(),
     categorySection: Joi.string(),
 
