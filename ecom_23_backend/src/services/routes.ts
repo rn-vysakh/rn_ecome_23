@@ -9,6 +9,7 @@ import brandRoutes from "./brand/brand.routes";
 import tagRoutes from "./tag/tag.routes";
 import ProductRoutes from "./products/product.routes";
 import HomeRoutes from "./home/homeSlider.routes";
+import FileRoutes from "./fileUpload/file.routes";
 
 const router: Router = Router();
 
@@ -20,5 +21,6 @@ router.use("/tag", tagRoutes);
 router.use("/product", ProductRoutes);
 router.use("/image", ImageRoutes);
 router.use("/home", HomeRoutes);
+router.use("/file", FileRoutes);
 
 export default router;

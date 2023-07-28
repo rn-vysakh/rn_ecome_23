@@ -31,9 +31,11 @@ export async function generateMetadata({ params, searchParams }, parent) {
   let url = `${CONST.BASE_URL}/api/product/${id}`;
 
   // fetch data
-  const { data } = await fetch(url).then((res) => res.json());
+  const { data } = await fetch(url, {
+    cache: "no-cache",
+  }).then((res) => res.json());
 
-  console.log(data);
+  // console.log(data);
 
   const imgUrl = `${CONST.IMG_URL}/products/${data?.image[0]?.ogUrl}`;
 
@@ -91,6 +93,7 @@ export default async function SingleProduct({ params }) {
           <ProductDescription
             description={data.description}
             spec={data.specifications}
+            downloads={data.file}
           />
         </div>
       </div>

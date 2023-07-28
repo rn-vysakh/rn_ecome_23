@@ -288,7 +288,7 @@ export const getSingleProducts = async (req: Request, res: Response) => {
         },
       ])
       .populate("image", " -__v -createdAt -updatedAt")
-      // .populate("file", " -__v -createdAt -updatedAt")
+      .populate("file", " -__v -createdAt -updatedAt")
       .lean();
 
     if (productData) {

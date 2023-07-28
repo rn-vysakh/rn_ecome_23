@@ -3,9 +3,12 @@
 import React, { useState } from "react";
 import { MdOutlineDescription, MdFileDownload } from "react-icons/md";
 import { BsTable } from "react-icons/bs";
+import CONST from "@/utils/apis";
 
 export default function ProductDescription({ description, spec, downloads }) {
   const [current, setCurrent] = useState(0);
+
+  console.log(downloads);
 
   const DescSec = () => {
     return (
@@ -29,11 +32,46 @@ export default function ProductDescription({ description, spec, downloads }) {
       ></div>
     );
   };
+
+  const onDownloadButtonClick = ({ url, title }) => {
+    // using Java Script method to get PDF file
+    console.log(url);
+    fetch(url).then((response) => {
+      response.blob().then((blob) => {
+        // Creating new object of PDF file
+        const fileURL = window.URL.createObjectURL(blob);
+        // Setting various property values
+        let alink = document.createElement("a");
+        alink.href = fileURL;
+        alink.download = title;
+        alink.click();
+      });
+    });
+  };
+
   // console.log(spec);
   const DownloadSec = () => {
     return (
       <div>
-        <h1>Coming Soon</h1>
+        {downloads?.map((item, key) => (
+          <a
+            href={`${CONST.IMG_URL}/files/${item?.url}`}
+            target="_blank"
+            key={key}
+          >
+            <div
+              className="bg-gray-200 my-2 py-2 px-2 w-full md:w-72 hover:bg-slate-600 hover:text-white"
+              // onClick={() =>
+              //   onDownloadButtonClick({
+              //     url: `${CONST.IMG_URL}/files/${item?.url}`,
+              //     title: item?.title,
+              //   })
+              // }
+            >
+              {item?.title}
+            </div>
+          </a>
+        ))}
       </div>
     );
   };
