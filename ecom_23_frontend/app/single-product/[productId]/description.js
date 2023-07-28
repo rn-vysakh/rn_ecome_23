@@ -1,6 +1,8 @@
 "use client";
 
 import React, { useState } from "react";
+import { MdOutlineDescription, MdFileDownload } from "react-icons/md";
+import { BsTable } from "react-icons/bs";
 
 export default function ProductDescription({ description, spec, downloads }) {
   const [current, setCurrent] = useState(0);
@@ -31,7 +33,9 @@ export default function ProductDescription({ description, spec, downloads }) {
   const DownloadSec = () => {
     return (
       <div>
-        <h1>Download Section</h1>
+        <h1>
+          Commimg Soon <br />
+        </h1>
       </div>
     );
   };
@@ -56,7 +60,10 @@ export default function ProductDescription({ description, spec, downloads }) {
             } px-8 py-2`}
             onClick={() => setCurrent(0)}
           >
-            <h1 className="">Description</h1>
+            <h1 className="hidden md:block">Description</h1>
+            <div className="text-3xl  text-slate-900 md:hidden">
+              <MdOutlineDescription />
+            </div>
           </button>
           <button
             className={`${
@@ -64,7 +71,10 @@ export default function ProductDescription({ description, spec, downloads }) {
             } px-8 py-2`}
             onClick={() => setCurrent(1)}
           >
-            <h1 className="">Specifications</h1>
+            <h1 className="hidden md:block">Specifications</h1>
+            <div className="text-3xl  text-slate-900 md:hidden">
+              <BsTable />
+            </div>
           </button>
           <button
             className={`${
@@ -72,10 +82,13 @@ export default function ProductDescription({ description, spec, downloads }) {
             } px-8 py-2`}
             onClick={() => setCurrent(2)}
           >
-            <h1 className="">Downloads</h1>
+            <h1 className="hidden md:block">Downloads</h1>
+            <div className="text-3xl  text-slate-900 md:hidden">
+              <MdFileDownload />
+            </div>
           </button>
         </div>
-        <div className=" bg-gray-100 px-12 py-8 mb-12 ">
+        <div className=" bg-gray-100 px-12 py-8 mb-12 max-w-screen  overflow-auto ">
           <AccordionSec />
           {/* ss */}
         </div>

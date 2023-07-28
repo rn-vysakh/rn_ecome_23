@@ -124,12 +124,12 @@ export default function ImageSlider({ images }) {
                 index === current && "border-gray-300 border-2 scale-110"
               }`}
             >
-              <Image
+              <img
                 src={`${CONST.IMG_URL}/products/${item.mdUrl}`}
-                width={200}
-                height={200}
+                // width={100}
+                // height={100}
                 alt="Product Image"
-                className=""
+                className=" max-h-16  max-w-16"
               />
             </div>
           ))}
