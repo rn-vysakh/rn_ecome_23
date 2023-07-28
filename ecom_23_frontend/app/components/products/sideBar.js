@@ -2,7 +2,7 @@
 
 import React, { useState, useCallback, useEffect } from "react";
 import { useSearchParams, useRouter, usePathname } from "next/navigation";
-import FilterSection from "@/app/products/filterSection";
+import FilterSection from "@/app/components/products/filterSection";
 import CONST from "@/utils/apis";
 import Link from "next/link";
 import { getBrands, getCategories, getTags } from "@/utils/apiCalling";

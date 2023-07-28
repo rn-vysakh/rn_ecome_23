@@ -1,8 +1,9 @@
 import React from "react";
-import ProductGridSec from "@/app/products/productGridSec";
-import SideBar from "@/app/products/sideBar";
+import ProductGridSec from "@/app/components/products/productGridSec";
+import SideBar from "@/app/components/products/sideBar";
 import Pagination from "@/app/components/products/pagination";
-import SearchBar from "@/app/products/searchBar";
+import SearchBar from "@/app/components/products/searchBar";
+import MobFiltter from "@/app/components/products/mobileFilter";
 import LandingSec from "@/app/components/landing";
 import CONST from "@/utils/apis";
 
@@ -108,17 +109,26 @@ export default async function Products({ searchParams }) {
         img="/assets/images/header1.webp"
       />
       <div className="flex flex-col md:flex-row relative">
-        <div className="w-full lg:w-1/6 hidden lg:block">
-          <SideBar searchParams={searchParams} />
-        </div>
-        <div className="w-full lg:w-5/6 bg-white">
-          <div className="p-2 mx-4 mt-4 flex flex-col md:flex-row justify-between items-center">
-            <h2 className="text-sm text-gray-600">
+        <div className="w-full  md:hidden ">
+          <MobFiltter searchParams={searchParams}>
+            <h2 className="text-sm text-gray-600 ">
               Showing {pagination.limit * (pagination.page - 1) + 1} -{" "}
               {pagination.limit * pagination.page} of {pagination.totalCount}{" "}
               results
             </h2>
-            <div>
+          </MobFiltter>
+        </div>
+        <div className="w-full lg:w-1/6 hidden lg:block">
+          <SideBar searchParams={searchParams} />
+        </div>
+        <div className="w-full lg:w-5/6 bg-white ">
+          <div className="p-2 mx-4 mt-4  flex-col md:flex-row justify-between items-center hidden lg:flex">
+            <h2 className="text-sm text-gray-600 ">
+              Showing {pagination.limit * (pagination.page - 1) + 1} -{" "}
+              {pagination.limit * pagination.page} of {pagination.totalCount}{" "}
+              results
+            </h2>
+            <div className="hidden md:block">
               <SearchBar searchParams={searchParams} />
             </div>
           </div>
