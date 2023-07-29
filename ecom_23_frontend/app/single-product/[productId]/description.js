@@ -8,9 +8,8 @@ import CONST from "@/utils/apis";
 export default function ProductDescription({ description, spec, downloads }) {
   const [current, setCurrent] = useState(0);
 
-  console.log(downloads);
-
   const DescSec = () => {
+    if (!description) return null;
     return (
       <div
         className="product-description-wrap max-w-5xl"
@@ -19,11 +18,7 @@ export default function ProductDescription({ description, spec, downloads }) {
     );
   };
   const SpecSec = () => {
-    // let stringWithoutCommas = spec.replace(/<\/tr>,/g, "</tr>");
-    // stringWithoutCommas = stringWithoutCommas.replace(
-    //   /<\/td><\/tr>,/g,
-    //   "</td></tr>"
-    // );
+    if (!spec) return null;
 
     return (
       <div
@@ -68,7 +63,7 @@ export default function ProductDescription({ description, spec, downloads }) {
               //   })
               // }
             >
-              {item?.title}
+              {item?.title || "Download"}
             </div>
           </a>
         ))}

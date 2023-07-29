@@ -10,7 +10,9 @@ import EnqSec from "./enqModal";
 const getData = async ({ productId }) => {
   let url = `${CONST.BASE_URL}/api/product/${productId}`;
 
-  const res = await fetch(url);
+  const res = await fetch(url, {
+    cache: "no-cache",
+  });
 
   // The return value is *not* serialized
   // You can return Date, Map, Set, etc.
@@ -74,12 +76,14 @@ export default async function SingleProduct({ params }) {
               <div className="my-5">
                 <EnqSec productData={data} />
               </div>
-              <div
-                className="product-short-description-wrap bg-gray-100 py-2 mt-4 px-4 max-h-96 overflow-auto rounded shadow-sm"
-                dangerouslySetInnerHTML={{
-                  __html: data?.shortDescription,
-                }}
-              ></div>
+              {data?.shortDescription && (
+                <div
+                  className="product-short-description-wrap bg-gray-100 py-2 mt-4 px-4 max-h-96 overflow-auto rounded shadow-sm"
+                  dangerouslySetInnerHTML={{
+                    __html: data?.shortDescription,
+                  }}
+                ></div>
+              )}
               <div className="">
                 <Image
                   src={`${CONST.IMG_URL}/brands/${data?.brandId?.logo?.mdUrl}`}
