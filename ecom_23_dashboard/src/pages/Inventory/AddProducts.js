@@ -754,9 +754,18 @@ export default function AddProducts() {
     data.shortPoints = [
       basicDetails.shortPointOne,
       basicDetails.shortPointTwo,
-      basicDetails.shortPointThree,
-      basicDetails.shortPointFour,
     ];
+
+    if( basicDetails.shortPointThree){
+      data.shortPoints.push( basicDetails.shortPointThree)
+    }
+    console.log("basicDetailsshortPointFour");
+    console.log(basicDetails.shortPointFour);
+
+    if( basicDetails.shortPointFour){
+      console.log(basicDetails.shortPointFour);
+      data.shortPoints.push( basicDetails.shortPointFour)
+    }
     data.shortDescription = basicDetails.shortDescription;
     // mutation.mutate(data);
     let response;
