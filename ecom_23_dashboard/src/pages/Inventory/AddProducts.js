@@ -407,6 +407,102 @@ const ImgUploadSection = ({ handleUpload, imgResArr, removeImg, setImg }) => {
   );
 };
 
+// eslint-disable-next-line arrow-body-style
+const fileUpload = async (file) => {
+  return new Promise((resolve, reject) => {
+    const data = new FormData();
+    data.append('file', file);
+    data.append('type', 'product');
+    postReq({
+      url: 'api/file/upload',
+      data,
+    })
+      .then((response) => {
+        // console.log(response);
+        if (!response.error) {
+          resolve(response.data);
+        } else {
+          reject(response.error);
+        }
+      })
+      .catch((error) => {
+        reject(error);
+      });
+  });
+};
+
+const FileUploadSection = ({ handleUpload, fileResArr, setFile }) => {
+  const [loading, setLoading] = useState(false);
+
+  const onDrop = useCallback(async (acceptedFiles) => {
+    // Do something with the files
+    setLoading(true);
+
+    const imgArr = [];
+    const imgIdArr = [];
+    let imgRes;
+    try {
+      imgRes = await fileUpload(acceptedFiles[0]);
+      imgArr.push(imgRes);
+    } catch (error) {
+      console.log(error);
+    }
+
+    handleUpload(imgRes._id);
+    setTimeout(() => {
+      let tempArr = fileResArr;
+      setFile((oldImgs) => [...oldImgs, ...imgArr]);
+    }, 1000);
+    setLoading(false);
+  }, []);
+  const { getRootProps, getInputProps } = useDropzone({
+    onDrop,
+    accept: {
+      'application/pdf': '.pdf',
+      'application/vnd.ms-excel': '.xls',
+      'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet': '.xlsx',
+      'application/msword': '.doc',
+      'application/vnd.openxmlformats-officedocument.wordprocessingml.document': '.docx',
+    },
+    maxFiles: 10,
+  });
+
+  // console.log(fileResArr);
+
+  return (
+    // create a div with upload button and image preview
+    <>
+      <div className="product-img-wrap">
+        {fileResArr.map((file, index) => (
+          <div key={index} className="img-pre-box">
+            {/* <img src={`${ApiUrl.img_url}/files/${file.url}`} alt="img" className="img-prewview" /> */}
+            <a href={`${ApiUrl.img_url}/files/${file.url}`} target="_blank" rel="noreferrer" className="">
+              {file.fileName}
+              <Iconify icon="akar-icons:download" width={22} height={22} />
+            </a>
+          </div>
+        ))}
+        {loading ? (
+          <div className="file-dropzone-wrap">
+            <CircularProgress />
+          </div>
+        ) : (
+          <div
+            {...getRootProps({ className: 'file-dropzone-wrap img-pre-box' })}
+            style={{ padding: '20px', marginTop: '20px', cursor: 'pointer' }}
+          >
+            <input {...getInputProps()} />
+            <p style={{ textAlign: 'center' }}>
+              <Iconify icon="bx:bx-image-add" width={50} height={50} /> <br />
+              <i style={{ fontSize: '12px', color: '#848282' }}> Click to select images </i>
+            </p>
+          </div>
+        )}
+      </div>
+    </>
+  );
+};
+
 const ProductTags = ({ autoComHndl, state, productTags }) => (
   <>
     <Stack spacing={4}>
@@ -491,6 +587,7 @@ export default function AddProducts() {
   const [ckEditorText, setCkEditorText] = React.useState({});
   const [sellerDetails, setSellerDetails] = React.useState({});
   const [imgArr, setImgArr] = useState([]);
+  const [fileArr, setFileArr] = useState([]);
   const [brandData, setBrand] = useState([]);
   const [catData, setCategory] = useState([]);
   // const [productId, setProductId] = useState('6362184fbb7f8c6f4430e386');
@@ -501,6 +598,7 @@ export default function AddProducts() {
     msg: '',
   });
   const [imgState, setImgState] = useState([]);
+  const [fileState, setFileState] = useState([]);
   const [type, setType] = useState('new');
   const [productTags, setProductTags] = useState([]);
   const params = useParams();
@@ -539,7 +637,8 @@ export default function AddProducts() {
         setCkEditorText({ description: response?.data?.description, specifications: response?.data?.specifications });
         setSellerDetails(response?.data?.seller[0]);
         setImgState(response?.data?.image);
-        console.log("get product====>",response.data);
+        setFileState(response?.data?.file);
+        // console.log('get product====>', response.data);
       }
     }
 
@@ -596,6 +695,13 @@ export default function AddProducts() {
     }
   };
 
+  const handleFileUpload = async (file) => {
+    // push file to state array
+    let fileArray = fileArr;
+    fileArray.push(file);
+    setFileArr(fileArray);
+  };
+
   const handleCkEditor = (event, editor, name, section) => {
     console.log('event', event);
     setCkEditorText({ ...ckEditorText, [name]: editor });
@@ -635,8 +741,22 @@ export default function AddProducts() {
 
   const handleSubmit = async () => {
     setLoading(true);
-    const data = { ...basicDetails, ...ckEditorText, image: imgArr, seller: [sellerDetails] };
-    data.shortPoints = [basicDetails.shortPointOne,basicDetails.shortPointTwo,basicDetails.shortPointThree,basicDetails.shortPointFour];
+    const data = { ...basicDetails, ...ckEditorText, seller: [sellerDetails] };
+
+    if (value === 3) {
+      data.image = imgArr;
+    }
+
+    if (value === 4) {
+      data.file = fileArr;
+    }
+
+    data.shortPoints = [
+      basicDetails.shortPointOne,
+      basicDetails.shortPointTwo,
+      basicDetails.shortPointThree,
+      basicDetails.shortPointFour,
+    ];
     data.shortDescription = basicDetails.shortDescription;
     // mutation.mutate(data);
     let response;
@@ -751,8 +871,8 @@ export default function AddProducts() {
             <Tab label="Technical Details " {...a11yProps(1)} />
             <Tab label="GTIN" {...a11yProps(2)} />
             <Tab label="Product Images" {...a11yProps(3)} />
-            <Tab label="Tags" {...a11yProps(4)} />
-            <Tab label="Stock & Price" {...a11yProps(5)} />
+            <Tab label="Downloads" {...a11yProps(4)} />
+            <Tab label="Tags" {...a11yProps(5)} />
             {/* <Tab label="Confirm" {...a11yProps(6)} />vasfhtwert */}
             {/* <Tab label="Keywords & filters" {...a11yProps(3)} /> */}
             {/* <Tab label="Product Datasheet" {...a11yProps(4)} /> */}
@@ -789,21 +909,13 @@ export default function AddProducts() {
             setImg={setImgState}
           />
         </TabPanel>
-
         <TabPanel value={value} index={4}>
+          <FileUploadSection handleUpload={handleFileUpload} fileResArr={fileState} setFile={setFileState} />
+        </TabPanel>
+
+        <TabPanel value={value} index={5}>
           <ProductTags autoComHndl={handleMultiAutoCom} state={basicDetails} productTags={productTags} />
         </TabPanel>
-        <TabPanel value={value} index={5}>
-          <PriceAndQty
-            handleBasicDetails={handleBasicDetails}
-            autoComHndl={handleBasicAutoCom}
-            sellerDetails={sellerDetails}
-            state={basicDetails}
-          />
-        </TabPanel>
-        {/* <TabPanel value={value} index={6}>
-          <h1>Confirm</h1>
-        </TabPanel> */}
       </Box>
     </Container>
   );
