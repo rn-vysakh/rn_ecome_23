@@ -1,11 +1,17 @@
-import { Request, Response } from 'express';
-import log from '../../logger/logger';
-import httpRes from '../../utils/responses';
-import sharp from 'sharp';
-import File, { fileDocument } from '../../models/files.model';
-import path from 'path';
-import fs from 'fs';
-import { PaginationDefaults } from '../../config/default';
+import { Request, Response } from "express";
+import log from "../../logger/logger";
+import httpRes from "../../utils/responses";
+import sharp from "sharp";
+import File, { fileDocument } from "../../models/files.model";
+import path from "path";
+import fs from "fs";
+import { PaginationDefaults, securityKey } from "../../config/default";
+import AWS from "aws-sdk";
+
+AWS.config.update({
+  accessKeyId: securityKey.aws_access_key_id,
+  secretAccessKey: securityKey.aws_secret_access_key,
+});
 
 export const fileUpload = async (req: Request, res: Response) => {
   try {
@@ -15,10 +21,15 @@ export const fileUpload = async (req: Request, res: Response) => {
     const type = req.body.type;
     const title = req.body.title;
 
+    console.log("file", file);
+    const fileBuffer = fs.readFileSync(file.path);
+
+    let s3 = new AWS.S3();
+
     if (!file) {
       return res
         .status(400)
-        .send(httpRes({ code: 400, message: 'File Not Provided' }));
+        .send(httpRes({ code: 400, message: "File Not Provided" }));
     }
 
     let fileData: any = {
@@ -28,6 +39,25 @@ export const fileUpload = async (req: Request, res: Response) => {
       url: file.filename,
       fileName: file.originalname,
     };
+
+    let s3Params = {
+      Bucket: "rookie-ninja-2023",
+      Body: fileBuffer,
+      Key: "files/" + file.filename,
+      ContentType: file.mimetype,
+      // ACL: "public-read",
+    };
+    s3.upload(s3Params, function (err, data) {
+      //handle error
+      if (err) {
+        console.log("S3 -- > Error on file ", err);
+      }
+
+      //success
+      if (data) {
+        console.log("File Uploaded ", data.Location);
+      }
+    });
 
     let newFile = new File(fileData);
     let newFileData: any = await newFile.save().catch((err) => {
@@ -40,7 +70,7 @@ export const fileUpload = async (req: Request, res: Response) => {
     return res
       .status(200)
       .send(
-        httpRes({ code: 200, message: 'File uploaded', data: newFileData })
+        httpRes({ code: 200, message: "File uploaded", data: newFileData })
       );
   } catch (e: any) {
     log.error(e);
@@ -63,7 +93,7 @@ export const deleteFile = async (req: Request, res: Response) => {
       if (!fileData.url) {
         return res
           .status(404)
-          .send(httpRes({ code: 404, message: 'File Not found' }));
+          .send(httpRes({ code: 404, message: "File Not found" }));
       }
 
       fs.unlink(
@@ -75,11 +105,11 @@ export const deleteFile = async (req: Request, res: Response) => {
 
       return res
         .status(200)
-        .send(httpRes({ code: 200, message: 'File Delated' }));
+        .send(httpRes({ code: 200, message: "File Delated" }));
     } else {
       return res
         .status(404)
-        .send(httpRes({ code: 404, message: 'File Not found' }));
+        .send(httpRes({ code: 404, message: "File Not found" }));
     }
   } catch (e: any) {
     log.error(e);
@@ -128,7 +158,7 @@ export const getAllFile = async (req: Request, res: Response) => {
       return res.status(200).send(
         httpRes({
           code: 200,
-          message: 'File Find Successfully',
+          message: "File Find Successfully",
           data: fileData,
           pagination: countDetails,
         })
@@ -136,7 +166,7 @@ export const getAllFile = async (req: Request, res: Response) => {
     } else {
       return res
         .status(401)
-        .send(httpRes({ code: 401, message: 'File Not Found' }));
+        .send(httpRes({ code: 401, message: "File Not Found" }));
     }
   } catch (e: any) {
     log.error(e);
@@ -150,7 +180,7 @@ export const getSingleFile = async (req: Request, res: Response) => {
     if (!imageId) {
       return res
         .status(400)
-        .send(httpRes({ code: 400, message: 'Image Id is required' }));
+        .send(httpRes({ code: 400, message: "Image Id is required" }));
     }
 
     let fileData: any = await File.findOne({ _id: imageId, status: true })
@@ -166,14 +196,14 @@ export const getSingleFile = async (req: Request, res: Response) => {
       return res.status(200).send(
         httpRes({
           code: 200,
-          message: 'File Find Successfully',
+          message: "File Find Successfully",
           data: fileData,
         })
       );
     } else {
       return res
         .status(404)
-        .send(httpRes({ code: 404, message: 'File Not Found' }));
+        .send(httpRes({ code: 404, message: "File Not Found" }));
     }
   } catch (e: any) {
     log.error(e);
