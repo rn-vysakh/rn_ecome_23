@@ -78,11 +78,11 @@ export default function MainHeader() {
 
               {showDropdown === 1 && (
                 <div
-                  className=" absolute top-6 mt-12"
+                  className="absolute top-6 mt-12 z-10"
                   onMouseLeave={() => handleHover(0)}
                 >
                   <div className=" ">
-                    <ul className=" bg-gray-700/40 mt-2">
+                    <ul className=" bg-gray-700/90 mt-2">
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
                         <a href={CONST.NAVBAR_URL + "about-us/"}>About Us</a>
                       </li>
@@ -125,11 +125,11 @@ export default function MainHeader() {
               </div>
               {showDropdown === 2 && (
                 <div
-                  className=" absolute top-6 mt-12"
+                  className="absolute top-6 mt-12 z-10 "
                   onMouseLeave={() => handleHover(0)}
                 >
                   <div className=" ">
-                    <ul className=" bg-gray-700/40 mt-2">
+                    <ul className=" bg-gray-700/90 mt-2">
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
                         <a href={CONST.NAVBAR_URL + "itdistribution/"}>
                           IT Distribution
@@ -153,7 +153,7 @@ export default function MainHeader() {
                               onMouseLeave={() => handleHover(7)}
                             >
                               <div className="">
-                                <ul className=" bg-gray-700/40 mt-2">
+                                <ul className=" bg-gray-700/90 mt-2">
                                   <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
                                     <a
                                       href={
@@ -258,11 +258,11 @@ export default function MainHeader() {
               </div>
               {showDropdown === 3 && (
                 <div
-                  className=" absolute top-6 mt-12"
+                  className="absolute top-6 mt-12 z-10"
                   onMouseLeave={() => handleHover(0)}
                 >
                   <div className=" ">
-                    <ul className=" bg-gray-700/40 mt-2">
+                    <ul className=" bg-gray-700/90 mt-2">
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
                         <a href={CONST.NAVBAR_URL + "vendor_central/"}>
                           Vendor Central
@@ -301,11 +301,11 @@ export default function MainHeader() {
               </div>
               {showDropdown === 4 && (
                 <div
-                  className=" absolute top-6 mt-12"
+                  className="absolute top-6 mt-12 z-10"
                   onMouseLeave={() => handleHover(0)}
                 >
                   <div className=" ">
-                    <ul className=" bg-gray-700/40 mt-2">
+                    <ul className=" bg-gray-700/90 mt-2">
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
                         <a href={CONST.NAVBAR_URL + "partner-central/"}>
                           Partner Central
@@ -342,11 +342,11 @@ export default function MainHeader() {
               </div>
               {showDropdown === 5 && (
                 <div
-                  className=" absolute top-6 mt-12"
+                  className="absolute top-6 mt-12 z-10"
                   onMouseLeave={() => handleHover(0)}
                 >
                   <div className=" ">
-                    <ul className=" bg-gray-700/40 mt-2">
+                    <ul className=" bg-gray-700/90 mt-2">
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
                         <a href={CONST.NAVBAR_URL + "work-culture/"}>
                           Work Culture
