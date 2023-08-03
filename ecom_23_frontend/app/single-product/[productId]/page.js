@@ -61,7 +61,7 @@ export default async function SingleProduct({ params }) {
   // console.log(data);
   return (
     <>
-      <div className="bg-black w-full h-24"></div>
+      {/* <div className="bg-black w-full h-24"></div> */}
       <div className="">
         <div className=" max-w-7xl mx-5 md:mx-auto">
           <div className="flex flex-col md:flex-row gap-8 mb-8">

@@ -3,11 +3,7 @@ import React, { useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import CONST from "@/utils/apis";
-import {
-  FaChevronRight ,
-  FaChevronDown,
-} from "react-icons/fa";
-
+import { FaChevronRight, FaChevronDown } from "react-icons/fa";
 
 export default function MainHeader() {
   const [isHovering, setIsHovering] = useState(false);
@@ -18,7 +14,6 @@ export default function MainHeader() {
 
   // Function to handle the hover events
   const handleHover = (event) => {
-
     if (event === 1) {
       showTimeoutId = setTimeout(() => {
         setShowDropdown(1);
@@ -55,30 +50,32 @@ export default function MainHeader() {
   };
 
   return (
-    <header className=" absolute w-screen hidden md:block ">
+    <header className=" bg-black w-screen hidden md:block ">
       <div className="max-w-7xl mx-auto flex py-5 justify-between text-white items-center font-light ">
-        <Image
-          src="/assets/logo/rn-white.svg"
-          width={200}
-          height={100}
-          alt="Rookie Ninja Logo"
-          
-        />
+        <a href={CONST.NAVBAR_URL}>
+          <Image
+            src="/assets/logo/rn-white.svg"
+            width={200}
+            height={100}
+            alt="Rookie Ninja Logo"
+          />
+        </a>
         <div>
           <ul className="flex items-center space-x-5">
-            <li className="px-4">Home</li>
+            <li className="px-4">
+              <a href={CONST.NAVBAR_URL}>Home</a>
+            </li>
 
             <div
               className="hover-container transition-opacity duration-300 px-4"
               onMouseEnter={() => handleHover(1)}
               onMouseLeave={() => handleHover(0)}
             >
-
-             <div className="flex gap-2 items-center">
-             Company
+              <div className="flex gap-2 items-center">
+                Company
                 <FaChevronDown className="text-xs" />
-            </div>
-              
+              </div>
+
               {showDropdown === 1 && (
                 <div
                   className=" absolute top-6 mt-12"
@@ -90,7 +87,9 @@ export default function MainHeader() {
                         <a href={CONST.NAVBAR_URL + "about-us/"}>About Us</a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={CONST.NAVBAR_URL + "vision/"}>Mission & Vision</a>
+                        <a href={CONST.NAVBAR_URL + "vision/"}>
+                          Mission & Vision
+                        </a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
                         <a href={CONST.NAVBAR_URL + "team/"}>Team</a>
@@ -99,7 +98,9 @@ export default function MainHeader() {
                         <a href={CONST.NAVBAR_URL + "footprint/"}>Footprint</a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={CONST.NAVBAR_URL + "whyrookieninja/"}>Why Rookie Ninja</a>
+                        <a href={CONST.NAVBAR_URL + "whyrookieninja/"}>
+                          Why Rookie Ninja
+                        </a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
                         <a href={CONST.NAVBAR_URL + "journey/"}>Journey</a>
@@ -118,11 +119,10 @@ export default function MainHeader() {
               onMouseEnter={() => handleHover(2)}
               onMouseLeave={() => handleHover(0)}
             >
-              
               <div className="flex gap-2 items-center">
-              Offerings
+                Offerings
                 <FaChevronDown className="text-xs" />
-            </div>
+              </div>
               {showDropdown === 2 && (
                 <div
                   className=" absolute top-6 mt-12"
@@ -131,20 +131,21 @@ export default function MainHeader() {
                   <div className=" ">
                     <ul className=" bg-gray-700/40 mt-2">
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={CONST.NAVBAR_URL + "itdistribution/"}>IT Distribution</a>
+                        <a href={CONST.NAVBAR_URL + "itdistribution/"}>
+                          IT Distribution
+                        </a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                      
                         <div
                           className="hover-container transition-opacity duration-300 "
                           onMouseEnter={() => handleHover(6)}
                           onMouseLeave={() => handleHover(2)}
                         >
                           <a href={CONST.NAVBAR_URL + "portfolio/"}>
-                          <div className="flex gap-2 items-center">
-                          portfolio
-                <FaChevronRight className="text-xs" />
-            </div>
+                            <div className="flex gap-2 items-center">
+                              portfolio
+                              <FaChevronRight className="text-xs" />
+                            </div>
                           </a>
                           {showInnerDropdown === 6 && (
                             <div
@@ -154,36 +155,71 @@ export default function MainHeader() {
                               <div className="">
                                 <ul className=" bg-gray-700/40 mt-2">
                                   <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                                    <a href={CONST.NAVBAR_URL + "computing-workstations/"}>Computing</a>
+                                    <a
+                                      href={
+                                        CONST.NAVBAR_URL +
+                                        "computing-workstations/"
+                                      }
+                                    >
+                                      Computing
+                                    </a>
                                   </li>
                                   <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                                    <a href={CONST.NAVBAR_URL + "power-solutions/"}>
+                                    <a
+                                      href={
+                                        CONST.NAVBAR_URL + "power-solutions/"
+                                      }
+                                    >
                                       Power Solutions
                                     </a>
                                   </li>
                                   <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                                    <a href={CONST.NAVBAR_URL + "storage/"}>Storage</a>
+                                    <a href={CONST.NAVBAR_URL + "storage/"}>
+                                      Storage
+                                    </a>
                                   </li>
                                   <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                                    <a href={CONST.NAVBAR_URL + "document-scanners/"}>Scan</a>
+                                    <a
+                                      href={
+                                        CONST.NAVBAR_URL + "document-scanners/"
+                                      }
+                                    >
+                                      Scan
+                                    </a>
                                   </li>
                                   <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                                    <a href={CONST.NAVBAR_URL + "printers/"}>Print</a>
+                                    <a href={CONST.NAVBAR_URL + "printers/"}>
+                                      Print
+                                    </a>
                                   </li>
                                   <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                                    <a href={CONST.NAVBAR_URL + "gaming/"}>Gaming</a>
+                                    <a href={CONST.NAVBAR_URL + "gaming/"}>
+                                      Gaming
+                                    </a>
                                   </li>
                                   <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                                    <a href={CONST.NAVBAR_URL + "components/"}>Components</a>
+                                    <a href={CONST.NAVBAR_URL + "components/"}>
+                                      Components
+                                    </a>
                                   </li>
                                   <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                                    <a href={CONST.NAVBAR_URL + "software-solution/"}>Software</a>
+                                    <a
+                                      href={
+                                        CONST.NAVBAR_URL + "software-solution/"
+                                      }
+                                    >
+                                      Software
+                                    </a>
                                   </li>
                                   <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                                    <a href={CONST.NAVBAR_URL + "audiovisual/"}>Audio Visual</a>
+                                    <a href={CONST.NAVBAR_URL + "audiovisual/"}>
+                                      Audio Visual
+                                    </a>
                                   </li>
                                   <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                                    <a href={CONST.NAVBAR_URL + "mobility/"}>IT Accessories</a>
+                                    <a href={CONST.NAVBAR_URL + "mobility/"}>
+                                      IT Accessories
+                                    </a>
                                   </li>
                                 </ul>
                               </div>
@@ -198,7 +234,9 @@ export default function MainHeader() {
                         <a href={CONST.NAVBAR_URL + "solutions/"}>Solutions</a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={CONST.NAVBAR_URL + "experience_center/"}>Experience Center</a>
+                        <a href={CONST.NAVBAR_URL + "experience_center/"}>
+                          Experience Center
+                        </a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
                         <a href={CONST.NAVBAR_URL + "training/"}>Training</a>
@@ -214,11 +252,10 @@ export default function MainHeader() {
               onMouseEnter={() => handleHover(3)}
               onMouseLeave={() => handleHover(0)}
             >
-              
               <div className="flex gap-2 items-center">
-              Vendors
+                Vendors
                 <FaChevronDown className="text-xs" />
-            </div>
+              </div>
               {showDropdown === 3 && (
                 <div
                   className=" absolute top-6 mt-12"
@@ -227,19 +264,25 @@ export default function MainHeader() {
                   <div className=" ">
                     <ul className=" bg-gray-700/40 mt-2">
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={CONST.NAVBAR_URL + "vendor_central/"}>Vendor Central</a>
+                        <a href={CONST.NAVBAR_URL + "vendor_central/"}>
+                          Vendor Central
+                        </a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
                         <a href={CONST.NAVBAR_URL + "brands/"}>Our Vendors</a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={CONST.NAVBAR_URL + "whychooseus/"}>Why Choose Us</a>
+                        <a href={CONST.NAVBAR_URL + "whychooseus/"}>
+                          Why Choose Us
+                        </a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
                         <a href={CONST.NAVBAR_URL + "value_ads/"}>Value Ads</a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={CONST.NAVBAR_URL + "become_vendor/"}>Become Vendor</a>
+                        <a href={CONST.NAVBAR_URL + "become_vendor/"}>
+                          Become Vendor
+                        </a>
                       </li>
                     </ul>
                   </div>
@@ -252,11 +295,10 @@ export default function MainHeader() {
               onMouseEnter={() => handleHover(4)}
               onMouseLeave={() => handleHover(0)}
             >
-              
               <div className="flex gap-2 items-center">
-              Partners
+                Partners
                 <FaChevronDown className="text-xs" />
-            </div>
+              </div>
               {showDropdown === 4 && (
                 <div
                   className=" absolute top-6 mt-12"
@@ -265,17 +307,23 @@ export default function MainHeader() {
                   <div className=" ">
                     <ul className=" bg-gray-700/40 mt-2">
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={CONST.NAVBAR_URL + "partner-central/"}>Partner Central</a>
+                        <a href={CONST.NAVBAR_URL + "partner-central/"}>
+                          Partner Central
+                        </a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
                         <a href={CONST.NAVBAR_URL + "value-adds/"}>Value Ads</a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={CONST.NAVBAR_URL + "why-choose-us-partner/"}>Why Choose Us</a>
+                        <a href={CONST.NAVBAR_URL + "why-choose-us-partner/"}>
+                          Why Choose Us
+                        </a>
                       </li>
 
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={CONST.NAVBAR_URL + "become-partner/"}>Become A Partner</a>
+                        <a href={CONST.NAVBAR_URL + "become-partner/"}>
+                          Become A Partner
+                        </a>
                       </li>
                     </ul>
                   </div>
@@ -288,11 +336,10 @@ export default function MainHeader() {
               onMouseEnter={() => handleHover(5)}
               onMouseLeave={() => handleHover(0)}
             >
-              
               <div className="flex gap-2 items-center">
-              Life At Rookie Ninja
+                Life At Rookie Ninja
                 <FaChevronDown className="text-xs" />
-            </div>
+              </div>
               {showDropdown === 5 && (
                 <div
                   className=" absolute top-6 mt-12"
@@ -301,15 +348,24 @@ export default function MainHeader() {
                   <div className=" ">
                     <ul className=" bg-gray-700/40 mt-2">
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={CONST.NAVBAR_URL + "work-culture/"}>Work Culture</a>
+                        <a href={CONST.NAVBAR_URL + "work-culture/"}>
+                          Work Culture
+                        </a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={CONST.NAVBAR_URL + "corporate-social-responsibility/"}>
+                        <a
+                          href={
+                            CONST.NAVBAR_URL +
+                            "corporate-social-responsibility/"
+                          }
+                        >
                           Corporate Social Responsibility
                         </a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={CONST.NAVBAR_URL + "equal-opportunity/"}>Equal Oppurtunity</a>
+                        <a href={CONST.NAVBAR_URL + "equal-opportunity/"}>
+                          Equal Oppurtunity
+                        </a>
                       </li>
 
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
@@ -322,7 +378,8 @@ export default function MainHeader() {
             </div>
 
             <li className="px-4">
-            <a href={CONST.NAVBAR_URL + "blogs/"}>Blogs</a></li>
+              <a href={CONST.NAVBAR_URL + "blogs/"}>Blogs</a>
+            </li>
           </ul>
         </div>
       </div>
