@@ -142,3 +142,19 @@
     opacity: 1;
   }
 }
+
+.white-bg-img {
+  background: url("/assets/images/white-bg.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.white-bg-img::before {
+  position: absolute;
+  background-color: #ffffffa9;
+  height: 100%;
+  width: 100%;
+  content: "";
+}

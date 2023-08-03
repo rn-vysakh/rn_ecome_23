@@ -29,7 +29,7 @@ async function getCategory(catId) {
 export default async function GetProductByCat({ catId, title, limit }) {
   const { data } = await getCategory(catId);
 
-  console.log(data);
+  // console.log(data);
   return (
     <>
       <div className="flex justify-between items-center py-4">

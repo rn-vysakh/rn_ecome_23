@@ -7,12 +7,12 @@ export default function ErrorSec({ error }) {
   console.log(error);
   return (
     <>
-      <LandingSec
+      {/* <LandingSec
         title="Products"
         desc=" Our diverse range of offerings caters to the unique needs of our partners and customers, empowering businesses to thrive in the fast-paced world of technology."
         img="/assets/images/header1.webp"
-      />
-      <div className="h-[60vh] bg-gray-100 grid place-content-center">
+      /> */}
+      <div className="h-[80vh] bg-gray-100 grid place-content-center">
         <div className="flex flex-col items-center justify-center h-full">
           <div className="text-8xl text-amber-500">
             <BiError />

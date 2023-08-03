@@ -25,16 +25,18 @@ export default function SingleGridCard({ product }) {
   };
 
   const slug = Slugify(product?.title);
-
+  const imgUrl = product?.image[0]?.mdUrl
+    ? `${CONST.IMG_URL}/products/${product?.image[0]?.mdUrl}`
+    : "/assets/images/no-img.png";
   return (
     <Link href={`/single-product/${product?._id}?name=${slug}`}>
-      <div className="h-full max-w-[500px] rounded border bg-white border-gray-100 hover:border-blue-300 transition-all shadow-lg shadow-gray-200/50 hover:shadow-xl flex flex-col items-center justify-between hover:scale-105 ">
+      <div className="h-full max-w-[400px] rounded border bg-white border-gray-100 hover:border-blue-300 transition-all shadow-lg shadow-gray-200/50 hover:shadow-xl flex flex-col items-center justify-between hover:scale-105  ">
         {/* <BrandSec
           img={product?.brandId?.logo?.smUrl}
           name={product?.brandId?.brandName}
         /> */}
         <Image
-          src={`${CONST.IMG_URL}/products/${product?.image[0]?.mdUrl}`}
+          src={imgUrl}
           alt={product?.title}
           className="bg-white   "
           height={150}

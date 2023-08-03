@@ -22,11 +22,10 @@ async function getCategory() {
 export default async function GetProductByCat() {
   const { data } = await getCategory();
 
-  console.log(data);
   return (
     <>
       {/* <h1 className=" text-2xl">Products by category</h1> */}
-      <div className="flex flex-col gap-8 my-2 py-4 border-t">
+      <div className="flex flex-col gap-8 my-2 py-4 ">
         <div>
           <ProductCatGrid
             title={data[0].categoryName}
