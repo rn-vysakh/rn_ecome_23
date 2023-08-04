@@ -84,7 +84,7 @@ const MobHeader = ({ currentMenu }) => {
   const ChildMenu = ({ child }) => {
     return (
       <motion.div
-        className=" bg-gray-900 grid place-items-center p-4 px-12 "
+        className=" bg-gray-900/52 grid place-items-center p-4 px-12 "
         initial={{ opacity: 0, y: -10 }}
         animate={{ opacity: 1, y: 0 }}
         exit={{ opacity: 0 }}
@@ -113,7 +113,7 @@ const MobHeader = ({ currentMenu }) => {
   const SubMenu = ({ child }) => {
     return (
       <motion.div
-        className=" bg-gray-900 grid place-items-center p-4 px-6 "
+        className=" bg-gray-900/52 grid place-items-center p-4 px-6 "
         initial={{ opacity: 0, y: -10 }}
         animate={{ opacity: 1, y: 0 }}
         exit={{ opacity: 0 }}
@@ -146,7 +146,7 @@ const MobHeader = ({ currentMenu }) => {
 
   const Menu = () => {
     return (
-      <div className="bg-gray-900  py-5 px-8 rounded-[12px] shadow-xl w-full mt-3 overflow-scroll">
+      <div className="bg-gray-900/52  py-5 px-8 rounded-[12px] shadow-xl w-full mt-3 overflow-scroll">
         <div className="flex flex-col gap-5  font-semibold ">
           {navItems.map((item, key) => (
             <div key={key} className="w-full">
@@ -199,7 +199,7 @@ const MobHeader = ({ currentMenu }) => {
 
   return (
     <>
-      <div className="p-3 absolute w-screen  " ref={scope}>
+      <div className="p-3  w-screen bg-black " ref={scope}>
         <div className="bg-gray-650 py-3 grid place-items-center rounded-[12px]  w-full ">
           <div className="flex justify-between items-center w-full px-3">
             <div className="">
