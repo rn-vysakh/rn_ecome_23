@@ -59,7 +59,7 @@ export default async function ProductFinder({ searchParams }) {
           </div>
         </div>
       </div>
-      <div className="max-w-7xl mx-auto py-5 ">
+      <div className="max-w-7xl mx-auto py-5 px-5 ">
         <ProductByCat />
       </div>
     </main>
