@@ -745,6 +745,8 @@ export default function AddProducts() {
 
     if (value === 3) {
       data.image = imgArr;
+    }else{
+      data.image = []
     }
 
     if (value === 4) {
@@ -759,11 +761,11 @@ export default function AddProducts() {
     if( basicDetails.shortPointThree){
       data.shortPoints.push( basicDetails.shortPointThree)
     }
-    console.log("basicDetailsshortPointFour");
-    console.log(basicDetails.shortPointFour);
+    // console.log("basicDetailsshortPointFour");
+    // console.log(basicDetails.shortPointFour);
 
     if( basicDetails.shortPointFour){
-      console.log(basicDetails.shortPointFour);
+      // console.log(basicDetails.shortPointFour);
       data.shortPoints.push( basicDetails.shortPointFour)
     }
     data.shortDescription = basicDetails.shortDescription;
