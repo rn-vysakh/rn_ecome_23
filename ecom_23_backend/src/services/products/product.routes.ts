@@ -50,7 +50,7 @@ productRoutes.patch(
   updateProductFileSchema,
   updateProductFile
 );
-productRoutes.delete("/delete", verifyAccessToken, isAdmin, deleteProduct);
+productRoutes.delete("/delete/:id", verifyAccessToken, isAdmin, deleteProduct);
 productRoutes.get(
   "/report",
   // verifyAccessToken, isAdmin,

@@ -9,6 +9,7 @@ import Box from '@mui/material/Box';
 import * as React from 'react';
 import { CKEditor } from 'ckeditor4-react';
 import { useDropzone } from 'react-dropzone';
+import { toast } from 'react-toastify';
 // @mui
 import slugify from 'slugify';
 import { styled } from '@mui/material/styles';
@@ -44,7 +45,7 @@ import Iconify from '../../components/Iconify';
 // components
 import Page from '../../components/Page';
 import Scrollbar from '../../components/Scrollbar';
-import { getReq, postReq, patchReq } from '../../data/ApiReq';
+import { getReq, postReq, patchReq,deleteRequest } from '../../data/ApiReq';
 import ApiUrl from '../../data/ApiUrl';
 import Loading from '../../components/loading';
 
@@ -105,6 +106,7 @@ const BasicProductInfo = ({
 
   // console.log(state.brandId);
   // console.log(state.categoryId);
+
 
   return (
     <Stack spacing={4}>
@@ -582,6 +584,15 @@ const PriceAndQty = ({ handleBasicDetails, state, autoComHndl, sellerDetails }) 
 );
 
 export default function AddProducts() {
+  const initialResult = {
+    error: false,
+    message: '',
+    alert: false,
+    loading: false,
+    imgStatus: 'notSelected',
+    dataFetched: false,
+    redirect: false,
+  };
   const [value, setValue] = React.useState(0);
   const [basicDetails, setBasicDetails] = React.useState({});
   const [ckEditorText, setCkEditorText] = React.useState({});
@@ -601,7 +612,32 @@ export default function AddProducts() {
   const [fileState, setFileState] = useState([]);
   const [type, setType] = useState('new');
   const [productTags, setProductTags] = useState([]);
+  const [apiResult, setApiResult] = useState(initialResult);
   const params = useParams();
+
+  
+  const deleteProduct = async (e) => {
+    setApiResult({ ...apiResult, loading: true });
+    e.preventDefault();
+
+    const response = await deleteRequest({ url: `api/product/delete/${params.id}` });
+    if (!response.error) {
+      toast.success(response.data.message);
+      setApiResult({ redirect: true });
+    } else {
+      setApiResult({
+        ...apiResult,
+        error: true,
+        message: response.data.message,
+        alert: true,
+        loading: false,
+      });
+    }
+    setTimeout(() => {
+      setApiResult({ ...apiResult, alert: false });
+      setValue(6);
+    }, 3000);
+  };
 
   const getData = async () => {
     setLoading(true);
@@ -927,7 +963,13 @@ export default function AddProducts() {
         <TabPanel value={value} index={5}>
           <ProductTags autoComHndl={handleMultiAutoCom} state={basicDetails} productTags={productTags} />
         </TabPanel>
+        <Button 
+      onClick={deleteProduct} 
+      color="error" className="brand-buttons" variant="contained">
+                          Delete
+                        </Button>
       </Box>
+      
     </Container>
   );
 }

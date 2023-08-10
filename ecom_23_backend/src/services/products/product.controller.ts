@@ -438,7 +438,7 @@ export const updateProductFile = async (req: Request, res: Response) => {
 // Delete Product
 export const deleteProduct = async (req: Request, res: Response) => {
   try {
-    let productId = req.query.id as string;
+    let productId = req.params.id as string;
     let productData: any = await Product.findOneAndDelete({
       _id: productId,
     }).lean();
