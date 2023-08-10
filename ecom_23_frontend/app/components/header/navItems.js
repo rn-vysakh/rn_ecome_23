@@ -1,10 +1,10 @@
 import CONST from "@/utils/apis";
 
 const navItems = [
-  {
-    name: "Home",
-    link: `${CONST.NAVBAR_URL}`,
-  },
+  // {
+  //   name: "Home",
+  //   link: `${CONST.NAVBAR_URL}`,
+  // },
   {
     name: "Company",
     link: "/",
@@ -40,7 +40,7 @@ const navItems = [
     ],
   },
   {
-    name: "Offerings",
+    name: "Portfolio",
     link: "/",
     child: [
       {
@@ -48,12 +48,16 @@ const navItems = [
         link: `${CONST.NAVBAR_URL}/itdistribution`,
       },
       {
-        name: "Portfolio",
+        name: "Solutions Portfolio",
         link: `${CONST.NAVBAR_URL}/portfolio`,
         child: [
           {
             name: "Computing",
             link: `${CONST.NAVBAR_URL}/computing-workstations`,
+          },
+          {
+            name: "Print & Scan",
+            link: `${CONST.NAVBAR_URL}/print-and-scan`,
           },
           {
             name: "Power Solutions",
@@ -63,13 +67,17 @@ const navItems = [
             name: "Storage",
             link: `${CONST.NAVBAR_URL}/storage`,
           },
+          // {
+          //   name: "Scan",
+          //   link: `${CONST.NAVBAR_URL}/document-scanners`,
+          // },
+          // {
+          //   name: "Print",
+          //   link: `${CONST.NAVBAR_URL}/printers`,
+          // },
           {
-            name: "Scan",
-            link: `${CONST.NAVBAR_URL}/document-scanners`,
-          },
-          {
-            name: "Print",
-            link: `${CONST.NAVBAR_URL}/printers`,
+            name: "Cyber Security",
+            link: `${CONST.NAVBAR_URL}/cyber-security`,
           },
           {
             name: "Gaming",
@@ -78,6 +86,10 @@ const navItems = [
           {
             name: "Components",
             link: `${CONST.NAVBAR_URL}/components`,
+          },
+          {
+            name: "Networking",
+            link: `${CONST.NAVBAR_URL}/networking`,
           },
           {
             name: "Software",
@@ -94,11 +106,11 @@ const navItems = [
         ],
       },
       {
-        name: "Products",
+        name: "Product Finder",
         link: `${CONST.NAVBAR_URL}/products`,
       },
       {
-        name: "Solutions",
+        name: "Our Offerings",
         link: `${CONST.NAVBAR_URL}/solutions`,
       },
       {
@@ -111,8 +123,38 @@ const navItems = [
       },
     ],
   },
+  // {
+  //   name: "Vendors",
+  //   link: "/",
+  //   child: [
+  //     {
+  //       name: "Vendor Central",
+  //       link: `${CONST.NAVBAR_URL}/vendor_central`,
+  //     },
+  //     {
+  //       name: "Our Vendors",
+  //       link: `${CONST.NAVBAR_URL}/brands`,
+  //     },
+  //     {
+  //       name: "Why Choose Us",
+  //       link: `${CONST.NAVBAR_URL}/whychooseus`,
+  //     },
+  //     {
+  //       name: "Value Ads",
+  //       link: `${CONST.NAVBAR_URL}/value_ads`,
+  //     },
+  //     {
+  //       name: "Become Vendor",
+  //       link: `${CONST.NAVBAR_URL}/become_vendor`,
+  //     },
+  //   ],
+  // },
   {
-    name: "Vendors",
+    name: "Our Vendors",
+    link: `${CONST.NAVBAR_URL}/our_vendors`,
+  },
+  {
+    name: "Our Partners",
     link: "/",
     child: [
       {
@@ -120,43 +162,21 @@ const navItems = [
         link: `${CONST.NAVBAR_URL}/vendor_central`,
       },
       {
-        name: "Our Vendors",
-        link: `${CONST.NAVBAR_URL}/brands`,
-      },
-      {
-        name: "Why Choose Us",
-        link: `${CONST.NAVBAR_URL}/whychooseus`,
-      },
-      {
-        name: "Value Ads",
-        link: `${CONST.NAVBAR_URL}/value_ads`,
-      },
-      {
-        name: "Become Vendor",
-        link: `${CONST.NAVBAR_URL}/become_vendor`,
-      },
-    ],
-  },
-  {
-    name: "Partners",
-    link: "/",
-    child: [
-      {
         name: "Partner Central",
         link: `${CONST.NAVBAR_URL}/partner-central`,
       },
-      {
-        name: "Value Ads",
-        link: `${CONST.NAVBAR_URL}/value-adds`,
-      },
-      {
-        name: "Why Choose Us",
-        link: `${CONST.NAVBAR_URL}/why-choose-us-partner`,
-      },
-      {
-        name: "Become A Partner",
-        link: `${CONST.NAVBAR_URL}/become-partner`,
-      },
+      // {
+      //   name: "Value Ads",
+      //   link: `${CONST.NAVBAR_URL}/value-adds`,
+      // },
+      // {
+      //   name: "Why Choose Us",
+      //   link: `${CONST.NAVBAR_URL}/why-choose-us-partner`,
+      // },
+      // {
+      //   name: "Become A Partner",
+      //   link: `${CONST.NAVBAR_URL}/become-partner`,
+      // },
     ],
   },
   {

@@ -62,9 +62,9 @@ export default function MainHeader() {
         </a>
         <div>
           <ul className="flex items-center space-x-5">
-            <li className="px-4">
+            {/* <li className="px-4">
               <a href={CONST.NAVBAR_URL}>Home</a>
-            </li>
+            </li> */}
 
             <div
               className="hover-container transition-opacity duration-300 px-4"
@@ -120,7 +120,7 @@ export default function MainHeader() {
               onMouseLeave={() => handleHover(0)}
             >
               <div className="flex gap-2 items-center">
-                Offerings
+                Portfolio
                 <FaChevronDown className="text-xs" />
               </div>
               {showDropdown === 2 && (
@@ -143,7 +143,7 @@ export default function MainHeader() {
                         >
                           <a href={CONST.NAVBAR_URL + "portfolio/"}>
                             <div className="flex gap-2 items-center">
-                              portfolio
+                              Solutions Portfolio
                               <FaChevronRight className="text-xs" />
                             </div>
                           </a>
@@ -167,6 +167,15 @@ export default function MainHeader() {
                                   <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
                                     <a
                                       href={
+                                        CONST.NAVBAR_URL + "print-and-scan/"
+                                      }
+                                    >
+                                      Print & Scan
+                                    </a>
+                                  </li>
+                                  <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
+                                    <a
+                                      href={
                                         CONST.NAVBAR_URL + "power-solutions/"
                                       }
                                     >
@@ -179,19 +188,11 @@ export default function MainHeader() {
                                     </a>
                                   </li>
                                   <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                                    <a
-                                      href={
-                                        CONST.NAVBAR_URL + "document-scanners/"
-                                      }
-                                    >
-                                      Scan
+                                    <a href={CONST.NAVBAR_URL + "cyber-security/"}>
+                                      Cyber Security
                                     </a>
                                   </li>
-                                  <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                                    <a href={CONST.NAVBAR_URL + "printers/"}>
-                                      Print
-                                    </a>
-                                  </li>
+                                  
                                   <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
                                     <a href={CONST.NAVBAR_URL + "gaming/"}>
                                       Gaming
@@ -200,6 +201,11 @@ export default function MainHeader() {
                                   <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
                                     <a href={CONST.NAVBAR_URL + "components/"}>
                                       Components
+                                    </a>
+                                  </li>
+                                  <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
+                                    <a href={CONST.NAVBAR_URL + "networking/"}>
+                                      Networking
                                     </a>
                                   </li>
                                   <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
@@ -228,10 +234,10 @@ export default function MainHeader() {
                         </div>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={CONST.NAVBAR_URL + "products/"}>Products</a>
+                        <a href={CONST.NAVBAR_URL + "products/"}>Product Finder</a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={CONST.NAVBAR_URL + "solutions/"}>Solutions</a>
+                        <a href={CONST.NAVBAR_URL + "solutions/"}>Our Offerings</a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
                         <a href={CONST.NAVBAR_URL + "experience_center/"}>
@@ -247,7 +253,11 @@ export default function MainHeader() {
               )}
             </div>
 
-            <div
+            <li className="px-4">
+              <a href={CONST.NAVBAR_URL + "our_vendors/"}>Our Vendors</a>
+            </li>
+
+            {/* <div
               className="hover-container transition-opacity duration-300 px-4"
               onMouseEnter={() => handleHover(3)}
               onMouseLeave={() => handleHover(0)}
@@ -288,7 +298,7 @@ export default function MainHeader() {
                   </div>
                 </div>
               )}
-            </div>
+            </div> */}
 
             <div
               className="hover-container transition-opacity duration-300 px-4"
@@ -296,7 +306,7 @@ export default function MainHeader() {
               onMouseLeave={() => handleHover(0)}
             >
               <div className="flex gap-2 items-center">
-                Partners
+                Our Partners
                 <FaChevronDown className="text-xs" />
               </div>
               {showDropdown === 4 && (
@@ -306,12 +316,17 @@ export default function MainHeader() {
                 >
                   <div className=" ">
                     <ul className=" bg-black/90 mt-2">
+                    <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
+                        <a href={CONST.NAVBAR_URL + "vendor_central/"}>
+                          Vendor Central
+                        </a>
+                      </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
                         <a href={CONST.NAVBAR_URL + "partner-central/"}>
                           Partner Central
                         </a>
                       </li>
-                      <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
+                      {/* <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
                         <a href={CONST.NAVBAR_URL + "value-adds/"}>Value Ads</a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
@@ -324,7 +339,7 @@ export default function MainHeader() {
                         <a href={CONST.NAVBAR_URL + "become-partner/"}>
                           Become A Partner
                         </a>
-                      </li>
+                      </li> */}
                     </ul>
                   </div>
                 </div>
