@@ -3,7 +3,7 @@ import log from "../logger/logger";
 import pingRoutes from "./ping/ping.routes";
 import userRoutes from "./user/user.routes";
 import ImageRoutes from "./imageUpload/image.routes";
-
+import formRoutes from "./form/form.routes";
 import categoryRoutes from "./categories/categories.routes";
 import brandRoutes from "./brand/brand.routes";
 import tagRoutes from "./tag/tag.routes";
@@ -22,5 +22,6 @@ router.use("/product", ProductRoutes);
 router.use("/image", ImageRoutes);
 router.use("/home", HomeRoutes);
 router.use("/file", FileRoutes);
+router.use("/form", formRoutes);
 
 export default router;
