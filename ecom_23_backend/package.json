@@ -12,7 +12,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@aws-sdk/client-ses": "^3.391.0",
     "@types/bcrypt": "^5.0.0",
+    "@types/handlebars": "^4.1.0",
     "@types/mongoose": "^5.11.97",
     "@types/pino": "^6.3.11",
     "aws-sdk": "^2.1415.0",
@@ -28,6 +30,7 @@
     "mongoose": "^6.0.7",
     "morgan": "^1.10.0",
     "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.9.4",
     "papaparse": "^5.4.1",
     "pino": "^6.13.3",
     "pino-pretty": "^7.0.1",

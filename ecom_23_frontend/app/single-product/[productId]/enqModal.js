@@ -6,9 +6,28 @@ import { motion, AnimatePresence } from "framer-motion";
 import { AiOutlineClose } from "react-icons/ai";
 import PhoneInput from "react-phone-number-input";
 import CONST from "@/utils/apis";
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 export default function enqModal({ productData }) {
+  const initialState = {
+    name: "",
+    email: "",
+    phone: "",
+    company: "",
+    message: "",
+  };
+  const initialResult = {
+    error: false,
+    message: "",
+    alert: false,
+    loading: false,
+    dataFetched: false,
+    redirect: false,
+  };
+  const [apiResult, setApiResult] = useState(initialResult);
   const [show, setShow] = useState(false);
+  const [state, setState] = useState(initialState);
   const [formData, setFormData] = useState({
     name: "",
     email: "",
@@ -32,11 +51,65 @@ export default function enqModal({ productData }) {
   const handleHide = () => {
     setShow(false);
   };
-  //   console.log(productData);
+
+  const SubmitForm = async (e) => {
+    e.preventDefault();
+    const data = {
+      name: formData.name,
+      email: formData.email,
+      phone: formData.phone,
+      company: formData.company,
+      message: formData.message,
+    };
+
+    try {
+      const response = await fetch("http://localhost:4000/api/form", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(data),
+      });
+
+      if (response.ok) {
+        console.log("Data submitted successfully");
+        // You can perform additional actions here after successful submission
+        // Display success message using Toastify
+        toast.success('Data submitted successfully', {
+          position: 'top-right',
+          autoClose: 3000, // Duration in milliseconds
+          hideProgressBar: false,
+          closeOnClick: true,
+          pauseOnHover: true,
+          draggable: true,
+        });
+      } else {
+        console.error("Failed to submit data");
+        // Handle error cases here
+        toast.error('Failed to submit data', {
+          position: 'top-right',
+          autoClose: 3000,
+          hideProgressBar: false,
+          closeOnClick: true,
+          pauseOnHover: true,
+          draggable: true,
+        });
+      }
+    } catch (error) {
+      console.error("An error occurred:", error);
+       // Handle network or other errors here
+       toast.error('An error occurred', {
+        position: 'top-right',
+        autoClose: 3000,
+        hideProgressBar: false,
+        closeOnClick: true,
+        pauseOnHover: true,
+        draggable: true,
+      });
+    }
+  };
 
   const { _id, title, image } = productData;
-
-  // console.log(image);
 
   const ModalSec = () => {
     return (
@@ -58,7 +131,7 @@ export default function enqModal({ productData }) {
           <div className="flex flex-col md:flex-row gap-4">
             <div className=" w-full md:w-1/3 grid place-content-center ">
               <img
-                src={`${CONST.IMG_URL}/products/${image[0]?.ogUrl}`}
+                src={`${CONST.IMG_URL}/products/${image[0]?.mdUrl}`}
                 alt={title}
                 className="w-[250px] h-[250px] object-contain"
               />
@@ -67,7 +140,7 @@ export default function enqModal({ productData }) {
               </h1>
             </div>
             <div className=" w-full md:w-2/3 bg-gray-50 p-5 rounded-lg">
-              <form className="flex flex-col gap-4">
+              <div className="flex flex-col gap-4">
                 <div className="flex flex-col md:flex-row gap-2">
                   <div className="flex flex-col gap-1 w-full md:w-1/2">
                     <label htmlFor="name" className="text-gray-700 text-sm ">
@@ -142,13 +215,19 @@ export default function enqModal({ productData }) {
                   />
                 </div>
                 <div className="grid place-content-center">
-                  <button className="bg-[#34aadc] text-white py-3 px-6 font-bold rounded hover:bg-slate-700 transition-all hover:scale-105  hover:shadow-xl active:scale-95">
+                  <button
+                    onClick={SubmitForm}
+                    className="bg-[#34aadc] text-white py-3 px-6 font-bold rounded hover:bg-slate-700 transition-all hover:scale-105  hover:shadow-xl active:scale-95"
+                  >
                     Submit
                   </button>
                 </div>
-              </form>
+              </div>
             </div>
           </div>
+
+           {/* ToastContainer for displaying messages */}
+      <ToastContainer />
         </div>
       </motion.div>
     );

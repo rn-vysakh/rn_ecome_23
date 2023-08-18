@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Loop Marketing LLC</title>
+    <!-- <link rel="stylesheet" href="style.css" /> -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Pacifico&family=Solitreo&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      * {
+        padding: 0;
+        margin: 0;
+      }
+      body {
+        background-color: aliceblue;
+      }
+
+      .container {
+        background-color: rgb(255, 255, 255);
+        width: min(90%, 800px);
+        padding: 10px;
+        min-height: 90vh;
+        border-radius: 10px;
+        box-shadow: 5px -5px 20px 5px #e2f7ff4f;
+        border: 1px solid rgb(222, 234, 245);
+      }
+      .logo-wrap {
+        text-align: center;
+      }
+      .div-line {
+        height: 3px;
+        background: #48cdff;
+        background: linear-gradient(
+          43deg,
+          rgba(72, 205, 255, 1) 0%,
+          rgba(25, 187, 186, 1) 100%
+        );
+        border-radius: 10px;
+      }
+
+      .main-title {
+        font-family: "Solitreo", cursive;
+        font-size: 52px;
+        color: rgb(31, 31, 31);
+      }
+      .content-sec {
+        padding: 20px 20px;
+        line-height: 30px;
+        display: grid;
+        place-items: center;
+      }
+
+      .content-sec p {
+        width: 90%;
+        /* font-family: "Solitreo", cursive; */
+        margin-top: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <!-- <div class="logo-wrap">
+        <h1 class="main-title">Thank you</h1>
+      </div>
+      <div class="div-line"></div> -->
+      <div class="content-sec">
+        <p>Dear {{name}},</p>
+        <p>
+          Thank you for reaching out to us with your sales enquiry. We're
+          thrilled that you're interested in our products/services. We
+          understand the importance of your inquiry and would like to assure you
+          that our team is already working on providing you with the best
+          possible solution. Our sales experts are reviewing the details you've
+          provided and will prepare a personalized response for you shortly. We
+          aim to address your specific needs and provide you with comprehensive
+          information to help you make an informed decision. While we're
+          diligently working on your request, feel free to explore our website
+          for additional information about our offerings, pricing, and case
+          studies. If you have any immediate questions or require further
+          assistance, please don't hesitate to reply to this email or contact
+          our dedicated sales team at sales@rookie-ninja.com or +97142965256.
+          Thank you again for considering Rookie Ninja as your potential
+          partner. We look forward to the opportunity to serve you and provide
+          solutions that meet your requirements.
+        </p>
+
+        <p>
+          <strong>
+            Regards, <br />
+            Rookie Ninja General LLC</strong
+          >
+        </p>
+      </div>
+    </div>
+  </body>
+</html>

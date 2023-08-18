@@ -98,7 +98,7 @@ export default function SideBar({ searchParams }) {
           selectedItems={brandParams?.split(",") || []}
         />
 
-        {/* <div>
+         <div>
           {tags?.map((tag, key) => (
             <div key={key}>
               <FilterSection
@@ -109,7 +109,7 @@ export default function SideBar({ searchParams }) {
               />
             </div>
           ))}
-        </div> */}
+        </div> 
       </div>
     </>
   );

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Rookie Ninja General  Trading LLC</title>
+    <!-- <link rel="stylesheet" href="style.css" /> -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Pacifico&family=Solitreo&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      * {
+        padding: 0;
+        margin: 0;
+      }
+      body {
+        background-color: aliceblue;
+      }
+
+      .container {
+        background-color: rgb(255, 255, 255);
+        width: min(90%, 800px);
+        padding: 10px;
+        min-height: 90vh;
+        border-radius: 10px;
+        box-shadow: 5px -5px 20px 5px #e2f7ff4f;
+        border: 1px solid rgb(222, 234, 245);
+      }
+      .logo-wrap {
+        text-align: center;
+      }
+      .div-line {
+        height: 3px;
+        background: #48cdff;
+        background: linear-gradient(
+          43deg,
+          rgba(72, 205, 255, 1) 0%,
+          rgba(25, 187, 186, 1) 100%
+        );
+        border-radius: 10px;
+      }
+
+      .main-title {
+        font-family: "Solitreo", cursive;
+        font-size: 52px;
+        color: rgb(31, 31, 31);
+      }
+      .content-sec {
+        padding: 20px 20px;
+        line-height: 30px;
+        display: grid;
+        place-items: center;
+      }
+
+      .content-sec p {
+        width: 90%;
+        /* font-family: "Solitreo", cursive; */
+        margin-top: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <!-- <div class="logo-wrap">
+        <h1 class="main-title">Thank you</h1>
+      </div> -->
+      <!-- <div class="div-line"></div> -->
+      <div class="content-sec">
+        <p>Dear {{name}},</p>
+        <p>
+          Thank you for taking the time to reach out to us through our website
+          form. We appreciate your interest in our services and are here to
+          assist you with any questions or concerns you may have.
+        </p>
+        <p> name : {{name}}</p>
+        <p> email : {{email}}</p>
+        <p> phone : {{phone}}</p>
+        <p> company : {{company}}</p>
+        <p> message : {{message}}</p>
+        
+        <p>
+          Thank you again for contacting us. We look forward to the opportunity
+          to serve you.
+        </p>
+        
+        <p>
+          <strong>
+            Best regards, <br />
+            <!-- Milton Mathew <br /> -->
+            Rookie Ninja General Trading LLC</strong
+          >
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
