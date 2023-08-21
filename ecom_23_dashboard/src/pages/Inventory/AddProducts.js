@@ -45,9 +45,10 @@ import Iconify from '../../components/Iconify';
 // components
 import Page from '../../components/Page';
 import Scrollbar from '../../components/Scrollbar';
-import { getReq, postReq, patchReq,deleteRequest } from '../../data/ApiReq';
+import { getReq, postReq, patchReq, deleteRequest } from '../../data/ApiReq';
 import ApiUrl from '../../data/ApiUrl';
 import Loading from '../../components/loading';
+import { values } from 'lodash';
 
 const fileTypes = ['JPG', 'PNG'];
 function TabPanel(props) {
@@ -106,7 +107,6 @@ const BasicProductInfo = ({
 
   // console.log(state.brandId);
   // console.log(state.categoryId);
-
 
   return (
     <Stack spacing={4}>
@@ -505,23 +505,32 @@ const FileUploadSection = ({ handleUpload, fileResArr, setFile }) => {
   );
 };
 
-const ProductTags = ({ autoComHndl, state, productTags }) => (
-  <>
-    <Stack spacing={4}>
-      <Autocomplete
-        multiple
-        id="tags-standard"
-        options={productTags}
-        getOptionLabel={(option) => option?.label}
-        renderInput={(params) => (
-          <TextField {...params} variant="standard" label="Multiple values" placeholder="Favorites" />
-        )}
-        onChange={(event, values) => autoComHndl('tags', values)}
-        // defaultValue={[productTags[0]]}
-      />
-    </Stack>
-  </>
-);
+const ProductTags = ({ autoComHndl, state, productTags }) => {
+
+  const filteredArray = productTags.filter(value => 
+
+     state.productTag.includes(value._id)
+  );
+
+  return(
+    <>
+      <Stack spacing={4}>
+        <Autocomplete
+          multiple
+          id="tags-standard"
+          options={productTags}
+          getOptionLabel={(option) => option?.label}
+          renderInput={(params) => (
+            <TextField {...params} variant="standard" label="Multiple values" placeholder="Favorites" />
+          )}
+          onChange={(event, values) => autoComHndl('tags', values)}
+          defaultValue={filteredArray}
+          // defaultValue={[values]}
+        />
+      </Stack>
+    </>
+  );
+}
 
 const PriceAndQty = ({ handleBasicDetails, state, autoComHndl, sellerDetails }) => (
   <div>
@@ -615,7 +624,6 @@ export default function AddProducts() {
   const [apiResult, setApiResult] = useState(initialResult);
   const params = useParams();
 
-  
   const deleteProduct = async (e) => {
     setApiResult({ ...apiResult, loading: true });
     e.preventDefault();
@@ -781,28 +789,27 @@ export default function AddProducts() {
 
     if (value === 3) {
       data.image = imgArr;
-    }else{
-      data.image = []
+    } else {
+      data.image = [];
     }
 
     if (value === 4) {
       data.file = fileArr;
+    } else {
+      data.file = [];
     }
 
-    data.shortPoints = [
-      basicDetails.shortPointOne,
-      basicDetails.shortPointTwo,
-    ];
+    data.shortPoints = [basicDetails.shortPointOne, basicDetails.shortPointTwo];
 
-    if( basicDetails.shortPointThree){
-      data.shortPoints.push( basicDetails.shortPointThree)
+    if (basicDetails.shortPointThree) {
+      data.shortPoints.push(basicDetails.shortPointThree);
     }
     // console.log("basicDetailsshortPointFour");
     // console.log(basicDetails.shortPointFour);
 
-    if( basicDetails.shortPointFour){
+    if (basicDetails.shortPointFour) {
       // console.log(basicDetails.shortPointFour);
-      data.shortPoints.push( basicDetails.shortPointFour)
+      data.shortPoints.push(basicDetails.shortPointFour);
     }
     data.shortDescription = basicDetails.shortDescription;
     // mutation.mutate(data);
@@ -963,13 +970,10 @@ export default function AddProducts() {
         <TabPanel value={value} index={5}>
           <ProductTags autoComHndl={handleMultiAutoCom} state={basicDetails} productTags={productTags} />
         </TabPanel>
-        <Button 
-      onClick={deleteProduct} 
-      color="error" className="brand-buttons" variant="contained">
-                          Delete
-                        </Button>
+        <Button onClick={deleteProduct} color="error" className="brand-buttons" variant="contained">
+          Delete
+        </Button>
       </Box>
-      
     </Container>
   );
 }

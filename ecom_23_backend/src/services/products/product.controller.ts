@@ -286,11 +286,14 @@ export const getSingleProducts = async (req: Request, res: Response) => {
             select: "smUrl mdUrl -_id",
           },
         },
+        {
+          path: "productTag",
+          select: "title category -_id",
+        },
       ])
       .populate("image", " -__v -createdAt -updatedAt")
       .populate("file", " -__v -createdAt -updatedAt")
       .lean();
-
     if (productData) {
       return res.status(200).send(
         httpRes({
