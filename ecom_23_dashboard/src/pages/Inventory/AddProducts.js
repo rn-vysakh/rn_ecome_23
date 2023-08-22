@@ -89,11 +89,13 @@ const getObjectFromArr = (arr, id) => {
 };
 
 const BasicProductInfo = ({
+  handleCheckBoxChange,
   handleBasicDetails,
   autoComHndl,
   editorHandle,
   handleSubmit,
   state,
+  isChecked,
   catData,
   brandData,
   editorState,
@@ -104,9 +106,6 @@ const BasicProductInfo = ({
     category: false,
     brand: false,
   });
-
-  // console.log(state.brandId);
-  // console.log(state.categoryId);
 
   return (
     <Stack spacing={4}>
@@ -278,6 +277,18 @@ const BasicProductInfo = ({
         onChange={(event, editor) => editorHandle(event, event?.editor?.getData(), 'description', 'basicInfo')}
         name="description"
       />
+
+      <Stack direction="row" alignItems="center" spacing={8} style={{ padding: '12px', backgroundColor: '#edeff1' }}>
+        <input
+          type="checkbox"
+          name="eol"
+          value={state.eol}
+          style={{ marginRight: '18px', transform: 'scale(1.5)' }}
+          defaultChecked={state.eol}
+          onChange={handleCheckBoxChange}
+        />{' '}
+        End Of Life
+      </Stack>
     </Stack>
   );
 };
@@ -506,13 +517,9 @@ const FileUploadSection = ({ handleUpload, fileResArr, setFile }) => {
 };
 
 const ProductTags = ({ autoComHndl, state, productTags }) => {
+  const filteredArray = productTags.filter((value) => state.productTag.includes(value._id));
 
-  const filteredArray = productTags.filter(value => 
-
-     state.productTag.includes(value._id)
-  );
-
-  return(
+  return (
     <>
       <Stack spacing={4}>
         <Autocomplete
@@ -530,7 +537,7 @@ const ProductTags = ({ autoComHndl, state, productTags }) => {
       </Stack>
     </>
   );
-}
+};
 
 const PriceAndQty = ({ handleBasicDetails, state, autoComHndl, sellerDetails }) => (
   <div>
@@ -622,6 +629,7 @@ export default function AddProducts() {
   const [type, setType] = useState('new');
   const [productTags, setProductTags] = useState([]);
   const [apiResult, setApiResult] = useState(initialResult);
+  const [isChecked, setIsChecked] = useState(false);
   const params = useParams();
 
   const deleteProduct = async (e) => {
@@ -667,6 +675,7 @@ export default function AddProducts() {
     if (params.id) {
       setProductId(params.id);
       const response = await getReq({ url: `api/product/${params.id}` });
+      console.log('response****************************************', response.data);
       if (!response.error) {
         setBasicDetails({
           ...response.data,
@@ -677,7 +686,10 @@ export default function AddProducts() {
           shortPointThree: response?.data?.shortPoints?.[2],
           shortPointFour: response?.data?.shortPoints?.[3],
           shortDescription: response?.data?.shortDescription,
+          eol: response?.data?.eol,
         });
+
+        setIsChecked(response?.data?.eol);
         setCkEditorText({ description: response?.data?.description, specifications: response?.data?.specifications });
         setSellerDetails(response?.data?.seller[0]);
         setImgState(response?.data?.image);
@@ -751,6 +763,10 @@ export default function AddProducts() {
     setCkEditorText({ ...ckEditorText, [name]: editor });
   };
 
+  const handleCheckBoxChange = () => {
+    setIsChecked(!isChecked);
+  };
+
   const handleBasicDetails = (e) => {
     if (e.target.name === 'price' || e.target.name === 'sellPrice' || e.target.name === 'qty') {
       setSellerDetails({ ...sellerDetails, [e.target.name]: e.target.value });
@@ -812,8 +828,12 @@ export default function AddProducts() {
       data.shortPoints.push(basicDetails.shortPointFour);
     }
     data.shortDescription = basicDetails.shortDescription;
+    data.eol = isChecked;
     // mutation.mutate(data);
     let response;
+
+    console.log('datas------------------------>', data);
+
     if (productId) {
       response = await patchReq({
         url: 'api/product',
@@ -935,6 +955,7 @@ export default function AddProducts() {
         <TabPanel value={value} index={0}>
           <BasicProductInfo
             handleBasicDetails={handleBasicDetails}
+            handleCheckBoxChange={handleCheckBoxChange}
             autoComHndl={handleBasicAutoCom}
             editorHandle={handleCkEditor}
             handleSubmit={handleSubmit}

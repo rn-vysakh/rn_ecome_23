@@ -3,6 +3,7 @@ import { UserDocument } from "./user.model";
 import { CategoryDocument } from "./categories.model";
 import { BrandDocument } from "./brand.model";
 import { string } from "joi";
+import { bool } from "aws-sdk/clients/signer";
 
 export interface ProductDocument extends mongoose.Document {
   userId: UserDocument["_id"];
@@ -11,6 +12,7 @@ export interface ProductDocument extends mongoose.Document {
   title: string;
   slug: string;
   partNumber: string;
+  eol:boolean;
   sku: number;
   price: number;
   oldPrice: number;
@@ -75,6 +77,7 @@ const ProductSchema = new mongoose.Schema(
     partNumber: String,
     sku: { type: Number, required: true },
     sellingPrice: { type: Number },
+    eol: {type: Boolean},
     oldPrice: { type: Number },
     shortDescription: { type: String },
     shortPoints: [String],
