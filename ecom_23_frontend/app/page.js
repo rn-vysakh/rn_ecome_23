@@ -6,7 +6,11 @@ import ProductByCat from "@/app/components/products/productsByCat";
 
 async function getBrands() {
   try {
-    let res = await fetch(`${CONST.BASE_URL}/api/brand`);
+    let res = await fetch(`${CONST.BASE_URL}/api/brand`,
+    {
+      cache: "no-cache",
+    }
+    ); 
 
     if (!res.ok) {
       return { data: demoBrandData };
