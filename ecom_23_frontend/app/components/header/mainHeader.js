@@ -97,7 +97,7 @@ export default function MainHeader() {
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
                         <a href={CONST.NAVBAR_URL + "blogs/"}>
-                         Blogs
+                         Blog
                         </a>
                       </li>
                       {/* <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
