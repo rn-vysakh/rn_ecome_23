@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import CONST from "@/utils/apis";
-import { FaChevronRight, FaChevronDown } from "react-icons/fa";
+import { FaChevronRight, FaChevronDown, FaMailBulk, FaPhone, FaPhoneSquare } from "react-icons/fa";
 
 export default function MainHeader() {
   const [isHovering, setIsHovering] = useState(false);
@@ -51,23 +51,24 @@ export default function MainHeader() {
 
   return (
     <header className=" bg-black w-screen hidden md:block ">
-      <div className="max-w-7xl mx-auto flex py-5 justify-between text-white items-center font-light ">
+      <div className="max-w-6xl mx-auto flex py-5 justify-between text-white  items-center font-light  ">
         <a href={CONST.NAVBAR_URL}>
           <Image
             src="/assets/logo/rn-white.svg"
-            width={200}
+            width={250}
             height={100}
             alt="Rookie Ninja Logo"
+            style={{ marginLeft: '-40px' }}
           />
         </a>
         <div>
-          <ul className="flex items-center space-x-5">
+          <ul className="flex items-center space-x-5 ">
             {/* <li className="px-4">
               <a href={CONST.NAVBAR_URL}>Home</a>
             </li> */}
 
             <div
-              className="hover-container transition-opacity duration-300 px-4"
+              className="hover-container transition-opacity duration-300 "
               onMouseEnter={() => handleHover(1)}
               onMouseLeave={() => handleHover(0)}
             >
@@ -84,30 +85,27 @@ export default function MainHeader() {
                   <div className=" ">
                     <ul className=" bg-black/90 mt-2">
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={CONST.NAVBAR_URL + "about-us/"}>About Us</a>
+                        <a href={CONST.NAVBAR_URL + "about-us/"}>About</a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
                         <a href={CONST.NAVBAR_URL + "vision/"}>
-                          Mission & Vision
+                          Mission and Vision
                         </a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
                         <a href={CONST.NAVBAR_URL + "team/"}>Team</a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={CONST.NAVBAR_URL + "footprint/"}>Footprint</a>
-                      </li>
-                      <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
-                        <a href={CONST.NAVBAR_URL + "whyrookieninja/"}>
-                          Why Rookie Ninja
+                        <a href={CONST.NAVBAR_URL + "blogs/"}>
+                         Blogs
                         </a>
                       </li>
-                      <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
+                      {/* <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
                         <a href={CONST.NAVBAR_URL + "journey/"}>Journey</a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
                         <a href={CONST.NAVBAR_URL + "contactus/"}>Contact Us</a>
-                      </li>
+                      </li> */}
                     </ul>
                   </div>
                 </div>
@@ -130,11 +128,11 @@ export default function MainHeader() {
                 >
                   <div className=" ">
                     <ul className=" bg-black/90 mt-2">
-                      <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
+                      {/* <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
                         <a href={CONST.NAVBAR_URL + "itdistribution/"}>
                           IT Distribution
                         </a>
-                      </li>
+                      </li> */}
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
                         <div
                           className="hover-container transition-opacity duration-300 "
@@ -143,17 +141,17 @@ export default function MainHeader() {
                         >
                           <a href={CONST.NAVBAR_URL + "portfolio/"}>
                             <div className="flex gap-2 items-center">
-                              Solutions Portfolio
+                              Technology Portfolio
                               <FaChevronRight className="text-xs" />
                             </div>
                           </a>
                           {showInnerDropdown === 6 && (
                             <div
-                              className=" absolute top-14 left-[195px] w-[200px]"
+                              className=" absolute top-2 left-[231px] w-[200px]"
                               onMouseLeave={() => handleHover(7)}
                             >
                               <div className="">
-                                <ul className=" bg-black/90 mt-2">
+                                <ul className=" bg-black/90 ">
                                   <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
                                     <a
                                       href={
@@ -170,7 +168,7 @@ export default function MainHeader() {
                                         CONST.NAVBAR_URL + "print-and-scan/"
                                       }
                                     >
-                                      Print & Scan
+                                      Print
                                     </a>
                                   </li>
                                   <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
@@ -179,17 +177,17 @@ export default function MainHeader() {
                                         CONST.NAVBAR_URL + "power-solutions/"
                                       }
                                     >
-                                      Power Solutions
+                                     Scan
                                     </a>
                                   </li>
                                   <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
                                     <a href={CONST.NAVBAR_URL + "storage/"}>
-                                      Storage
+                                     Consumer Electronics
                                     </a>
                                   </li>
                                   <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
                                     <a href={CONST.NAVBAR_URL + "cyber-security/"}>
-                                      Cyber Security
+                                      Storage
                                     </a>
                                   </li>
                                   
@@ -203,11 +201,11 @@ export default function MainHeader() {
                                       Components
                                     </a>
                                   </li>
-                                  <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
+                                  {/* <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
                                     <a href={CONST.NAVBAR_URL + "networking/"}>
                                       Networking
                                     </a>
-                                  </li>
+                                  </li> */}
                                   <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
                                     <a
                                       href={
@@ -254,7 +252,7 @@ export default function MainHeader() {
             </div>
 
             <li className="px-4">
-              <a href={CONST.NAVBAR_URL + "our_vendors/"}>Our Vendors</a>
+              <a href={CONST.NAVBAR_URL + "our_vendors/"}>Vendors</a>
             </li>
 
             {/* <div
@@ -306,10 +304,10 @@ export default function MainHeader() {
               onMouseLeave={() => handleHover(0)}
             >
               <div className="flex gap-2 items-center">
-                Our Partners
-                <FaChevronDown className="text-xs" />
+                Partners
+                {/* <FaChevronDown className="text-xs" /> */}
               </div>
-              {showDropdown === 4 && (
+              {/* {showDropdown === 4 && (
                 <div
                   className="absolute top-6 mt-12 z-10"
                   onMouseLeave={() => handleHover(0)}
@@ -326,7 +324,7 @@ export default function MainHeader() {
                           Partner Central
                         </a>
                       </li>
-                      {/* <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
+                      <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
                         <a href={CONST.NAVBAR_URL + "value-adds/"}>Value Ads</a>
                       </li>
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
@@ -339,11 +337,11 @@ export default function MainHeader() {
                         <a href={CONST.NAVBAR_URL + "become-partner/"}>
                           Become A Partner
                         </a>
-                      </li> */}
+                      </li>
                     </ul>
                   </div>
                 </div>
-              )}
+              )} */}
             </div>
 
             <div
@@ -352,7 +350,7 @@ export default function MainHeader() {
               onMouseLeave={() => handleHover(0)}
             >
               <div className="flex gap-2 items-center">
-                Life At Rookie Ninja
+                Careers
                 <FaChevronDown className="text-xs" />
               </div>
               {showDropdown === 5 && (
@@ -367,7 +365,7 @@ export default function MainHeader() {
                           Work Culture
                         </a>
                       </li>
-                      <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
+                      {/* <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
                         <a
                           href={
                             CONST.NAVBAR_URL +
@@ -381,7 +379,7 @@ export default function MainHeader() {
                         <a href={CONST.NAVBAR_URL + "equal-opportunity/"}>
                           Equal Oppurtunity
                         </a>
-                      </li>
+                      </li> */}
 
                       <li className="px-8 py-4 border-b border-gray-600 hover:bg-gray-700">
                         <a href={CONST.NAVBAR_URL + "join-us/"}>Join Us</a>
@@ -391,10 +389,14 @@ export default function MainHeader() {
                 </div>
               )}
             </div>
-
             <li className="px-4">
-              <a href={CONST.NAVBAR_URL + "blogs/"}>Blogs</a>
+              <a href={CONST.NAVBAR_URL + "contact/"}>Contact Us</a>
             </li>
+            <li className="">
+             <FaPhoneSquare></FaPhoneSquare>
+            </li>
+            <FaMailBulk></FaMailBulk>
+
           </ul>
         </div>
       </div>

@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import CONST from "@/utils/apis";
 import {
   FaMapMarkerAlt,
   FaPhoneAlt,
@@ -14,14 +15,18 @@ export default function Footer() {
   const year = new Date().getFullYear();
   return (
     <>
-      <footer className="pt-24 w-full bg-black">
+      <footer className="pt-24 pb-24 w-full bg-black">
         <div className="max-w-6xl mx-5 md:mx-auto grid grid-cols-1 md:grid-cols-3 gap-8 ">
           <div className="flex flex-col gap-4">
             <Image src="\assets\logo\rn-white.svg" width={300} height={300} />
-            <div className="text-white ">
-              <Link href="/">Home</Link> | <Link href="/">About</Link> |{" "}
+            <div className="text-white font-light">
+              <a href={CONST.NAVBAR_URL + "about-us/"}>Home</a> | 
+              <a className="ml-2" href={CONST.NAVBAR_URL + "about-us/"}>Vendors</a> |
+              <a className="mr-2 ml-2" href={CONST.NAVBAR_URL + "about-us/"}>Partners</a> |
+              <a className="" href={CONST.NAVBAR_URL + "about-us/"}>Careers</a>
+              {/* <Link href="/">Home</Link> | <Link href="/">About</Link> |{" "}
               <Link href="/">Vendors</Link> | <Link href="/">Partners</Link> |{" "}
-              <Link href="/">Careers</Link>
+              <Link href="/">Careers</Link> */}
             </div>
           </div>
           <div className="text-white flex flex-col gap-4">
@@ -29,27 +34,29 @@ export default function Footer() {
               <div className="bg-gray-600 w-fit h-fit p-2  rounded-full font-xl grid place-items-center">
                 <FaMapMarkerAlt className="text-xl" />
               </div>
-              <address>
+              <p className="font-light">
                 Rookie Ninja Head Office
-                <br /> Al Quoz Industrial Area 4 Dubai
-              </address>
+                <br />
+              Al Nasr Building 2 - Oud Metha Rd <br/>
+              Oud Metha, Dubai
+              </p>
             </div>
             <div className="flex gap-4 items-center">
               <div className="bg-gray-600 w-fit h-fit p-2  rounded-full font-xl grid place-items-center">
                 <FaPhoneAlt className="text-xl" />
               </div>
-              <a href="tel:+97142965256">+971 4 296 5256</a>
+              <a className="font-light" href="tel:+97142965256">+971 4 296 5256</a>
             </div>
             <div className="flex gap-4 items-center">
               <div className="bg-gray-600 w-fit h-fit p-2  rounded-full font-xl grid place-items-center">
                 <FaEnvelope className="text-xl" />
               </div>
-              <a href="mailto:sales@rookie-ninja.com">sales@rookie-ninja.com</a>
+              <a className="font-light" href="mailto:sales@rookie-ninja.com">sales@rookie-ninja.com</a>
             </div>
           </div>
           <div className="text-white flex flex-col gap-4">
             <h1 className=" font-bold ">About the company</h1>
-            <p className="text-sm">
+            <p className="text-sm font-light">
               Rookie Ninja Specialize In The Distribution Of Digital
               Transformation Technologies. We Are One Of The Fastest Growing
               Tech Companies In The Emea Region With Footprints Across The
@@ -93,9 +100,9 @@ export default function Footer() {
           </div>
         </div>
       </footer>
-      <div className="text-white bg-black text-center p-5">
+      {/* <div className="text-white bg-black text-center p-20">
         Copyright © {year} Rookie Ninja
-      </div>
+      </div> */}
     </>
   );
 }

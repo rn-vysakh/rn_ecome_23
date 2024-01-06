@@ -10,45 +10,42 @@ const navItems = [
     link: "/",
     child: [
       {
-        name: "About Us",
+        name: "About",
         link: `${CONST.NAVBAR_URL}/about-us`,
       },
       {
         name: "Mission & Vision",
-        link: `${CONST.NAVBAR_URL}/vision`,
+        link: `${CONST.NAVBAR_URL}/Mission and Vision`,
       },
       {
         name: "Team",
-        link: `${CONST.NAVBAR_URL}/team`,
+        link: `${CONST.NAVBAR_URL}/Team`,
       },
       {
-        name: "Footprint",
-        link: `${CONST.NAVBAR_URL}/footprint`,
-      },
-      {
-        name: "Why Rookie Ninja",
-        link: `${CONST.NAVBAR_URL}/whyrookieninja`,
-      },
-      {
-        name: "Journey",
-        link: `${CONST.NAVBAR_URL}/journey`,
-      },
-      {
-        name: "Contact Us",
-        link: `${CONST.NAVBAR_URL}/contactus`,
-      },
+        name: "Blogs",
+        link: `${CONST.NAVBAR_URL}/Blogs`,
+      }
+      // {
+      //   name: "Why Rookie Ninja",
+      //   link: `${CONST.NAVBAR_URL}/whyrookieninja`,
+      // },
+      // {
+      //   name: "Journey",
+      //   link: `${CONST.NAVBAR_URL}/journey`,
+      // },
+      // {
+      //   name: "Contact Us",
+      //   link: `${CONST.NAVBAR_URL}/contactus`,
+      // },
     ],
   },
   {
     name: "Portfolio",
     link: "/",
     child: [
+    
       {
-        name: "IT Distribution",
-        link: `${CONST.NAVBAR_URL}/itdistribution`,
-      },
-      {
-        name: "Solutions Portfolio",
+        name: "Technology Portfolio",
         link: `${CONST.NAVBAR_URL}/portfolio`,
         child: [
           {
@@ -56,16 +53,16 @@ const navItems = [
             link: `${CONST.NAVBAR_URL}/computing-workstations`,
           },
           {
-            name: "Print & Scan",
+            name: "Print",
             link: `${CONST.NAVBAR_URL}/print-and-scan`,
           },
           {
-            name: "Power Solutions",
+            name: "Scan",
             link: `${CONST.NAVBAR_URL}/power-solutions`,
           },
           {
-            name: "Storage",
-            link: `${CONST.NAVBAR_URL}/storage`,
+            name: "Consumer Electronics",
+            link: `${CONST.NAVBAR_URL}/`,
           },
           // {
           //   name: "Scan",
@@ -76,7 +73,7 @@ const navItems = [
           //   link: `${CONST.NAVBAR_URL}/printers`,
           // },
           {
-            name: "Cyber Security",
+            name: "Storage",
             link: `${CONST.NAVBAR_URL}/cyber-security`,
           },
           {
@@ -86,10 +83,6 @@ const navItems = [
           {
             name: "Components",
             link: `${CONST.NAVBAR_URL}/components`,
-          },
-          {
-            name: "Networking",
-            link: `${CONST.NAVBAR_URL}/networking`,
           },
           {
             name: "Software",
@@ -150,11 +143,11 @@ const navItems = [
   //   ],
   // },
   {
-    name: "Our Vendors",
+    name: "Vendors",
     link: `${CONST.NAVBAR_URL}/our_vendors`,
   },
   {
-    name: "Our Partners",
+    name: "Partners",
     link: "/",
     child: [
       {
@@ -180,7 +173,7 @@ const navItems = [
     ],
   },
   {
-    name: "Life At Rookie Ninja",
+    name: "Careers",
     link: "/",
     child: [
       {
@@ -202,8 +195,8 @@ const navItems = [
     ],
   },
   {
-    name: "Blogs",
-    link: `${CONST.NAVBAR_URL}/blogs`,
+    name: "Contact Us",
+    link: `${CONST.NAVBAR_URL}/`,
   },
 ];
 
