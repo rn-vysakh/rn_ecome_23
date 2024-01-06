@@ -38,7 +38,7 @@ export default function Footer() {
                 Rookie Ninja Head Office
                 <br />
               Al Nasr Building 2 - Oud Metha Rd <br/>
-              Oud Metha, Dubai
+              Oud Metha, Dubai, UAE
               </p>
             </div>
             <div className="flex gap-4 items-center">
