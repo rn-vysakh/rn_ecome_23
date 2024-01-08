@@ -148,30 +148,34 @@ const navItems = [
   },
   {
     name: "Partners",
-    link: "/",
-    child: [
-      {
-        name: "Vendor Central",
-        link: `${CONST.NAVBAR_URL}/vendor_central`,
-      },
-      {
-        name: "Partner Central",
-        link: `${CONST.NAVBAR_URL}/partner-central`,
-      },
-      // {
-      //   name: "Value Ads",
-      //   link: `${CONST.NAVBAR_URL}/value-adds`,
-      // },
-      // {
-      //   name: "Why Choose Us",
-      //   link: `${CONST.NAVBAR_URL}/why-choose-us-partner`,
-      // },
-      // {
-      //   name: "Become A Partner",
-      //   link: `${CONST.NAVBAR_URL}/become-partner`,
-      // },
-    ],
+    link: `${CONST.NAVBAR_URL}/partner-central`,
   },
+  // {
+  //   name: "Partners",
+  //   link: `${CONST.NAVBAR_URL}/partner-central`,
+  //   child: [
+  //     {
+  //       name: "Vendor Central",
+  //       link: `${CONST.NAVBAR_URL}/vendor_central`,
+  //     },
+  //     {
+  //       name: "Partner Central",
+  //       link: `${CONST.NAVBAR_URL}/partner-central`,
+  //     },
+  //     {
+  //       name: "Value Ads",
+  //       link: `${CONST.NAVBAR_URL}/value-adds`,
+  //     },
+  //     {
+  //       name: "Why Choose Us",
+  //       link: `${CONST.NAVBAR_URL}/why-choose-us-partner`,
+  //     },
+  //     {
+  //       name: "Become A Partner",
+  //       link: `${CONST.NAVBAR_URL}/become-partner`,
+  //     },
+  //   ]
+  // },
   {
     name: "Careers",
     link: "/",

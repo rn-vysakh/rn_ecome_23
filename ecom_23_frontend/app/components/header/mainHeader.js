@@ -304,7 +304,7 @@ export default function MainHeader() {
               onMouseLeave={() => handleHover(0)}
             >
               <div className="flex gap-2 items-center">
-                Partners
+              <a href={CONST.NAVBAR_URL + "partner-central/"}>Partners</a>
                 {/* <FaChevronDown className="text-xs" /> */}
               </div>
               {/* {showDropdown === 4 && (
