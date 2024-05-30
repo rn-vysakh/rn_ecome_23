@@ -37,7 +37,7 @@ export default async function ProductFinder({ searchParams }) {
         <div className="max-w-7xl mx-auto py-5  flex flex-col md:flex-row relative ">
           <div className="w-full md:w-1/2 grid place-items-center">
             <div>
-              <h1 className="text-4xl font-bold text-gray-800 mb-4 text-center">
+              <h1 className="text-4xl font-bold text-gray-800 mb-4 text-left">
                 Find your product
               </h1>
               <SearchBar searchParams={searchParams} />
